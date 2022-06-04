@@ -1,0 +1,26 @@
+{
+  "name": "the-free-bandcamp-back",
+  "version": "1.0.0",
+  "description": "backend app for the free bandcamp web app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "npm run build:server",
+    "start:server": "netlify-lambda serve src/lambda -c webpack.server.js",
+    "build:server": "netlify-lambda build src/lambda",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo-Silva91/the-free-bandcamp-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricardo-Silva91/the-free-bandcamp-back/issues"
+  },
+  "homepage": "https://github.com/Ricardo-Silva91/the-free-bandcamp-back#readme",
+  "devDependencies": {
+    "netlify-lambda": "^2.0.15"
+  }
+}
