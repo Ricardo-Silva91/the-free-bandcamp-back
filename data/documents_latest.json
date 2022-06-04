@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333538787394060487",
+          "id": "333539605995323586",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,29 +16,27 @@
           }
         }
       },
-      "ts": 1654346225080000,
+      "ts": 1654347005740000,
       "data": {
-        "item_description": "For The Wild At Heart Kept In Cages",
         "item_type": "a",
-        "country_code": "it",
-        "utc_date": 1654346168.95784,
-        "country": "Italy",
-        "artist_name": "CLEARxCUT",
+        "country_code": "be",
+        "utc_date": 1654346951.38143,
+        "country": "Belgium",
+        "artist_name": "Azùal Dub x Tom Sawya",
         "currency": "EUR",
-        "amount_paid_fmt": "€1",
+        "amount_paid_fmt": "€2",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 1,
-        "url": "https://clearxcut.bandcamp.com/album/for-the-wild-at-heart-kept-in-cages",
-        "art_id": 26612346,
-        "art_url": "https://f4.bcbits.com/img/a0026612346_7.jpg",
-        "amount_paid_usd": 1.07,
+        "amount_paid": 2,
+        "url": "https://dubriseprod.bandcamp.com/album/az-al-dub-feat-tom-sawya-what-a-situation-part-1-2",
+        "art_id": 1138087387,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a1138087387_7.jpg",
+        "amount_paid_usd": 2.14,
+        "item_description": "Azùal Dub feat Tom Sawya - What a Situation [Part.1&2]",
         "details": {
-          "type": "track",
+          "type": "album",
           "stories": [
-            "",
-            "",
-            "",
             "",
             "",
             ""
@@ -49,7 +47,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333538668084986054",
+          "id": "333539543214981313",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -62,28 +60,27 @@
           }
         }
       },
-      "ts": 1654346111290000,
+      "ts": 1654346945870000,
       "data": {
-        "item_description": "I am Lil Gum",
         "item_type": "a",
         "country_code": "gb",
-        "utc_date": 1654346097.44057,
+        "utc_date": 1654346904.53214,
         "country": "United Kingdom",
-        "artist_name": "Lil Gum",
+        "artist_name": "Syra and Handyman",
         "currency": "EUR",
-        "amount_paid_fmt": "€0.50",
+        "amount_paid_fmt": "€5",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 0.5,
-        "url": "https://thundertone.bandcamp.com/album/i-am-lil-gum",
-        "art_id": 544291580,
-        "art_url": "https://f4.bcbits.com/img/a0544291580_7.jpg",
-        "amount_paid_usd": 0.54,
+        "amount_paid": 5,
+        "url": "https://hfd-records.bandcamp.com/album/syra-meets-handyman",
+        "art_id": 2531340064,
+        "amount_over_fmt": "€5",
+        "item_description": "Syra Meets Handyman",
+        "art_url": "https://f4.bcbits.com/img/a2531340064_7.jpg",
+        "amount_paid_usd": 5.36,
         "details": {
-          "type": "album",
+          "type": "track",
           "stories": [
-            "",
-            "",
             "",
             "",
             "",
