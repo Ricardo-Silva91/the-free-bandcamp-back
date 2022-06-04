@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "country": "United States",
+      "artist_name": ".357 Homicide",
+      "currency": "GBP",
+      "amount_paid_fmt": "£10",
+      "item_price": 0,
+      "item_description": "Executed On Site",
+      "slug_type": "a",
+      "amount_paid": 10,
+      "art_id": 356167921,
+      "amount_over_fmt": "£10",
+      "art_url": "https://f4.bcbits.com/img/a0356167921_7.jpg",
+      "amount_paid_usd": 12.57,
+      "url": "https://357homicide.bandcamp.com/album/executed-on-site",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654259223.9336,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": ".KAGE",
+      "currency": "USD",
+      "amount_paid_fmt": "$15",
+      "item_description": "METANOIA_",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 15,
+      "art_id": 1191522563,
+      "amount_over_fmt": "$15",
+      "art_url": "https://f4.bcbits.com/img/a1191522563_7.jpg",
+      "amount_paid_usd": 15,
+      "url": "https://kageidk.bandcamp.com/album/metanoia",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654124643.11933,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          ""
+        ]
+      }
+    }
+  ],
+  "first": ".357 Homicide",
+  "last": ".KAGE",
+  "after": [
+    ".tif",
+    {
+      "@ref": {
+        "id": "333463109510365377",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "@ref": {
+        "id": "333463109510365377",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "before": [
+    ".357 Homicide",
+    {
+      "@ref": {
+        "id": "333447628469567686",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "@ref": {
+        "id": "333447628469567686",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

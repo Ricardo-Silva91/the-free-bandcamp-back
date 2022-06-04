@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "country": "India",
+      "artist_name": "!luuli",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1063689230,
+      "art_url": "https://f4.bcbits.com/img/a1063689230_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://asrecords.bandcamp.com/album/luuli-the-psycore-trilogy-ep1",
+      "item_description": "!luuli - The Psycore Trilogy EP1",
+      "item_type": "a",
+      "country_code": "in",
+      "utc_date": 1654250350.7043,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "Moments in Time Vol. 1",
+      "utc_date": 1653710977.97162,
+      "country": "United States",
+      "artist_name": "..::SOULULΔR::..",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2535471575,
+      "url": "https://soulular.bandcamp.com/album/moments-in-time-vol-1",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a2535471575_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    }
+  ],
+  "first": "!luuli",
+  "last": "..::SOULULΔR::..",
+  "after": [
+    ".357 Homicide",
+    {
+      "@ref": {
+        "id": "333447628469567686",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "@ref": {
+        "id": "333447628469567686",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "before": [
+    "!luuli",
+    {
+      "@ref": {
+        "id": "333438321809162439",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "@ref": {
+        "id": "333438321809162439",
+        "collection": {
+          "@ref": {
+            "id": "scrapes",
+            "collection": {
+              "@ref": {
+                "id": "collections"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
