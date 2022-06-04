@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333539605995323586",
+          "id": "333541809281040582",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,27 +16,39 @@
           }
         }
       },
-      "ts": 1654347005740000,
+      "ts": 1654349106970000,
       "data": {
         "item_type": "a",
-        "country_code": "be",
-        "utc_date": 1654346951.38143,
-        "country": "Belgium",
-        "artist_name": "Azùal Dub x Tom Sawya",
-        "currency": "EUR",
-        "amount_paid_fmt": "€2",
+        "country_code": "de",
+        "utc_date": 1654349093.07121,
+        "country": "Germany",
+        "artist_name": "Camembert Électrique",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 2,
-        "url": "https://dubriseprod.bandcamp.com/album/az-al-dub-feat-tom-sawya-what-a-situation-part-1-2",
-        "art_id": 1138087387,
-        "amount_over_fmt": "€2",
-        "art_url": "https://f4.bcbits.com/img/a1138087387_7.jpg",
-        "amount_paid_usd": 2.14,
-        "item_description": "Azùal Dub feat Tom Sawya - What a Situation [Part.1&2]",
+        "amount_paid": 1,
+        "url": "https://flyoversx.bandcamp.com/album/monolithic-blocks",
+        "art_id": 3747986967,
+        "art_url": "https://f4.bcbits.com/img/a3747986967_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Monolithic Blocks",
         "details": {
           "type": "album",
           "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             ""
@@ -47,7 +59,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333539543214981313",
+          "id": "333541809133191366",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -60,28 +72,26 @@
           }
         }
       },
-      "ts": 1654346945870000,
+      "ts": 1654349106830000,
       "data": {
         "item_type": "a",
-        "country_code": "gb",
-        "utc_date": 1654346904.53214,
-        "country": "United Kingdom",
-        "artist_name": "Syra and Handyman",
-        "currency": "EUR",
-        "amount_paid_fmt": "€5",
+        "country_code": "jp",
+        "utc_date": 1654349080.00037,
+        "country": "Japan",
+        "artist_name": "Orbit 84",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 5,
-        "url": "https://hfd-records.bandcamp.com/album/syra-meets-handyman",
-        "art_id": 2531340064,
-        "amount_over_fmt": "€5",
-        "item_description": "Syra Meets Handyman",
-        "art_url": "https://f4.bcbits.com/img/a2531340064_7.jpg",
-        "amount_paid_usd": 5.36,
+        "amount_paid": 1,
+        "url": "https://orbit84.bandcamp.com/album/transmission",
+        "art_id": 875743973,
+        "art_url": "https://f4.bcbits.com/img/a0875743973_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Transmission",
         "details": {
-          "type": "track",
+          "type": "album",
           "stories": [
-            "",
             "",
             "",
             "",
