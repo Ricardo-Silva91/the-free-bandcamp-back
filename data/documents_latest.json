@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333541809281040582",
+          "id": "333542190102872257",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,35 +16,26 @@
           }
         }
       },
-      "ts": 1654349106970000,
+      "ts": 1654349470140000,
       "data": {
         "item_type": "a",
         "country_code": "de",
-        "utc_date": 1654349093.07121,
+        "utc_date": 1654349448.01642,
         "country": "Germany",
-        "artist_name": "Camembert Électrique",
+        "artist_name": "Wandering Artist",
         "currency": "USD",
-        "amount_paid_fmt": "$1",
+        "amount_paid_fmt": "$2",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 1,
-        "url": "https://flyoversx.bandcamp.com/album/monolithic-blocks",
-        "art_id": 3747986967,
-        "art_url": "https://f4.bcbits.com/img/a3747986967_7.jpg",
-        "amount_paid_usd": 1,
-        "item_description": "Monolithic Blocks",
+        "item_description": "Pony Town Bakery Update",
+        "amount_paid": 2,
+        "url": "https://wanderingartist.bandcamp.com/album/pony-town-bakery-update",
+        "art_id": 3197784005,
+        "art_url": "https://f4.bcbits.com/img/a3197784005_7.jpg",
+        "amount_paid_usd": 2,
         "details": {
-          "type": "album",
+          "type": "track",
           "stories": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             "",
             "",
             "",
@@ -59,7 +50,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333541809133191366",
+          "id": "333542189989626049",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -72,26 +63,30 @@
           }
         }
       },
-      "ts": 1654349106830000,
+      "ts": 1654349470030000,
       "data": {
         "item_type": "a",
-        "country_code": "jp",
-        "utc_date": 1654349080.00037,
-        "country": "Japan",
-        "artist_name": "Orbit 84",
-        "currency": "USD",
-        "amount_paid_fmt": "$1",
+        "country_code": "fr",
+        "utc_date": 1654349447.01903,
+        "country": "France",
+        "artist_name": "OddZoo",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 1,
-        "url": "https://orbit84.bandcamp.com/album/transmission",
-        "art_id": 875743973,
-        "art_url": "https://f4.bcbits.com/img/a0875743973_7.jpg",
-        "amount_paid_usd": 1,
-        "item_description": "Transmission",
+        "item_description": "Overdriven Monsoon",
+        "amount_paid": 5,
+        "url": "https://oddzoo.bandcamp.com/album/overdriven-monsoon",
+        "art_id": 2135245308,
+        "amount_over_fmt": "€5",
+        "art_url": "https://f4.bcbits.com/img/a2135245308_7.jpg",
+        "amount_paid_usd": 5.36,
         "details": {
           "type": "album",
           "stories": [
+            "",
+            "",
+            "",
             "",
             "",
             "",
