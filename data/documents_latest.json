@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333537092836524224",
+          "id": "333538916884807878",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,36 +16,27 @@
           }
         }
       },
-      "ts": 1654344609030000,
+      "ts": 1654346348560000,
       "data": {
+        "item_description": "The Dark Side Grime EP",
         "item_type": "a",
-        "country_code": "de",
-        "item_description": "Agonize",
-        "utc_date": 1654344584.11274,
-        "country": "Germany",
-        "artist_name": "Searching The Architect",
-        "currency": "USD",
-        "amount_paid_fmt": "$2",
+        "country_code": "gb",
+        "utc_date": 1654346334.56162,
+        "country": "United Kingdom",
+        "artist_name": "CrowBeats official",
+        "currency": "GBP",
+        "amount_paid_fmt": "£5",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 2,
-        "url": "https://stigerklev.bandcamp.com/album/agonize",
-        "art_id": 3628524845,
-        "art_url": "https://f4.bcbits.com/img/a3628524845_7.jpg",
-        "amount_paid_usd": 2,
+        "amount_paid": 5,
+        "url": "https://crowbeatsofficial.bandcamp.com/album/the-dark-side-grime-ep",
+        "art_id": 3738652770,
+        "amount_over_fmt": "£5",
+        "art_url": "https://f4.bcbits.com/img/a3738652770_7.jpg",
+        "amount_paid_usd": 6.24,
         "details": {
-          "type": "album",
+          "type": "track",
           "stories": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             "",
             "",
             ""
@@ -56,7 +47,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333537027736731847",
+          "id": "333538916751638726",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -69,27 +60,31 @@
           }
         }
       },
-      "ts": 1654344546950000,
+      "ts": 1654346348440000,
       "data": {
+        "item_description": "Compilation 002 [VA]",
         "item_type": "a",
         "country_code": "us",
-        "utc_date": 1654344500.0288,
+        "utc_date": 1654346322.4158,
         "country": "United States",
-        "artist_name": "Brock Berrigan",
+        "artist_name": "none/such",
         "currency": "EUR",
-        "amount_paid_fmt": "€14",
+        "amount_paid_fmt": "€2",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 14,
-        "url": "https://chillhop.bandcamp.com/album/point-pleasant",
-        "art_id": 1705925203,
-        "amount_over_fmt": "€14",
-        "art_url": "https://f4.bcbits.com/img/a1705925203_7.jpg",
-        "amount_paid_usd": 15.01,
-        "item_description": "Point Pleasant",
+        "amount_paid": 2,
+        "url": "https://none-such.bandcamp.com/album/compilation-002-va",
+        "art_id": 2317788058,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a2317788058_7.jpg",
+        "amount_paid_usd": 2.14,
         "details": {
-          "type": "track",
+          "type": "album",
           "stories": [
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
