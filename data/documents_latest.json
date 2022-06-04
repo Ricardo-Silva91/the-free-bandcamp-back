@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333536021974089920",
+          "id": "333537092836524224",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,27 +16,28 @@
           }
         }
       },
-      "ts": 1654343587760000,
+      "ts": 1654344609030000,
       "data": {
         "item_type": "a",
-        "country_code": "fr",
-        "utc_date": 1654343576.31618,
-        "country": "France",
-        "artist_name": "Sadistic",
-        "currency": "GBP",
-        "amount_paid_fmt": "£2",
+        "country_code": "de",
+        "item_description": "Agonize",
+        "utc_date": 1654344584.11274,
+        "country": "Germany",
+        "artist_name": "Searching The Architect",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
         "item_price": 0,
         "slug_type": "a",
         "amount_paid": 2,
-        "url": "https://outfromoutthererecords.bandcamp.com/album/successful-attempts-at-bending-time-and-space",
-        "item_description": "Successful Attempts At Bending Time And Space",
-        "art_id": 3534484745,
-        "amount_over_fmt": "£2",
-        "art_url": "https://f4.bcbits.com/img/a3534484745_7.jpg",
-        "amount_paid_usd": 2.5,
+        "url": "https://stigerklev.bandcamp.com/album/agonize",
+        "art_id": 3628524845,
+        "art_url": "https://f4.bcbits.com/img/a3628524845_7.jpg",
+        "amount_paid_usd": 2,
         "details": {
-          "type": "track",
+          "type": "album",
           "stories": [
+            "",
+            "",
             "",
             "",
             "",
@@ -55,7 +56,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333535960922849480",
+          "id": "333537027736731847",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -68,29 +69,27 @@
           }
         }
       },
-      "ts": 1654343529540000,
+      "ts": 1654344546950000,
       "data": {
         "item_type": "a",
-        "country_code": "de",
-        "utc_date": 1654343489.42874,
-        "country": "Germany",
-        "artist_name": "Patsy O’Hara",
+        "country_code": "us",
+        "utc_date": 1654344500.0288,
+        "country": "United States",
+        "artist_name": "Brock Berrigan",
         "currency": "EUR",
-        "amount_paid_fmt": "€5",
-        "item_description": "Deathinteresse",
+        "amount_paid_fmt": "€14",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 5,
-        "url": "https://patsyoharapunks.bandcamp.com/album/deathinteresse",
-        "art_id": 2010773266,
-        "amount_over_fmt": "€5",
-        "art_url": "https://f4.bcbits.com/img/a2010773266_7.jpg",
-        "amount_paid_usd": 5.36,
+        "amount_paid": 14,
+        "url": "https://chillhop.bandcamp.com/album/point-pleasant",
+        "art_id": 1705925203,
+        "amount_over_fmt": "€14",
+        "art_url": "https://f4.bcbits.com/img/a1705925203_7.jpg",
+        "amount_paid_usd": 15.01,
+        "item_description": "Point Pleasant",
         "details": {
-          "type": "album",
+          "type": "track",
           "stories": [
-            "",
-            "",
             "",
             "",
             "",
