@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333538916884807878",
+          "id": "333538787394060487",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,27 +16,29 @@
           }
         }
       },
-      "ts": 1654346348560000,
+      "ts": 1654346225080000,
       "data": {
-        "item_description": "The Dark Side Grime EP",
+        "item_description": "For The Wild At Heart Kept In Cages",
         "item_type": "a",
-        "country_code": "gb",
-        "utc_date": 1654346334.56162,
-        "country": "United Kingdom",
-        "artist_name": "CrowBeats official",
-        "currency": "GBP",
-        "amount_paid_fmt": "£5",
+        "country_code": "it",
+        "utc_date": 1654346168.95784,
+        "country": "Italy",
+        "artist_name": "CLEARxCUT",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 5,
-        "url": "https://crowbeatsofficial.bandcamp.com/album/the-dark-side-grime-ep",
-        "art_id": 3738652770,
-        "amount_over_fmt": "£5",
-        "art_url": "https://f4.bcbits.com/img/a3738652770_7.jpg",
-        "amount_paid_usd": 6.24,
+        "amount_paid": 1,
+        "url": "https://clearxcut.bandcamp.com/album/for-the-wild-at-heart-kept-in-cages",
+        "art_id": 26612346,
+        "art_url": "https://f4.bcbits.com/img/a0026612346_7.jpg",
+        "amount_paid_usd": 1.07,
         "details": {
           "type": "track",
           "stories": [
+            "",
+            "",
+            "",
             "",
             "",
             ""
@@ -47,7 +49,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333538916751638726",
+          "id": "333538668084986054",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -60,30 +62,26 @@
           }
         }
       },
-      "ts": 1654346348440000,
+      "ts": 1654346111290000,
       "data": {
-        "item_description": "Compilation 002 [VA]",
+        "item_description": "I am Lil Gum",
         "item_type": "a",
-        "country_code": "us",
-        "utc_date": 1654346322.4158,
-        "country": "United States",
-        "artist_name": "none/such",
+        "country_code": "gb",
+        "utc_date": 1654346097.44057,
+        "country": "United Kingdom",
+        "artist_name": "Lil Gum",
         "currency": "EUR",
-        "amount_paid_fmt": "€2",
+        "amount_paid_fmt": "€0.50",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 2,
-        "url": "https://none-such.bandcamp.com/album/compilation-002-va",
-        "art_id": 2317788058,
-        "amount_over_fmt": "€2",
-        "art_url": "https://f4.bcbits.com/img/a2317788058_7.jpg",
-        "amount_paid_usd": 2.14,
+        "amount_paid": 0.5,
+        "url": "https://thundertone.bandcamp.com/album/i-am-lil-gum",
+        "art_id": 544291580,
+        "art_url": "https://f4.bcbits.com/img/a0544291580_7.jpg",
+        "amount_paid_usd": 0.54,
         "details": {
           "type": "album",
           "stories": [
-            "",
-            "",
-            "",
             "",
             "",
             "",
