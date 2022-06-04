@@ -3,7 +3,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333537092836524224",
+          "id": "333538787394060487",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -16,33 +16,26 @@
           }
         }
       },
-      "ts": 1654344609030000,
+      "ts": 1654346225080000,
       "data": {
+        "item_description": "For The Wild At Heart Kept In Cages",
         "item_type": "a",
-        "country_code": "de",
-        "item_description": "Agonize",
-        "utc_date": 1654344584.11274,
-        "country": "Germany",
-        "artist_name": "Searching The Architect",
-        "currency": "USD",
-        "amount_paid_fmt": "$2",
+        "country_code": "it",
+        "utc_date": 1654346168.95784,
+        "country": "Italy",
+        "artist_name": "CLEARxCUT",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 2,
-        "url": "https://stigerklev.bandcamp.com/album/agonize",
-        "art_id": 3628524845,
-        "art_url": "https://f4.bcbits.com/img/a3628524845_7.jpg",
-        "amount_paid_usd": 2,
+        "amount_paid": 1,
+        "url": "https://clearxcut.bandcamp.com/album/for-the-wild-at-heart-kept-in-cages",
+        "art_id": 26612346,
+        "art_url": "https://f4.bcbits.com/img/a0026612346_7.jpg",
+        "amount_paid_usd": 1.07,
         "details": {
           "type": "album",
           "stories": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             "",
             "",
             "",
@@ -56,7 +49,7 @@
     {
       "ref": {
         "@ref": {
-          "id": "333537027736731847",
+          "id": "333538668084986054",
           "collection": {
             "@ref": {
               "id": "scrapes",
@@ -69,27 +62,27 @@
           }
         }
       },
-      "ts": 1654344546950000,
+      "ts": 1654346111290000,
       "data": {
+        "item_description": "I am Lil Gum",
         "item_type": "a",
-        "country_code": "us",
-        "utc_date": 1654344500.0288,
-        "country": "United States",
-        "artist_name": "Brock Berrigan",
+        "country_code": "gb",
+        "utc_date": 1654346097.44057,
+        "country": "United Kingdom",
+        "artist_name": "Lil Gum",
         "currency": "EUR",
-        "amount_paid_fmt": "€14",
+        "amount_paid_fmt": "€0.50",
         "item_price": 0,
         "slug_type": "a",
-        "amount_paid": 14,
-        "url": "https://chillhop.bandcamp.com/album/point-pleasant",
-        "art_id": 1705925203,
-        "amount_over_fmt": "€14",
-        "art_url": "https://f4.bcbits.com/img/a1705925203_7.jpg",
-        "amount_paid_usd": 15.01,
-        "item_description": "Point Pleasant",
+        "amount_paid": 0.5,
+        "url": "https://thundertone.bandcamp.com/album/i-am-lil-gum",
+        "art_id": 544291580,
+        "art_url": "https://f4.bcbits.com/img/a0544291580_7.jpg",
+        "amount_paid_usd": 0.54,
         "details": {
-          "type": "track",
+          "type": "album",
           "stories": [
+            "",
             "",
             "",
             "",
