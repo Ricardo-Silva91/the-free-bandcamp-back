@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "utc_date": 1653711067.74989,
+      "country": "Australia",
+      "item_description": "It's a lot",
+      "artist_name": "Daily Toll",
+      "currency": "AUD",
+      "amount_paid_fmt": "$7 AUD",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 7,
+      "art_id": 2363432241,
+      "url": "https://dailytoll.bandcamp.com/album/its-a-lot",
+      "country_code": "au",
+      "amount_over_fmt": "$7",
+      "art_url": "https://f4.bcbits.com/img/a2363432241_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 5.01,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
       "item_type": "a",
       "country_code": "us",
       "utc_date": 1654322868.58231,
@@ -3014,44 +3044,15 @@
           ""
         ]
       }
-    },
-    {
-      "country": "United States",
-      "amount_paid_fmt": "$5",
-      "artist_name": "Days N Daze",
-      "currency": "USD",
-      "item_price": 0,
-      "slug_type": "a",
-      "amount_paid": 5,
-      "amount_over_fmt": "$5",
-      "art_url": "https://f4.bcbits.com/img/a0809382882_7.jpg",
-      "item_type": "a",
-      "amount_paid_usd": 5,
-      "art_id": 809382882,
-      "url": "https://daysndaze.bandcamp.com/album/here-goes-nothin",
-      "country_code": "us",
-      "utc_date": 1653684611.46106,
-      "item_description": "Here Goes Nothin'",
-      "details": {
-        "type": "album",
-        "stories": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
     }
   ],
-  "first": "Dainumo, Jeesh, P.SUS, Pogo",
-  "last": "Days N Daze",
+  "first": "Daily Toll",
+  "last": "Daydream Society",
   "after": [
     "Days N Daze",
     {
       "@ref": {
-        "id": "333327399641940160",
+        "id": "332845144378179778",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3066,7 +3067,7 @@
     },
     {
       "@ref": {
-        "id": "333327399641940160",
+        "id": "332845144378179778",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3081,10 +3082,10 @@
     }
   ],
   "before": [
-    "Dainumo, Jeesh, P.SUS, Pogo",
+    "Daily Toll",
     {
       "@ref": {
-        "id": "333514313730883784",
+        "id": "332872852619395264",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3099,7 +3100,7 @@
     },
     {
       "@ref": {
-        "id": "333514313730883784",
+        "id": "332872852619395264",
         "collection": {
           "@ref": {
             "id": "scrapes",

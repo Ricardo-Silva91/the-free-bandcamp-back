@@ -1,6 +1,45 @@
 {
   "data": [
     {
+      "utc_date": 1653710011.45779,
+      "country": "United States",
+      "artist_name": "Diligent",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3993816292,
+      "url": "https://coretothecore.bandcamp.com/album/paradox",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3993816292_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "item_description": "Paradox",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
       "item_type": "a",
       "country_code": "us",
       "utc_date": 1654327993.2304,
@@ -2973,43 +3012,15 @@
           ""
         ]
       }
-    },
-    {
-      "item_type": "a",
-      "country_code": "us",
-      "utc_date": 1654310670.40814,
-      "item_description": "RETHINK ONE",
-      "country": "United States",
-      "artist_name": "DJ E",
-      "currency": "GBP",
-      "amount_paid_fmt": "£1",
-      "item_price": 0,
-      "slug_type": "a",
-      "amount_paid": 1,
-      "url": "https:https://dje.techitch.com/album/rethink-one",
-      "art_id": 3303826495,
-      "art_url": "https://f4.bcbits.com/img/a3303826495_7.jpg",
-      "amount_paid_usd": 1.25,
-      "details": {
-        "type": "track",
-        "stories": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
     }
   ],
-  "first": "Dillard",
-  "last": "DJ E",
+  "first": "Diligent",
+  "last": "DJ Dysfunkshunal, Fatty K",
   "after": [
-    "DJ Eddy Bauer",
+    "DJ E",
     {
       "@ref": {
-        "id": "332907007874957511",
+        "id": "333501541751193799",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3024,7 +3035,7 @@
     },
     {
       "@ref": {
-        "id": "332907007874957511",
+        "id": "333501541751193799",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3039,10 +3050,10 @@
     }
   ],
   "before": [
-    "Dillard",
+    "Diligent",
     {
       "@ref": {
-        "id": "333519726946812103",
+        "id": "332871703561502919",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3057,7 +3068,7 @@
     },
     {
       "@ref": {
-        "id": "333519726946812103",
+        "id": "332871703561502919",
         "collection": {
           "@ref": {
             "id": "scrapes",

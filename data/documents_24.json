@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "utc_date": 1653876846.21744,
+      "country": "Spain",
+      "artist_name": "Dono Dagger",
+      "currency": "USD",
+      "item_description": "We Bleed",
+      "amount_paid_fmt": "$3",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "art_id": 3886188637,
+      "url": "https://burleius.bandcamp.com/album/we-bleed",
+      "country_code": "es",
+      "amount_over_fmt": "$3",
+      "art_url": "https://f4.bcbits.com/img/a3886188637_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 3,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
       "utc_date": 1653822661.46916,
       "country": "Puerto Rico",
       "artist_name": "Doomed and Stoned Records",
@@ -3087,52 +3120,15 @@
           ""
         ]
       }
-    },
-    {
-      "item_description": "Ghost in the Fire (Hypnotic Death/Doom Metal)",
-      "country": "Canada",
-      "artist_name": "DRUG HONKEY (US)",
-      "currency": "EUR",
-      "amount_paid_fmt": "€0.50",
-      "item_price": 0,
-      "slug_type": "a",
-      "amount_paid": 0.5,
-      "art_id": 3370031230,
-      "art_url": "https://f4.bcbits.com/img/a3370031230_7.jpg",
-      "amount_paid_usd": 0.53,
-      "url": "https://drughonkeydoom.bandcamp.com/album/ghost-in-the-fire-hypnotic-death-doom-metal",
-      "item_type": "a",
-      "country_code": "ca",
-      "utc_date": 1654124773.25414,
-      "details": {
-        "type": "album",
-        "stories": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
     }
   ],
-  "first": "Doomed and Stoned Records",
-  "last": "DRUG HONKEY (US)",
+  "first": "Dono Dagger",
+  "last": "Drug Control",
   "after": [
     "DRUG HONKEY (US)",
     {
       "@ref": {
-        "id": "333307203646653633",
+        "id": "333306637836091592",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3147,7 +3143,7 @@
     },
     {
       "@ref": {
-        "id": "333307203646653633",
+        "id": "333306637836091592",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3162,10 +3158,10 @@
     }
   ],
   "before": [
-    "Doomed and Stoned Records",
+    "Dono Dagger",
     {
       "@ref": {
-        "id": "332989860838113478",
+        "id": "333046677612003522",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3180,7 +3176,7 @@
     },
     {
       "@ref": {
-        "id": "332989860838113478",
+        "id": "333046677612003522",
         "collection": {
           "@ref": {
             "id": "scrapes",

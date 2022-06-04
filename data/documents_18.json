@@ -2031,6 +2031,34 @@
     {
       "item_type": "a",
       "country_code": "us",
+      "utc_date": 1654353034.71164,
+      "country": "United States",
+      "artist_name": "Cystic",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://cystic666.bandcamp.com/album/sworn-enemy-of-life",
+      "art_id": 826013101,
+      "art_url": "https://f4.bcbits.com/img/a0826013101_7.jpg",
+      "amount_paid_usd": 1,
+      "item_description": "Sworn Enemy Of Life",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
       "item_description": "Hit it!",
       "utc_date": 1654318749.92922,
       "country": "United States",
@@ -2947,45 +2975,15 @@
           ""
         ]
       }
-    },
-    {
-      "utc_date": 1653711067.74989,
-      "country": "Australia",
-      "item_description": "It's a lot",
-      "artist_name": "Daily Toll",
-      "currency": "AUD",
-      "amount_paid_fmt": "$7 AUD",
-      "item_price": 0,
-      "slug_type": "a",
-      "amount_paid": 7,
-      "art_id": 2363432241,
-      "url": "https://dailytoll.bandcamp.com/album/its-a-lot",
-      "country_code": "au",
-      "amount_over_fmt": "$7",
-      "art_url": "https://f4.bcbits.com/img/a2363432241_7.jpg",
-      "item_type": "a",
-      "amount_paid_usd": 5.01,
-      "details": {
-        "type": "album",
-        "stories": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
     }
   ],
   "first": "CROSSED",
-  "last": "Daily Toll",
+  "last": "Daily Ritual",
   "after": [
-    "Dainumo, Jeesh, P.SUS, Pogo",
+    "Daily Toll",
     {
       "@ref": {
-        "id": "333514313730883784",
+        "id": "332872852619395264",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -3000,7 +2998,7 @@
     },
     {
       "@ref": {
-        "id": "333514313730883784",
+        "id": "332872852619395264",
         "collection": {
           "@ref": {
             "id": "scrapes",
