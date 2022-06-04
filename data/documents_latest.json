@@ -3,6 +3,2464 @@
     {
       "ref": {
         "@ref": {
+          "id": "333545018963787970",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654352167950000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654352144.54348,
+        "country": "Germany",
+        "artist_name": "Claymorean",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://claymore1.bandcamp.com/album/alive-in-vultureburg",
+        "art_id": 104940581,
+        "amount_over_fmt": "€5",
+        "art_url": "https://f4.bcbits.com/img/a0104940581_7.jpg",
+        "amount_paid_usd": 5.36,
+        "item_description": "Alive in Vultureburg",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333545018829570242",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654352167820000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654352110.94031,
+        "country": "United States",
+        "artist_name": "peter and the wolf",
+        "currency": "USD",
+        "amount_paid_fmt": "$5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://traffique.bandcamp.com/album/lightness",
+        "art_id": 20604611,
+        "amount_over_fmt": "$5",
+        "art_url": "https://f4.bcbits.com/img/a0020604611_7.jpg",
+        "amount_paid_usd": 5,
+        "item_description": "Lightness",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544894997987528",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654352049740000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ca",
+        "utc_date": 1654352031.69577,
+        "item_description": "Evolvent (Remastered)",
+        "country": "Canada",
+        "artist_name": "Show Me a Dinosaur",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://showmeadinosaur.bandcamp.com/album/evolvent-remastered",
+        "art_id": 3355803905,
+        "art_url": "https://f4.bcbits.com/img/a3355803905_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544894743183560",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654352049501000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654352006.53102,
+        "item_description": "RAVE EDITS 02",
+        "country": "France",
+        "artist_name": "VCL",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://ravealert.bandcamp.com/album/rave-edits-02",
+        "art_id": 4034177197,
+        "art_url": "https://f4.bcbits.com/img/a4034177197_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544830252613824",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351987990000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ca",
+        "utc_date": 1654351970.04459,
+        "country": "Canada",
+        "item_description": "Show Me a Dinosaur",
+        "artist_name": "Show Me a Dinosaur",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://showmeadinosaur.bandcamp.com/album/show-me-a-dinosaur",
+        "art_id": 3107570912,
+        "art_url": "https://f4.bcbits.com/img/a3107570912_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544640885031104",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351807400000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "item_description": "Dutrem",
+        "utc_date": 1654351750.08182,
+        "country": "Australia",
+        "artist_name": "Carl Dewhurst",
+        "currency": "AUD",
+        "amount_paid_fmt": "$10 AUD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://carl-dewhurst.bandcamp.com/album/dutrem",
+        "art_id": 3058674687,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a3058674687_7.jpg",
+        "amount_paid_usd": 7.21,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544578080571584",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351747520000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654351711.52388,
+        "country": "United Kingdom",
+        "artist_name": "Globular",
+        "currency": "GBP",
+        "amount_paid_fmt": "£0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://globular.bandcamp.com/album/digging-building",
+        "art_id": 1083503499,
+        "art_url": "https://f4.bcbits.com/img/a1083503499_7.jpg",
+        "amount_paid_usd": 0.62,
+        "item_description": "Digging & Building",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544513069908168",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351685510000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654351669.56052,
+        "country": "United Kingdom",
+        "artist_name": "Bert Hulshoff",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "Deep Sense",
+        "amount_paid": 0.5,
+        "url": "https://berthulshoff.bandcamp.com/album/deep-sense",
+        "art_id": 3017033639,
+        "art_url": "https://f4.bcbits.com/img/a3017033639_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544450475163846",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351625810000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ee",
+        "utc_date": 1654351562.3788,
+        "country": "Estonia",
+        "artist_name": "White Sparks",
+        "currency": "EUR",
+        "amount_paid_fmt": "€100",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 100,
+        "url": "https://whtesprks.bandcamp.com/album/dark-matter-halo-ep",
+        "art_id": 340268173,
+        "amount_over_fmt": "€100",
+        "item_description": "Dark Matter Halo EP",
+        "art_url": "https://f4.bcbits.com/img/a0340268173_7.jpg",
+        "amount_paid_usd": 107.19,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544393697919174",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351571660000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654351546.67512,
+        "country": "United Kingdom",
+        "artist_name": "Defender Waves",
+        "currency": "GBP",
+        "amount_paid_fmt": "£1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://defenderwaves.bandcamp.com/album/past-life",
+        "art_id": 3655102032,
+        "art_url": "https://f4.bcbits.com/img/a3655102032_7.jpg",
+        "amount_paid_usd": 1.25,
+        "item_description": "Past Life",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544393561604294",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351571530000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654351537.53824,
+        "country": "Germany",
+        "artist_name": "OFFICIUM TRISTE (Netherlands)",
+        "currency": "EUR",
+        "amount_paid_fmt": "€6",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 6,
+        "url": "https://officiumtriste.bandcamp.com/album/the-death-of-gaia-atmospheric-death-doom-metal",
+        "art_id": 3875866111,
+        "amount_over_fmt": "€6",
+        "art_url": "https://f4.bcbits.com/img/a3875866111_7.jpg",
+        "amount_paid_usd": 6.43,
+        "item_description": "The Death of Gaia (Atmospheric Death/Doom Metal)",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544330434183368",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351511330000,
+      "data": {
+        "item_type": "a",
+        "country_code": "jp",
+        "utc_date": 1654351497.16045,
+        "country": "Japan",
+        "artist_name": "urfavdepressedwaifu",
+        "currency": "CAD",
+        "amount_paid_fmt": "$3 CAD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3,
+        "url": "https://urfavdepressedwaifu.bandcamp.com/album/digital-mania",
+        "art_id": 781144819,
+        "amount_over_fmt": "$3",
+        "item_description": "Digital Mania",
+        "art_url": "https://f4.bcbits.com/img/a0781144819_7.jpg",
+        "amount_paid_usd": 2.38,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544328511094984",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351509500000,
+      "data": {
+        "item_type": "a",
+        "country_code": "jp",
+        "utc_date": 1654351487.08743,
+        "country": "Japan",
+        "artist_name": "SXDSHXWTY",
+        "currency": "GBP",
+        "amount_paid_fmt": "£3",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3,
+        "url": "https://sxdshxwty.bandcamp.com/album/digital-corruption",
+        "art_id": 487930764,
+        "amount_over_fmt": "£3",
+        "item_description": "Digital Corruption",
+        "art_url": "https://f4.bcbits.com/img/a0487930764_7.jpg",
+        "amount_paid_usd": 3.75,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544327984709832",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351509000000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654351476.43582,
+        "country": "United States",
+        "artist_name": "Crooked Spires",
+        "currency": "USD",
+        "amount_paid_fmt": "$20",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 20,
+        "url": "https://crookedspires.bandcamp.com/album/crooked-spires",
+        "art_id": 396131523,
+        "amount_over_fmt": "$20",
+        "item_description": "Crooked Spires",
+        "art_url": "https://f4.bcbits.com/img/a0396131523_7.jpg",
+        "amount_paid_usd": 20,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544262118408391",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351446190000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654351399.24241,
+        "country": "France",
+        "artist_name": "Biodome",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5.36",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5.36,
+        "url": "https://speedcoreworldwideaudionetlabel.bandcamp.com/album/the-madhouse",
+        "art_id": 1798601202,
+        "amount_over_fmt": "€5.36",
+        "art_url": "https://f4.bcbits.com/img/a1798601202_7.jpg",
+        "amount_paid_usd": 5.75,
+        "item_description": "The Madhouse",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544201356574912",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351388240000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654351373.88527,
+        "country": "United States",
+        "item_description": "The Legend of Bahcoo",
+        "artist_name": "Bahcoo",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://tarekabdelqader.bandcamp.com/album/the-legend-of-bahcoo",
+        "art_id": 3414798807,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a3414798807_7.jpg",
+        "amount_paid_usd": 10,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544201220260032",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351388110000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654351359.95692,
+        "country": "United Kingdom",
+        "item_description": "Edit Collection",
+        "artist_name": "Night Noise",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://nightnoisemusic.bandcamp.com/album/edit-collection",
+        "art_id": 836707154,
+        "art_url": "https://f4.bcbits.com/img/a0836707154_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "album",
+          "stories": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544074555424961",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351267300000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654351225.75228,
+        "country": "United States",
+        "artist_name": "RIOT CODE",
+        "currency": "GBP",
+        "amount_paid_fmt": "£1",
+        "item_price": 0,
+        "item_description": "Behind Closed Doors Compilation",
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://riotcode.bandcamp.com/album/behind-closed-doors-compilation",
+        "art_id": 3502522959,
+        "art_url": "https://f4.bcbits.com/img/a3502522959_7.jpg",
+        "amount_paid_usd": 1.25,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333544013582827718",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351209150000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654351175.32888,
+        "country": "France",
+        "item_description": "Plutone Sessions",
+        "artist_name": "Authority Abuse",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://dupagecountyhardcore.bandcamp.com/album/plutone-sessions",
+        "art_id": 559060301,
+        "art_url": "https://f4.bcbits.com/img/a0559060301_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543885300039878",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351086810000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654351054.22896,
+        "country": "Australia",
+        "artist_name": "Bad Tango",
+        "currency": "GBP",
+        "amount_paid_fmt": "£3.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3.5,
+        "url": "https://badtango.bandcamp.com/album/techtangle-ep",
+        "art_id": 430784666,
+        "amount_over_fmt": "£3.50",
+        "item_description": "Techtangle EP",
+        "art_url": "https://f4.bcbits.com/img/a0430784666_7.jpg",
+        "amount_paid_usd": 4.37,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543885164773574",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351086680000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654351030.35162,
+        "country": "United States",
+        "artist_name": "EXT",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://streetcornermusic.bandcamp.com/album/arts-craft",
+        "art_id": 4143262966,
+        "item_description": "Arts & Craft",
+        "art_url": "https://f4.bcbits.com/img/a4143262966_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543823745482951",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654351028120000,
+      "data": {
+        "item_description": "Pelo Caminho das Fadas",
+        "item_type": "a",
+        "country_code": "pt",
+        "utc_date": 1654350986.56299,
+        "country": "Portugal",
+        "artist_name": "Luísa Barreto",
+        "currency": "EUR",
+        "amount_paid_fmt": "€15",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 15,
+        "url": "https://luisabarreto.bandcamp.com/album/pelo-caminho-das-fadas",
+        "art_id": 2964570211,
+        "amount_over_fmt": "€15",
+        "art_url": "https://f4.bcbits.com/img/a2964570211_7.jpg",
+        "amount_paid_usd": 16.08,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543760715579591",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350968000000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350931.71049,
+        "country": "Germany",
+        "artist_name": "Black Tape For A Blue Girl",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "item_description": "Highlights (name-your-price)",
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://blacktapeforabluegirl.bandcamp.com/album/highlights-name-your-price",
+        "art_id": 543191333,
+        "art_url": "https://f4.bcbits.com/img/a0543191333_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543760585556167",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350967880000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654350907.94638,
+        "country": "Australia",
+        "artist_name": "Ifing",
+        "currency": "EUR",
+        "amount_paid_fmt": "€2",
+        "item_price": 0,
+        "item_description": "Against This Weald",
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://ifing.bandcamp.com/album/against-this-weald-2",
+        "art_id": 1086571171,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a1086571171_7.jpg",
+        "amount_paid_usd": 2.14,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543697091133633",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350907320000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350876.51657,
+        "country": "Germany",
+        "artist_name": "Restless Leg Syndrome",
+        "currency": "EUR",
+        "amount_paid_fmt": "€3",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "Totem",
+        "amount_paid": 3,
+        "url": "https://restlesslegsyndrome.bandcamp.com/album/totem",
+        "art_id": 3361980952,
+        "amount_over_fmt": "€3",
+        "art_url": "https://f4.bcbits.com/img/a3361980952_7.jpg",
+        "amount_paid_usd": 3.22,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543572840120512",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350788840000,
+      "data": {
+        "item_type": "a",
+        "country_code": "pl",
+        "utc_date": 1654350763.84706,
+        "country": "Poland",
+        "artist_name": "Dax J",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://monnomblack.bandcamp.com/album/soul-enforcer-lp",
+        "item_description": "Soul Enforcer LP",
+        "art_id": 1410557316,
+        "art_url": "https://f4.bcbits.com/img/a1410557316_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543572715339968",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350788720000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654350746.74949,
+        "country": "United States",
+        "artist_name": "COLOSSO (Portugal)",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https:https://colossometal.com/album/apocalypse-death-metal",
+        "item_description": "Apocalypse (Death Metal)",
+        "art_id": 1651746890,
+        "art_url": "https://f4.bcbits.com/img/a1651746890_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543510942679232",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350729800000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654350688.88043,
+        "item_description": "Free Downloads",
+        "country": "United Kingdom",
+        "artist_name": "Evil Needle",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://itsmeneedle.bandcamp.com/album/free-downloads",
+        "art_id": 3314372903,
+        "art_url": "https://f4.bcbits.com/img/a3314372903_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543384272601280",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350609000000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654350594.34411,
+        "item_description": "Deadly As Ever",
+        "country": "United States",
+        "artist_name": "Ramzee, Blaq Poet",
+        "currency": "AUD",
+        "amount_paid_fmt": "$3 AUD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3,
+        "url": "https://raprecordsau.bandcamp.com/album/deadly-as-ever",
+        "art_id": 2346477290,
+        "amount_over_fmt": "$3",
+        "art_url": "https://f4.bcbits.com/img/a2346477290_7.jpg",
+        "amount_paid_usd": 2.16,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543384160403648",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350608890000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ch",
+        "utc_date": 1654350577.48697,
+        "item_description": "Dis Tracks",
+        "country": "Switzerland",
+        "artist_name": "Dmitra",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://dmitra.bandcamp.com/album/dis-tracks",
+        "art_id": 2043931692,
+        "art_url": "https://f4.bcbits.com/img/a2043931692_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543325781983431",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350553220000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350510.8652,
+        "country": "Germany",
+        "artist_name": "A Ghost in Rags",
+        "currency": "EUR",
+        "amount_paid_fmt": "€10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://aghostinrags.bandcamp.com/album/a-ghost-in-rags",
+        "art_id": 1893224817,
+        "amount_over_fmt": "€10",
+        "item_description": "A Ghost in Rags",
+        "art_url": "https://f4.bcbits.com/img/a1893224817_7.jpg",
+        "amount_paid_usd": 10.72,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543325394010311",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350552850000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350487.6985,
+        "country": "Germany",
+        "artist_name": "sabotagerecords",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://sabotagerecords.bandcamp.com/album/m-nster-death-before-disorder-lp",
+        "art_id": 3854096757,
+        "amount_over_fmt": "€5",
+        "item_description": "Mönster: Death before Disorder LP",
+        "art_url": "https://f4.bcbits.com/img/a3854096757_7.jpg",
+        "amount_paid_usd": 5.36,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543325280764103",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350552740000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654350484.78029,
+        "country": "United Kingdom",
+        "artist_name": "Doormats",
+        "currency": "GBP",
+        "amount_paid_fmt": "£10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://doormatsuk.bandcamp.com/album/doormats",
+        "art_id": 3060261929,
+        "amount_over_fmt": "£10",
+        "item_description": "Doormats",
+        "art_url": "https://f4.bcbits.com/img/a3060261929_7.jpg",
+        "amount_paid_usd": 12.49,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543254362423495",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350485110000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654350431.5305,
+        "country": "United States",
+        "artist_name": "Goch",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://asrecords.bandcamp.com/album/goch-skototropism",
+        "item_description": "Goch - Skototropism",
+        "art_id": 995295457,
+        "art_url": "https://f4.bcbits.com/img/a0995295457_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543191912382657",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350425540000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ee",
+        "utc_date": 1654350402.56921,
+        "country": "Estonia",
+        "artist_name": "Lauge",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "item_description": "Lauge - Sundays",
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://laugebabagnohm.bandcamp.com/album/lauge-sundays",
+        "art_id": 346935565,
+        "art_url": "https://f4.bcbits.com/img/a0346935565_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543131720974529",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350368140000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654350341.04252,
+        "country": "United States",
+        "artist_name": "HoganBeats",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://mtkbeatz.bandcamp.com/album/all-the-tings",
+        "art_id": 3217881720,
+        "art_url": "https://f4.bcbits.com/img/a3217881720_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "All the tings",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333543131589902529",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350368020000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350332.94399,
+        "country": "Germany",
+        "artist_name": "Burier",
+        "currency": "AUD",
+        "amount_paid_fmt": "$3.50 AUD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3.5,
+        "url": "https://burier.bandcamp.com/album/in-communion-with-death",
+        "art_id": 1225917754,
+        "amount_over_fmt": "$3.50",
+        "art_url": "https://f4.bcbits.com/img/a1225917754_7.jpg",
+        "amount_paid_usd": 2.52,
+        "item_description": "In Communion With Death",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542942157308102",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350187360000,
+      "data": {
+        "item_type": "a",
+        "country_code": "br",
+        "item_description": "Franklin's Room",
+        "utc_date": 1654350170.57736,
+        "country": "Brazil",
+        "artist_name": "Jordan Rakei",
+        "currency": "AUD",
+        "amount_paid_fmt": "$1 AUD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://jordanrakei.bandcamp.com/album/franklins-room",
+        "art_id": 1653547672,
+        "art_url": "https://f4.bcbits.com/img/a1653547672_7.jpg",
+        "amount_paid_usd": 0.72,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542879104336065",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350127220000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654350118.81241,
+        "country": "Germany",
+        "artist_name": "Vier",
+        "currency": "EUR",
+        "amount_paid_fmt": "€3.33",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3.33,
+        "url": "https://vier4.bandcamp.com/album/demo-2",
+        "item_description": "demo 2",
+        "art_id": 231003168,
+        "amount_over_fmt": "€3.33",
+        "art_url": "https://f4.bcbits.com/img/a0231003168_7.jpg",
+        "amount_paid_usd": 3.57,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542878987944129",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350127110000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654350068.07149,
+        "country": "France",
+        "artist_name": "Authority Abuse",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://dupagecountyhardcore.bandcamp.com/album/authority-abuse-kakistocracy-split",
+        "item_description": "Authority Abuse / Kakistocracy split",
+        "art_id": 3427741809,
+        "art_url": "https://f4.bcbits.com/img/a3427741809_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542815945457863",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350067010000,
+      "data": {
+        "item_description": "my worthless life",
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654350011.20318,
+        "country": "United States",
+        "artist_name": "my worthless life",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://myheadhurts.bandcamp.com/album/my-worthless-life",
+        "art_id": 3297585584,
+        "art_url": "https://f4.bcbits.com/img/a3297585584_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542753762803911",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350007700000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654349994.35776,
+        "country": "United States",
+        "artist_name": "Blue Bottle Love compilation of Amazing Artists",
+        "currency": "USD",
+        "amount_paid_fmt": "$15",
+        "item_price": 0,
+        "item_description": "Water Love",
+        "slug_type": "a",
+        "amount_paid": 15,
+        "url": "https://bluebottlelove.bandcamp.com/album/water-love",
+        "art_id": 3116235137,
+        "amount_over_fmt": "$15",
+        "art_url": "https://f4.bcbits.com/img/a3116235137_7.jpg",
+        "amount_paid_usd": 15,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542753648509127",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654350007590000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654349985.84375,
+        "country": "France",
+        "artist_name": "Authority Abuse",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "item_description": "AA 1997-1999",
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://dupagecountyhardcore.bandcamp.com/album/aa-1997-1999",
+        "art_id": 2640887810,
+        "art_url": "https://f4.bcbits.com/img/a2640887810_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542691482632390",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349948300000,
+      "data": {
+        "item_type": "a",
+        "country_code": "se",
+        "utc_date": 1654349929.341,
+        "country": "Sweden",
+        "artist_name": "MONO",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://monoofjapan.bandcamp.com/album/pilgrimage-of-the-soul",
+        "item_description": "Pilgrimage of the Soul",
+        "art_id": 872553981,
+        "art_url": "https://f4.bcbits.com/img/a0872553981_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542691354706118",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349948180000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654349915.66255,
+        "country": "France",
+        "artist_name": "Authority Abuse",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://dupagecountyhardcore.bandcamp.com/album/hit-squad-ep",
+        "item_description": "Hit Squad EP",
+        "art_id": 70131344,
+        "art_url": "https://f4.bcbits.com/img/a0070131344_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542628359405766",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349888100000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654349871.94664,
+        "country": "United States",
+        "artist_name": "Barrdo",
+        "currency": "CAD",
+        "amount_paid_fmt": "$7 CAD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 7,
+        "url": "https://barrdo.bandcamp.com/album/quivoques-vol-1",
+        "art_id": 4049351117,
+        "amount_over_fmt": "$7",
+        "art_url": "https://f4.bcbits.com/img/a4049351117_7.jpg",
+        "amount_paid_usd": 5.56,
+        "item_description": "équivoques vol. 1",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542628230430918",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349887980000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654349826.06434,
+        "country": "France",
+        "artist_name": "Authority Abuse",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://dupagecountyhardcore.bandcamp.com/album/authority-abuse",
+        "art_id": 1381306131,
+        "art_url": "https://f4.bcbits.com/img/a1381306131_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Authority Abuse",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542562095694024",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349824920000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ca",
+        "utc_date": 1654349778.0841,
+        "country": "Canada",
+        "artist_name": "Benjamin Lavoie-D.",
+        "currency": "CAD",
+        "amount_paid_fmt": "$30 CAD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 30,
+        "url": "https://benjaminlavoie-d.bandcamp.com/album/seconds-arent-even",
+        "art_id": 3268591177,
+        "amount_over_fmt": "$30",
+        "art_url": "https://f4.bcbits.com/img/a3268591177_7.jpg",
+        "amount_paid_usd": 23.82,
+        "item_description": "Seconds Aren't Even",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542504976613568",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349770450000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654349717.81591,
+        "country": "United States",
+        "artist_name": "bulldog eyes",
+        "currency": "USD",
+        "amount_paid_fmt": "$5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://bulldogeyes.bandcamp.com/album/later",
+        "art_id": 3379236015,
+        "amount_over_fmt": "$5",
+        "item_description": "later",
+        "art_url": "https://f4.bcbits.com/img/a3379236015_7.jpg",
+        "amount_paid_usd": 5,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542437081317569",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349705690000,
+      "data": {
+        "item_type": "a",
+        "country_code": "nl",
+        "utc_date": 1654349648.6727,
+        "country": "Netherlands",
+        "artist_name": "Ophidian",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://ophidian.bandcamp.com/album/messenger-e-p",
+        "art_id": 3088143620,
+        "art_url": "https://f4.bcbits.com/img/a3088143620_7.jpg",
+        "amount_paid_usd": 1.07,
+        "item_description": "Messenger E.P.",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542377326117062",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349648700000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654349629.0034,
+        "country": "Australia",
+        "artist_name": "Hell Average",
+        "currency": "AUD",
+        "amount_paid_fmt": "$10 AUD",
+        "item_description": "Demos",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://hellaverage.bandcamp.com/album/demos",
+        "art_id": 3538825645,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a3538825645_7.jpg",
+        "amount_paid_usd": 7.21,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
           "id": "333542190102872257",
           "collection": {
             "@ref": {
@@ -81,6 +2539,2300 @@
         "amount_over_fmt": "€5",
         "art_url": "https://f4.bcbits.com/img/a2135245308_7.jpg",
         "amount_paid_usd": 5.36,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333542189875331265",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349469920000,
+      "data": {
+        "item_type": "a",
+        "country_code": "at",
+        "utc_date": 1654349438.57193,
+        "country": "Austria",
+        "artist_name": "Gulhant",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "Relik that Flesh Cursed",
+        "amount_paid": 1,
+        "url": "https://gulhant.bandcamp.com/album/relik-that-flesh-cursed",
+        "art_id": 2139228924,
+        "art_url": "https://f4.bcbits.com/img/a2139228924_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541809281040582",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349106970000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654349093.07121,
+        "country": "Germany",
+        "artist_name": "Camembert Électrique",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://flyoversx.bandcamp.com/album/monolithic-blocks",
+        "art_id": 3747986967,
+        "art_url": "https://f4.bcbits.com/img/a3747986967_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Monolithic Blocks",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541809133191366",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349106830000,
+      "data": {
+        "item_type": "a",
+        "country_code": "jp",
+        "utc_date": 1654349080.00037,
+        "country": "Japan",
+        "artist_name": "Orbit 84",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://orbit84.bandcamp.com/album/transmission",
+        "art_id": 875743973,
+        "art_url": "https://f4.bcbits.com/img/a0875743973_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Transmission",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541745200464072",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654349045860000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348983.87702,
+        "country": "United States",
+        "item_description": "EP 1",
+        "artist_name": "v/a",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://asrecords.bandcamp.com/album/ep-1",
+        "art_id": 1950225674,
+        "art_url": "https://f4.bcbits.com/img/a1950225674_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541684455407815",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348987940000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654348974.705,
+        "item_description": "The Hass Effect",
+        "country": "Australia",
+        "artist_name": "Electrocado",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://electrocado.bandcamp.com/album/the-hass-effect",
+        "art_id": 3520803809,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a3520803809_7.jpg",
+        "amount_paid_usd": 10,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541684331675847",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348987820000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348930.51198,
+        "item_description": "Detox Static EP",
+        "country": "Germany",
+        "artist_name": "FRONT 242",
+        "currency": "EUR",
+        "amount_paid_fmt": "€2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://alfamatrix.bandcamp.com/album/detox-static-ep",
+        "art_id": 1370842680,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a1370842680_7.jpg",
+        "amount_paid_usd": 2.14,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541684194312391",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348987690000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348924.34862,
+        "item_description": "demo 1",
+        "country": "Germany",
+        "artist_name": "Vier",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://vier4.bandcamp.com/album/demo-1",
+        "art_id": 251821506,
+        "art_url": "https://f4.bcbits.com/img/a0251821506_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541619694305478",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348926170000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348905.59978,
+        "country": "United States",
+        "artist_name": "Skáphe + Wormlust",
+        "currency": "USD",
+        "amount_paid_fmt": "$1.30",
+        "item_description": "Kosmískur hryllingur",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1.3,
+        "url": "https://skphwrmlst.bandcamp.com/album/kosm-skur-hryllingur",
+        "art_id": 2349143091,
+        "art_url": "https://f4.bcbits.com/img/a2349143091_7.jpg",
+        "amount_paid_usd": 1.3,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541557962539201",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348867280000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654348859.70676,
+        "item_description": "Wash Away Your Sins Like a Car Battery in the Ocean",
+        "country": "United Kingdom",
+        "artist_name": "Medwakh",
+        "currency": "NZD",
+        "amount_paid_fmt": "$10 NZD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://skagfaktory.bandcamp.com/album/wash-away-your-sins-like-a-car-battery-in-the-ocean",
+        "art_id": 833698041,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a0833698041_7.jpg",
+        "amount_paid_usd": 6.51,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541433222889666",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348748320000,
+      "data": {
+        "item_type": "a",
+        "country_code": "ca",
+        "utc_date": 1654348738.02416,
+        "country": "Canada",
+        "item_description": "Distribution aux Consommateurs",
+        "artist_name": "フライドポテト、チーズ、ソース",
+        "currency": "CAD",
+        "amount_paid_fmt": "$15 CAD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 15,
+        "url": "https://fritefromagesauce.bandcamp.com/album/distribution-aux-consommateurs",
+        "art_id": 4202847266,
+        "amount_over_fmt": "$15",
+        "art_url": "https://f4.bcbits.com/img/a4202847266_7.jpg",
+        "amount_paid_usd": 11.91,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541433103352002",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348748210000,
+      "data": {
+        "item_type": "a",
+        "country_code": "se",
+        "utc_date": 1654348735.94895,
+        "country": "Sweden",
+        "item_description": "Swamp of Desecration",
+        "artist_name": "Goatmilker",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://goatmilker666.bandcamp.com/album/swamp-of-desecration",
+        "art_id": 2189386877,
+        "art_url": "https://f4.bcbits.com/img/a2189386877_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541370000048328",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348688040000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348675.68308,
+        "country": "United States",
+        "item_description": "The Earth is a Man",
+        "artist_name": "The Earth is a Man",
+        "currency": "USD",
+        "amount_paid_fmt": "$5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://theearthisaman.bandcamp.com/album/the-earth-is-a-man",
+        "art_id": 1937630967,
+        "amount_over_fmt": "$5",
+        "art_url": "https://f4.bcbits.com/img/a1937630967_7.jpg",
+        "amount_paid_usd": 5,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541369886802120",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348687930000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348662.83948,
+        "country": "Germany",
+        "item_description": "Guerilla Grimm - Folkstod Kleinkunstpunk",
+        "artist_name": "Konny Kleinkunstpunk",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://konny-kleinkunstpunk.bandcamp.com/album/guerilla-grimm-folkstod-kleinkunstpunk",
+        "art_id": 1733254978,
+        "art_url": "https://f4.bcbits.com/img/a1733254978_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541247220187336",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348570960000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348537.88128,
+        "country": "United States",
+        "artist_name": "DΛRKNΣSS",
+        "currency": "USD",
+        "amount_paid_fmt": "$6.66",
+        "item_price": 0,
+        "item_description": "abandoned dreams (крик о помощи)",
+        "slug_type": "a",
+        "amount_paid": 6.66,
+        "url": "https://d4rkn3ss666.bandcamp.com/album/abandoned-dreams",
+        "art_id": 2462894497,
+        "amount_over_fmt": "$6.66",
+        "art_url": "https://f4.bcbits.com/img/a2462894497_7.jpg",
+        "amount_paid_usd": 6.66,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541119346344135",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348449010000,
+      "data": {
+        "item_description": "Kabolz!",
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348437.23509,
+        "country": "Germany",
+        "artist_name": "Konny Kleinkunstpunk",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://konny-kleinkunstpunk.bandcamp.com/album/kabolz",
+        "art_id": 964913278,
+        "art_url": "https://f4.bcbits.com/img/a0964913278_7.jpg",
+        "amount_paid_usd": 0.54,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541119221563591",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348448890000,
+      "data": {
+        "item_description": "Can I Borrow A Feeling?",
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654348415.45799,
+        "country": "Australia",
+        "artist_name": "Seethruskin",
+        "currency": "USD",
+        "amount_paid_fmt": "$3",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3,
+        "url": "https://seethruskinwv.bandcamp.com/album/can-i-borrow-a-feeling-2",
+        "art_id": 2662327315,
+        "amount_over_fmt": "$3",
+        "art_url": "https://f4.bcbits.com/img/a2662327315_7.jpg",
+        "amount_paid_usd": 3,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333541119085248711",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348448760000,
+      "data": {
+        "item_description": "edits vol.2",
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348415.57148,
+        "country": "United States",
+        "artist_name": "Douvelle19",
+        "currency": "GBP",
+        "amount_paid_fmt": "£0.80",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.8,
+        "url": "https://douvelle19.bandcamp.com/album/edits-vol-2",
+        "art_id": 2279247238,
+        "art_url": "https://f4.bcbits.com/img/a2279247238_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540930941354183",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348269325000,
+      "data": {
+        "item_description": "Bembe Segue Dusty Demos Prt 2",
+        "item_type": "a",
+        "country_code": "za",
+        "utc_date": 1654348227.32741,
+        "country": "South Africa",
+        "artist_name": "Bembe Segue",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://bembesegue.bandcamp.com/album/bembe-segue-dusty-demos-prt-2",
+        "art_id": 554178075,
+        "art_url": "https://f4.bcbits.com/img/a0554178075_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540930826010823",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348269210000,
+      "data": {
+        "item_description": "Dichotomy EP w eugene",
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348211.11207,
+        "country": "Germany",
+        "artist_name": "Slang Dogs x eugene",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://slangdogsmusic.bandcamp.com/album/dichotomy-ep-w-eugene",
+        "art_id": 726157967,
+        "art_url": "https://f4.bcbits.com/img/a0726157967_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540866468610248",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348207850000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348189.47238,
+        "country": "Germany",
+        "artist_name": "auszenseiter",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://auszenseiter.bandcamp.com/album/s-t-tape",
+        "art_id": 881132721,
+        "art_url": "https://f4.bcbits.com/img/a0881132721_7.jpg",
+        "amount_paid_usd": 1.07,
+        "item_description": "s/t tape",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540866280915144",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348207670000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654348178.4295,
+        "country": "Germany",
+        "artist_name": "Synthetic Epiphany",
+        "currency": "GBP",
+        "amount_paid_fmt": "£0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://syntheticepiphany.bandcamp.com/album/equalize-ep",
+        "art_id": 4039632116,
+        "art_url": "https://f4.bcbits.com/img/a4039632116_7.jpg",
+        "amount_paid_usd": 0.62,
+        "item_description": "Equalize EP",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540801625718978",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348145980000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654348104.60254,
+        "item_description": "Latem",
+        "country": "United States",
+        "artist_name": "Wiktor Stribog",
+        "currency": "PLN",
+        "amount_paid_fmt": "4.30 PLN",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 4.3,
+        "url": "https://wiktorstribog.bandcamp.com/album/latem",
+        "art_id": 2926776644,
+        "art_url": "https://f4.bcbits.com/img/a2926776644_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540741715329217",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348088860000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654348067.33692,
+        "country": "France",
+        "artist_name": "Spectres",
+        "currency": "GBP",
+        "amount_paid_fmt": "£3",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 3,
+        "url": "https://wearespectres.bandcamp.com/album/dark-habits-11-death-kettled-lp",
+        "art_id": 4148513166,
+        "amount_over_fmt": "£3",
+        "item_description": "Dark Habits 11 & Death Kettled LP",
+        "art_url": "https://f4.bcbits.com/img/a4148513166_7.jpg",
+        "amount_paid_usd": 3.75,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540678055231686",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654348028150000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347971.17933,
+        "country": "Germany",
+        "artist_name": "ItaloBros",
+        "currency": "SGD",
+        "amount_paid_fmt": "$1 SGD",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://greatwallofsound.bandcamp.com/album/italobros-classic-remix-pack",
+        "art_id": 1749587121,
+        "item_description": "ITALOBROS CLASSIC REMIX PACK",
+        "art_url": "https://f4.bcbits.com/img/a1749587121_7.jpg",
+        "amount_paid_usd": 0.73,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540616261599426",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347969210000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347950.69505,
+        "country": "Germany",
+        "artist_name": "NIGM",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://lettrecords.bandcamp.com/album/the-frozen-planet-ep-incl-siel-remix-lr010",
+        "art_id": 3977374622,
+        "art_url": "https://f4.bcbits.com/img/a3977374622_7.jpg",
+        "amount_paid_usd": 0.54,
+        "item_description": "The Frozen Planet EP (Incl. Siel Remix) (LR010)",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540616005746882",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347968965000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654347929.30304,
+        "country": "United States",
+        "artist_name": "Kyle Flanagan",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://hotreleases.bandcamp.com/album/hole-in-my-head",
+        "art_id": 1217852026,
+        "art_url": "https://f4.bcbits.com/img/a1217852026_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Hole In My Head",
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540615872577730",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347968840000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347908.68334,
+        "country": "Germany",
+        "artist_name": "Enformig",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://kohderecords.bandcamp.com/album/climate-suppressor",
+        "art_id": 1935157724,
+        "art_url": "https://f4.bcbits.com/img/a1935157724_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Climate Suppressor",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540425866412231",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347787655000,
+      "data": {
+        "item_description": "MARAIS",
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347746.53421,
+        "country": "Germany",
+        "artist_name": "MARAIS",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://marais.bandcamp.com/album/marais",
+        "art_id": 4138712114,
+        "art_url": "https://f4.bcbits.com/img/a4138712114_7.jpg",
+        "amount_paid_usd": 1.07,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540425738485959",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347787535000,
+      "data": {
+        "item_description": "RuneScape",
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654347721.86595,
+        "country": "United States",
+        "artist_name": "Ian Taylor",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://mdvhimself.bandcamp.com/album/runescape",
+        "art_id": 1061145698,
+        "art_url": "https://f4.bcbits.com/img/a1061145698_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540299288608966",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347666920000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654347657.43377,
+        "country": "United States",
+        "artist_name": "Speed Plans",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "Eeking Out",
+        "amount_paid": 10,
+        "url": "https://speedplans.bandcamp.com/album/eeking-out",
+        "art_id": 2205798056,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a2205798056_7.jpg",
+        "amount_paid_usd": 10,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540299137614022",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347666790000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347604.35661,
+        "country": "Germany",
+        "artist_name": "Speakeasy Electro Swing",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "DJ Eliazar - Free Mixes part 4",
+        "amount_paid": 1,
+        "url": "https://speakeasyelectroswing.bandcamp.com/album/dj-eliazar-free-mixes-part-4",
+        "art_id": 1218102734,
+        "art_url": "https://f4.bcbits.com/img/a1218102734_7.jpg",
+        "amount_paid_usd": 1,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540236447449288",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347607000000,
+      "data": {
+        "item_type": "a",
+        "country_code": "au",
+        "utc_date": 1654347586.68353,
+        "country": "Australia",
+        "artist_name": "Wyvern Lingo",
+        "currency": "EUR",
+        "amount_paid_fmt": "€9",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "The Widow Knows E.P.",
+        "amount_paid": 9,
+        "url": "https://wyvernlingo.bandcamp.com/album/the-widow-knows-e-p",
+        "art_id": 2934160414,
+        "amount_over_fmt": "€9",
+        "art_url": "https://f4.bcbits.com/img/a2934160414_7.jpg",
+        "amount_paid_usd": 9.65,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333540236323717320",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347606890000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654347585.34622,
+        "country": "Germany",
+        "artist_name": "Spröde Lippen",
+        "currency": "EUR",
+        "amount_paid_fmt": "€11",
+        "item_price": 0,
+        "slug_type": "a",
+        "item_description": "Hundert",
+        "amount_paid": 11,
+        "url": "https://latenz.bandcamp.com/album/hundert",
+        "art_id": 3148098270,
+        "amount_over_fmt": "€11",
+        "art_url": "https://f4.bcbits.com/img/a3148098270_7.jpg",
+        "amount_paid_usd": 11.79,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539983387263176",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347365670000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654347359.63395,
+        "country": "United Kingdom",
+        "artist_name": "fupper",
+        "currency": "GBP",
+        "amount_paid_fmt": "£4",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 4,
+        "url": "https://fupper.bandcamp.com/album/send-ships-sailing",
+        "item_description": "Send Ships Sailing",
+        "art_id": 502863882,
+        "amount_over_fmt": "£4",
+        "art_url": "https://f4.bcbits.com/img/a0502863882_7.jpg",
+        "amount_paid_usd": 5,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539857608474817",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347245700000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654347184.15144,
+        "country": "France",
+        "artist_name": "MARK LAIRD",
+        "currency": "EUR",
+        "amount_paid_fmt": "€1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://marklaird.bandcamp.com/album/boi-better-know",
+        "art_id": 3528466317,
+        "art_url": "https://f4.bcbits.com/img/a3528466317_7.jpg",
+        "amount_paid_usd": 1.07,
+        "item_description": "BOI BETTER KNOW",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539796311867586",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347187240000,
+      "data": {
+        "item_type": "a",
+        "country_code": "it",
+        "utc_date": 1654347174.986,
+        "item_description": "Expanse",
+        "country": "Italy",
+        "artist_name": "Fields We Found",
+        "currency": "GBP",
+        "amount_paid_fmt": "£0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://fieldswefound.bandcamp.com/album/expanse",
+        "art_id": 2776318813,
+        "art_url": "https://f4.bcbits.com/img/a2776318813_7.jpg",
+        "amount_paid_usd": 0.62,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539605995323586",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654347005740000,
+      "data": {
+        "item_type": "a",
+        "country_code": "be",
+        "utc_date": 1654346951.38143,
+        "country": "Belgium",
+        "artist_name": "Azùal Dub x Tom Sawya",
+        "currency": "EUR",
+        "amount_paid_fmt": "€2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://dubriseprod.bandcamp.com/album/az-al-dub-feat-tom-sawya-what-a-situation-part-1-2",
+        "art_id": 1138087387,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a1138087387_7.jpg",
+        "amount_paid_usd": 2.14,
+        "item_description": "Azùal Dub feat Tom Sawya - What a Situation [Part.1&2]",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539543214981313",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346945870000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654346904.53214,
+        "country": "United Kingdom",
+        "artist_name": "Syra and Handyman",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://hfd-records.bandcamp.com/album/syra-meets-handyman",
+        "art_id": 2531340064,
+        "amount_over_fmt": "€5",
+        "item_description": "Syra Meets Handyman",
+        "art_url": "https://f4.bcbits.com/img/a2531340064_7.jpg",
+        "amount_paid_usd": 5.36,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539479167959234",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346884790000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654346866.32189,
+        "item_description": "Plas Bodfa Continuum",
+        "country": "Germany",
+        "artist_name": "jenn howd",
+        "currency": "USD",
+        "amount_paid_fmt": "$2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://jennhowd.bandcamp.com/album/plas-bodfa-continuum",
+        "art_id": 446370557,
+        "art_url": "https://f4.bcbits.com/img/a0446370557_7.jpg",
+        "amount_paid_usd": 2,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539419496644808",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346827900000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654346810.93841,
+        "country": "United Kingdom",
+        "artist_name": "stephen jones",
+        "currency": "GBP",
+        "amount_paid_fmt": "£1",
+        "item_description": "BABYBIRD BANDCAMP",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://thestephenjones.bandcamp.com/album/babybird-bandcamp",
+        "art_id": 3455955502,
+        "art_url": "https://f4.bcbits.com/img/a3455955502_7.jpg",
+        "amount_paid_usd": 1.25,
+        "details": {
+          "type": "album",
+          "stories": [
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539419351941320",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346827770000,
+      "data": {
+        "item_type": "a",
+        "country_code": "jp",
+        "utc_date": 1654346762.34364,
+        "country": "Japan",
+        "artist_name": "+TEK",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_description": "Lightning Strike Force EX-Remaster",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://plustek.bandcamp.com/album/lightning-strike-force-ex-remaster",
+        "art_id": 3182069114,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a3182069114_7.jpg",
+        "amount_paid_usd": 10,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539358994859200",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346770200000,
+      "data": {
+        "item_type": "a",
+        "country_code": "gb",
+        "utc_date": 1654346731.32799,
+        "item_description": "Protoje - Hills (Marshall Neeko Remix) 2022",
+        "country": "United Kingdom",
+        "artist_name": "Marshall Neeko Meets Protoje",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://marshallneeko.bandcamp.com/album/protoje-hills-marshall-neeko-remix-2022",
+        "art_id": 682961853,
+        "amount_over_fmt": "€5",
+        "art_url": "https://f4.bcbits.com/img/a0682961853_7.jpg",
+        "amount_paid_usd": 5.36,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539358730617024",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346769950000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654346703.50001,
+        "item_description": "Broken Crepuscular Autumn Monad of Wilt",
+        "country": "United States",
+        "artist_name": "Corvid Canine",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://corvidcanine.bandcamp.com/album/broken-crepuscular-autumn-monad-of-wilt",
+        "art_id": 1723046442,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a1723046442_7.jpg",
+        "amount_paid_usd": 10,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539295834931393",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346709960000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654346682.72936,
+        "country": "United States",
+        "artist_name": "Corvid Canine",
+        "currency": "USD",
+        "amount_paid_fmt": "$10",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 10,
+        "url": "https://corvidcanine.bandcamp.com/album/a-spring-for-dandelions",
+        "art_id": 1307336257,
+        "amount_over_fmt": "$10",
+        "art_url": "https://f4.bcbits.com/img/a1307336257_7.jpg",
+        "amount_paid_usd": 10,
+        "item_description": "A Spring For Dandelions",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539228686221506",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346645910000,
+      "data": {
+        "item_description": "Bruised Grills Eternal Tears",
+        "item_type": "a",
+        "country_code": "be",
+        "utc_date": 1654346637.41238,
+        "country": "Belgium",
+        "artist_name": "7777 の天使",
+        "currency": "EUR",
+        "amount_paid_fmt": "€2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://soulfeeder.bandcamp.com/album/bruised-grills-eternal-tears",
+        "art_id": 3286163505,
+        "amount_over_fmt": "€2",
+        "art_url": "https://f4.bcbits.com/img/a3286163505_7.jpg",
+        "amount_paid_usd": 2.14,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539169969111238",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346589920000,
+      "data": {
+        "item_type": "a",
+        "country_code": "jp",
+        "utc_date": 1654346556.50478,
+        "country": "Japan",
+        "artist_name": "éric la casa + michaële-andréa schatt",
+        "currency": "EUR",
+        "amount_paid_fmt": "€0.50",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 0.5,
+        "url": "https://swarmingradio.bandcamp.com/album/low-velocity-zone",
+        "art_id": 1250398208,
+        "art_url": "https://f4.bcbits.com/img/a1250398208_7.jpg",
+        "amount_paid_usd": 0.54,
+        "item_description": "Low Velocity Zone",
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333539169841184966",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654346589800000,
+      "data": {
+        "item_type": "a",
+        "country_code": "us",
+        "utc_date": 1654346554.33727,
+        "country": "United States",
+        "artist_name": "Darkxic",
+        "currency": "USD",
+        "amount_paid_fmt": "$1",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 1,
+        "url": "https://spikegodd.bandcamp.com/album/pyramid-trap-pyrxmxd-trxp",
+        "art_id": 842566495,
+        "art_url": "https://f4.bcbits.com/img/a0842566495_7.jpg",
+        "amount_paid_usd": 1,
+        "item_description": "Pyramid Trap (PYRXMXD TRXP)",
         "details": {
           "type": "album",
           "stories": [
