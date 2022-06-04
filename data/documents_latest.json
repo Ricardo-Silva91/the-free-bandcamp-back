@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "ref": {
+        "@ref": {
+          "id": "333536021974089920",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654343587760000,
+      "data": {
+        "item_type": "a",
+        "country_code": "fr",
+        "utc_date": 1654343576.31618,
+        "country": "France",
+        "artist_name": "Sadistic",
+        "currency": "GBP",
+        "amount_paid_fmt": "£2",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 2,
+        "url": "https://outfromoutthererecords.bandcamp.com/album/successful-attempts-at-bending-time-and-space",
+        "item_description": "Successful Attempts At Bending Time And Space",
+        "art_id": 3534484745,
+        "amount_over_fmt": "£2",
+        "art_url": "https://f4.bcbits.com/img/a3534484745_7.jpg",
+        "amount_paid_usd": 2.5,
+        "details": {
+          "type": "track",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    {
+      "ref": {
+        "@ref": {
+          "id": "333535960922849480",
+          "collection": {
+            "@ref": {
+              "id": "scrapes",
+              "collection": {
+                "@ref": {
+                  "id": "collections"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ts": 1654343529540000,
+      "data": {
+        "item_type": "a",
+        "country_code": "de",
+        "utc_date": 1654343489.42874,
+        "country": "Germany",
+        "artist_name": "Patsy O’Hara",
+        "currency": "EUR",
+        "amount_paid_fmt": "€5",
+        "item_description": "Deathinteresse",
+        "item_price": 0,
+        "slug_type": "a",
+        "amount_paid": 5,
+        "url": "https://patsyoharapunks.bandcamp.com/album/deathinteresse",
+        "art_id": 2010773266,
+        "amount_over_fmt": "€5",
+        "art_url": "https://f4.bcbits.com/img/a2010773266_7.jpg",
+        "amount_paid_usd": 5.36,
+        "details": {
+          "type": "album",
+          "stories": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  ]
+}
