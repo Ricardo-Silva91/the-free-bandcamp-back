@@ -8,7 +8,7 @@
     "build": "npm run build:server",
     "start:server": "netlify-lambda serve src/lambda -c webpack.server.js",
     "build:server": "netlify-lambda build src/lambda",
-    "push": "git reset --hard && git pull origin main && git add . && git commit -m \"chore: update docs\" && git push origin main",
+    "push": "git add . && git commit -m \"chore: update docs\" && git push origin main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
