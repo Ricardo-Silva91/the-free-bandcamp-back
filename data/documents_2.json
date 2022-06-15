@@ -2,21 +2,1060 @@
   "data": [
     {
       "country": "United States",
-      "artist_name": ".357 Homicide",
-      "currency": "GBP",
-      "amount_paid_fmt": "£10",
+      "artist_name": "A.S.M.",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
       "item_price": 0,
-      "item_description": "Executed On Site",
+      "item_description": "DEMO 2016",
       "slug_type": "a",
-      "amount_paid": 10,
-      "art_id": 356167921,
-      "amount_over_fmt": "£10",
-      "art_url": "https://f4.bcbits.com/img/a0356167921_7.jpg",
-      "amount_paid_usd": 12.57,
-      "url": "https://357homicide.bandcamp.com/album/executed-on-site",
+      "amount_paid": 1,
+      "art_id": 1617928092,
+      "art_url": "https://f4.bcbits.com/img/a1617928092_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://antichristsiegemachine.bandcamp.com/album/demo-2016",
       "item_type": "a",
       "country_code": "us",
-      "utc_date": 1654259223.9336,
+      "utc_date": 1654206126.2827,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654418650.7655,
+      "country": "United States",
+      "artist_name": "A.U. Vinyles",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1",
+      "item_description": "GRIT-Shatterproof LP",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://auvinyles.bandcamp.com/album/grit-shatterproof-lp",
+      "art_id": 4287434919,
+      "art_url": "https://f4.bcbits.com/img/a4287434919_7.jpg",
+      "amount_paid_usd": 1.07,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "c2",
+      "utc_date": 1654420237.44085,
+      "country": "C2",
+      "artist_name": "A/B Sides",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "url": "https://absidesmusic.bandcamp.com/album/tpm-brth-a-b-sides-rwrk-rm",
+      "art_id": 3409159371,
+      "art_url": "https://f4.bcbits.com/img/a3409159371_7.jpg",
+      "amount_paid_usd": 0.54,
+      "item_description": "Tpm - Brth [A/B Sides Rwrk] [rm]",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "A/D",
+      "currency": "USD",
+      "amount_paid_fmt": "$20",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 20,
+      "art_id": 1843800699,
+      "amount_over_fmt": "$20",
+      "art_url": "https://f4.bcbits.com/img/a1843800699_7.jpg",
+      "amount_paid_usd": 20,
+      "url": "https://activistsdictators.bandcamp.com/album/let-it-roll",
+      "item_type": "a",
+      "country_code": "us",
+      "item_description": "Let It Roll",
+      "utc_date": 1654223316.71777,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Mexico",
+      "artist_name": "AAD",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1811855633,
+      "art_url": "https://f4.bcbits.com/img/a1811855633_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://abhorrentafterdeath.bandcamp.com/album/maranata-body-transit",
+      "item_type": "a",
+      "country_code": "mx",
+      "item_description": "MARANATA \"Body Transit\"",
+      "utc_date": 1654236713.76428,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "AAD",
+      "currency": "USD",
+      "amount_paid_fmt": "$4",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 4,
+      "art_id": 2229522898,
+      "amount_over_fmt": "$4",
+      "art_url": "https://f4.bcbits.com/img/a2229522898_7.jpg",
+      "amount_paid_usd": 4,
+      "url": "https://abhorrentafterdeath.bandcamp.com/album/parasite-nurse-caretaker",
+      "item_description": "PARASITE NURSE \"Caretaker\"",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654302797.21277,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654406794.32588,
+      "country": "United States",
+      "artist_name": "AAD",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://abhorrentafterdeath.bandcamp.com/album/the-rita-d-ch-ance",
+      "art_id": 1112577187,
+      "item_description": "THE RITA \"Déchéance\"",
+      "art_url": "https://f4.bcbits.com/img/a1112577187_7.jpg",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653792653.11567,
+      "country": "Canada",
+      "artist_name": "Aad Sleck",
+      "currency": "GBP",
+      "amount_paid_fmt": "£0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "art_id": 158136381,
+      "item_description": "Pitman's Revenge",
+      "url": "https://legion-blotan.bandcamp.com/album/pitmans-revenge",
+      "country_code": "ca",
+      "art_url": "https://f4.bcbits.com/img/a0158136381_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 0.63,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "de",
+      "utc_date": 1654341602.61264,
+      "country": "Germany",
+      "artist_name": "Aarkanne",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "item_description": "De Profundis",
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://aarkanne.bandcamp.com/album/de-profundis",
+      "art_id": 967882011,
+      "art_url": "https://f4.bcbits.com/img/a0967882011_7.jpg",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653896934.40986,
+      "country": "Indonesia",
+      "item_description": "SMILE SEASON",
+      "artist_name": "Aaron Cartier",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2543063582,
+      "url": "https://cartierchain.bandcamp.com/album/smile-season-2",
+      "country_code": "id",
+      "art_url": "https://f4.bcbits.com/img/a2543063582_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653807991.06045,
+      "country": "United States",
+      "artist_name": "Aaron Maine and the Reilly Brothers",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1970667542,
+      "url": "https://aaronmaine.bandcamp.com/album/harmonica",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a1970667542_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "item_description": "Harmonica",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654446089.81185,
+      "country": "United States",
+      "artist_name": "Aaron Manwookie",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_description": "Nothing To Do & Nothing To Lose",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://aaronmanwookie.bandcamp.com/album/nothing-to-do-nothing-to-lose",
+      "art_id": 4170266150,
+      "art_url": "https://f4.bcbits.com/img/a4170266150_7.jpg",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "Deadbeat Dreamachine",
+      "amount_paid": 5,
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a1733178445_7.jpg",
+      "slug_type": "a",
+      "amount_over_fmt": "$5",
+      "amount_paid_usd": 5,
+      "country": "United States",
+      "artist_name": "Aaron Oropeza",
+      "currency": "USD",
+      "utc_date": 1655073469.71518,
+      "url": "https://aaronoropeza.bandcamp.com/album/deadbeat-dreamachine",
+      "art_id": 1733178445,
+      "amount_paid_fmt": "$5",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 0.5,
+      "country_code": "at",
+      "art_url": "https://f4.bcbits.com/img/a0928606226_7.jpg",
+      "item_description": "BASS ROOM EP",
+      "slug_type": "a",
+      "amount_paid_usd": 0.52,
+      "country": "Austria",
+      "artist_name": "Aasi",
+      "currency": "EUR",
+      "utc_date": 1655149344.81147,
+      "url": "https://aasi.bandcamp.com/album/bass-room-ep",
+      "art_id": 928606226,
+      "amount_paid_fmt": "€0.50",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Finland",
+      "artist_name": "Aavepyörä",
+      "currency": "EUR",
+      "amount_paid_fmt": "€2",
+      "item_description": "Bizarroworld",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 2,
+      "art_id": 2848221759,
+      "amount_over_fmt": "€2",
+      "art_url": "https://f4.bcbits.com/img/a2848221759_7.jpg",
+      "amount_paid_usd": 2.14,
+      "url": "https://aavepyora.bandcamp.com/album/bizarroworld",
+      "item_type": "a",
+      "country_code": "fi",
+      "utc_date": 1654307008.49994,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "artist_name": "AB85",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "item_description": "Moog Sound Studies Pt.1",
+      "art_id": 3363297752,
+      "art_url": "https://f4.bcbits.com/img/a3363297752_7.jpg",
+      "amount_paid_usd": 0.53,
+      "url": "https://ab85.bandcamp.com/album/moog-sound-studies-pt-1",
+      "item_type": "a",
+      "country_code": "gb",
+      "utc_date": 1654117438.75135,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "ab97",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 646826395,
+      "art_url": "https://f4.bcbits.com/img/a0646826395_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://dokidokibeats.bandcamp.com/album/cin-night-original-motion-picture-soundtrack",
+      "item_description": "Ciné Night (Original Motion Picture Soundtrack)",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654185801.42934,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "artist_name": "Abaddon Incarnate",
+      "currency": "EUR",
+      "amount_paid_fmt": "€4",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 4,
+      "item_description": "Pessimist",
+      "art_id": 3078391481,
+      "amount_over_fmt": "€4",
+      "art_url": "https://f4.bcbits.com/img/a3078391481_7.jpg",
+      "amount_paid_usd": 4.3,
+      "url": "https://abaddonincarnate.bandcamp.com/album/pessimist",
+      "item_type": "a",
+      "country_code": "gb",
+      "utc_date": 1654247681.35801,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "gb",
+      "art_url": "https://f4.bcbits.com/img/a3714893483_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1,
+      "country": "United Kingdom",
+      "artist_name": "Abandoned Places",
+      "currency": "USD",
+      "utc_date": 1655204359.71137,
+      "url": "https://abandonedplaces.bandcamp.com/album/elderhills",
+      "art_id": 3714893483,
+      "amount_paid_fmt": "$1",
+      "item_type": "a",
+      "item_price": 0,
+      "item_description": "Elderhills",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 15,
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a4070328697_7.jpg",
+      "slug_type": "a",
+      "amount_over_fmt": "$15",
+      "amount_paid_usd": 15,
+      "country": "United States",
+      "artist_name": "Abbie from Mars",
+      "currency": "USD",
+      "utc_date": 1655069385.65921,
+      "url": "https://abbiefrommars.bandcamp.com/album/my-second-debut-album",
+      "item_description": "My Second Debut Album",
+      "art_id": 4070328697,
+      "amount_paid_fmt": "$15",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abby + Slimequeen",
+      "currency": "USD",
+      "amount_paid_fmt": "$1.53",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1.53,
+      "art_id": 170792975,
+      "art_url": "https://f4.bcbits.com/img/a0170792975_7.jpg",
+      "amount_paid_usd": 1.53,
+      "url": "https://cthrn.bandcamp.com/album/dream-expansion",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654236517.47141,
+      "item_description": "Dream Expansion",
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "Sleepy Pedals",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654388579.92686,
+      "country": "United States",
+      "artist_name": "Abe Kimball",
+      "currency": "USD",
+      "amount_paid_fmt": "$30",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 30,
+      "url": "https://abekimball.bandcamp.com/album/sleepy-pedals",
+      "art_id": 3582628990,
+      "amount_over_fmt": "$30",
+      "art_url": "https://f4.bcbits.com/img/a3582628990_7.jpg",
+      "amount_paid_usd": 30,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abel jiro",
+      "currency": "USD",
+      "amount_paid_fmt": "$5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "item_description": "Fortune 幸運",
+      "art_id": 3718082031,
+      "amount_over_fmt": "$5",
+      "art_url": "https://f4.bcbits.com/img/a3718082031_7.jpg",
+      "amount_paid_usd": 5,
+      "url": "https://abeljiro.bandcamp.com/album/fortune",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654207295.18099,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Germany",
+      "artist_name": "Abeokuta",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3899329357,
+      "art_url": "https://f4.bcbits.com/img/a3899329357_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://abeokuta.bandcamp.com/album/ag",
+      "item_type": "a",
+      "country_code": "de",
+      "item_description": "Agô",
+      "utc_date": 1654266592.76905,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid_fmt": "€50",
+      "item_price": 0,
+      "country": "Croatia",
+      "artist_name": "Abergaz",
+      "slug_type": "a",
+      "currency": "EUR",
+      "art_url": "https://f4.bcbits.com/img/a2900513164_7.jpg",
+      "item_type": "a",
+      "amount_paid": 50,
+      "amount_over_fmt": "€50",
+      "amount_paid_usd": 53.22,
+      "art_id": 2900513164,
+      "url": "https://abergaz.bandcamp.com/album/manje-nije-vi-e-ep",
+      "country_code": "hr",
+      "item_description": "Manje nije više EP",
+      "utc_date": 1654104563.34348,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653789337.08256,
+      "country": "Switzerland",
+      "artist_name": "Abhorration",
+      "currency": "NOK",
+      "amount_paid_fmt": "70 NOK",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 70,
+      "art_id": 1264620022,
+      "url": "https://abhorration666.bandcamp.com/album/after-winter-comes-war",
+      "country_code": "ch",
+      "amount_over_fmt": "70",
+      "item_description": "After Winter Comes War",
+      "art_url": "https://f4.bcbits.com/img/a1264620022_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 7.4,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abi Ooze",
+      "currency": "USD",
+      "amount_paid_fmt": "$3",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "art_id": 566422841,
+      "amount_over_fmt": "$3",
+      "item_description": "R.I.P.",
+      "art_url": "https://f4.bcbits.com/img/a0566422841_7.jpg",
+      "amount_paid_usd": 3,
+      "url": "https://abiooze.bandcamp.com/album/r-i-p",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654199213.10935,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653784275.65818,
+      "country": "United States",
+      "artist_name": "Abigail Williams",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "art_id": 3510331067,
+      "url": "https://abigailwilliams.bandcamp.com/album/walk-beyond-the-dark",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3510331067_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 0.54,
+      "item_description": "Walk Beyond the Dark",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653858452.81366,
+      "country": "United Kingdom",
+      "artist_name": "Abjection Ritual",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 743825678,
+      "url": "https://abjectionritual.bandcamp.com/album/abjection-ritual",
+      "country_code": "gb",
+      "art_url": "https://f4.bcbits.com/img/a0743825678_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "item_description": "Abjection Ritual",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653779099.49387,
+      "country": "United States",
+      "artist_name": "AbJo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1985075574,
+      "url": "https://abjo.bandcamp.com/album/vibra",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a1985075574_7.jpg",
+      "item_type": "a",
+      "item_description": "#VIBRA",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653898548.07113,
+      "country": "Germany",
+      "artist_name": "Abjured",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "art_id": 1424505488,
+      "url": "https://abjuredgrindcore.bandcamp.com/album/life-you-know",
+      "country_code": "de",
+      "art_url": "https://f4.bcbits.com/img/a1424505488_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 0.54,
+      "item_description": "Life you Know..?!",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653797612.08653,
+      "country": "Canada",
+      "artist_name": "ablaut & friends",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "drone day 2022",
+      "amount_paid": 1,
+      "art_id": 3990540593,
+      "url": "https://ablaut.bandcamp.com/album/drone-day-2022",
+      "country_code": "ca",
+      "art_url": "https://f4.bcbits.com/img/a3990540593_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country_code": "us",
+      "item_type": "a",
+      "utc_date": 1654459962.89213,
+      "country": "United States",
+      "amount_paid_fmt": "$5",
+      "currency": "USD",
+      "artist_name": "Ably House",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Ably House",
+      "url": "https://ablyhouse.bandcamp.com/album/ably-house",
+      "amount_paid": 5,
+      "amount_over_fmt": "$5",
+      "art_id": 538686920,
+      "art_url": "https://f4.bcbits.com/img/a0538686920_7.jpg",
+      "amount_paid_usd": 5,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "AJ Tracey - Redbull (Abmanrah's 160 Flip)",
+      "utc_date": 1653750068.12087,
+      "country": "Mexico",
+      "artist_name": "Abmanrah",
+      "currency": "GBP",
+      "amount_paid_fmt": "£0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "art_id": 729540146,
+      "url": "https://abmanrah.bandcamp.com/album/aj-tracey-redbull-abmanrahs-160-flip",
+      "country_code": "mx",
+      "art_url": "https://f4.bcbits.com/img/a0729540146_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 0.63,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "artist_name": "Abolish",
+      "currency": "GBP",
+      "amount_paid_fmt": "£6",
+      "item_description": "The Monarchy",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 6,
+      "art_id": 1567311345,
+      "amount_over_fmt": "£6",
+      "art_url": "https://f4.bcbits.com/img/a1567311345_7.jpg",
+      "amount_paid_usd": 7.51,
+      "url": "https://hardreturn.bandcamp.com/album/the-monarchy",
+      "item_type": "a",
+      "country_code": "gb",
+      "utc_date": 1654158138.34722,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 0.5,
+      "country_code": "fr",
+      "art_url": "https://f4.bcbits.com/img/a2720252529_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 0.52,
+      "country": "France",
+      "artist_name": "Abolition Ritual",
+      "currency": "EUR",
+      "utc_date": 1655186548.57251,
+      "url": "https://extremechaos.bandcamp.com/album/dark-visions-of-torment",
+      "item_description": "Dark Visions Of Torment",
+      "art_id": 2720252529,
+      "amount_paid_fmt": "€0.50",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653697580.99908,
+      "item_description": "Cosmonemesis",
+      "country": "United States",
+      "artist_name": "ABOLITION RITUAL",
+      "currency": "EUR",
+      "amount_paid_fmt": "€5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "art_id": 3398673245,
+      "url": "https://abolitionritual.bandcamp.com/album/cosmonemesis",
+      "country_code": "us",
+      "amount_over_fmt": "€5",
+      "art_url": "https://f4.bcbits.com/img/a3398673245_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 5.37,
       "details": {
         "type": "track",
         "stories": [
@@ -27,22 +1066,1564 @@
       }
     },
     {
-      "country": "United States",
-      "artist_name": ".KAGE",
+      "amount_paid": 1,
+      "country_code": "de",
+      "art_url": "https://f4.bcbits.com/img/a3657127058_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1,
+      "country": "Germany",
+      "artist_name": "Abominism",
       "currency": "USD",
-      "amount_paid_fmt": "$15",
-      "item_description": "METANOIA_",
+      "utc_date": 1655181044.31493,
+      "url": "https://abominism.bandcamp.com/album/abominism",
+      "item_description": "Abominism",
+      "art_id": 3657127058,
+      "amount_paid_fmt": "$1",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "br",
+      "utc_date": 1654314893.3058,
+      "country": "Brazil",
+      "artist_name": "Above Skies",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1",
       "item_price": 0,
       "slug_type": "a",
-      "amount_paid": 15,
-      "art_id": 1191522563,
-      "amount_over_fmt": "$15",
-      "art_url": "https://f4.bcbits.com/img/a1191522563_7.jpg",
-      "amount_paid_usd": 15,
-      "url": "https://kageidk.bandcamp.com/album/metanoia",
+      "amount_paid": 1,
+      "url": "https://aboveskies.bandcamp.com/album/pile-of-covers-vol-3",
+      "art_id": 1958772661,
+      "item_description": "Pile Of Covers vol.3",
+      "art_url": "https://f4.bcbits.com/img/a1958772661_7.jpg",
+      "amount_paid_usd": 1.07,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "Look, here comes the dark!",
+      "country": "United States",
+      "artist_name": "Abraham",
+      "currency": "EUR",
+      "amount_paid_fmt": "€5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "art_id": 3156277086,
+      "amount_over_fmt": "€5",
+      "art_url": "https://f4.bcbits.com/img/a3156277086_7.jpg",
+      "amount_paid_usd": 5.38,
+      "url": "https://abrahamband.bandcamp.com/album/look-here-comes-the-dark",
       "item_type": "a",
       "country_code": "us",
-      "utc_date": 1654124643.11933,
+      "utc_date": 1654229976.69229,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "de",
+      "art_url": "https://f4.bcbits.com/img/a2895519186_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1,
+      "country": "Germany",
+      "artist_name": "Abrakadaver",
+      "currency": "USD",
+      "utc_date": 1655181026.89,
+      "url": "https://abrakadavergrind.bandcamp.com/album/incitement-of-hate-e-p",
+      "item_description": "Incitement of Hate E.P.",
+      "art_id": 2895519186,
+      "amount_paid_fmt": "$1",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653821487.10484,
+      "country": "United Kingdom",
+      "artist_name": "Abrielle Scharff",
+      "item_description": "Eliot EP",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 651866133,
+      "url": "https://abriellescharff.bandcamp.com/album/eliot-ep",
+      "country_code": "gb",
+      "art_url": "https://f4.bcbits.com/img/a0651866133_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "ABRUPT DECAY",
+      "currency": "CAD",
+      "amount_paid_fmt": "$3 CAD",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "I Was Never Here",
+      "amount_paid": 3,
+      "art_id": 2742236155,
+      "amount_over_fmt": "$3",
+      "art_url": "https://f4.bcbits.com/img/a2742236155_7.jpg",
+      "amount_paid_usd": 2.38,
+      "url": "https://abruptdecayab.bandcamp.com/album/i-was-never-here",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654274643.34417,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3776194939_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1,
+      "country": "United States",
+      "artist_name": "Abscess",
+      "currency": "USD",
+      "utc_date": 1655067334.64964,
+      "url": "https://abscessdeathmetal.bandcamp.com/album/thirst-for-blood-hunger-for-flesh",
+      "art_id": 3776194939,
+      "amount_paid_fmt": "$1",
+      "item_type": "a",
+      "item_price": 0,
+      "item_description": "Thirst for Blood , Hunger for Flesh",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "ABSCESSION (Sweden/Germany)",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 57203844,
+      "art_url": "https://f4.bcbits.com/img/a0057203844_7.jpg",
+      "item_description": "Rot of Ages (Death Metal)",
+      "amount_paid_usd": 1.06,
+      "url": "https://abscessiondeath.bandcamp.com/album/rot-of-ages-death-metal",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654118279.61775,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abstain",
+      "currency": "USD",
+      "amount_paid_fmt": "$3",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "art_id": 3903912016,
+      "amount_over_fmt": "$3",
+      "art_url": "https://f4.bcbits.com/img/a3903912016_7.jpg",
+      "amount_paid_usd": 3,
+      "url": "https://abstainxxx.bandcamp.com/album/the-demo",
+      "item_description": "The Demo",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654123832.19737,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abstract Void",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 225425174,
+      "art_url": "https://f4.bcbits.com/img/a0225425174_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://abstractvoid.bandcamp.com/album/back-to-reality",
+      "item_description": "Back to Reality",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654122071.46351,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "artist_name": "Abstract Void",
+      "item_description": "Abstract Void Instrumental",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1505935011,
+      "art_url": "https://f4.bcbits.com/img/a1505935011_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://abstractvoid.bandcamp.com/album/abstract-void-instrumental",
+      "item_type": "a",
+      "country_code": "gb",
+      "utc_date": 1654178675.19296,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Abstract Void",
+      "currency": "USD",
+      "amount_paid_fmt": "$12",
+      "item_description": "Wishdream",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 12,
+      "art_id": 3000083230,
+      "amount_over_fmt": "$12",
+      "art_url": "https://f4.bcbits.com/img/a3000083230_7.jpg",
+      "amount_paid_usd": 12,
+      "url": "https://abstractvoid.bandcamp.com/album/wishdream",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654204017.4703,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654308615.90354,
+      "country": "United States",
+      "artist_name": "Abstract Void",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://abstractvoid.bandcamp.com/album/into-the-blue",
+      "item_description": "Into the Blue",
+      "art_id": 3446636280,
+      "art_url": "https://f4.bcbits.com/img/a3446636280_7.jpg",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653745859.28947,
+      "country": "Slovakia",
+      "artist_name": "Abstracted",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "item_description": "Ophidian",
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3043242379,
+      "url": "https://abstractedmetal.bandcamp.com/album/ophidian",
+      "country_code": "sk",
+      "art_url": "https://f4.bcbits.com/img/a3043242379_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 0.5,
+      "country_code": "de",
+      "art_url": "https://f4.bcbits.com/img/a0252421546_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 0.52,
+      "item_description": "The Abstrakt Soundz Of Mexico Vol 2",
+      "country": "Germany",
+      "artist_name": "Abstrakt Soundz",
+      "currency": "EUR",
+      "utc_date": 1655156352.09937,
+      "url": "https://abstraktsoundzmusic.bandcamp.com/album/the-abstrakt-soundz-of-mexico-vol-2",
+      "art_id": 252421546,
+      "amount_paid_fmt": "€0.50",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654492846.77763,
+      "item_description": "Live Sketches June 4-5, 2022",
+      "country": "United States",
+      "artist_name": "Abstrakta",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://sergeypakhomov.bandcamp.com/album/live-sketches-june-4-5-2022",
+      "art_id": 750126187,
+      "art_url": "https://f4.bcbits.com/img/a0750126187_7.jpg",
+      "amount_paid_usd": 1.07,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "ie",
+      "utc_date": 1654331844.242,
+      "country": "Ireland",
+      "item_description": "Beautiful Losers",
+      "artist_name": "Abstral",
+      "currency": "USD",
+      "amount_paid_fmt": "$3",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "url": "https://abstral.bandcamp.com/album/beautiful-losers",
+      "art_id": 883181740,
+      "amount_over_fmt": "$3",
+      "art_url": "https://f4.bcbits.com/img/a0883181740_7.jpg",
+      "amount_paid_usd": 3,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653815068.02752,
+      "country": "Belgium",
+      "artist_name": "absurdcus",
+      "currency": "EUR",
+      "amount_paid_fmt": "€3",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "art_id": 4261449625,
+      "url": "https://absurdcus.bandcamp.com/album/a-drop-of-calm",
+      "country_code": "be",
+      "amount_over_fmt": "€3",
+      "art_url": "https://f4.bcbits.com/img/a4261449625_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 3.22,
+      "item_description": "a drop of Calm",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653724604.99743,
+      "country": "United States",
+      "artist_name": "Absurdum Essentia",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3869963400,
+      "url": "https://absurdumessentia.bandcamp.com/album/kino",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3869963400_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "item_description": "Kino",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Italy",
+      "artist_name": "Abu Ama",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 708022978,
+      "art_url": "https://f4.bcbits.com/img/a0708022978_7.jpg",
+      "amount_paid_usd": 1.07,
+      "url": "https://mahorka.bandcamp.com/album/totem",
+      "item_type": "a",
+      "country_code": "it",
+      "utc_date": 1654120774.29426,
+      "item_description": "TOTEM",
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654430911.27941,
+      "country": "United States",
+      "artist_name": "Abunai!",
+      "currency": "USD",
+      "amount_paid_fmt": "$2",
+      "item_price": 0,
+      "item_description": "Universal Mind Decoder (Deluxe Edition)",
+      "slug_type": "a",
+      "amount_paid": 2,
+      "url": "https://abunai.bandcamp.com/album/universal-mind-decoder-deluxe-edition",
+      "art_id": 3277155376,
+      "art_url": "https://f4.bcbits.com/img/a3277155376_7.jpg",
+      "amount_paid_usd": 2,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Portugal",
+      "artist_name": "Abuso",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "item_description": "Abuso",
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2787374769,
+      "art_url": "https://f4.bcbits.com/img/a2787374769_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://stupiddecisions.bandcamp.com/album/abuso",
+      "item_type": "a",
+      "country_code": "pt",
+      "utc_date": 1654249282.84038,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653731980.86761,
+      "country": "United States",
+      "artist_name": "Abysmal Winds",
+      "currency": "SEK",
+      "amount_paid_fmt": "10 SEK",
+      "item_price": 0,
+      "item_description": "Doom Prayer",
+      "slug_type": "a",
+      "amount_paid": 10,
+      "art_id": 3254962258,
+      "url": "https://abysmalwinds.bandcamp.com/album/doom-prayer",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3254962258_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1.02,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Canada",
+      "artist_name": "Abysmalist",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2883008851,
+      "art_url": "https://f4.bcbits.com/img/a2883008851_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://abysmalist.bandcamp.com/album/reflections-of-horror",
+      "item_type": "a",
+      "country_code": "ca",
+      "utc_date": 1654269221.52319,
+      "item_description": "Reflections Of Horror",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654494228.37006,
+      "country": "United States",
+      "artist_name": "Abyssal Plains",
+      "currency": "GBP",
+      "amount_paid_fmt": "£5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "url": "https://abyssalplains.bandcamp.com/album/chimera",
+      "art_id": 1932771012,
+      "amount_over_fmt": "£5",
+      "item_description": "Chimera",
+      "art_url": "https://f4.bcbits.com/img/a1932771012_7.jpg",
+      "amount_paid_usd": 6.25,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid_fmt": "€1",
+      "item_description": "Death Revival (Death Metal)",
+      "item_price": 0,
+      "country": "Germany",
+      "artist_name": "ABYSSUS (Greece)",
+      "slug_type": "a",
+      "currency": "EUR",
+      "art_url": "https://f4.bcbits.com/img/a2712517148_7.jpg",
+      "item_type": "a",
+      "amount_paid": 1,
+      "amount_paid_usd": 1.06,
+      "art_id": 2712517148,
+      "url": "https://abyssusgreece.bandcamp.com/album/death-revival-death-metal",
+      "country_code": "de",
+      "utc_date": 1654106223.21389,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "ABYSSUS (Greece)",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.89",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.89,
+      "art_id": 561663696,
+      "art_url": "https://f4.bcbits.com/img/a0561663696_7.jpg",
+      "amount_paid_usd": 0.95,
+      "url": "https://abyssusgreece.bandcamp.com/album/once-entombed-death-metal",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654292270.31057,
+      "item_description": "Once Entombed... (Death Metal)",
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "abyuse",
+      "currency": "USD",
+      "amount_paid_fmt": "$5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "item_description": "Echo",
+      "art_id": 4110338180,
+      "amount_over_fmt": "$5",
+      "art_url": "https://f4.bcbits.com/img/a4110338180_7.jpg",
+      "amount_paid_usd": 5,
+      "url": "https://abyuse.bandcamp.com/album/echo",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654261055.49476,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653746835.2353,
+      "country": "France",
+      "artist_name": "Acathexis",
+      "currency": "USD",
+      "amount_paid_fmt": "$5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "art_id": 129227142,
+      "url": "https://acathexis.bandcamp.com/album/acathexis",
+      "country_code": "fr",
+      "amount_over_fmt": "$5",
+      "art_url": "https://f4.bcbits.com/img/a0129227142_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 5,
+      "item_description": "Acathexis",
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653857771.45291,
+      "country": "Canada",
+      "artist_name": "Access to Arasaka",
+      "currency": "USD",
+      "amount_paid_fmt": "$10",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "l a k e s",
+      "amount_paid": 10,
+      "art_id": 1771915320,
+      "url": "https://accesstoarasaka.bandcamp.com/album/l-a-k-e-s",
+      "country_code": "ca",
+      "amount_over_fmt": "$10",
+      "art_url": "https://f4.bcbits.com/img/a1771915320_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 10,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "utc_date": 1653858006.77205,
+      "country": "Canada",
+      "artist_name": "Access to Arasaka",
+      "currency": "USD",
+      "amount_paid_fmt": "$4",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 4,
+      "art_id": 892135571,
+      "item_description": "telinit 6",
+      "url": "https://accesstoarasaka.bandcamp.com/album/telinit-6",
+      "country_code": "ca",
+      "amount_over_fmt": "$4",
+      "art_url": "https://f4.bcbits.com/img/a0892135571_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 4,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Sweden",
+      "item_description": "Guitar dreams",
+      "artist_name": "Accou",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1314926341,
+      "art_url": "https://f4.bcbits.com/img/a1314926341_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://accou.bandcamp.com/album/guitar-dreams",
+      "item_type": "a",
+      "country_code": "se",
+      "utc_date": 1654196377.51685,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3129172573_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1.23,
+      "country": "United States",
+      "artist_name": "AcdBrnOut",
+      "currency": "GBP",
+      "utc_date": 1655064785.2147,
+      "url": "https://acdbrnout.bandcamp.com/album/acdbrnout-kick-pack",
+      "item_description": "AcdBrnOut Kick Pack",
+      "art_id": 3129172573,
+      "amount_paid_fmt": "£1",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "de",
+      "art_url": "https://f4.bcbits.com/img/a2341891231_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1.05,
+      "item_description": "Speculum Humanae Salvationis",
+      "country": "Germany",
+      "artist_name": "Acedia Mundi",
+      "currency": "EUR",
+      "utc_date": 1655120578.39945,
+      "url": "https://acediamundi.bandcamp.com/album/speculum-humanae-salvationis",
+      "art_id": 2341891231,
+      "amount_paid_fmt": "€1",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "ch",
+      "utc_date": 1654434412.228,
+      "country": "Switzerland",
+      "artist_name": "ACeKa",
+      "currency": "EUR",
+      "amount_paid_fmt": "€2",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 2,
+      "url": "https://aceka.bandcamp.com/album/stupeflip-stupeflip-cest-ltruc-stup-fiant",
+      "art_id": 992874428,
+      "amount_over_fmt": "€2",
+      "art_url": "https://f4.bcbits.com/img/a0992874428_7.jpg",
+      "amount_paid_usd": 2.14,
+      "item_description": "Stupeflip Stupeflip c'est l'truc stupéfiant",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acetantina",
+      "currency": "GBP",
+      "amount_paid_fmt": "£4",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Temple of Null",
+      "amount_paid": 4,
+      "art_id": 2147349699,
+      "amount_over_fmt": "£4",
+      "art_url": "https://f4.bcbits.com/img/a2147349699_7.jpg",
+      "amount_paid_usd": 5.01,
+      "url": "https:https://kaizoslumber.xyz/album/temple-of-null",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654274508.35813,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 3,
+      "country_code": "gb",
+      "art_url": "https://f4.bcbits.com/img/a0740615297_7.jpg",
+      "slug_type": "a",
+      "amount_over_fmt": "£3",
+      "amount_paid_usd": 3.63,
+      "country": "United Kingdom",
+      "artist_name": "Acetate Fall",
+      "currency": "GBP",
+      "utc_date": 1655209429.42324,
+      "url": "https://acetatefall.bandcamp.com/album/remote-with-static",
+      "item_description": "remote with static",
+      "art_id": 740615297,
+      "amount_paid_fmt": "£3",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Germany",
+      "item_description": "Various Artists 001",
+      "artist_name": "Achat,Egotik, MRD, MSKD, Nonambient, Rune Bagge, Spule, Umbraid, Vixen, WBR",
+      "currency": "EUR",
+      "amount_paid_fmt": "€0.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 0.5,
+      "art_id": 2142700592,
+      "art_url": "https://f4.bcbits.com/img/a2142700592_7.jpg",
+      "amount_paid_usd": 0.54,
+      "url": "https://mitsu2000.bandcamp.com/album/various-artists-001",
+      "item_type": "a",
+      "country_code": "de",
+      "utc_date": 1654180325.8189,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654454567.9288,
+      "country": "United States",
+      "artist_name": "Acheulean Forests/Arthel",
+      "currency": "CAD",
+      "amount_paid_fmt": "$3 CAD",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 3,
+      "url": "https://serpentsswordrecords.bandcamp.com/album/acheulean-forests-arthel-split",
+      "art_id": 2586081409,
+      "amount_over_fmt": "$3",
+      "item_description": "Acheulean Forests/Arthel Split",
+      "art_url": "https://f4.bcbits.com/img/a2586081409_7.jpg",
+      "amount_paid_usd": 2.38,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Germany",
+      "amount_paid_fmt": "€0.50",
+      "artist_name": "Acid Echoes",
+      "currency": "EUR",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Repression 潜抑",
+      "amount_paid": 0.5,
+      "art_url": "https://f4.bcbits.com/img/a4046842219_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 0.54,
+      "art_id": 4046842219,
+      "url": "https://acidechoesmusic.bandcamp.com/album/repression",
+      "country_code": "de",
+      "utc_date": 1653690001.81154,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acid Fader",
+      "currency": "MXN",
+      "amount_paid_fmt": "$10 MXN",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 10,
+      "item_description": "1998",
+      "art_id": 2456907786,
+      "art_url": "https://f4.bcbits.com/img/a2456907786_7.jpg",
+      "amount_paid_usd": 0.51,
+      "url": "https://acidfader.bandcamp.com/album/1998",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654123526.23797,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_description": "Wyrd Syster",
+      "country": "United States",
+      "amount_paid_fmt": "$2",
+      "artist_name": "Acid Magus",
+      "currency": "USD",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 2,
+      "art_url": "https://f4.bcbits.com/img/a0353825560_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 2,
+      "art_id": 353825560,
+      "url": "https://acidmagus.bandcamp.com/album/wyrd-syster",
+      "country_code": "us",
+      "utc_date": 1653686830.76733,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Germany",
+      "artist_name": "ACID ROOSTER",
+      "currency": "EUR",
+      "amount_paid_fmt": "€5",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 5,
+      "art_id": 2537142669,
+      "amount_over_fmt": "€5",
+      "art_url": "https://f4.bcbits.com/img/a2537142669_7.jpg",
+      "amount_paid_usd": 5.34,
+      "url": "https://acidrooster.bandcamp.com/album/live-at-desi",
+      "item_description": "live at desi",
+      "item_type": "a",
+      "country_code": "de",
+      "utc_date": 1654170200.48925,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "amount_paid_fmt": "£2",
+      "artist_name": "Acid Throne",
+      "currency": "GBP",
+      "item_price": 0,
+      "item_description": "Acid Throne - The Demo",
+      "slug_type": "a",
+      "amount_paid": 2,
+      "amount_over_fmt": "£2",
+      "art_url": "https://f4.bcbits.com/img/a2825925537_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 2.53,
+      "art_id": 2825925537,
+      "url": "https://spectralhoundrecords.bandcamp.com/album/acid-throne-the-demo",
+      "country_code": "us",
+      "utc_date": 1653684041.4083,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "amount_paid_fmt": "£1",
+      "artist_name": "ACID THRONE",
+      "currency": "GBP",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_url": "https://f4.bcbits.com/img/a1140906848_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1.26,
+      "art_id": 1140906848,
+      "url": "https://acidthroneband.bandcamp.com/album/the-demo",
+      "country_code": "us",
+      "item_description": "The Demo",
+      "utc_date": 1653694991.46419,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 1,
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a4057678232_7.jpg",
+      "slug_type": "a",
+      "amount_paid_usd": 1.22,
+      "country": "United States",
+      "artist_name": "acidliner",
+      "currency": "GBP",
+      "utc_date": 1655147935.87164,
+      "url": "https://acidliner.bandcamp.com/album/red-1",
+      "item_description": "Red-1",
+      "art_id": 4057678232,
+      "amount_paid_fmt": "£1",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acne Faction",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "item_description": "Acne Faction",
+      "art_id": 117283001,
+      "art_url": "https://f4.bcbits.com/img/a0117283001_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acnefaction.bandcamp.com/album/acne-faction",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654142328.19422,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "be",
+      "utc_date": 1654460500.24336,
+      "country": "Belgium",
+      "artist_name": "ACOD",
+      "currency": "EUR",
+      "amount_paid_fmt": "€1.50",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1.5,
+      "url": "https://acod.bandcamp.com/album/inner-light-ep",
+      "art_id": 1426316581,
+      "amount_over_fmt": "€1.50",
+      "art_url": "https://f4.bcbits.com/img/a1426316581_7.jpg",
+      "amount_paid_usd": 1.61,
+      "item_description": "Inner Light (EP)",
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 5,
+      "country_code": "au",
+      "art_url": "https://f4.bcbits.com/img/a0883114061_7.jpg",
+      "slug_type": "a",
+      "amount_over_fmt": "$5",
+      "amount_paid_usd": 3.46,
+      "country": "Australia",
+      "artist_name": "Acolyte",
+      "item_description": "Shades of Black",
+      "currency": "AUD",
+      "utc_date": 1655205238.11022,
+      "url": "https://acolyteband.bandcamp.com/album/shades-of-black",
+      "art_id": 883114061,
+      "amount_paid_fmt": "$5 AUD",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "Germany",
+      "artist_name": "Acolytes Of Moros",
+      "currency": "USD",
+      "amount_paid_fmt": "$1.11",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "The Wellspring",
+      "amount_paid": 1.11,
+      "art_id": 994311786,
+      "art_url": "https://f4.bcbits.com/img/a0994311786_7.jpg",
+      "amount_paid_usd": 1.11,
+      "url": "https://moltenmagma.bandcamp.com/album/the-wellspring",
+      "item_type": "a",
+      "country_code": "de",
+      "utc_date": 1654267517.43244,
+      "details": {
+        "type": "track",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "item_type": "a",
+      "country_code": "ee",
+      "utc_date": 1654365926.13428,
+      "country": "Estonia",
+      "artist_name": "acounta & TOKYOGHOST",
+      "currency": "CAD",
+      "amount_paid_fmt": "$1 CAD",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "url": "https://acounta.bandcamp.com/album/a-777",
+      "item_description": "A.777",
+      "art_id": 2478098986,
+      "art_url": "https://f4.bcbits.com/img/a2478098986_7.jpg",
+      "amount_paid_usd": 0.79,
       "details": {
         "type": "album",
         "stories": [
@@ -50,15 +2631,405 @@
           ""
         ]
       }
+    },
+    {
+      "utc_date": 1653758176.38531,
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_description": "Adventure Island",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3436304202,
+      "url": "https://acousticguitendo.bandcamp.com/album/adventure-island",
+      "country_code": "us",
+      "art_url": "https://f4.bcbits.com/img/a3436304202_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 1,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "DuckTales",
+      "amount_paid": 1,
+      "art_id": 2327268813,
+      "art_url": "https://f4.bcbits.com/img/a2327268813_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/ducktales",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129071.12477,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Chip n Dale Rescue Rangers",
+      "amount_paid": 1,
+      "art_id": 4145916792,
+      "art_url": "https://f4.bcbits.com/img/a4145916792_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/chip-n-dale-rescue-rangers",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129089.59993,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Dr. Mario",
+      "amount_paid": 1,
+      "art_id": 608265771,
+      "art_url": "https://f4.bcbits.com/img/a0608265771_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/dr-mario",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129106.19758,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Metroid",
+      "amount_paid": 1,
+      "art_id": 798472761,
+      "art_url": "https://f4.bcbits.com/img/a0798472761_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/metroid",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129121.46736,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "item_description": "Super Mario Land 2: 6 Golden Coins",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 1589125937,
+      "art_url": "https://f4.bcbits.com/img/a1589125937_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/super-mario-land-2-6-golden-coins",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129164.4508,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2150748443,
+      "art_url": "https://f4.bcbits.com/img/a2150748443_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/the-goonies-ii",
+      "item_type": "a",
+      "item_description": "The Goonies II",
+      "country_code": "us",
+      "utc_date": 1654129348.02102,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3737568051,
+      "art_url": "https://f4.bcbits.com/img/a3737568051_7.jpg",
+      "item_description": "Ironsword: Wizards & Warriors II",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/ironsword-wizards-warriors-ii",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129383.95576,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 3542060654,
+      "art_url": "https://f4.bcbits.com/img/a3542060654_7.jpg",
+      "item_description": "The Guardian Legend",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/the-guardian-legend",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654129400.84507,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "artist_name": "Acoustic Guitendo",
+      "currency": "USD",
+      "amount_paid_fmt": "$1",
+      "item_price": 0,
+      "slug_type": "a",
+      "amount_paid": 1,
+      "art_id": 2495647274,
+      "art_url": "https://f4.bcbits.com/img/a2495647274_7.jpg",
+      "amount_paid_usd": 1,
+      "url": "https://acousticguitendo.bandcamp.com/album/ninja-gaiden",
+      "item_description": "Ninja Gaiden",
+      "item_type": "a",
+      "country_code": "us",
+      "utc_date": 1654279913.47315,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "country": "United States",
+      "amount_paid_fmt": "$15",
+      "artist_name": "Acoustic Nature",
+      "currency": "USD",
+      "item_price": 0,
+      "slug_type": "a",
+      "item_description": "Nantahala Wilderness",
+      "amount_paid": 15,
+      "amount_over_fmt": "$15",
+      "art_url": "https://f4.bcbits.com/img/a1755228185_7.jpg",
+      "item_type": "a",
+      "amount_paid_usd": 15,
+      "art_id": 1755228185,
+      "url": "https://acousticnature.bandcamp.com/album/nantahala-wilderness",
+      "country_code": "us",
+      "utc_date": 1653680103.87196,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "amount_paid": 2,
+      "country_code": "ca",
+      "art_url": "https://f4.bcbits.com/img/a1777193017_7.jpg",
+      "slug_type": "a",
+      "item_description": "Hammersley Wild Area",
+      "amount_paid_usd": 2,
+      "country": "Canada",
+      "artist_name": "Acoustic Nature",
+      "currency": "USD",
+      "utc_date": 1655208981.74256,
+      "url": "https://acousticnature.bandcamp.com/album/hammersley-wild-area",
+      "art_id": 1777193017,
+      "amount_paid_fmt": "$2",
+      "item_type": "a",
+      "item_price": 0,
+      "details": {
+        "type": "album",
+        "stories": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
     }
   ],
-  "first": ".357 Homicide",
-  "last": ".KAGE",
+  "first": "A.S.M.",
+  "last": "Acoustic Nature",
   "after": [
-    ".tif",
+    "Acrelid",
     {
       "@ref": {
-        "id": "333463109510365377",
+        "id": "333343376173695175",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -73,7 +3044,7 @@
     },
     {
       "@ref": {
-        "id": "333463109510365377",
+        "id": "333343376173695175",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -88,10 +3059,10 @@
     }
   ],
   "before": [
-    ".357 Homicide",
+    "A.S.M.",
     {
       "@ref": {
-        "id": "333447628469567686",
+        "id": "333391948656148672",
         "collection": {
           "@ref": {
             "id": "scrapes",
@@ -106,7 +3077,7 @@
     },
     {
       "@ref": {
-        "id": "333447628469567686",
+        "id": "333391948656148672",
         "collection": {
           "@ref": {
             "id": "scrapes",
