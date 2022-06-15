@@ -9,6 +9,7 @@
     "start:server": "netlify-lambda serve src/lambda -c webpack.server.js",
     "build:server": "netlify-lambda build src/lambda",
     "push": "git add . && git commit -m \"chore: update docs\" && git push origin main",
+    "setArtistIndex": "node ./src/utils/setArtistIndex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
