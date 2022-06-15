@@ -6,7 +6,7 @@ exports.handler = async (event) => {
   let result = {};
 
   try {
-    result = require(`../../data/documents_${page}.json`);
+    result = require(`../../data/raw/documents_${page}.json`);
   } catch (error) {
     console.log('document doesn\'t exist!!', { error });
     fail = true;

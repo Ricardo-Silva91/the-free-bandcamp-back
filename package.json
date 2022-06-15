@@ -10,8 +10,11 @@
     "build:server": "netlify-lambda build src/lambda",
     "push": "git add . && git commit -m \"chore: update docs\" && git push origin main",
     "setArtistIndex": "node ./src/utils/setArtistIndex.js",
+    "setTitleIndex": "node ./src/utils/setTitleIndex.js",
+    "setSaleDateIndex": "node ./src/utils/setSaleDateIndex.js",
     "lint": "eslint src",
     "lint:fix": "npm run lint -- --fix",
+    "daemon": "node ./src/daemon.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,5 +34,9 @@
     "eslint-plugin-import": "^2.26.0",
     "netlify-lambda": "^2.0.15",
     "prettier": "^2.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
   }
 }
