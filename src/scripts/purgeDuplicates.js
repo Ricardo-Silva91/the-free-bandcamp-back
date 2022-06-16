@@ -11,7 +11,18 @@ console.log({ dataFiles });
 numberedDataFiles.reduce((acc, file) => {
   const data = JSON.parse(fs.readFileSync(path.join(dataPath, file)));
 
-  const filteredData = data.filter((album) => !acc.find((accAlbum) => accAlbum.url === album.url));
+  let filteredData = data.filter((album) => !acc.find((accAlbum) => accAlbum.url === album.url));
+  const foundUrls = [];
+
+  filteredData = filteredData.reduce((acc2, album) => {
+    if (foundUrls.includes(album.url)) {
+      return acc2;
+    }
+
+    foundUrls.push(album.url);
+
+    return [...acc2, album];
+  }, []);
 
   console.log({ acc: acc.length, data: data.length, fil: filteredData.length });
 
