@@ -2104,6 +2104,38 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1655386391.82755,
+    "releases": null,
+    "item_description": "Gaizka - Music for Tape Loops and Spanish Guitar",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "package_image_id": null,
+    "artist_name": "Richard Youngs",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "url": "https://nofansrecords.bandcamp.com/album/gaizka-music-for-tape-loops-and-spanish-guitar",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a3548924365_7.jpg",
+    "slug_type": "a",
+    "art_id": 3548924365,
+    "amount_paid_usd": 1.21,
+    "details": {
+      "tags": [
+        "experimental",
+        "acoustic",
+        "alternative",
+        "classical punk world",
+        "electronic",
+        "no genre",
+        "Glasgow"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "ToCoSo",
     "currency": "GBP",
@@ -5336,6 +5368,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655386346.09508,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "item_description": "Glacial Dancehall",
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Jay Glass Dubs",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "url": "https://jayglassdubs.bandcamp.com/album/glacial-dancehall-2",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a2958152299_7.jpg",
+    "slug_type": "a",
+    "art_id": 2958152299,
+    "amount_paid_usd": 1.21,
+    "details": {
+      "tags": [
+        "electronic",
+        "ambient",
+        "dancehall",
+        "dub techno",
+        "dubtech",
+        "experimental electronic",
+        "industrial",
+        "song",
+        "Athens"
       ]
     }
   },
