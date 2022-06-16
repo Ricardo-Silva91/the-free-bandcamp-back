@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const { isTitleInDb, addAlbumsToDatabase } = require('./data.utils');
 // const { readFile, writeFile } = require('./fs.utils.js');
 // const { cleanUrl } = require('./js.utils.js');
 
@@ -11,20 +12,16 @@ const getDetailsForAlbum = (album) => new Promise(
       .then((response) => {
         const html = response.data;
         const $ = cheerio.load(html);
+        const tagsElems = $('.tralbum-tags .tag');
+        const tags = [];
 
-        const type = $('.buyItemPackageTitle.primaryText');
-        const saleType = type.text() === 'Digital Album' ? 'album' : 'track';
-
-        const tags = $('.tralbum-tags .tag');
-        const stories = [];
-        tags.each(() => {
-          const title = $(this).text();
-          stories.push(title);
+        tagsElems.each((_, tag) => {
+          const title = $(tag).text();
+          tags.push(title);
         });
 
         resolve({
-          type: saleType,
-          stories,
+          tags,
         });
       })
       .catch((error) => {
@@ -45,24 +42,13 @@ const scrapeBandcamp = () => {
 
       console.log({ freeItems: freeItems.length });
 
-      // let documents = readFile('./documents.json');
-
-      const filteredFreeItems = freeItems;
-      // const filteredFreeItems = freeItems.filter((item) => {
-      //   const cleanedUrlBefore = cleanUrl(item.url);
-      //   const cleanedUrl = cleanedUrlBefore.startsWith('https:') ||
-      //  cleanedUrlBefore.startsWith('http:') ? cleanedUrlBefore : `https:${cleanedUrlBefore}`;
-
-      //   const dataIndex = documents.findIndex((el) => cleanUrl(el.data.url) === cleanedUrl);
-
-      //   return dataIndex === -1;
-      // });
+      const filteredFreeItems = freeItems.filter((item) => isTitleInDb(item.item_description));
 
       console.log({ filtered: filteredFreeItems.length });
 
       for (let i = 0; i < filteredFreeItems.length; i += 1) {
         const element = filteredFreeItems[i];
-        const details = {};// await getDetailsForAlbum(element);
+        const details = await getDetailsForAlbum(element);
 
         if (details) {
           filteredFreeItems[i] = {
@@ -75,14 +61,9 @@ const scrapeBandcamp = () => {
 
       console.log('got details');
 
-      // for (let i = 0; i < filteredFreeItems.length; i += 1) {
-      //   const album = filteredFreeItems[i];
-
-      //   documents = await setScrapeByUrl(album.url, album, documents);
-      // }
+      addAlbumsToDatabase(filteredFreeItems);
 
       console.log('albums logged to db');
-      // writeFile(documents, './documents.json');
     })
     .catch(console.error);
 };
