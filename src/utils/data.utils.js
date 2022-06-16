@@ -47,7 +47,7 @@ const isTitleInTodaysSales = (title) => {
 
     return filtered.length !== 0;
   } catch (error) {
-    console.log('error on isTitleInDb', { error });
+    console.log('error on isTitleInTodaysSales', { error });
     return false;
   }
 };
