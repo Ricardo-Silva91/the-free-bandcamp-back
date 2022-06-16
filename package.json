@@ -11,7 +11,7 @@
     "push": "git add . && git commit -m \"chore: update docs\" && git push origin main",
     "setArtistIndex": "node ./src/scripts/setArtistIndex.js",
     "scrape": "node ./src/scripts/scrape.js",
-    "update": "node ./src/scripts/update.js",
+    "update": "node ./src/scripts/updateAndPush.js",
     "setTitleIndex": "node ./src/scripts/setTitleIndex.js",
     "setSaleDateIndex": "node ./src/scripts/setSaleDateIndex.js",
     "lint": "eslint src",
