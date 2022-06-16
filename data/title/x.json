@@ -1,34 +1,5 @@
 [
   {
-    "utc_date": 1653763798.16936,
-    "country": "United States",
-    "artist_name": "GaMetal",
-    "currency": "USD",
-    "amount_paid_fmt": "$7",
-    "item_description": "X",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 7,
-    "art_id": 1500107161,
-    "url": "https://gametal.bandcamp.com/album/x",
-    "country_code": "us",
-    "amount_over_fmt": "$7",
-    "art_url": "https://f4.bcbits.com/img/a1500107161_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 7,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "country": "United Kingdom",
     "artist_name": "Sexores",
     "currency": "USD",
@@ -48,6 +19,35 @@
       "type": "track",
       "stories": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1653763798.16936,
+    "country": "United States",
+    "artist_name": "GaMetal",
+    "currency": "USD",
+    "amount_paid_fmt": "$7",
+    "item_description": "X",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 7,
+    "art_id": 1500107161,
+    "url": "https://gametal.bandcamp.com/album/x",
+    "country_code": "us",
+    "amount_over_fmt": "$7",
+    "art_url": "https://f4.bcbits.com/img/a1500107161_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 7,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -175,34 +175,6 @@
   },
   {
     "item_type": "a",
-    "item_description": "XII",
-    "country_code": "us",
-    "utc_date": 1654394050.83628,
-    "country": "United States",
-    "artist_name": "MROH",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "url": "https://mrohblack.bandcamp.com/album/xii",
-    "art_id": 450650421,
-    "art_url": "https://f4.bcbits.com/img/a0450650421_7.jpg",
-    "amount_paid_usd": 1,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "item_type": "a",
     "country_code": "fi",
     "utc_date": 1654412994.36142,
     "country": "Finland",
@@ -221,6 +193,34 @@
       "type": "track",
       "stories": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "item_type": "a",
+    "item_description": "XII",
+    "country_code": "us",
+    "utc_date": 1654394050.83628,
+    "country": "United States",
+    "artist_name": "MROH",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "url": "https://mrohblack.bandcamp.com/album/xii",
+    "art_id": 450650421,
+    "art_url": "https://f4.bcbits.com/img/a0450650421_7.jpg",
+    "amount_paid_usd": 1,
+    "details": {
+      "type": "track",
+      "stories": [
         "",
         "",
         "",

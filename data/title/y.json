@@ -924,6 +924,37 @@
   },
   {
     "country": "United Kingdom",
+    "artist_name": "fourtwenty",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1.08",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1.08,
+    "art_id": 317650353,
+    "amount_over_fmt": "£1.08",
+    "art_url": "https://f4.bcbits.com/img/a0317650353_7.jpg",
+    "amount_paid_usd": 1.35,
+    "url": "https://fourtwentymusik.bandcamp.com/album/yesteryear",
+    "item_description": "Yesteryear",
+    "item_type": "a",
+    "country_code": "gb",
+    "utc_date": 1654289797.40046,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United Kingdom",
     "artist_name": "Kimmy Sanchez",
     "currency": "USD",
     "amount_paid_fmt": "$5",
@@ -944,37 +975,6 @@
       "stories": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "country": "United Kingdom",
-    "artist_name": "fourtwenty",
-    "currency": "GBP",
-    "amount_paid_fmt": "£1.08",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1.08,
-    "art_id": 317650353,
-    "amount_over_fmt": "£1.08",
-    "art_url": "https://f4.bcbits.com/img/a0317650353_7.jpg",
-    "amount_paid_usd": 1.35,
-    "url": "https://fourtwentymusik.bandcamp.com/album/yesteryear",
-    "item_description": "Yesteryear",
-    "item_type": "a",
-    "country_code": "gb",
-    "utc_date": 1654289797.40046,
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         "",

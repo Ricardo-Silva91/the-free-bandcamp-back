@@ -2,28 +2,22 @@
   {
     "item_type": "a",
     "country_code": "us",
-    "utc_date": 1654359820.24807,
+    "utc_date": 1654470463.00538,
     "country": "United States",
-    "artist_name": "Plini / Sithu Aye",
-    "currency": "AUD",
-    "amount_paid_fmt": "$4 AUD",
+    "item_description": "I",
+    "artist_name": "Sea Of Teeth",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
     "item_price": 0,
     "slug_type": "a",
-    "item_description": "I",
-    "amount_paid": 4,
-    "url": "https://plini.bandcamp.com/album/i",
-    "art_id": 3689636109,
-    "amount_over_fmt": "$4",
-    "art_url": "https://f4.bcbits.com/img/a3689636109_7.jpg",
-    "amount_paid_usd": 2.88,
+    "amount_paid": 1,
+    "url": "https://seaofteethpa.bandcamp.com/album/i",
+    "art_id": 1340660095,
+    "art_url": "https://f4.bcbits.com/img/a1340660095_7.jpg",
+    "amount_paid_usd": 1,
     "details": {
-      "type": "track",
+      "type": "album",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
@@ -64,24 +58,28 @@
     }
   },
   {
-    "country": "Spain",
-    "amount_paid_fmt": "€1",
-    "artist_name": "Altair",
-    "currency": "EUR",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654359820.24807,
+    "country": "United States",
+    "artist_name": "Plini / Sithu Aye",
+    "currency": "AUD",
+    "amount_paid_fmt": "$4 AUD",
     "item_price": 0,
     "slug_type": "a",
-    "amount_paid": 1,
-    "art_url": "https://f4.bcbits.com/img/a1147469097_7.jpg",
     "item_description": "I",
-    "item_type": "a",
-    "amount_paid_usd": 1.07,
-    "art_id": 1147469097,
-    "url": "https://somosaltair.bandcamp.com/album/i",
-    "country_code": "es",
-    "utc_date": 1653684899.63062,
+    "amount_paid": 4,
+    "url": "https://plini.bandcamp.com/album/i",
+    "art_id": 3689636109,
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a3689636109_7.jpg",
+    "amount_paid_usd": 2.88,
     "details": {
-      "type": "album",
+      "type": "track",
       "stories": [
+        "",
+        "",
+        "",
         "",
         "",
         "",
@@ -93,24 +91,31 @@
     }
   },
   {
-    "utc_date": 1653877939.59434,
-    "country": "United Kingdom",
-    "artist_name": "Gabestok",
-    "currency": "DKK",
-    "amount_paid_fmt": "5 DKK",
+    "country": "United States",
+    "artist_name": "Ylva de Lune",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
     "item_price": 0,
     "slug_type": "a",
-    "amount_paid": 5,
-    "art_id": 2973521777,
-    "item_description": "I",
-    "url": "https://gabestok.bandcamp.com/album/i",
-    "country_code": "gb",
-    "art_url": "https://f4.bcbits.com/img/a2973521777_7.jpg",
+    "amount_paid": 1,
+    "art_id": 4012854396,
+    "art_url": "https://f4.bcbits.com/img/a4012854396_7.jpg",
+    "amount_paid_usd": 1.07,
+    "url": "https://ylvadelune.bandcamp.com/album/i",
     "item_type": "a",
-    "amount_paid_usd": 0.72,
+    "country_code": "us",
+    "item_description": "I",
+    "utc_date": 1654264769.53704,
     "details": {
       "type": "album",
       "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         ""
@@ -178,6 +183,31 @@
     }
   },
   {
+    "country": "United States",
+    "item_description": "I",
+    "artist_name": "stockfinster.",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 411703946,
+    "art_url": "https://f4.bcbits.com/img/a0411703946_7.jpg",
+    "amount_paid_usd": 1,
+    "url": "https://stockfinster.bandcamp.com/album/i",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654117820.27285,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "utc_date": 1653881746.93631,
     "country": "United States",
     "artist_name": "Coniferous  Myst",
@@ -208,31 +238,24 @@
     }
   },
   {
-    "country": "United States",
-    "artist_name": "Ylva de Lune",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
+    "utc_date": 1653877939.59434,
+    "country": "United Kingdom",
+    "artist_name": "Gabestok",
+    "currency": "DKK",
+    "amount_paid_fmt": "5 DKK",
     "item_price": 0,
     "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 4012854396,
-    "art_url": "https://f4.bcbits.com/img/a4012854396_7.jpg",
-    "amount_paid_usd": 1.07,
-    "url": "https://ylvadelune.bandcamp.com/album/i",
-    "item_type": "a",
-    "country_code": "us",
+    "amount_paid": 5,
+    "art_id": 2973521777,
     "item_description": "I",
-    "utc_date": 1654264769.53704,
+    "url": "https://gabestok.bandcamp.com/album/i",
+    "country_code": "gb",
+    "art_url": "https://f4.bcbits.com/img/a2973521777_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 0.72,
     "details": {
       "type": "album",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         ""
@@ -268,49 +291,26 @@
     }
   },
   {
-    "country": "United States",
-    "item_description": "I",
-    "artist_name": "stockfinster.",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
+    "country": "Spain",
+    "amount_paid_fmt": "€1",
+    "artist_name": "Altair",
+    "currency": "EUR",
     "item_price": 0,
     "slug_type": "a",
     "amount_paid": 1,
-    "art_id": 411703946,
-    "art_url": "https://f4.bcbits.com/img/a0411703946_7.jpg",
-    "amount_paid_usd": 1,
-    "url": "https://stockfinster.bandcamp.com/album/i",
+    "art_url": "https://f4.bcbits.com/img/a1147469097_7.jpg",
+    "item_description": "I",
     "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654117820.27285,
+    "amount_paid_usd": 1.07,
+    "art_id": 1147469097,
+    "url": "https://somosaltair.bandcamp.com/album/i",
+    "country_code": "es",
+    "utc_date": 1653684899.63062,
     "details": {
       "type": "album",
       "stories": [
         "",
         "",
-        ""
-      ]
-    }
-  },
-  {
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654470463.00538,
-    "country": "United States",
-    "item_description": "I",
-    "artist_name": "Sea Of Teeth",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "url": "https://seaofteethpa.bandcamp.com/album/i",
-    "art_id": 1340660095,
-    "art_url": "https://f4.bcbits.com/img/a1340660095_7.jpg",
-    "amount_paid_usd": 1,
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         "",
@@ -2199,38 +2199,6 @@
     }
   },
   {
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654360266.735,
-    "country": "United States",
-    "artist_name": "Landskap",
-    "currency": "EUR",
-    "amount_paid_fmt": "€5",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 5,
-    "url": "https://landskap.bandcamp.com/album/ii",
-    "art_id": 854140463,
-    "amount_over_fmt": "€5",
-    "art_url": "https://f4.bcbits.com/img/a0854140463_7.jpg",
-    "amount_paid_usd": 5.36,
-    "item_description": "II",
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "amount_paid": 1,
     "country_code": "gb",
     "art_url": "https://f4.bcbits.com/img/a0157362207_7.jpg",
@@ -2249,6 +2217,36 @@
     "details": {
       "type": "album",
       "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "us",
+    "art_url": "https://f4.bcbits.com/img/a0590356038_7.jpg",
+    "slug_type": "a",
+    "amount_paid_usd": 1.05,
+    "country": "United States",
+    "artist_name": "Balberskult",
+    "currency": "EUR",
+    "utc_date": 1655064582.00093,
+    "url": "https://balberskult.bandcamp.com/album/ii",
+    "item_description": "II",
+    "art_id": 590356038,
+    "amount_paid_fmt": "€1",
+    "item_type": "a",
+    "item_price": 0,
+    "details": {
+      "type": "track",
+      "stories": [
+        "",
         "",
         "",
         "",
@@ -2314,6 +2312,63 @@
     }
   },
   {
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654360266.735,
+    "country": "United States",
+    "artist_name": "Landskap",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 5,
+    "url": "https://landskap.bandcamp.com/album/ii",
+    "art_id": 854140463,
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a0854140463_7.jpg",
+    "amount_paid_usd": 5.36,
+    "item_description": "II",
+    "details": {
+      "type": "track",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "Belgium",
+    "artist_name": "End Of Dayz",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 770013715,
+    "art_url": "https://f4.bcbits.com/img/a0770013715_7.jpg",
+    "amount_paid_usd": 1,
+    "url": "https://endofdayznw.bandcamp.com/album/ii",
+    "item_type": "a",
+    "country_code": "be",
+    "utc_date": 1654267845.40384,
+    "item_description": "II",
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "item_description": "II",
     "country": "Romania",
     "artist_name": "For The Wicked",
@@ -2333,6 +2388,67 @@
     "details": {
       "type": "album",
       "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "Germany",
+    "amount_paid_fmt": "€10",
+    "currency": "EUR",
+    "artist_name": "Sektion No Fun",
+    "item_price": 0,
+    "item_description": "II",
+    "slug_type": "a",
+    "amount_paid": 10,
+    "amount_over_fmt": "€10",
+    "art_id": 1979760528,
+    "art_url": "https://f4.bcbits.com/img/a1979760528_7.jpg",
+    "url": "https://sektionnofun.bandcamp.com/album/ii",
+    "amount_paid_usd": 10.7,
+    "country_code": "de",
+    "item_type": "a",
+    "utc_date": 1654170654.13341,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1653759664.95811,
+    "country": "France",
+    "artist_name": "Yarostan",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "slug_type": "a",
+    "item_description": "II",
+    "amount_paid": 1,
+    "art_id": 3989561670,
+    "url": "https://yarostan.bandcamp.com/album/ii",
+    "country_code": "fr",
+    "art_url": "https://f4.bcbits.com/img/a3989561670_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 1.07,
+    "details": {
+      "type": "track",
+      "stories": [
+        "",
         "",
         "",
         "",
@@ -2377,80 +2493,25 @@
     }
   },
   {
-    "country": "Belgium",
-    "artist_name": "End Of Dayz",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 770013715,
-    "art_url": "https://f4.bcbits.com/img/a0770013715_7.jpg",
-    "amount_paid_usd": 1,
-    "url": "https://endofdayznw.bandcamp.com/album/ii",
-    "item_type": "a",
-    "country_code": "be",
-    "utc_date": 1654267845.40384,
-    "item_description": "II",
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
+    "utc_date": 1653714742.76816,
     "country": "United States",
-    "amount_paid_fmt": "$1",
-    "artist_name": "Dead Wells",
+    "item_description": "II",
+    "artist_name": "Spread Joy",
     "currency": "USD",
+    "amount_paid_fmt": "$10",
     "item_price": 0,
     "slug_type": "a",
-    "amount_paid": 1,
-    "item_description": "II",
-    "art_url": "https://f4.bcbits.com/img/a3044636744_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 1,
-    "art_id": 3044636744,
-    "url": "https://deadwells.bandcamp.com/album/ii",
+    "amount_paid": 10,
+    "art_id": 772310054,
+    "url": "https://spreadjoy.bandcamp.com/album/ii",
     "country_code": "us",
-    "utc_date": 1653676934.21837,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "utc_date": 1653759664.95811,
-    "country": "France",
-    "artist_name": "Yarostan",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
-    "item_price": 0,
-    "slug_type": "a",
-    "item_description": "II",
-    "amount_paid": 1,
-    "art_id": 3989561670,
-    "url": "https://yarostan.bandcamp.com/album/ii",
-    "country_code": "fr",
-    "art_url": "https://f4.bcbits.com/img/a3989561670_7.jpg",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a0772310054_7.jpg",
     "item_type": "a",
-    "amount_paid_usd": 1.07,
+    "amount_paid_usd": 10,
     "details": {
       "type": "track",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         ""
       ]
@@ -2488,85 +2549,24 @@
     }
   },
   {
-    "utc_date": 1653714742.76816,
     "country": "United States",
-    "item_description": "II",
-    "artist_name": "Spread Joy",
+    "amount_paid_fmt": "$1",
+    "artist_name": "Dead Wells",
     "currency": "USD",
-    "amount_paid_fmt": "$10",
     "item_price": 0,
     "slug_type": "a",
-    "amount_paid": 10,
-    "art_id": 772310054,
-    "url": "https://spreadjoy.bandcamp.com/album/ii",
-    "country_code": "us",
-    "amount_over_fmt": "$10",
-    "art_url": "https://f4.bcbits.com/img/a0772310054_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 10,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "amount_paid": 1,
+    "item_description": "II",
+    "art_url": "https://f4.bcbits.com/img/a3044636744_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 1,
+    "art_id": 3044636744,
+    "url": "https://deadwells.bandcamp.com/album/ii",
     "country_code": "us",
-    "art_url": "https://f4.bcbits.com/img/a0590356038_7.jpg",
-    "slug_type": "a",
-    "amount_paid_usd": 1.05,
-    "country": "United States",
-    "artist_name": "Balberskult",
-    "currency": "EUR",
-    "utc_date": 1655064582.00093,
-    "url": "https://balberskult.bandcamp.com/album/ii",
-    "item_description": "II",
-    "art_id": 590356038,
-    "amount_paid_fmt": "€1",
-    "item_type": "a",
-    "item_price": 0,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "country": "Germany",
-    "amount_paid_fmt": "€10",
-    "currency": "EUR",
-    "artist_name": "Sektion No Fun",
-    "item_price": 0,
-    "item_description": "II",
-    "slug_type": "a",
-    "amount_paid": 10,
-    "amount_over_fmt": "€10",
-    "art_id": 1979760528,
-    "art_url": "https://f4.bcbits.com/img/a1979760528_7.jpg",
-    "url": "https://sektionnofun.bandcamp.com/album/ii",
-    "amount_paid_usd": 10.7,
-    "country_code": "de",
-    "item_type": "a",
-    "utc_date": 1654170654.13341,
+    "utc_date": 1653676934.21837,
     "details": {
       "type": "album",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
@@ -2619,35 +2619,6 @@
     "details": {
       "type": "album",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "utc_date": 1653736362.87034,
-    "country": "United States",
-    "artist_name": "Manu",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 1235132501,
-    "url": "https://manu.bandcamp.com/album/iii",
-    "country_code": "us",
-    "art_url": "https://f4.bcbits.com/img/a1235132501_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 1,
-    "item_description": "III",
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
         "",
         "",
         "",
@@ -2715,6 +2686,35 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1653736362.87034,
+    "country": "United States",
+    "artist_name": "Manu",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 1235132501,
+    "url": "https://manu.bandcamp.com/album/iii",
+    "country_code": "us",
+    "art_url": "https://f4.bcbits.com/img/a1235132501_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 1,
+    "item_description": "III",
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -6332,37 +6332,6 @@
     }
   },
   {
-    "country": "United Kingdom",
-    "artist_name": "DICE AND THE ACID WARRIOR LORD",
-    "currency": "USD",
-    "amount_paid_fmt": "$3",
-    "item_price": 0,
-    "item_description": "Ignition",
-    "slug_type": "a",
-    "amount_paid": 3,
-    "art_id": 2124646877,
-    "amount_over_fmt": "$3",
-    "art_url": "https://f4.bcbits.com/img/a2124646877_7.jpg",
-    "amount_paid_usd": 3,
-    "url": "https://zombiesharkrecords.bandcamp.com/album/ignition",
-    "item_type": "a",
-    "country_code": "gb",
-    "utc_date": 1654251877.73655,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "country": "Spain",
     "artist_name": "Scream of the Butterfly",
     "currency": "USD",
@@ -6384,6 +6353,37 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "artist_name": "DICE AND THE ACID WARRIOR LORD",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "item_description": "Ignition",
+    "slug_type": "a",
+    "amount_paid": 3,
+    "art_id": 2124646877,
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a2124646877_7.jpg",
+    "amount_paid_usd": 3,
+    "url": "https://zombiesharkrecords.bandcamp.com/album/ignition",
+    "item_type": "a",
+    "country_code": "gb",
+    "utc_date": 1654251877.73655,
+    "details": {
+      "type": "track",
+      "stories": [
         "",
         "",
         "",
@@ -7720,6 +7720,31 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "us",
+    "art_url": "https://f4.bcbits.com/img/a2721099078_7.jpg",
+    "item_description": "In Bits",
+    "slug_type": "a",
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "artist_name": "shiverlane",
+    "currency": "USD",
+    "utc_date": 1655158511.33209,
+    "url": "https://shiverlane.bandcamp.com/album/in-bits",
+    "art_id": 2721099078,
+    "amount_paid_fmt": "$1",
+    "item_type": "a",
+    "item_price": 0,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Shiverlane",
     "currency": "USD",
@@ -7741,31 +7766,6 @@
       "stories": [
         "",
         "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "amount_paid": 1,
-    "country_code": "us",
-    "art_url": "https://f4.bcbits.com/img/a2721099078_7.jpg",
-    "item_description": "In Bits",
-    "slug_type": "a",
-    "amount_paid_usd": 1,
-    "country": "United States",
-    "artist_name": "shiverlane",
-    "currency": "USD",
-    "utc_date": 1655158511.33209,
-    "url": "https://shiverlane.bandcamp.com/album/in-bits",
-    "art_id": 2721099078,
-    "amount_paid_fmt": "$1",
-    "item_type": "a",
-    "item_price": 0,
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         ""
@@ -8896,6 +8896,32 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "nl",
+    "item_description": "In The Mix",
+    "utc_date": 1655368801.30036,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Netherlands",
+    "package_image_id": null,
+    "artist_name": "Schimmer Records",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "url": "https://schimmerstuttgart.bandcamp.com/album/in-the-mix",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0646665716_7.jpg",
+    "slug_type": "a",
+    "art_id": 646665716,
+    "amount_paid_usd": 1.04,
+    "details": {
+      "tags": [
+        "Stuttgart"
       ]
     }
   },
@@ -11520,23 +11546,6 @@
     }
   },
   {
-    "country": "Spain",
-    "artist_name": "HiGrade",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 1659118912,
-    "art_url": "https://f4.bcbits.com/img/a1659118912_7.jpg",
-    "amount_paid_usd": 1.07,
-    "url": "https://crudobilbao.com/album/insanity",
-    "item_description": "Insanity",
-    "item_type": "a",
-    "country_code": "es",
-    "utc_date": 1654156150.56287
-  },
-  {
     "item_description": "Insanity",
     "country": "Spain",
     "artist_name": "HiGrade",
@@ -11564,6 +11573,23 @@
         ""
       ]
     }
+  },
+  {
+    "country": "Spain",
+    "artist_name": "HiGrade",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 1659118912,
+    "art_url": "https://f4.bcbits.com/img/a1659118912_7.jpg",
+    "amount_paid_usd": 1.07,
+    "url": "https://crudobilbao.com/album/insanity",
+    "item_description": "Insanity",
+    "item_type": "a",
+    "country_code": "es",
+    "utc_date": 1654156150.56287
   },
   {
     "country": "United Kingdom",
@@ -12924,35 +12950,6 @@
     }
   },
   {
-    "item_description": "In the Kingdom of Fog",
-    "utc_date": 1653830930.43266,
-    "country": "Australia",
-    "artist_name": "Fog Castle/Foglord/Fogweaver",
-    "currency": "USD",
-    "amount_paid_fmt": "$4",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 4,
-    "art_id": 2433211123,
-    "url": "https://thefogweaver.bandcamp.com/album/in-the-kingdom-of-fog",
-    "country_code": "au",
-    "amount_over_fmt": "$4",
-    "art_url": "https://f4.bcbits.com/img/a2433211123_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 4,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "country": "Finland",
     "artist_name": "Fog Castle / Foglord / Fogweaver",
     "currency": "USD",
@@ -12972,6 +12969,35 @@
       "type": "track",
       "stories": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "item_description": "In the Kingdom of Fog",
+    "utc_date": 1653830930.43266,
+    "country": "Australia",
+    "artist_name": "Fog Castle/Foglord/Fogweaver",
+    "currency": "USD",
+    "amount_paid_fmt": "$4",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 4,
+    "art_id": 2433211123,
+    "url": "https://thefogweaver.bandcamp.com/album/in-the-kingdom-of-fog",
+    "country_code": "au",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a2433211123_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 4,
+    "details": {
+      "type": "track",
+      "stories": [
         "",
         "",
         "",

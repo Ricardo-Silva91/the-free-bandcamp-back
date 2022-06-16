@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { isTitleInDb, addAlbumsToDatabase } = require('./data.utils');
+const { isTitleInDb, addAlbumsToDatabase, isTitleInTodaysSales } = require('./data.utils');
 // const { readFile, writeFile } = require('./fs.utils.js');
 // const { cleanUrl } = require('./js.utils.js');
 
@@ -32,7 +32,7 @@ const getDetailsForAlbum = (album) => new Promise(
   },
 );
 
-const scrapeBandcamp = () => {
+const scrapeBandcamp = async () => {
   axios('https://bandcamp.com/api/salesfeed/1/get_initial')
     .then(async (response) => {
       const html = response.data;
@@ -42,7 +42,11 @@ const scrapeBandcamp = () => {
 
       console.log({ freeItems: freeItems.length });
 
-      const filteredFreeItems = freeItems.filter((item) => isTitleInDb(item.item_description));
+      const filteredFreeItems = freeItems.filter(
+        (item) => (
+          !isTitleInDb(item.item_description) && !isTitleInTodaysSales(item.item_description)
+        ),
+      );
 
       console.log({ filtered: filteredFreeItems.length });
 

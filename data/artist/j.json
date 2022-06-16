@@ -1849,23 +1849,6 @@
     }
   },
   {
-    "country": "United States",
-    "artist_name": "JUPITERIAN (Brazil)",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 3009533863,
-    "art_url": "https://f4.bcbits.com/img/a3009533863_7.jpg",
-    "amount_paid_usd": 1.07,
-    "url": "//jupiterian.bandcamp.com/album/terraforming-atmospheric-doom-sludge-metal",
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654172260.70648,
-    "item_description": "Terraforming (Atmospheric Doom/Sludge Metal)"
-  },
-  {
     "item_description": "Protosapien",
     "country": "United States",
     "artist_name": "JUPITERIAN (Brazil)",
@@ -1933,6 +1916,23 @@
         ""
       ]
     }
+  },
+  {
+    "country": "United States",
+    "artist_name": "JUPITERIAN (Brazil)",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 3009533863,
+    "art_url": "https://f4.bcbits.com/img/a3009533863_7.jpg",
+    "amount_paid_usd": 1.07,
+    "url": "//jupiterian.bandcamp.com/album/terraforming-atmospheric-doom-sludge-metal",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654172260.70648,
+    "item_description": "Terraforming (Atmospheric Doom/Sludge Metal)"
   },
   {
     "amount_paid": 8,
@@ -3733,6 +3733,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655385553.96258,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "James Parrott",
+    "currency": "CAD",
+    "amount_paid_fmt": "$2 CAD",
+    "item_price": 0,
+    "url": "https://jamesparrott.bandcamp.com/album/akhenatens-voyage-vol-1",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a0114495610_7.jpg",
+    "slug_type": "a",
+    "art_id": 114495610,
+    "item_description": "Akhenaten's Voyage Vol.1",
+    "amount_paid_usd": 1.54,
+    "details": {
+      "tags": [
+        "ambient",
+        "ambient drone",
+        "drone",
+        "experimental",
+        "Edmonton"
       ]
     }
   },
@@ -8161,6 +8191,38 @@
     }
   },
   {
+    "country_code": "lu",
+    "utc_date": 1655385551.22266,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Luxembourg",
+    "package_image_id": null,
+    "artist_name": "Johnny Hobo & The Freight Trains",
+    "currency": "USD",
+    "amount_paid_fmt": "$20",
+    "item_price": 0,
+    "url": "https://nomansrecords.bandcamp.com/album/live-in-cortland",
+    "album_title": null,
+    "amount_paid": 20,
+    "art_url": "https://f4.bcbits.com/img/a2461481026_7.jpg",
+    "slug_type": "a",
+    "art_id": 2461481026,
+    "amount_over_fmt": "$20",
+    "item_description": "Live In Cortland",
+    "amount_paid_usd": 20,
+    "details": {
+      "tags": [
+        "acoustic",
+        "punk",
+        "acoustic punk",
+        "antifolk",
+        "folk punk",
+        "Louisville"
+      ]
+    }
+  },
+  {
     "amount_paid": 20,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a1823620177_7.jpg",
@@ -10307,6 +10369,33 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655385558.3229,
+    "releases": null,
+    "item_type": "t",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "Julian Muller",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.25",
+    "item_price": 0,
+    "url": "https://julianmullerito.bandcamp.com/track/onuka-svitanok-julian-muller-edit",
+    "album_title": null,
+    "amount_paid": 0.25,
+    "art_url": "https://f4.bcbits.com/img/a3200249435_7.jpg",
+    "slug_type": "t",
+    "art_id": 3200249435,
+    "item_description": "Onuka - Svitanok ( Julian Muller Ні Війні Edit )",
+    "amount_paid_usd": 0.26,
+    "details": {
+      "tags": [
+        "electronic",
+        "Brussels"
       ]
     }
   },

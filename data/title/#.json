@@ -9881,31 +9881,6 @@
   },
   {
     "country": "United States",
-    "artist_name": "d kivi",
-    "currency": "USD",
-    "amount_paid_fmt": "$6",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 6,
-    "art_id": 3485230520,
-    "amount_over_fmt": "$6",
-    "art_url": "https://f4.bcbits.com/img/a3485230520_7.jpg",
-    "amount_paid_usd": 6,
-    "url": "https://dkivi.bandcamp.com/album/2022",
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654234624.22259,
-    "item_description": "2022",
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "country": "United States",
     "artist_name": "The Thomas Jefferson Hour",
     "currency": "USD",
     "amount_paid_fmt": "$10",
@@ -9938,6 +9913,31 @@
         "",
         "",
         "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United States",
+    "artist_name": "d kivi",
+    "currency": "USD",
+    "amount_paid_fmt": "$6",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 6,
+    "art_id": 3485230520,
+    "amount_over_fmt": "$6",
+    "art_url": "https://f4.bcbits.com/img/a3485230520_7.jpg",
+    "amount_paid_usd": 6,
+    "url": "https://dkivi.bandcamp.com/album/2022",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654234624.22259,
+    "item_description": "2022",
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         ""
       ]
@@ -11991,6 +11991,36 @@
     }
   },
   {
+    "item_description": "4-Way Split",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654485262.53761,
+    "country": "United States",
+    "artist_name": "Weathered Collective",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "url": "https://weatheredcollective.bandcamp.com/album/4-way-split",
+    "art_id": 2068308240,
+    "art_url": "https://f4.bcbits.com/img/a2068308240_7.jpg",
+    "amount_paid_usd": 1.25,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "country": "Slovenia",
     "amount_paid_fmt": "$1",
     "artist_name": "DEMERSAL / PIET ONTHEL / LETTERBOMBS / VIENTRE",
@@ -12015,36 +12045,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "item_description": "4-Way Split",
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654485262.53761,
-    "country": "United States",
-    "artist_name": "Weathered Collective",
-    "currency": "GBP",
-    "amount_paid_fmt": "£1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "url": "https://weatheredcollective.bandcamp.com/album/4-way-split",
-    "art_id": 2068308240,
-    "art_url": "https://f4.bcbits.com/img/a2068308240_7.jpg",
-    "amount_paid_usd": 1.25,
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         "",
@@ -22117,38 +22117,6 @@
     }
   },
   {
-    "item_description": "ネクロマンサー",
-    "item_type": "a",
-    "country_code": "us",
-    "utc_date": 1654455867.84508,
-    "country": "United States",
-    "artist_name": "Macroblank",
-    "currency": "USD",
-    "amount_paid_fmt": "$5",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 5,
-    "url": "https://macroblank.bandcamp.com/album/--13",
-    "art_id": 540045790,
-    "amount_over_fmt": "$5",
-    "art_url": "https://f4.bcbits.com/img/a0540045790_7.jpg",
-    "amount_paid_usd": 5,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "amount_paid": 3,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a1514440727_7.jpg",
@@ -22170,6 +22138,38 @@
       "stories": [
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "item_description": "ネクロマンサー",
+    "item_type": "a",
+    "country_code": "us",
+    "utc_date": 1654455867.84508,
+    "country": "United States",
+    "artist_name": "Macroblank",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 5,
+    "url": "https://macroblank.bandcamp.com/album/--13",
+    "art_id": 540045790,
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a0540045790_7.jpg",
+    "amount_paid_usd": 5,
+    "details": {
+      "type": "track",
+      "stories": [
         "",
         "",
         "",
@@ -25276,6 +25276,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655368575.60844,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "haircuts for men",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://haircutsformen.bandcamp.com/album/beat-2000-2006",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a4018841688_7.jpg",
+    "slug_type": "a",
+    "art_id": 4018841688,
+    "amount_paid_usd": 1,
+    "item_description": "理髪店 Beat    2000-2006",
+    "details": {
+      "tags": [
+        "electronic",
+        "chillwave",
+        "experimental",
+        "instrumental",
+        "soundtrack",
+        "vaporwave",
+        "Honolulu"
       ]
     }
   },

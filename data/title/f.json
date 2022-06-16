@@ -3133,36 +3133,6 @@
     }
   },
   {
-    "country": "United States",
-    "amount_paid_fmt": "$12",
-    "artist_name": "Daydream Society",
-    "currency": "USD",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 12,
-    "item_description": "Fairweather",
-    "amount_over_fmt": "$12",
-    "art_url": "https://f4.bcbits.com/img/a2213907668_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 12,
-    "art_id": 2213907668,
-    "url": "https://daydreamsociety.bandcamp.com/album/fairweather",
-    "country_code": "us",
-    "utc_date": 1653687064.89517,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "utc_date": 1653775217.03573,
     "country": "United States",
     "artist_name": "Sam Hoffman",
@@ -3185,6 +3155,36 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United States",
+    "amount_paid_fmt": "$12",
+    "artist_name": "Daydream Society",
+    "currency": "USD",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 12,
+    "item_description": "Fairweather",
+    "amount_over_fmt": "$12",
+    "art_url": "https://f4.bcbits.com/img/a2213907668_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 12,
+    "art_id": 2213907668,
+    "url": "https://daydreamsociety.bandcamp.com/album/fairweather",
+    "country_code": "us",
+    "utc_date": 1653687064.89517,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -6099,6 +6099,43 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655385558.12468,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Slow Clinic",
+    "currency": "GBP",
+    "amount_paid_fmt": "£2",
+    "item_price": 0,
+    "url": "https://slowclinic.bandcamp.com/album/field-studies-storm-eunice",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a2475351318_7.jpg",
+    "slug_type": "a",
+    "art_id": 2475351318,
+    "amount_over_fmt": "£2",
+    "item_description": "Field Studies: Storm Eunice",
+    "amount_paid_usd": 2.43,
+    "details": {
+      "tags": [
+        "ambient",
+        "experimental",
+        "field recording",
+        "field recordings",
+        "storm eunice",
+        "binaural",
+        "drone",
+        "long-form",
+        "longform",
+        "sound studies",
+        "Farnham"
+      ]
+    }
+  },
+  {
     "country": "Germany",
     "artist_name": "dronæment",
     "currency": "EUR",
@@ -6248,24 +6285,6 @@
     "art_url": "https://f4.bcbits.com/img/a2716087740_7.jpg",
     "item_type": "a",
     "amount_paid": 8,
-    "amount_over_fmt": "$8",
-    "amount_paid_usd": 8,
-    "item_description": "File Transfer Protocol",
-    "art_id": 2716087740,
-    "url": "//fondphantom.bandcamp.com/album/file-transfer-protocol",
-    "country_code": "us",
-    "utc_date": 1654105725.64919
-  },
-  {
-    "amount_paid_fmt": "$8",
-    "item_price": 0,
-    "country": "United States",
-    "artist_name": "Fond Phantom",
-    "slug_type": "a",
-    "currency": "USD",
-    "art_url": "https://f4.bcbits.com/img/a2716087740_7.jpg",
-    "item_type": "a",
-    "amount_paid": 8,
     "item_description": "File Transfer Protocol",
     "amount_over_fmt": "$8",
     "amount_paid_usd": 8,
@@ -6284,6 +6303,24 @@
         ""
       ]
     }
+  },
+  {
+    "amount_paid_fmt": "$8",
+    "item_price": 0,
+    "country": "United States",
+    "artist_name": "Fond Phantom",
+    "slug_type": "a",
+    "currency": "USD",
+    "art_url": "https://f4.bcbits.com/img/a2716087740_7.jpg",
+    "item_type": "a",
+    "amount_paid": 8,
+    "amount_over_fmt": "$8",
+    "amount_paid_usd": 8,
+    "item_description": "File Transfer Protocol",
+    "art_id": 2716087740,
+    "url": "//fondphantom.bandcamp.com/album/file-transfer-protocol",
+    "country_code": "us",
+    "utc_date": 1654105725.64919
   },
   {
     "amount_paid": 1,
@@ -7401,35 +7438,6 @@
     }
   },
   {
-    "country": "Germany",
-    "artist_name": "Legitski Syndicates",
-    "currency": "USD",
-    "amount_paid_fmt": "$1",
-    "item_price": 0,
-    "slug_type": "a",
-    "item_description": "First Impressions",
-    "amount_paid": 1,
-    "art_id": 891127557,
-    "art_url": "https://f4.bcbits.com/img/a0891127557_7.jpg",
-    "amount_paid_usd": 1,
-    "url": "https://legitskisyndicates.bandcamp.com/album/first-impressions",
-    "item_type": "a",
-    "country_code": "de",
-    "utc_date": 1654194190.25957,
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "country": "United States",
     "artist_name": "Kenny Black",
     "currency": "USD",
@@ -7448,6 +7456,35 @@
     "utc_date": 1654273393.17304,
     "details": {
       "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "Germany",
+    "artist_name": "Legitski Syndicates",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "slug_type": "a",
+    "item_description": "First Impressions",
+    "amount_paid": 1,
+    "art_id": 891127557,
+    "art_url": "https://f4.bcbits.com/img/a0891127557_7.jpg",
+    "amount_paid_usd": 1,
+    "url": "https://legitskisyndicates.bandcamp.com/album/first-impressions",
+    "item_type": "a",
+    "country_code": "de",
+    "utc_date": 1654194190.25957,
+    "details": {
+      "type": "track",
       "stories": [
         "",
         "",
@@ -12228,37 +12265,6 @@
     }
   },
   {
-    "item_type": "a",
-    "country_code": "gb",
-    "utc_date": 1654350688.88043,
-    "item_description": "Free Downloads",
-    "country": "United Kingdom",
-    "artist_name": "Evil Needle",
-    "currency": "EUR",
-    "amount_paid_fmt": "€0.50",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 0.5,
-    "url": "https://itsmeneedle.bandcamp.com/album/free-downloads",
-    "art_id": 3314372903,
-    "art_url": "https://f4.bcbits.com/img/a3314372903_7.jpg",
-    "amount_paid_usd": 0.54,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "item_description": "Free Downloads",
     "item_type": "a",
     "country_code": "de",
@@ -12281,6 +12287,37 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "item_type": "a",
+    "country_code": "gb",
+    "utc_date": 1654350688.88043,
+    "item_description": "Free Downloads",
+    "country": "United Kingdom",
+    "artist_name": "Evil Needle",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 0.5,
+    "url": "https://itsmeneedle.bandcamp.com/album/free-downloads",
+    "art_id": 3314372903,
+    "art_url": "https://f4.bcbits.com/img/a3314372903_7.jpg",
+    "amount_paid_usd": 0.54,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -14414,30 +14451,6 @@
     }
   },
   {
-    "utc_date": 1653817149.45829,
-    "country": "United States",
-    "artist_name": "KOAN Sound",
-    "currency": "GBP",
-    "amount_paid_fmt": "£1",
-    "item_description": "Full Circle",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 267506129,
-    "url": "https://koansound.bandcamp.com/album/full-circle",
-    "country_code": "us",
-    "art_url": "https://f4.bcbits.com/img/a0267506129_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 1.26,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "item_type": "a",
     "country_code": "au",
     "utc_date": 1654334935.60928,
@@ -14460,6 +14473,30 @@
         "",
         "",
         "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1653817149.45829,
+    "country": "United States",
+    "artist_name": "KOAN Sound",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_description": "Full Circle",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 267506129,
+    "url": "https://koansound.bandcamp.com/album/full-circle",
+    "country_code": "us",
+    "art_url": "https://f4.bcbits.com/img/a0267506129_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 1.26,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         ""
       ]

@@ -2858,6 +2858,37 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655368522.82195,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "kLap",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "url": "https://klapthis.bandcamp.com/album/all-tracks-ou-quase",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1305699394_7.jpg",
+    "slug_type": "a",
+    "art_id": 1305699394,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 5,
+    "item_description": "ALL TRACKS (ou quase)",
+    "details": {
+      "tags": [
+        "world",
+        "bass music",
+        "brasil",
+        "funk",
+        "Brasilia"
+      ]
+    }
+  },
+  {
     "utc_date": 1653861884.14194,
     "country": "United States",
     "artist_name": "kLap",
@@ -8008,33 +8039,6 @@
     }
   },
   {
-    "country": "United States",
-    "amount_paid_fmt": "$15",
-    "artist_name": "Pucker Up",
-    "currency": "USD",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 15,
-    "amount_over_fmt": "$15",
-    "art_url": "https://f4.bcbits.com/img/a1335955788_7.jpg",
-    "item_description": "Abyss",
-    "item_type": "a",
-    "amount_paid_usd": 15,
-    "art_id": 1335955788,
-    "url": "https://puckerup.bandcamp.com/album/abyss",
-    "country_code": "us",
-    "utc_date": 1653686087.68053,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "utc_date": 1653861411.81205,
     "item_description": "Abyss",
     "country": "Norway",
@@ -8056,6 +8060,33 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United States",
+    "amount_paid_fmt": "$15",
+    "artist_name": "Pucker Up",
+    "currency": "USD",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 15,
+    "amount_over_fmt": "$15",
+    "art_url": "https://f4.bcbits.com/img/a1335955788_7.jpg",
+    "item_description": "Abyss",
+    "item_type": "a",
+    "amount_paid_usd": 15,
+    "art_id": 1335955788,
+    "url": "https://puckerup.bandcamp.com/album/abyss",
+    "country_code": "us",
+    "utc_date": 1653686087.68053,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -8222,35 +8253,6 @@
     }
   },
   {
-    "country": "United States",
-    "amount_paid_fmt": "$5 CAD",
-    "item_description": "Accretion",
-    "artist_name": "C. Circo",
-    "currency": "CAD",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 5,
-    "amount_over_fmt": "$5",
-    "art_url": "https://f4.bcbits.com/img/a0294187441_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 3.93,
-    "art_id": 294187441,
-    "url": "https://ccirco.bandcamp.com/album/accretion",
-    "country_code": "us",
-    "utc_date": 1653681698.22224,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "utc_date": 1653829986.68846,
     "country": "Sweden",
     "item_description": "Accretion",
@@ -8280,6 +8282,35 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "United States",
+    "amount_paid_fmt": "$5 CAD",
+    "item_description": "Accretion",
+    "artist_name": "C. Circo",
+    "currency": "CAD",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 5,
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a0294187441_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 3.93,
+    "art_id": 294187441,
+    "url": "https://ccirco.bandcamp.com/album/accretion",
+    "country_code": "us",
+    "utc_date": 1653681698.22224,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
@@ -10103,6 +10134,35 @@
     }
   },
   {
+    "country": "United Kingdom",
+    "artist_name": "Saturnist",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 0.5,
+    "art_id": 818867463,
+    "art_url": "https://f4.bcbits.com/img/a0818867463_7.jpg",
+    "amount_paid_usd": 0.54,
+    "url": "https://saturnist.bandcamp.com/album/aeon",
+    "item_type": "a",
+    "country_code": "gb",
+    "item_description": "Aeon",
+    "utc_date": 1654245665.77301,
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "utc_date": 1653722170.96113,
     "country": "United States",
     "artist_name": "Macrowave",
@@ -10127,35 +10187,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "country": "United Kingdom",
-    "artist_name": "Saturnist",
-    "currency": "EUR",
-    "amount_paid_fmt": "€0.50",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 0.5,
-    "art_id": 818867463,
-    "art_url": "https://f4.bcbits.com/img/a0818867463_7.jpg",
-    "amount_paid_usd": 0.54,
-    "url": "https://saturnist.bandcamp.com/album/aeon",
-    "item_type": "a",
-    "country_code": "gb",
-    "item_description": "Aeon",
-    "utc_date": 1654245665.77301,
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         "",
@@ -10804,6 +10835,34 @@
     }
   },
   {
+    "item_type": "a",
+    "country_code": "jp",
+    "utc_date": 1654394332.86111,
+    "country": "Japan",
+    "artist_name": "Crooked Beak",
+    "currency": "AUD",
+    "amount_paid_fmt": "$1.50 AUD",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1.5,
+    "url": "https://crookedbeak.bandcamp.com/album/after-hours",
+    "art_id": 2896061010,
+    "art_url": "https://f4.bcbits.com/img/a2896061010_7.jpg",
+    "amount_paid_usd": 1.08,
+    "item_description": "After Hours",
+    "details": {
+      "type": "track",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "country": "Austria",
     "artist_name": "OVERWERK",
     "currency": "USD",
@@ -10856,34 +10915,6 @@
     "details": {
       "type": "album",
       "stories": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "item_type": "a",
-    "country_code": "jp",
-    "utc_date": 1654394332.86111,
-    "country": "Japan",
-    "artist_name": "Crooked Beak",
-    "currency": "AUD",
-    "amount_paid_fmt": "$1.50 AUD",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1.5,
-    "url": "https://crookedbeak.bandcamp.com/album/after-hours",
-    "art_id": 2896061010,
-    "art_url": "https://f4.bcbits.com/img/a2896061010_7.jpg",
-    "amount_paid_usd": 1.08,
-    "item_description": "After Hours",
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
         "",
         "",
         "",
@@ -12386,6 +12417,36 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655385553.96258,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "James Parrott",
+    "currency": "CAD",
+    "amount_paid_fmt": "$2 CAD",
+    "item_price": 0,
+    "url": "https://jamesparrott.bandcamp.com/album/akhenatens-voyage-vol-1",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a0114495610_7.jpg",
+    "slug_type": "a",
+    "art_id": 114495610,
+    "item_description": "Akhenaten's Voyage Vol.1",
+    "amount_paid_usd": 1.54,
+    "details": {
+      "tags": [
+        "ambient",
+        "ambient drone",
+        "drone",
+        "experimental",
+        "Edmonton"
       ]
     }
   },
@@ -23939,39 +24000,6 @@
     }
   },
   {
-    "utc_date": 1653699085.82709,
-    "country": "United States",
-    "artist_name": "Matt Christensen",
-    "currency": "USD",
-    "amount_paid_fmt": "$4",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 4,
-    "art_id": 4206404689,
-    "url": "https://mattchristensensolo.bandcamp.com/album/ascension",
-    "country_code": "us",
-    "amount_over_fmt": "$4",
-    "art_url": "https://f4.bcbits.com/img/a4206404689_7.jpg",
-    "item_type": "a",
-    "amount_paid_usd": 4,
-    "item_description": "Ascension",
-    "details": {
-      "type": "track",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654455631.57908,
@@ -24019,6 +24047,39 @@
     "details": {
       "type": "album",
       "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1653699085.82709,
+    "country": "United States",
+    "artist_name": "Matt Christensen",
+    "currency": "USD",
+    "amount_paid_fmt": "$4",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 4,
+    "art_id": 4206404689,
+    "url": "https://mattchristensensolo.bandcamp.com/album/ascension",
+    "country_code": "us",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a4206404689_7.jpg",
+    "item_type": "a",
+    "amount_paid_usd": 4,
+    "item_description": "Ascension",
+    "details": {
+      "type": "track",
+      "stories": [
+        "",
+        "",
+        "",
         "",
         "",
         "",
@@ -26147,6 +26208,35 @@
     }
   },
   {
+    "item_type": "a",
+    "country_code": "br",
+    "utc_date": 1654311826.03704,
+    "country": "Brazil",
+    "artist_name": "Turmallina",
+    "currency": "USD",
+    "amount_paid_fmt": "$15",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 15,
+    "url": "https://turmallina.bandcamp.com/album/aurora",
+    "art_id": 3702694241,
+    "amount_over_fmt": "$15",
+    "art_url": "https://f4.bcbits.com/img/a3702694241_7.jpg",
+    "amount_paid_usd": 15,
+    "item_description": "Aurora",
+    "details": {
+      "type": "album",
+      "stories": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
     "utc_date": 1653828515.44278,
     "item_description": "Aurora",
     "country": "United States",
@@ -26171,35 +26261,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
-    "item_type": "a",
-    "country_code": "br",
-    "utc_date": 1654311826.03704,
-    "country": "Brazil",
-    "artist_name": "Turmallina",
-    "currency": "USD",
-    "amount_paid_fmt": "$15",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 15,
-    "url": "https://turmallina.bandcamp.com/album/aurora",
-    "art_id": 3702694241,
-    "amount_over_fmt": "$15",
-    "art_url": "https://f4.bcbits.com/img/a3702694241_7.jpg",
-    "amount_paid_usd": 15,
-    "item_description": "Aurora",
-    "details": {
-      "type": "album",
-      "stories": [
         "",
         "",
         "",

@@ -1,15 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataPath = path.join(__dirname, '../../data/raw');
+const dataPath = path.join(__dirname, '../../data/sale-date');
 const titlePath = path.join(dataPath, '../title');
 
 const dataFiles = fs.readdirSync(dataPath);
 const numberedDataFiles = dataFiles.filter((file) => !fs.lstatSync(path.join(dataPath, file)).isDirectory() && !file.includes('_latest.'));
 
 const content = numberedDataFiles.reduce((acc, file) => {
-  const fileContent = JSON.parse(fs.readFileSync(path.join(dataPath, file)));
-  const { data } = fileContent;
+  const data = JSON.parse(fs.readFileSync(path.join(dataPath, file)));
+  // const { data } = fileContent;
 
   return [...acc, ...data];
 }, []);

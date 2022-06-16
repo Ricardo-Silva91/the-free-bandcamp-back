@@ -8007,23 +8007,6 @@
     }
   },
   {
-    "country": "Spain",
-    "artist_name": "HiGrade",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
-    "item_price": 0,
-    "slug_type": "a",
-    "amount_paid": 1,
-    "art_id": 1659118912,
-    "art_url": "https://f4.bcbits.com/img/a1659118912_7.jpg",
-    "amount_paid_usd": 1.07,
-    "url": "https://crudobilbao.com/album/insanity",
-    "item_description": "Insanity",
-    "item_type": "a",
-    "country_code": "es",
-    "utc_date": 1654156150.56287
-  },
-  {
     "item_description": "Insanity",
     "country": "Spain",
     "artist_name": "HiGrade",
@@ -8051,6 +8034,23 @@
         ""
       ]
     }
+  },
+  {
+    "country": "Spain",
+    "artist_name": "HiGrade",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "slug_type": "a",
+    "amount_paid": 1,
+    "art_id": 1659118912,
+    "art_url": "https://f4.bcbits.com/img/a1659118912_7.jpg",
+    "amount_paid_usd": 1.07,
+    "url": "https://crudobilbao.com/album/insanity",
+    "item_description": "Insanity",
+    "item_type": "a",
+    "country_code": "es",
+    "utc_date": 1654156150.56287
   },
   {
     "item_type": "a",
@@ -12862,6 +12862,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655368575.60844,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "haircuts for men",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://haircutsformen.bandcamp.com/album/beat-2000-2006",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a4018841688_7.jpg",
+    "slug_type": "a",
+    "art_id": 4018841688,
+    "amount_paid_usd": 1,
+    "item_description": "理髪店 Beat    2000-2006",
+    "details": {
+      "tags": [
+        "electronic",
+        "chillwave",
+        "experimental",
+        "instrumental",
+        "soundtrack",
+        "vaporwave",
+        "Honolulu"
       ]
     }
   },

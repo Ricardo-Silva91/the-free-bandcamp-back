@@ -21,7 +21,7 @@ const alphabetObject = {};
 // eslint-disable-next-line no-restricted-syntax
 for (const album of content) {
   const dateRaw = album.utc_date * 1000;
-  const date = new Date(dateRaw).toLocaleDateString().replace(/\//g, '-');
+  const date = new Date(dateRaw).toISOString().split('T')[0];
 
   if (alphabetObject[date]) {
     alphabetObject[date].push(album);

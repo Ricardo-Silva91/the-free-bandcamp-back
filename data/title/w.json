@@ -9591,39 +9591,6 @@
     }
   },
   {
-    "country": "Austria",
-    "artist_name": "Novichoke",
-    "currency": "USD",
-    "amount_paid_fmt": "$5",
-    "item_price": 0,
-    "slug_type": "a",
-    "item_description": "Wounds",
-    "amount_paid": 5,
-    "art_id": 1976341654,
-    "amount_over_fmt": "$5",
-    "art_url": "https://f4.bcbits.com/img/a1976341654_7.jpg",
-    "amount_paid_usd": 5,
-    "url": "https://novichoke.bandcamp.com/album/wounds",
-    "item_type": "a",
-    "country_code": "at",
-    "utc_date": 1654203113.3801,
-    "details": {
-      "type": "album",
-      "stories": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  },
-  {
     "country": "United States",
     "artist_name": "King Apathy",
     "currency": "EUR",
@@ -9645,6 +9612,39 @@
       "stories": [
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "country": "Austria",
+    "artist_name": "Novichoke",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "slug_type": "a",
+    "item_description": "Wounds",
+    "amount_paid": 5,
+    "art_id": 1976341654,
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a1976341654_7.jpg",
+    "amount_paid_usd": 5,
+    "url": "https://novichoke.bandcamp.com/album/wounds",
+    "item_type": "a",
+    "country_code": "at",
+    "utc_date": 1654203113.3801,
+    "details": {
+      "type": "album",
+      "stories": [
         "",
         "",
         "",
