@@ -15,7 +15,7 @@ numberedDataFiles.reduce((acc, file) => {
   const foundUrls = [];
 
   filteredData = filteredData.reduce((acc2, album) => {
-    if (foundUrls.includes(album.url)) {
+    if (foundUrls.includes(album.url) || album.slug_type !== 'a') {
       return acc2;
     }
 

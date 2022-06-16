@@ -44,7 +44,7 @@ const scrapeBandcamp = async () => {
 
       const filteredFreeItems = freeItems.filter(
         (item) => (
-          !isTitleInDb(item.item_description) && !isTitleInTodaysSales(item.item_description)
+          item.slug_type === 'a' && !isTitleInDb(item.item_description) && !isTitleInTodaysSales(item.item_description)
         ),
       );
 
