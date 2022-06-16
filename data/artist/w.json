@@ -1930,39 +1930,6 @@
     }
   },
   {
-    "country_code": "si",
-    "item_slug": "/album/",
-    "item_description": "S&B - Orphéa De Amor [Wile Out]",
-    "utc_date": 1655397233.00995,
-    "releases": null,
-    "item_type": "t",
-    "track_album_slug_text": null,
-    "country": "Slovenia",
-    "package_image_id": null,
-    "addl_count": 1,
-    "artist_name": "WILE OUT",
-    "currency": "USD",
-    "amount_paid_fmt": "$0.50",
-    "item_price": 0,
-    "url": "https://wileout.bandcamp.com/track/s-b-orphe-a-de-amor-wile-out",
-    "album_title": "End Of The World Compilation (2019)",
-    "amount_paid": 1,
-    "art_url": "https://f4.bcbits.com/img/a0315881662_7.jpg",
-    "slug_type": "t",
-    "art_id": 315881662,
-    "amount_paid_usd": 1,
-    "details": {
-      "tags": [
-        "world",
-        "beats",
-        "club",
-        "global",
-        "music",
-        "Australia"
-      ]
-    }
-  },
-  {
     "item_type": "a",
     "country_code": "de",
     "utc_date": 1654436468.68353,
@@ -6646,38 +6613,6 @@
     }
   },
   {
-    "country_code": "de",
-    "utc_date": 1655396344.99076,
-    "releases": null,
-    "item_type": "t",
-    "track_album_slug_text": null,
-    "country": "Germany",
-    "package_image_id": null,
-    "artist_name": "Whøman",
-    "currency": "EUR",
-    "amount_paid_fmt": "€1",
-    "item_price": 0,
-    "url": "https://ravesession.bandcamp.com/track/whats-done-cant-be-undone-resilience-ravesingles020",
-    "album_title": null,
-    "amount_paid": 1,
-    "art_url": "https://f4.bcbits.com/img/a3518781132_7.jpg",
-    "slug_type": "t",
-    "art_id": 3518781132,
-    "item_description": "What's Done Can't Be Undone (Resilience) [RAVESINGLES020]",
-    "amount_paid_usd": 1.05,
-    "details": {
-      "tags": [
-        "electronic",
-        "acid",
-        "hardtechno",
-        "industrial techno",
-        "rave",
-        "techno",
-        "Russia"
-      ]
-    }
-  },
-  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654402295.87799,
@@ -6732,6 +6667,151 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "WICK-ITSTRUMENTALS (Vol. 1) (2022)",
+    "country_code": "us",
+    "utc_date": 1655412042.72636,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Wick-it the Instigator",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://wickit.bandcamp.com/album/wick-itstrumentals-vol-1-2022",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a3108519181_7.jpg",
+    "slug_type": "a",
+    "art_id": 3108519181,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "details": {
+      "tags": [
+        "electronic",
+        "hip-hop/rap",
+        "Nashville"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655412042.72636,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Wick-it the Instigator",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://wickit.bandcamp.com/album/wick-itstrumentals-vol-1-2022",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a3108519181_7.jpg",
+    "slug_type": "a",
+    "art_id": 3108519181,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "item_description": "WICK-ITSTRUMENTALS (Vol. 1) (2022)",
+    "details": {
+      "tags": [
+        "electronic",
+        "hip-hop/rap",
+        "Nashville"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655412042.72636,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Wick-it the Instigator",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_description": "WICK-ITSTRUMENTALS (Vol. 1) (2022)",
+    "item_price": 0,
+    "url": "https://wickit.bandcamp.com/album/wick-itstrumentals-vol-1-2022",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a3108519181_7.jpg",
+    "slug_type": "a",
+    "art_id": 3108519181,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "details": {
+      "tags": [
+        "electronic",
+        "hip-hop/rap",
+        "Nashville"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655412042.72636,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Wick-it the Instigator",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://wickit.bandcamp.com/album/wick-itstrumentals-vol-1-2022",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a3108519181_7.jpg",
+    "slug_type": "a",
+    "art_id": 3108519181,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "item_description": "WICK-ITSTRUMENTALS (Vol. 1) (2022)",
+    "details": {
+      "tags": [
+        "electronic",
+        "hip-hop/rap",
+        "Nashville"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655412042.72636,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "item_description": "WICK-ITSTRUMENTALS (Vol. 1) (2022)",
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Wick-it the Instigator",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://wickit.bandcamp.com/album/wick-itstrumentals-vol-1-2022",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a3108519181_7.jpg",
+    "slug_type": "a",
+    "art_id": 3108519181,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "details": {
+      "tags": [
+        "electronic",
+        "hip-hop/rap",
+        "Nashville"
       ]
     }
   },
@@ -7664,6 +7744,142 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655409855.71663,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "Willow River",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_description": ".: MENLA :.",
+    "item_price": 0,
+    "url": "https://willowriver.bandcamp.com/album/menla",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0504567792_7.jpg",
+    "slug_type": "a",
+    "art_id": 504567792,
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "devotional",
+        "buddha",
+        "electronic",
+        "healing",
+        "mantra",
+        "medicine",
+        "mystical",
+        "organic",
+        "Ashland"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655409855.71663,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "Willow River",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://willowriver.bandcamp.com/album/menla",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0504567792_7.jpg",
+    "slug_type": "a",
+    "art_id": 504567792,
+    "amount_paid_usd": 1,
+    "item_description": ".: MENLA :.",
+    "details": {
+      "tags": [
+        "devotional",
+        "buddha",
+        "electronic",
+        "healing",
+        "mantra",
+        "medicine",
+        "mystical",
+        "organic",
+        "Ashland"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655409855.71663,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "Willow River",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_description": ".: MENLA :.",
+    "item_price": 0,
+    "url": "https://willowriver.bandcamp.com/album/menla",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0504567792_7.jpg",
+    "slug_type": "a",
+    "art_id": 504567792,
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "devotional",
+        "buddha",
+        "electronic",
+        "healing",
+        "mantra",
+        "medicine",
+        "mystical",
+        "organic",
+        "Ashland"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655409855.71663,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "Willow River",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://willowriver.bandcamp.com/album/menla",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0504567792_7.jpg",
+    "slug_type": "a",
+    "art_id": 504567792,
+    "item_description": ".: MENLA :.",
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "devotional",
+        "buddha",
+        "electronic",
+        "healing",
+        "mantra",
+        "medicine",
+        "mystical",
+        "organic",
+        "Ashland"
       ]
     }
   },
@@ -10202,6 +10418,181 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1655413667.43649,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "item_description": "Grinding Advance",
+    "country": "Canada",
+    "package_image_id": null,
+    "artist_name": "World Eaters",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "url": "https://worldeaters.bandcamp.com/album/grinding-advance",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1651006200_7.jpg",
+    "slug_type": "a",
+    "art_id": 1651006200,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.87,
+    "details": {
+      "tags": [
+        "40k metal",
+        "d&d",
+        "death doom",
+        "death metal",
+        "doom metal",
+        "dungeons and dragons",
+        "extreme metal",
+        "metal",
+        "Guelph"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "item_description": "Grinding Advance",
+    "utc_date": 1655413667.43649,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "package_image_id": null,
+    "artist_name": "World Eaters",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "url": "https://worldeaters.bandcamp.com/album/grinding-advance",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1651006200_7.jpg",
+    "slug_type": "a",
+    "art_id": 1651006200,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.87,
+    "details": {
+      "tags": [
+        "40k metal",
+        "d&d",
+        "death doom",
+        "death metal",
+        "doom metal",
+        "dungeons and dragons",
+        "extreme metal",
+        "metal",
+        "Guelph"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655413667.43649,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "package_image_id": null,
+    "artist_name": "World Eaters",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "url": "https://worldeaters.bandcamp.com/album/grinding-advance",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1651006200_7.jpg",
+    "slug_type": "a",
+    "art_id": 1651006200,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.87,
+    "item_description": "Grinding Advance",
+    "details": {
+      "tags": [
+        "40k metal",
+        "d&d",
+        "death doom",
+        "death metal",
+        "doom metal",
+        "dungeons and dragons",
+        "extreme metal",
+        "metal",
+        "Guelph"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655413667.43649,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "package_image_id": null,
+    "item_description": "Grinding Advance",
+    "artist_name": "World Eaters",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "url": "https://worldeaters.bandcamp.com/album/grinding-advance",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1651006200_7.jpg",
+    "slug_type": "a",
+    "art_id": 1651006200,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.87,
+    "details": {
+      "tags": [
+        "40k metal",
+        "d&d",
+        "death doom",
+        "death metal",
+        "doom metal",
+        "dungeons and dragons",
+        "extreme metal",
+        "metal",
+        "Guelph"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655413667.43649,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "package_image_id": null,
+    "artist_name": "World Eaters",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "url": "https://worldeaters.bandcamp.com/album/grinding-advance",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a1651006200_7.jpg",
+    "slug_type": "a",
+    "art_id": 1651006200,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.87,
+    "item_description": "Grinding Advance",
+    "details": {
+      "tags": [
+        "40k metal",
+        "d&d",
+        "death doom",
+        "death metal",
+        "doom metal",
+        "dungeons and dragons",
+        "extreme metal",
+        "metal",
+        "Guelph"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "de",
     "utc_date": 1654378107.96477,
@@ -11254,6 +11645,105 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655419444.80593,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "wait what",
+    "currency": "USD",
+    "amount_paid_fmt": "$8",
+    "item_price": 0,
+    "url": "https://waitwhat.bandcamp.com/album/asking-for-a-friend-vol4-summer",
+    "item_description": "asking for a friend (vol4​:​summer)",
+    "album_title": null,
+    "amount_paid": 8,
+    "art_url": "https://f4.bcbits.com/img/a1507991887_7.jpg",
+    "slug_type": "a",
+    "art_id": 1507991887,
+    "amount_over_fmt": "$8",
+    "amount_paid_usd": 8,
+    "details": {
+      "tags": [
+        "hip-hop/rap",
+        "experimental pop",
+        "gangsta rap",
+        "hip hop",
+        "indie rock",
+        "mashup",
+        "San Francisco"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655419444.80593,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "wait what",
+    "currency": "USD",
+    "amount_paid_fmt": "$8",
+    "item_price": 0,
+    "url": "https://waitwhat.bandcamp.com/album/asking-for-a-friend-vol4-summer",
+    "album_title": null,
+    "amount_paid": 8,
+    "art_url": "https://f4.bcbits.com/img/a1507991887_7.jpg",
+    "slug_type": "a",
+    "art_id": 1507991887,
+    "amount_over_fmt": "$8",
+    "amount_paid_usd": 8,
+    "item_description": "asking for a friend (vol4​:​summer)",
+    "details": {
+      "tags": [
+        "hip-hop/rap",
+        "experimental pop",
+        "gangsta rap",
+        "hip hop",
+        "indie rock",
+        "mashup",
+        "San Francisco"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655419444.80593,
+    "releases": null,
+    "item_description": "asking for a friend (vol4​:​summer)",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "wait what",
+    "currency": "USD",
+    "amount_paid_fmt": "$8",
+    "item_price": 0,
+    "url": "https://waitwhat.bandcamp.com/album/asking-for-a-friend-vol4-summer",
+    "album_title": null,
+    "amount_paid": 8,
+    "art_url": "https://f4.bcbits.com/img/a1507991887_7.jpg",
+    "slug_type": "a",
+    "art_id": 1507991887,
+    "amount_over_fmt": "$8",
+    "amount_paid_usd": 8,
+    "details": {
+      "tags": [
+        "hip-hop/rap",
+        "experimental pop",
+        "gangsta rap",
+        "hip hop",
+        "indie rock",
+        "mashup",
+        "San Francisco"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a0332617034_7.jpg",
@@ -11884,6 +12374,154 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655411265.32243,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "whiff trophy",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://whifftrophy.bandcamp.com/album/boner-beach-ep",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a2720590015_7.jpg",
+    "slug_type": "a",
+    "art_id": 2720590015,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "item_description": "Boner Beach  [EP]",
+    "details": {
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "coronavirus",
+        "electronic",
+        "folk",
+        "homemade",
+        "independent",
+        "life affirming",
+        "lockdown 2020",
+        "weird",
+        "Seattle"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655411265.32243,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "whiff trophy",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://whifftrophy.bandcamp.com/album/boner-beach-ep",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a2720590015_7.jpg",
+    "slug_type": "a",
+    "art_id": 2720590015,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "item_description": "Boner Beach  [EP]",
+    "details": {
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "coronavirus",
+        "electronic",
+        "folk",
+        "homemade",
+        "independent",
+        "life affirming",
+        "lockdown 2020",
+        "weird",
+        "Seattle"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655411265.32243,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "whiff trophy",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "url": "https://whifftrophy.bandcamp.com/album/boner-beach-ep",
+    "item_description": "Boner Beach  [EP]",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a2720590015_7.jpg",
+    "slug_type": "a",
+    "art_id": 2720590015,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "details": {
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "coronavirus",
+        "electronic",
+        "folk",
+        "homemade",
+        "independent",
+        "life affirming",
+        "lockdown 2020",
+        "weird",
+        "Seattle"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655411265.32243,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "whiff trophy",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_description": "Boner Beach  [EP]",
+    "item_price": 0,
+    "url": "https://whifftrophy.bandcamp.com/album/boner-beach-ep",
+    "album_title": null,
+    "amount_paid": 10,
+    "art_url": "https://f4.bcbits.com/img/a2720590015_7.jpg",
+    "slug_type": "a",
+    "art_id": 2720590015,
+    "amount_over_fmt": "$10",
+    "amount_paid_usd": 10,
+    "details": {
+      "tags": [
+        "experimental",
+        "avant-garde",
+        "coronavirus",
+        "electronic",
+        "folk",
+        "homemade",
+        "independent",
+        "life affirming",
+        "lockdown 2020",
+        "weird",
+        "Seattle"
+      ]
+    }
+  },
+  {
     "utc_date": 1653798307.00484,
     "country": "United States",
     "artist_name": "whit3corset",
@@ -12307,6 +12945,226 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655410822.97936,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "item_description": "Meeting Room + Rare Plants",
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/meeting-room-rare-plants",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a1550753995_7.jpg",
+    "slug_type": "a",
+    "art_id": 1550753995,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "pop",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655410822.97936,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/meeting-room-rare-plants",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a1550753995_7.jpg",
+    "item_description": "Meeting Room + Rare Plants",
+    "slug_type": "a",
+    "art_id": 1550753995,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "pop",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655410822.97936,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/meeting-room-rare-plants",
+    "item_description": "Meeting Room + Rare Plants",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a1550753995_7.jpg",
+    "slug_type": "a",
+    "art_id": 1550753995,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "pop",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655410822.97936,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "item_description": "Meeting Room + Rare Plants",
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/meeting-room-rare-plants",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a1550753995_7.jpg",
+    "slug_type": "a",
+    "art_id": 1550753995,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "pop",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655409148.79026,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/asaga-fu-an-fumoragu-aria",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a3585015284_7.jpg",
+    "slug_type": "a",
+    "art_id": 3585015284,
+    "item_description": "Asaga Fu an Fumoragu Aria",
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655409148.79026,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_description": "Asaga Fu an Fumoragu Aria",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/asaga-fu-an-fumoragu-aria",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a3585015284_7.jpg",
+    "slug_type": "a",
+    "art_id": 3585015284,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "item_description": "Asaga Fu an Fumoragu Aria",
+    "utc_date": 1655409148.79026,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/asaga-fu-an-fumoragu-aria",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a3585015284_7.jpg",
+    "slug_type": "a",
+    "art_id": 3585015284,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655409148.79026,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "item_description": "Asaga Fu an Fumoragu Aria",
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "woopheadclrms",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "url": "https://ukiukiatama.bandcamp.com/album/asaga-fu-an-fumoragu-aria",
+    "album_title": null,
+    "amount_paid": 2,
+    "art_url": "https://f4.bcbits.com/img/a3585015284_7.jpg",
+    "slug_type": "a",
+    "art_id": 3585015284,
+    "amount_paid_usd": 2,
+    "details": {
+      "tags": [
+        "world",
+        "Japan"
       ]
     }
   },
