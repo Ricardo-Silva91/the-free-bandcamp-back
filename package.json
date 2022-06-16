@@ -12,6 +12,7 @@
     "setArtistIndex": "node ./src/scripts/setArtistIndex.js",
     "scrape": "node ./src/scripts/scrape.js",
     "update": "node ./src/scripts/updateAndPush.js",
+    "purge": "node ./src/scripts/purgeDuplicates.js",
     "setTitleIndex": "node ./src/scripts/setTitleIndex.js",
     "setSaleDateIndex": "node ./src/scripts/setSaleDateIndex.js",
     "lint": "eslint src",
