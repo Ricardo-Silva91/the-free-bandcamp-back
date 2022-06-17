@@ -115,6 +115,40 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655482465.07446,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Cum Gutter",
+    "currency": "USD",
+    "amount_paid_fmt": "$6.66",
+    "item_price": 0,
+    "url": "https://cumgutter.bandcamp.com/album/xhexxx-on-transphobx",
+    "album_title": null,
+    "amount_paid": 6.66,
+    "art_url": "https://f4.bcbits.com/img/a3928563561_7.jpg",
+    "slug_type": "a",
+    "art_id": 3928563561,
+    "amount_over_fmt": "$6.66",
+    "item_description": "XHEXXX ON TRANSPHOBX",
+    "amount_paid_usd": 6.66,
+    "details": {
+      "tags": [
+        "electronic",
+        "hnw.",
+        "gay",
+        "glitch",
+        "harsh",
+        "hnw",
+        "noise",
+        "New York"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "HEXIS",
     "currency": "EUR",
@@ -627,6 +661,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655478099.40624,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "XXIII",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "url": "https://xxiii.bandcamp.com/album/xxiii-volume-8",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a3414177461_7.jpg",
+    "slug_type": "a",
+    "art_id": 3414177461,
+    "amount_paid_usd": 1.05,
+    "item_description": "XXIII // VOLUME 8",
+    "details": {
+      "tags": [
+        "afrobeat",
+        "ballroom beats",
+        "electronic",
+        "funk",
+        "future beats",
+        "gqom",
+        "jersey club",
+        "hard drums",
+        "kuduro",
+        "vogue",
+        "Portugal"
       ]
     }
   },

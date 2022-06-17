@@ -1,5 +1,37 @@
 [
   {
+    "country_code": "us",
+    "utc_date": 1655485428.59799,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Chandler Travis Philharmonic",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https:https://shop.chandlertravis.com/album/y-gotta-have-the-mental-radioball-2",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a1976409080_7.jpg",
+    "slug_type": "a",
+    "art_id": 1976409080,
+    "item_description": "Y' Gotta Have the Mental (RadioBall #2)",
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "alternative",
+        "pop",
+        "jazz",
+        "multi-genre",
+        "omnipop",
+        "rock",
+        "Massachusetts"
+      ]
+    }
+  },
+  {
     "utc_date": 1653787612.33483,
     "country": "United States",
     "item_description": "Y2K20",
@@ -233,6 +265,70 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655505149.58844,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "package_image_id": null,
+    "artist_name": "᠎",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://theprojectionoftheastralbody.bandcamp.com/album/you-are-mine-to-kill",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a3575960967_7.jpg",
+    "slug_type": "a",
+    "art_id": 3575960967,
+    "amount_paid_usd": 1,
+    "item_description": "YOU ARE MINE TO KILL",
+    "details": {
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "death industrial",
+        "harsh noise",
+        "noise"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655461801.30225,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "KOSUGI",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "url": "https://kosugi-time.bandcamp.com/album/your-assumption",
+    "album_title": null,
+    "amount_paid": 3,
+    "art_url": "https://f4.bcbits.com/img/a1268887137_7.jpg",
+    "slug_type": "a",
+    "art_id": 1268887137,
+    "amount_over_fmt": "$3",
+    "item_description": "YOUR ASSUMPTION",
+    "amount_paid_usd": 3,
+    "details": {
+      "tags": [
+        "birmingham al",
+        "punk",
+        "doom",
+        "hxc",
+        "noise",
+        "queercore",
+        "sludgecore",
+        "Seattle"
       ]
     }
   },
@@ -793,6 +889,44 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655488598.65921,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "DIE-REK",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://illect.bandcamp.com/album/year-of-redemption",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a3196795044_7.jpg",
+    "slug_type": "a",
+    "art_id": 3196795044,
+    "amount_paid_usd": 1,
+    "item_description": "Year Of Redemption",
+    "details": {
+      "tags": [
+        "canadian hip-hop",
+        "die-rek",
+        "hip-hop/rap",
+        "alternative hip-hop",
+        "boom-bap",
+        "conscious hip-hop",
+        "illect",
+        "illect recordings",
+        "jazzy hip-hop",
+        "soulful hip-hop",
+        "underground hip-hop",
+        "underground rap",
+        "Seattle"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a0354078127_7.jpg",
@@ -909,6 +1043,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "jp",
+    "utc_date": 1655500207.73908,
+    "releases": null,
+    "item_description": "Yeke Yeke (Framewerk Rewerks)",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "package_image_id": null,
+    "artist_name": "Framewerk",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "url": "https://framewerk.bandcamp.com/album/yeke-yeke-framewerk-rewerks",
+    "album_title": null,
+    "amount_paid": 0.5,
+    "art_url": "https://f4.bcbits.com/img/a0829049435_7.jpg",
+    "slug_type": "a",
+    "art_id": 829049435,
+    "amount_paid_usd": 0.61,
+    "details": {
+      "tags": [
+        "chillout",
+        "electronic",
+        "electronica",
+        "progressivehouse",
+        "indiedance",
+        "London"
       ]
     }
   },
@@ -1363,6 +1528,33 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655469341.37713,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "Happi",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "url": "https://happimusic.bandcamp.com/album/yohappiflipdis-vol1",
+    "item_description": "YoHappiFlipDis Vol1",
+    "album_title": null,
+    "amount_paid": 0.5,
+    "art_url": "https://f4.bcbits.com/img/a1923427104_7.jpg",
+    "slug_type": "a",
+    "art_id": 1923427104,
+    "amount_paid_usd": 0.61,
+    "details": {
+      "tags": [
+        "world",
+        "London"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "amount_paid_fmt": "$1",
     "artist_name": "Camila Nebbia, Maya Keren, Diana Arias, and Lesley Mok",
@@ -1387,6 +1579,39 @@
         "free jazz",
         "improvisation",
         "Philadelphia"
+      ]
+    }
+  },
+  {
+    "country_code": "fi",
+    "utc_date": 1655477094.01324,
+    "releases": null,
+    "item_description": "Yoga Nidra Practices",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Finland",
+    "package_image_id": null,
+    "artist_name": "TURIYA project",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://turiyaproject.bandcamp.com/album/yoga-nidra-practices",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a1793346341_7.jpg",
+    "slug_type": "a",
+    "art_id": 1793346341,
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "ambient",
+        "ambient",
+        "audiobook",
+        "bihar yoga",
+        "satyananda yoga",
+        "yoga",
+        "yoga nidra",
+        "Sri Lanka"
       ]
     }
   },
@@ -1601,6 +1826,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "You Are A Funeral / This Is All Emptiness",
+    "country_code": "us",
+    "utc_date": 1655474424.64381,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Sunk",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://s-u-n-k.bandcamp.com/album/you-are-a-funeral-this-is-all-emptiness",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a2808094002_7.jpg",
+    "slug_type": "a",
+    "art_id": 2808094002,
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "electronic",
+        "ambient",
+        "dark ambient",
+        "experimental",
+        "noise",
+        "techno",
+        "Antarctica"
       ]
     }
   },
@@ -2441,6 +2698,38 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655496237.91239,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Cherish",
+    "currency": "AUD",
+    "amount_paid_fmt": "$5 AUD",
+    "item_price": 0,
+    "url": "https://xcherishx.bandcamp.com/album/your-suffering",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a3064793729_7.jpg",
+    "slug_type": "a",
+    "art_id": 3064793729,
+    "amount_over_fmt": "$5",
+    "amount_paid_usd": 3.47,
+    "item_description": "Your Suffering",
+    "details": {
+      "tags": [
+        "punk",
+        "fast",
+        "hardcore",
+        "straight edge",
+        "two step",
+        "Sydney"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Razorback Hollow",
     "currency": "CAD",
@@ -2612,6 +2901,43 @@
     }
   },
   {
+    "country_code": "us",
+    "item_description": "Yuletide Bangerz",
+    "utc_date": 1655462510.26562,
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "package_image_id": null,
+    "artist_name": "Jonwayne",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "url": "https://authorsrecording.bandcamp.com/album/yuletide-bangerz",
+    "album_title": null,
+    "amount_paid": 1,
+    "art_url": "https://f4.bcbits.com/img/a0750627598_7.jpg",
+    "slug_type": "a",
+    "art_id": 750627598,
+    "amount_paid_usd": 1,
+    "details": {
+      "tags": [
+        "christmas",
+        "hip hop",
+        "hip-hop",
+        "hip-hop/rap",
+        "instrumental hip-hop",
+        "rap",
+        "beat",
+        "beat tape",
+        "beat-tape",
+        "beats",
+        "holiday",
+        "La Habra"
+      ]
+    }
+  },
+  {
     "country": "Italy",
     "amount_paid_fmt": "€0.50",
     "artist_name": "Zigo & Camila Dos Santos (KURUNDU)",
@@ -2678,6 +3004,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655476656.4914,
+    "item_description": "Yør",
+    "releases": null,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "package_image_id": null,
+    "artist_name": "YØR",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "url": "https://yorcrust.bandcamp.com/album/y-r",
+    "album_title": null,
+    "amount_paid": 5,
+    "art_url": "https://f4.bcbits.com/img/a0078196892_7.jpg",
+    "slug_type": "a",
+    "art_id": 78196892,
+    "amount_over_fmt": "€5",
+    "amount_paid_usd": 5.25,
+    "details": {
+      "tags": [
+        "punk",
+        "crust",
+        "fast",
+        "grindcore",
+        "hardcore",
+        "powerviolence",
+        "Hamburg"
       ]
     }
   },
