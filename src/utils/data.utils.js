@@ -39,7 +39,7 @@ const isTitleInTodaysSales = (title) => {
 
   try {
     const macros = JSON.parse(fs.readFileSync(macrosPath));
-    const result = require(path.join(saleDatePath, `${macros.latestDate}.json`));
+    const result = JSON.parse(fs.readFileSync(path.join(saleDatePath, `${macros.latestDate}.json`)));
 
     const filtered = result.filter(
       (album) => album.item_description.toLocaleLowerCase() === title.toLocaleLowerCase(),
@@ -87,6 +87,7 @@ const addAlbumsToDatabase = (albums) => {
 };
 
 const updateDataBase = async () => {
+  await require('../scripts/purgeDuplicates');
   await require('../scripts/setArtistIndex');
   await require('../scripts/setTitleIndex');
 

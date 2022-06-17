@@ -43,9 +43,19 @@ const scrapeBandcamp = async () => {
       console.log({ freeItems: freeItems.length });
 
       const filteredFreeItems = freeItems.filter(
-        (item) => (
-          item.slug_type === 'a' && !isTitleInDb(item.item_description) && !isTitleInTodaysSales(item.item_description)
-        ),
+        (item) => {
+          const typeIsRight = item.slug_type === 'a';
+          const notInDb = !isTitleInDb(item.item_description);
+          const notInTodaysSales = !isTitleInTodaysSales(item.item_description);
+
+          // console.log({
+          //   t: item.item_description, typeIsRight, notInDb, notInTodaysSales,
+          // });
+
+          return (
+            typeIsRight && notInDb && notInTodaysSales
+          );
+        },
       );
 
       console.log({ filtered: filteredFreeItems.length });
