@@ -4,6 +4,8 @@ const { isTitleInDb, addAlbumsToDatabase, isTitleInTodaysSales } = require('./da
 // const { readFile, writeFile } = require('./fs.utils.js');
 // const { cleanUrl } = require('./js.utils.js');
 
+const albumIdLabelIdentifier = '<!-- album id ';
+
 const getDetailsForAlbum = (album) => new Promise(
   (resolve) => {
     const albumLink = album.url.startsWith('https:') || album.url.startsWith('http:') ? album.url : `https:${album.url}`;
@@ -11,6 +13,17 @@ const getDetailsForAlbum = (album) => new Promise(
     axios(albumLink)
       .then((response) => {
         const html = response.data;
+        const albumIdLabelIndex = html.indexOf(albumIdLabelIdentifier);
+        const indexOfCommentEnd = html.indexOf(' -->', albumIdLabelIndex + albumIdLabelIdentifier.length);
+        let albumId;
+
+        if (albumIdLabelIdentifier !== -1 && indexOfCommentEnd !== -1) {
+          albumId = html.slice(
+            albumIdLabelIndex + albumIdLabelIdentifier.length,
+            indexOfCommentEnd,
+          );
+        }
+
         const $ = cheerio.load(html);
         const tagsElems = $('.tralbum-tags .tag');
         const tags = [];
@@ -21,6 +34,7 @@ const getDetailsForAlbum = (album) => new Promise(
         });
 
         resolve({
+          albumId,
           tags,
         });
       })

@@ -11,7 +11,7 @@ nodeCron.schedule('0,30 * * * * *', () => {
   scrapeBandcamp();
 });
 
-nodeCron.schedule('0 0 0 * * *', async () => {
+nodeCron.schedule('0 0 11 * * *', async () => {
   console.log('refreshing local db');
 
   await updateDataBase();
