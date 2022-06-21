@@ -2414,6 +2414,39 @@
   },
   {
     "country_code": "gb",
+    "utc_date": 1655769374.45431,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Paola Lesina",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://falt.bandcamp.com/album/hot-conversation",
+    "amount_paid": 0.5,
+    "item_description": "HOT CONVERSATION",
+    "slug_type": "a",
+    "art_id": 3663960883,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3663960883_7.jpg",
+    "details": {
+      "albumId": "123555763",
+      "tags": [
+        "experimental",
+        "avantgarde",
+        "electronic",
+        "musique concrete",
+        "sound art",
+        "tape music",
+        "France"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
     "utc_date": 1655423653.51088,
     "releases": null,
     "item_type": "a",
@@ -2529,6 +2562,39 @@
     "amount_paid_usd": 0.53,
     "art_url": "https://f4.bcbits.com/img/a3909697774_7.jpg",
     "details": {
+      "tags": [
+        "deep house",
+        "disco house",
+        "electronic",
+        "funky house",
+        "tech house",
+        "house music",
+        "Warsaw"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655736779.14673,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Various Artists",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_description": "HOUZ Various Artists III [HZR016]",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://houz.bandcamp.com/album/houz-various-artists-iii-hzr016",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 4178585865,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a4178585865_7.jpg",
+    "details": {
+      "albumId": "3427283153",
       "tags": [
         "deep house",
         "disco house",
@@ -3721,6 +3787,72 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655742568.89205,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Batsu",
+    "item_type": "a",
+    "currency": "JPY",
+    "amount_paid_fmt": "¥500",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://batsu82.bandcamp.com/album/half-self",
+    "item_description": "Half Self",
+    "amount_paid": 500,
+    "slug_type": "a",
+    "art_id": 2555882434,
+    "amount_over_fmt": "¥500",
+    "album_title": null,
+    "amount_paid_usd": 3.7,
+    "art_url": "https://f4.bcbits.com/img/a2555882434_7.jpg",
+    "details": {
+      "albumId": "910314345",
+      "tags": [
+        "2step",
+        "pop",
+        "chill",
+        "chillout",
+        "futuregarage",
+        "garage",
+        "pops",
+        "Osaka"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655763241.54537,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Fauxe",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://fauxe.bandcamp.com/album/half-of-my-love",
+    "amount_paid": 5,
+    "item_description": "Half of my Love",
+    "slug_type": "a",
+    "art_id": 338842259,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0338842259_7.jpg",
+    "details": {
+      "albumId": "268563780",
+      "tags": [
+        "electronic",
+        "freeform",
+        "freeform",
+        "Singapore"
       ]
     }
   },
@@ -6770,6 +6902,41 @@
     }
   },
   {
+    "country_code": "pt",
+    "utc_date": 1655740732.51495,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Portugal",
+    "artist_name": "Mubali",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ektoplazm.bandcamp.com/album/head-ass-soul",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1508736732,
+    "item_description": "Head + Ass = Soul",
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a1508736732_7.jpg",
+    "details": {
+      "albumId": "3815759364",
+      "tags": [
+        "electronic",
+        "darkpsy",
+        "downtempo",
+        "forest",
+        "full-on",
+        "goa",
+        "psytrance",
+        "techno",
+        "Taiwan"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655432583.51812,
     "releases": null,
@@ -6964,6 +7131,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655739355.76238,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "No Paws",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$4",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://bridgetownrecords.bandcamp.com/album/healthy-men",
+    "item_description": "Healthy Men",
+    "amount_paid": 4,
+    "slug_type": "a",
+    "art_id": 501130832,
+    "amount_over_fmt": "$4",
+    "album_title": null,
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a0501130832_7.jpg",
+    "details": {
+      "albumId": "3595899886",
+      "tags": [
+        "punk",
+        "riverside",
+        "indie",
+        "pop",
+        "pop punk",
+        "post-punk",
+        "synth",
+        "Los Angeles"
       ]
     }
   },
@@ -8308,6 +8510,39 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655751169.03378,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "meanwhile.in.texas",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://secretpress.bandcamp.com/album/heimat",
+    "item_description": "Heimat",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1024347335,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a1024347335_7.jpg",
+    "details": {
+      "albumId": "1851875458",
+      "tags": [
+        "ambient",
+        "ambient electronic",
+        "atmospheric",
+        "experimental electronic",
+        "melancholic",
+        "soundscape",
+        "Czechia"
+      ]
+    }
+  },
+  {
     "utc_date": 1653698118.35051,
     "country": "United States",
     "artist_name": "Fargo",
@@ -8885,6 +9120,40 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655750769.75401,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "item_description": "Hello, goodbye.",
+    "artist_name": "sugadaisy",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://sugadaisy.bandcamp.com/album/hello-goodbye",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 3052901431,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a3052901431_7.jpg",
+    "details": {
+      "albumId": "519240565",
+      "tags": [
+        "rock",
+        "bowling green",
+        "feelgood",
+        "kentucky",
+        "pop",
+        "soft rock",
+        "Kentucky"
+      ]
+    }
+  },
+  {
     "country_code": "in",
     "utc_date": 1655485729.25846,
     "releases": null,
@@ -9390,6 +9659,37 @@
   },
   {
     "country_code": "us",
+    "utc_date": 1655762218.61029,
+    "releases": null,
+    "item_description": "Here & Now",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Madhu",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$20",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://madhu.bandcamp.com/album/here-now",
+    "amount_paid": 20,
+    "slug_type": "a",
+    "art_id": 40412824,
+    "amount_over_fmt": "$20",
+    "album_title": null,
+    "amount_paid_usd": 20,
+    "art_url": "https://f4.bcbits.com/img/a0040412824_7.jpg",
+    "details": {
+      "albumId": "984888552",
+      "tags": [
+        "devotional",
+        "meditation",
+        "new age",
+        "sacred & spiritual"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
     "utc_date": 1655437426.5903,
     "releases": null,
     "item_type": "a",
@@ -9569,6 +9869,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655749163.78344,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "The Crane Wives",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$15",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://thecranewives.bandcamp.com/album/here-i-am",
+    "amount_paid": 15,
+    "slug_type": "a",
+    "art_id": 783139450,
+    "amount_over_fmt": "$15",
+    "item_description": "Here I Am",
+    "album_title": null,
+    "amount_paid_usd": 15,
+    "art_url": "https://f4.bcbits.com/img/a0783139450_7.jpg",
+    "details": {
+      "albumId": "786682847",
+      "tags": [
+        "americana",
+        "folk",
+        "rock",
+        "folk rock",
+        "indie",
+        "Grand Rapids"
       ]
     }
   },
@@ -10849,6 +11182,45 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655759718.61254,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Tomus",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://tomus.bandcamp.com/album/high-country-mountain-western-opera-part-1",
+    "item_description": "High Country Mountain Western Opera Part 1",
+    "amount_paid": 50,
+    "slug_type": "a",
+    "art_id": 1594131036,
+    "amount_over_fmt": "$50",
+    "album_title": null,
+    "amount_paid_usd": 50,
+    "art_url": "https://f4.bcbits.com/img/a1594131036_7.jpg",
+    "details": {
+      "albumId": "3164088684",
+      "tags": [
+        "country",
+        "high country",
+        "high country",
+        "country",
+        "folk",
+        "gnostic",
+        "mountian opera",
+        "poetry",
+        "punk",
+        "western",
+        "western mountain opera",
+        "Orleans"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "th",
     "art_url": "https://f4.bcbits.com/img/a0439598780_7.jpg",
@@ -10901,6 +11273,50 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655800508.59398,
+    "releases": null,
+    "item_description": "High Fashion",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Leisure Centre",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://leisurecentre.bandcamp.com/album/high-fashion",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 433853896,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 3.86,
+    "art_url": "https://f4.bcbits.com/img/a0433853896_7.jpg",
+    "details": {
+      "albumId": "1144806864",
+      "tags": [
+        "ambient",
+        "chillwave",
+        "dream",
+        "elevator music",
+        "experimental",
+        "hypnagogic pop",
+        "jazz",
+        "konbini",
+        "mall music",
+        "mallsoft",
+        "metro-ko",
+        "muzak",
+        "nostalgia",
+        "plunderphonics",
+        "smooth jazz",
+        "vaporwave",
+        "Canada"
       ]
     }
   },
@@ -11029,6 +11445,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655794129.16272,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "dios trio",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://diostrio.bandcamp.com/album/high-on-bikes",
+    "item_description": "High On Bikes",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2267339723,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2267339723_7.jpg",
+    "details": {
+      "albumId": "3485749927",
+      "tags": [
+        "alternative",
+        "indie",
+        "instrumental",
+        "math rock",
+        "post punk",
+        "math pop",
+        "pop punk",
+        "post rock",
+        "worcester",
+        "Westborough"
       ]
     }
   },
@@ -11789,6 +12241,36 @@
     }
   },
   {
+    "country_code": "fr",
+    "utc_date": 1655755946.32756,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "France",
+    "artist_name": "Strictement Vaurien.ne",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://strictementvaurien.bandcamp.com/album/hip-hop-avant-ii",
+    "item_description": "Hip Hop Avant II",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 1482899058,
+    "amount_over_fmt": "€3",
+    "album_title": null,
+    "amount_paid_usd": 3.15,
+    "art_url": "https://f4.bcbits.com/img/a1482899058_7.jpg",
+    "details": {
+      "albumId": "1445084749",
+      "tags": [
+        "hip-hop/rap",
+        "rap hardcore hip hop punk",
+        "Brest"
+      ]
+    }
+  },
+  {
     "utc_date": 1653753285.07548,
     "item_description": "Hip Hop Lives (1985-1996)",
     "country": "United Kingdom",
@@ -12031,6 +12513,36 @@
         "hip-hop/rap",
         "tarbes",
         "Tarbes"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655774963.15143,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Constant Insult",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://constantinsult.bandcamp.com/album/history-in-shorthand-lp",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 3630490400,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a3630490400_7.jpg",
+    "item_description": "History In Shorthand LP",
+    "details": {
+      "albumId": "3702720885",
+      "tags": [
+        "punk",
+        "rock & roll",
+        "Minneapolis"
       ]
     }
   },
@@ -12594,6 +13106,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655763482.60772,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Hold the Boat Vol. 1",
+    "artist_name": "Hold The Boat",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://holdtheboat.bandcamp.com/album/hold-the-boat-vol-1",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1182398808,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1182398808_7.jpg",
+    "details": {
+      "albumId": "435096556",
+      "tags": [
+        "folk",
+        "washington island",
+        "door county",
+        "Washington"
       ]
     }
   },
@@ -14915,6 +15457,37 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655786446.57442,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Francis Vace",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://francisvace.bandcamp.com/album/horses-in-real-life",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3632801600,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3632801600_7.jpg",
+    "item_description": "Horses In Real Life",
+    "details": {
+      "albumId": "1881622126",
+      "tags": [
+        "midwest emo",
+        "pop punk",
+        "punk",
+        "rock",
+        "Brisbane"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Aetherreich",
     "currency": "EUR",
@@ -15152,6 +15725,42 @@
         "rock",
         "indie rock",
         "Dunedin"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "releases": null,
+    "utc_date": 1655743991.1148,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "amount_paid_fmt": "€1",
+    "currency": "EUR",
+    "item_type": "a",
+    "artist_name": "THE SOULBREAKER COMPANY",
+    "url": "https://thesoulbreakercompany.bandcamp.com/album/hot-smoke-heavy-blues",
+    "package_image_id": null,
+    "item_price": 0,
+    "item_description": "Hot smoke & heavy blues",
+    "amount_paid": 1,
+    "art_id": 2782474047,
+    "slug_type": "a",
+    "amount_paid_usd": 1.05,
+    "album_title": null,
+    "art_url": "https://f4.bcbits.com/img/a2782474047_7.jpg",
+    "details": {
+      "albumId": "1494693604",
+      "tags": [
+        "pop",
+        "progressive rock",
+        "psychedelic",
+        "rock",
+        "soul",
+        "basque",
+        "blues",
+        "mantra",
+        "psychedelic",
+        "Vitoria Gasteiz"
       ]
     }
   },
@@ -16078,6 +16687,39 @@
     }
   },
   {
+    "country_code": "hu",
+    "utc_date": 1655760645.07444,
+    "releases": null,
+    "item_description": "Hullámokkal",
+    "track_album_slug_text": null,
+    "country": "Hungary",
+    "artist_name": "Carolines",
+    "item_type": "a",
+    "currency": "HUF",
+    "amount_paid_fmt": "5,000 HUF",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://carolines.bandcamp.com/album/hull-mokkal",
+    "amount_paid": 5000,
+    "slug_type": "a",
+    "art_id": 2205440225,
+    "amount_over_fmt": "5,000",
+    "album_title": null,
+    "amount_paid_usd": 13.26,
+    "art_url": "https://f4.bcbits.com/img/a2205440225_7.jpg",
+    "details": {
+      "albumId": "250272935",
+      "tags": [
+        "experimental",
+        "indie rock",
+        "indie rock pop",
+        "post rock",
+        "post-rock",
+        "sample-based"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Dystopia",
     "currency": "USD",
@@ -16662,6 +17304,80 @@
         "math-rock",
         "post-punk",
         "Boston"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "item_description": "Hurt People Hurt People",
+    "utc_date": 1655786466.43006,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Joi Liaye",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://joiliaye.bandcamp.com/album/hurt-people-hurt-people",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2870026051,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2870026051_7.jpg",
+    "details": {
+      "albumId": "468862861",
+      "tags": [
+        "hip hop",
+        "neo-soul",
+        "r&b/soul",
+        "indie pop",
+        "pop",
+        "r&b",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
+    "country_code": "nz",
+    "utc_date": 1655766811.35351,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "New Zealand",
+    "artist_name": "Uailogenos",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$11",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://uailogenos.bandcamp.com/album/hurt-that-can-only-be-felt-through-love-album",
+    "item_description": "Hurt That Can Only Be Felt Through Love (album)",
+    "amount_paid": 11,
+    "slug_type": "a",
+    "art_id": 337054885,
+    "amount_over_fmt": "$11",
+    "album_title": null,
+    "amount_paid_usd": 11,
+    "art_url": "https://f4.bcbits.com/img/a0337054885_7.jpg",
+    "details": {
+      "albumId": "942850763",
+      "tags": [
+        "punk",
+        "appalachian",
+        "black metal",
+        "dub",
+        "gaulish",
+        "horror",
+        "metal",
+        "neofolk",
+        "pagan",
+        "post-punk",
+        "reggae",
+        "southern",
+        "thrash",
+        "Rome"
       ]
     }
   },
@@ -18994,6 +19710,83 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "pl",
+    "utc_date": 1655753073.03954,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Poland",
+    "artist_name": "knisda kanisda",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://hydrophonicrecords.bandcamp.com/album/hydrophonic-35-rocknroll-resistance",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 2712672686,
+    "item_description": "hydrophonic 35 - rock'n'roll resistance",
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a2712672686_7.jpg",
+    "details": {
+      "albumId": "2609088857",
+      "tags": [
+        "electronic",
+        "acid",
+        "breakbeat",
+        "breakcore",
+        "electro",
+        "hardtechno",
+        "hardtekno",
+        "techno",
+        "tekno",
+        "tribe",
+        "Italy"
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "utc_date": 1655755417.43886,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "hydrophonic 37 - trackerz 5",
+    "country": "France",
+    "artist_name": "Trackerz",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€4",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://hydrophonicrecords.bandcamp.com/album/hydrophonic-37-trackerz-5",
+    "amount_paid": 4,
+    "slug_type": "a",
+    "art_id": 768437652,
+    "amount_over_fmt": "€4",
+    "album_title": null,
+    "amount_paid_usd": 4.2,
+    "art_url": "https://f4.bcbits.com/img/a0768437652_7.jpg",
+    "details": {
+      "albumId": "331167446",
+      "tags": [
+        "breakbeat",
+        "electro",
+        "electronic",
+        "hardtechno",
+        "hardtekno",
+        "techno",
+        "tekno",
+        "breakbeat",
+        "breakcore",
+        "electro",
+        "hardtechno",
+        "techno",
+        "Italy"
       ]
     }
   },

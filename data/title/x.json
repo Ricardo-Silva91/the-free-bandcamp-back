@@ -490,6 +490,38 @@
     }
   },
   {
+    "country_code": "nl",
+    "utc_date": 1655759669.77968,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Netherlands",
+    "artist_name": "Free Download",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://thediscoexpress.bandcamp.com/album/xpress-edits-vol-1",
+    "item_description": "XPRESS Edits Vol.1",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 2802046932,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a2802046932_7.jpg",
+    "details": {
+      "albumId": "611981433",
+      "tags": [
+        "funk",
+        "house",
+        "nu disco",
+        "soul",
+        "boogie",
+        "London"
+      ]
+    }
+  },
+  {
     "amount_paid": 0.5,
     "country_code": "ar",
     "art_url": "https://f4.bcbits.com/img/a0963672815_7.jpg",
@@ -1157,6 +1189,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "lt",
+    "utc_date": 1655761623.50644,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Lithuania",
+    "artist_name": "systemnapotvora +1",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://systemnapotvora.bandcamp.com/album/xinhao-piju-vol-1",
+    "amount_paid": 2,
+    "item_description": "Xinhao Piju vol. 1",
+    "slug_type": "a",
+    "art_id": 4169667649,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a4169667649_7.jpg",
+    "details": {
+      "albumId": "612643623",
+      "tags": [
+        "france",
+        "rennes",
+        "odessa",
+        "system",
+        "systemnapotvora +1",
+        "система",
+        "Odessa"
       ]
     }
   },

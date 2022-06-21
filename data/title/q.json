@@ -32,6 +32,41 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655737089.65119,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Clay Parker and Jodi James",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://cpjj.bandcamp.com/album/q-tapes-reel-1",
+    "item_description": "Q-Tapes: Reel #1",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 1202025439,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a1202025439_7.jpg",
+    "details": {
+      "albumId": "2466376172",
+      "tags": [
+        "acoustic",
+        "baton rouge",
+        "folk",
+        "louisiana",
+        "americana",
+        "folk",
+        "singer-songwriter",
+        "Baton Rouge"
+      ]
+    }
+  },
+  {
     "country": "Brazil",
     "artist_name": "Chinese Cookie Poets",
     "item_description": "QTV006 – ■",
@@ -464,6 +499,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655805428.1869,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "SURVEY CHANNEL",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$7",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://surveychannel.bandcamp.com/album/qualified-rarities-1",
+    "item_description": "Qualified Rarities 1",
+    "amount_paid": 7,
+    "slug_type": "a",
+    "art_id": 1914931869,
+    "amount_over_fmt": "$7",
+    "album_title": null,
+    "amount_paid_usd": 7,
+    "art_url": "https://f4.bcbits.com/img/a1914931869_7.jpg",
+    "details": {
+      "albumId": "507261944",
+      "tags": [
+        "electronic",
+        "ambient",
+        "electronica",
+        "idm",
+        "lofi",
+        "synthesizer",
+        "Buffalo"
       ]
     }
   },
@@ -1330,6 +1399,37 @@
         "mashup",
         "pop",
         "Philippines"
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "utc_date": 1655794734.05229,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "France",
+    "artist_name": "Crosstree",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://crosstree.bandcamp.com/album/quickening",
+    "item_description": "Quickening",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 2771691473,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a2771691473_7.jpg",
+    "details": {
+      "albumId": "410051904",
+      "tags": [
+        "hard rock",
+        "rock",
+        "pop rock",
+        "Washington"
       ]
     }
   },

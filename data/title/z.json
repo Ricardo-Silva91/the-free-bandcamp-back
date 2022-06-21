@@ -233,6 +233,44 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655773671.83469,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Peter Zimmermann",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://peterzimmermann.bandcamp.com/album/z-i-m-m-e-r-m-a-n-i-a-vol-i",
+    "amount_paid": 1,
+    "item_description": "Z I M M E R M A N I A (Vol. I)",
+    "slug_type": "a",
+    "art_id": 642216618,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0642216618_7.jpg",
+    "details": {
+      "albumId": "4200780741",
+      "tags": [
+        "80s",
+        "electronic",
+        "chillwave",
+        "dreamwave",
+        "future funk",
+        "instrumental",
+        "retro electro",
+        "retrowave",
+        "synth pop",
+        "synthwave",
+        "vaporwave",
+        "Hamburg"
+      ]
+    }
+  },
+  {
     "country_code": "il",
     "utc_date": 1655533949.31982,
     "releases": null,
@@ -1066,6 +1104,35 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655758318.06782,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Rupert Clervaux",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£4",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://rupertclervaux.bandcamp.com/album/zibaldone-i-of-cvx",
+    "amount_paid": 4,
+    "item_description": "Zibaldone I of CVX",
+    "slug_type": "a",
+    "art_id": 1910184681,
+    "amount_over_fmt": "£4",
+    "album_title": null,
+    "amount_paid_usd": 4.9,
+    "art_url": "https://f4.bcbits.com/img/a1910184681_7.jpg",
+    "details": {
+      "albumId": "2689994906",
+      "tags": [
+        "experimental",
+        "Spain"
+      ]
+    }
+  },
+  {
     "utc_date": 1653700217.84949,
     "country": "United States",
     "artist_name": "Zig Zags",
@@ -1179,6 +1246,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "item_description": "Zimmerpflanze der Lethargie",
+    "utc_date": 1655744215.71707,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Der Pogende Pinguin",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://derpogendepinguin.bandcamp.com/album/zimmerpflanze-der-lethargie",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 82519304,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a0082519304_7.jpg",
+    "details": {
+      "albumId": "3745998984",
+      "tags": [
+        "crossover",
+        "deutschpunk",
+        "deutschpunnk",
+        "funpunk",
+        "metal",
+        "punk",
+        "punkrock",
+        "Germany"
       ]
     }
   },

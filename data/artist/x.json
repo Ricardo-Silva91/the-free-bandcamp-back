@@ -948,6 +948,40 @@
     }
   },
   {
+    "country_code": "ie",
+    "utc_date": 1655742598.82181,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Ireland",
+    "artist_name": "Xehanort",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://xehanort.bandcamp.com/album/awaken-in-a-different-dimension",
+    "item_description": "Awaken in a Different Dimension",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 276542655,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a0276542655_7.jpg",
+    "details": {
+      "albumId": "2380526329",
+      "tags": [
+        "metal",
+        "black metal",
+        "deathcore",
+        "djent",
+        "experimental",
+        "progressive",
+        "Florida"
+      ]
+    }
+  },
+  {
     "item_description": "Midnight Calls",
     "country": "Taiwan",
     "artist_name": "Xela Memories",
@@ -1465,6 +1499,44 @@
         "computer music",
         "copy to draft",
         "United States"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655741399.93236,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Xoc",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://trashcaneagle.bandcamp.com/album/smw",
+    "item_description": "SMW",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 3646706351,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a3646706351_7.jpg",
+    "details": {
+      "albumId": "3017998195",
+      "tags": [
+        "experimental",
+        "jason cox",
+        "snes",
+        "sacramento",
+        "jason cox",
+        "mariocore",
+        "noise",
+        "theshizz",
+        "video game music",
+        "xoc",
+        "Sacramento"
       ]
     }
   },
@@ -2160,6 +2232,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "utc_date": 1655793220.66519,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "France",
+    "artist_name": "xato",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_description": "Crystal-Clear Plastic",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://wearetar.bandcamp.com/album/crystal-clear-plastic",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 211108717,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0211108717_7.jpg",
+    "details": {
+      "albumId": "632783302",
+      "tags": [
+        "experimental",
+        "tar",
+        "club",
+        "electronic",
+        "idm",
+        "Los Angeles"
       ]
     }
   },
