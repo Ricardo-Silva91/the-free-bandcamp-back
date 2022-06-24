@@ -57,6 +57,39 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655910653.33731,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "M.E.F.",
+    "artist_name": "Cream Dream",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https:https://cremerecords.us/album/m-e-f",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1775199335,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1775199335_7.jpg",
+    "details": {
+      "albumId": "3356987789",
+      "tags": [
+        "ambient",
+        "beats",
+        "electronic",
+        "hip hop",
+        "house",
+        "techno",
+        "New York"
+      ]
+    }
+  },
+  {
     "utc_date": 1653763311.01173,
     "country": "United Kingdom",
     "artist_name": "L'adila",
@@ -148,6 +181,47 @@
   },
   {
     "country_code": "us",
+    "utc_date": 1656009548.43901,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "M4 : A Voodoo Heavy Tribal Experience (Live 2018)",
+    "country": "United States",
+    "artist_name": "Neptunian Maximalism",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://neptunianmaximalism.bandcamp.com/album/m4-a-voodoo-heavy-tribal-experience-live-2018",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4053904117,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a4053904117_7.jpg",
+    "details": {
+      "albumId": "3188964146",
+      "tags": [
+        "alternative",
+        "experimental",
+        "doom",
+        "dronemetal",
+        "free improvisation",
+        "freejazz",
+        "heavy rock",
+        "heavy tribal",
+        "heavypsych",
+        "noise rock",
+        "psychedelic",
+        "ritual",
+        "spacerock",
+        "voodoo",
+        "Brussels"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
     "utc_date": 1655504621.86106,
     "releases": null,
     "item_type": "a",
@@ -176,6 +250,119 @@
         "psychedelic",
         "vaporwave",
         "Kansas City"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655876439.6019,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "MAAFA",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://maafahardcore.bandcamp.com/album/maafa-demo-2017",
+    "item_description": "MAAFA (DEMO 2017)",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 302038378,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a0302038378_7.jpg",
+    "details": {
+      "albumId": "3746020578",
+      "tags": [
+        "afro-brazilian",
+        "afro-progressive hardcore",
+        "black hardcore punk",
+        "hardcore punk",
+        "nyc punk",
+        "nyhc",
+        "progressive hardcore",
+        "punk",
+        "punk rock",
+        "Brooklyn"
+      ]
+    }
+  },
+  {
+    "item_description": "MACHINE CITY 「マシーﾝ・スィッティー」",
+    "country_code": "us",
+    "utc_date": 1656035004.0823,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Crystal Cola",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$3 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://crystalcola.bandcamp.com/album/machine-city",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 3353672367,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 2.31,
+    "art_url": "https://f4.bcbits.com/img/a3353672367_7.jpg",
+    "details": {
+      "albumId": "1293784687",
+      "tags": [
+        "1980s",
+        "electronic",
+        "pop",
+        "retro-future",
+        "city pop",
+        "citypop",
+        "cyberpunk",
+        "future funk",
+        "retrowave",
+        "synth",
+        "vaporwave",
+        "Yokohama"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655827660.22984,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "WangleLine",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$20",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://wangleline.bandcamp.com/album/machinists-dream",
+    "amount_paid": 20,
+    "slug_type": "a",
+    "art_id": 1647575081,
+    "amount_over_fmt": "$20",
+    "item_description": "MACHINIST'S DREAM",
+    "album_title": null,
+    "amount_paid_usd": 20,
+    "art_url": "https://f4.bcbits.com/img/a1647575081_7.jpg",
+    "details": {
+      "albumId": "2812247842",
+      "tags": [
+        "drum & bass",
+        "drumstep",
+        "dubstep",
+        "electronic",
+        "bass",
+        "bubbly",
+        "experimental",
+        "fun",
+        "speedy",
+        "Germany"
       ]
     }
   },
@@ -276,6 +463,42 @@
         "post-punk",
         "punkrock",
         "sludgecore",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
+    "country_code": "nl",
+    "utc_date": 1655818524.87778,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Netherlands",
+    "item_description": "MADRILLAINARY",
+    "artist_name": "O.B.4.C",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ob4c.bandcamp.com/album/madrillainary",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 3469323296,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3469323296_7.jpg",
+    "details": {
+      "albumId": "669711082",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "turntablism",
+        "beattape",
+        "drill",
+        "instrumental",
+        "lofi",
+        "ukdrill",
+        "underground",
         "United Kingdom"
       ]
     }
@@ -1159,6 +1382,40 @@
     }
   },
   {
+    "country_code": "be",
+    "utc_date": 1655813817.17516,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Belgium",
+    "artist_name": "Arianne Churchman & Benedict Drew",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://thanettapecentre.bandcamp.com/album/may",
+    "amount_paid": 0.5,
+    "item_description": "MAY",
+    "slug_type": "a",
+    "art_id": 1806478146,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a1806478146_7.jpg",
+    "details": {
+      "albumId": "4071160217",
+      "tags": [
+        "electronic",
+        "experimental",
+        "drone",
+        "field recordings",
+        "folk",
+        "improvisation",
+        "traditional",
+        "Thanet District"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a3053112095_7.jpg",
@@ -1298,6 +1555,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1656012380.93534,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "MBE007",
+    "country": "United Kingdom",
+    "artist_name": "Alex Who Djs",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://magicboxengine.bandcamp.com/album/mbe007",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 1643975193,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1643975193_7.jpg",
+    "details": {
+      "albumId": "2882035233",
+      "tags": [
+        "electronic",
+        "ambient",
+        "dreamscape",
+        "electronic breakbeat",
+        "house",
+        "techno",
+        "vietnam",
+        "Vietnam"
       ]
     }
   },
@@ -1492,6 +1783,42 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655866193.70183,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "by the koi pond. + I'm Not a Cat, You Know!",
+    "item_type": "a",
+    "currency": "AUD",
+    "amount_paid_fmt": "$1 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://saturationrecords.bandcamp.com/album/m-e-r-m-a-i-d",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2344445296,
+    "album_title": null,
+    "amount_paid_usd": 0.69,
+    "art_url": "https://f4.bcbits.com/img/a2344445296_7.jpg",
+    "item_description": "M E R M A I D",
+    "details": {
+      "albumId": "1525398636",
+      "tags": [
+        "electronic",
+        "experimental",
+        "adult contemporary",
+        "broken transmission",
+        "commercial",
+        "lo-fi",
+        "sample-based",
+        "signalwave",
+        "vaporwave",
+        "Australia"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655442037.91868,
     "releases": null,
@@ -1518,6 +1845,40 @@
         "heavy",
         "sludge",
         "Melbourne"
+      ]
+    }
+  },
+  {
+    "item_description": "ME(meta)TATRON EP",
+    "country_code": "gb",
+    "utc_date": 1656029061.99664,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Supersillyus",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2.22",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://supersillyus.bandcamp.com/album/me-meta-tatron-ep",
+    "amount_paid": 2.22,
+    "slug_type": "a",
+    "art_id": 1848031125,
+    "amount_over_fmt": "$2.22",
+    "album_title": null,
+    "amount_paid_usd": 2.22,
+    "art_url": "https://f4.bcbits.com/img/a1848031125_7.jpg",
+    "details": {
+      "albumId": "669841823",
+      "tags": [
+        "base trip reccords",
+        "electronic",
+        "idm",
+        "the brain trust",
+        "dub",
+        "psybient",
+        "Boston"
       ]
     }
   },
@@ -2192,6 +2553,37 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1656062714.81727,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Black Sea",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://blacksea.bandcamp.com/album/mercurial",
+    "item_description": "MERCURIAL",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4148316375,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4148316375_7.jpg",
+    "details": {
+      "albumId": "227245256",
+      "tags": [
+        "metal",
+        "post metal",
+        "post rock",
+        "sludge",
+        "Curitiba"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": ".KAGE",
     "currency": "USD",
@@ -2541,6 +2933,36 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656017759.8954,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "MIDIeval",
+    "artist_name": "Elminster",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://moonworshipper.bandcamp.com/album/midieval",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 3219187681,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a3219187681_7.jpg",
+    "details": {
+      "albumId": "4189631965",
+      "tags": [
+        "ambient",
+        "black metal",
+        "dungeon synth",
+        "Omaha"
+      ]
+    }
+  },
+  {
     "amount_paid": 600,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a3347239304_7.jpg",
@@ -2719,6 +3141,39 @@
     }
   },
   {
+    "item_description": "MILITARY ANARCHY",
+    "country_code": "fi",
+    "utc_date": 1655810790.15244,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Finland",
+    "artist_name": "SPORUS",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$1 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://sporus.bandcamp.com/album/military-anarchy",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3747134157,
+    "album_title": null,
+    "amount_paid_usd": 0.77,
+    "art_url": "https://f4.bcbits.com/img/a3747134157_7.jpg",
+    "details": {
+      "albumId": "279133790",
+      "tags": [
+        "metal",
+        "punk",
+        "crust",
+        "dbeat",
+        "hardcore",
+        "punk rock",
+        "Victoria"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "item_description": "MILLENNIAL BLENDS EXTRA PACK",
     "utc_date": 1655535895.89984,
@@ -2810,6 +3265,35 @@
     }
   },
   {
+    "country_code": "se",
+    "utc_date": 1655979686.60508,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Sweden",
+    "artist_name": "Juvel Christensen",
+    "item_type": "a",
+    "currency": "SEK",
+    "amount_paid_fmt": "50 SEK",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://juvelchristensen.bandcamp.com/album/min-enda-dr-m-r-att-din-aldrig-sl-r-in",
+    "amount_paid": 50,
+    "item_description": "MIN ENDA DRÖM ÄR ATT DIN ALDRIG SLÅR IN",
+    "slug_type": "a",
+    "art_id": 2515176246,
+    "amount_over_fmt": "50",
+    "album_title": null,
+    "amount_paid_usd": 4.9,
+    "art_url": "https://f4.bcbits.com/img/a2515176246_7.jpg",
+    "details": {
+      "albumId": "3373727654",
+      "tags": [
+        "hip-hop/rap",
+        "Gothenburg"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655786412.466,
     "releases": null,
@@ -2839,6 +3323,67 @@
         "noise",
         "schizo",
         "San Antonio"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656042796.34073,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Every Slut Could Be A Star",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1.11",
+    "item_description": "MINIMAL EP",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://alexbienstock.bandcamp.com/album/minimal-ep",
+    "amount_paid": 1.11,
+    "slug_type": "a",
+    "art_id": 2058389385,
+    "album_title": null,
+    "amount_paid_usd": 1.11,
+    "art_url": "https://f4.bcbits.com/img/a2058389385_7.jpg",
+    "details": {
+      "albumId": "2391926257",
+      "tags": [
+        "experimental",
+        "anti-genre",
+        "other",
+        "Brooklyn"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1656052964.746,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Greenmamba",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://greenmamba1.bandcamp.com/album/minimal-techhouse",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3595289147,
+    "item_description": "MINIMAL TECHHOUSE",
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3595289147_7.jpg",
+    "details": {
+      "albumId": "2303913388",
+      "tags": [
+        "electronic",
+        "tech house",
+        "minimaltechno",
+        "techno",
+        "Johannesburg"
       ]
     }
   },
@@ -2899,6 +3444,108 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "utc_date": 1655904145.72855,
+    "releases": null,
+    "item_description": "MIRAGE",
+    "track_album_slug_text": null,
+    "country": "France",
+    "artist_name": "BAD ZU",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://badzu.bandcamp.com/album/mirage",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 4127197917,
+    "amount_over_fmt": "€5",
+    "album_title": null,
+    "amount_paid_usd": 5.26,
+    "art_url": "https://f4.bcbits.com/img/a4127197917_7.jpg",
+    "details": {
+      "albumId": "3677502322",
+      "tags": [
+        "break beat",
+        "electronic",
+        "african",
+        "bass",
+        "muslim",
+        "trap",
+        "Moscow"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655915636.21685,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "tom moore",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://tommoore3.bandcamp.com/album/mirror-melodies",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 3721328947,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "item_description": "MIRROR MELODIES",
+    "art_url": "https://f4.bcbits.com/img/a3721328947_7.jpg",
+    "details": {
+      "albumId": "467256358",
+      "tags": [
+        "chopped & screwed",
+        "eccojams",
+        "experimental",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
+    "item_description": "MISADVENTURES OF KUSHLANTIS: LEGEND OF DA FOGGY MANE",
+    "country_code": "us",
+    "utc_date": 1656027063.2425,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "TONY PAJAMA$ X WRCKTNGL",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://tonypj.bandcamp.com/album/misadventures-of-kushlantis-legend-of-da-foggy-mane",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3739721106,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3739721106_7.jpg",
+    "details": {
+      "albumId": "3695726203",
+      "tags": [
+        "cloudtrap",
+        "hip-hop/rap",
+        "hiphop instrumentals",
+        "melodymafia",
+        "titansquad",
+        "tony pajama$",
+        "wrcktngl",
+        "melodymafia",
+        "phonk",
+        "smokedout",
+        "tonypj",
+        "Boone"
       ]
     }
   },
@@ -3447,6 +4094,41 @@
     }
   },
   {
+    "country_code": "it",
+    "utc_date": 1655915167.26383,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Italy",
+    "artist_name": "nemuri no hana",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://musicaorizzontale.bandcamp.com/album/mo9-ep03",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 3712800899,
+    "amount_over_fmt": "€2",
+    "album_title": null,
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a3712800899_7.jpg",
+    "item_description": "MO9: EP03",
+    "details": {
+      "albumId": "82713146",
+      "tags": [
+        "electronic",
+        "experimental",
+        "idm",
+        "ambient jazz",
+        "leftfield",
+        "lounge",
+        "west liguria",
+        "Italy"
+      ]
+    }
+  },
+  {
     "utc_date": 1653777417.89581,
     "country": "United Kingdom",
     "artist_name": "Vettore Spaziale",
@@ -3623,6 +4305,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "item_description": "MOISTUROUS PU$$Y",
+    "utc_date": 1656060350.1034,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "saint deepthroat",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://saintdeepthroatxo.bandcamp.com/album/moisturous-pu-y",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3050289531,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3050289531_7.jpg",
+    "details": {
+      "albumId": "847321015",
+      "tags": [
+        "electronic",
+        "house",
+        "bass",
+        "club",
+        "techno",
+        "trance",
+        "New York"
       ]
     }
   },
@@ -4267,6 +4982,38 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1655905139.56108,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "MOTUS",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$1 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://motusdubs.bandcamp.com/album/motus-try-me-ep",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2715108518,
+    "item_description": "MOTUS - TRY ME EP",
+    "album_title": null,
+    "amount_paid_usd": 0.77,
+    "art_url": "https://f4.bcbits.com/img/a2715108518_7.jpg",
+    "details": {
+      "albumId": "1407656982",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "dubstep",
+        "music",
+        "riddim",
+        "Sherbrooke"
+      ]
+    }
+  },
+  {
     "amount_paid": 0.5,
     "country_code": "nl",
     "art_url": "https://f4.bcbits.com/img/a0254078107_7.jpg",
@@ -4404,6 +5151,38 @@
     }
   },
   {
+    "item_description": "MPC Cutz",
+    "country_code": "us",
+    "utc_date": 1655951011.00968,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "DJ Furio",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://djfurio.bandcamp.com/album/mpc-cutz",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 3215518718,
+    "amount_over_fmt": "£3",
+    "album_title": null,
+    "amount_paid_usd": 3.68,
+    "art_url": "https://f4.bcbits.com/img/a3215518718_7.jpg",
+    "details": {
+      "albumId": "2556183147",
+      "tags": [
+        "dj scratching",
+        "hip-hop/rap",
+        "instrumental hip-hop",
+        "beats",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654376112.44947,
@@ -4452,6 +5231,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "it",
+    "utc_date": 1656005205.35696,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Italy",
+    "artist_name": "PSYCHOANALISI",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€10",
+    "item_description": "MUSICA PER CERVELLI",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://psychoanalisi.bandcamp.com/album/musica-per-cervelli",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 3486089800,
+    "amount_over_fmt": "€10",
+    "album_title": null,
+    "amount_paid_usd": 10.5,
+    "art_url": "https://f4.bcbits.com/img/a3486089800_7.jpg",
+    "details": {
+      "albumId": "16375199",
+      "tags": [
+        "punk",
+        "d-beat",
+        "metal",
+        "rock",
+        "Trento"
       ]
     }
   },
@@ -4569,6 +5380,34 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "item_description": "MY IMAGINARY FRIENDS AND YOU",
+    "utc_date": 1656060304.5043,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "France",
+    "artist_name": "Slikback",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://slikback.bandcamp.com/album/my-imaginary-friends-and-you",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3029687234,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3029687234_7.jpg",
+    "details": {
+      "albumId": "2510145570",
+      "tags": [
+        "experimental",
+        "Nairobi"
       ]
     }
   },
@@ -4846,6 +5685,107 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Mac - Bluff Vol.2 Grown Folk Music",
+    "country_code": "us",
+    "utc_date": 1655985775.34987,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Phorse Four A.K.A. Mac B Tha Kreep",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://phorsefourakamacbthakreep.bandcamp.com/album/mac-bluff-vol-2-grown-folk-music",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3141048080,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3141048080_7.jpg",
+    "details": {
+      "albumId": "2987048163",
+      "tags": [
+        "hip-hop/rap",
+        "r&b",
+        "rap",
+        "trap",
+        "island",
+        "reggae",
+        "Key West"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655985697.02311,
+    "releases": null,
+    "item_description": "Mac B iLL vol.2 The Sound Temple e.p.",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Mac B. & B.iLL",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://phorsefourakamacbthakreep.bandcamp.com/album/mac-b-ill-vol-2-the-sound-temple-e-p",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2959642645,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2959642645_7.jpg",
+    "details": {
+      "albumId": "1822249744",
+      "tags": [
+        "hip-hop/rap",
+        "r&b",
+        "rap",
+        "trap",
+        "island",
+        "reggae",
+        "Key West"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655939961.8772,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Machinations of Fate",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://machinationsoffate.bandcamp.com/album/machinations-of-fate",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4234090495,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4234090495_7.jpg",
+    "item_description": "Machinations of Fate",
+    "details": {
+      "albumId": "572970134",
+      "tags": [
+        "dissection",
+        "kreator",
+        "metal",
+        "black metal",
+        "blackened death metal",
+        "death",
+        "death metal",
+        "death thrash metal",
+        "Kentucky"
       ]
     }
   },
@@ -5725,6 +6665,47 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656046029.44139,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Olivia Newton-John",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://djdimension.bandcamp.com/album/magic-dj-dimension-moombahbump-mix",
+    "item_description": "Magic (DJ Dimension MoombahBump Mix)",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3849024790,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3849024790_7.jpg",
+    "details": {
+      "albumId": "804165911",
+      "tags": [
+        "electronic",
+        "house",
+        "tech house",
+        "bootleg",
+        "chillout",
+        "dance",
+        "free download",
+        "lounge",
+        "moombahsoul. edits",
+        "moombahton",
+        "nudisco",
+        "pop",
+        "remix",
+        "techno",
+        "New York"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "ca",
     "utc_date": 1654358417.45011,
@@ -5748,6 +6729,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656024299.40623,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Magic Moments",
+    "artist_name": "PJS",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://vill4in.bandcamp.com/album/magic-moments",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 2326979930,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2326979930_7.jpg",
+    "details": {
+      "albumId": "175923381",
+      "tags": [
+        "ambient",
+        "dreampunk",
+        "electronic",
+        "electronica",
+        "vaporwave",
+        "Ukraine"
       ]
     }
   },
@@ -5879,6 +6892,83 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655860232.70926,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Magical Girl Reassembly Program",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mgrp.bandcamp.com/album/magical-girl-reassembly-program",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1239129659,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1239129659_7.jpg",
+    "item_description": "Magical Girl Reassembly Program",
+    "details": {
+      "albumId": "767919932",
+      "tags": [
+        "experimental",
+        "noise",
+        "ambient",
+        "anime noise wall",
+        "death industrial",
+        "dissociative noise wall",
+        "harsh noise",
+        "harsh noise wall",
+        "industrial",
+        "psychedelic",
+        "psychedelic noise",
+        "trans",
+        "Fargo"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655909809.68966,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Fear Incorporated",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£4",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://fearincorporated.bandcamp.com/album/magick-and-mesmerism-ep",
+    "item_description": "Magick And Mesmerism EP",
+    "amount_paid": 4,
+    "slug_type": "a",
+    "art_id": 1405438111,
+    "amount_over_fmt": "£4",
+    "album_title": null,
+    "amount_paid_usd": 4.91,
+    "art_url": "https://f4.bcbits.com/img/a1405438111_7.jpg",
+    "details": {
+      "albumId": "110037273",
+      "tags": [
+        "alternative",
+        "avant-garde",
+        "dark cabaret",
+        "darkwave.",
+        "death rock",
+        "deathrock",
+        "gothic rock",
+        "horror music",
+        "new gothic rock",
+        "post-punk",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655609376.20146,
     "releases": null,
@@ -6002,6 +7092,38 @@
         "grime",
         "wifey",
         "Colchester"
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1655812782.22345,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "Diatheke",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$20",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://diatheke.bandcamp.com/album/magnify",
+    "item_description": "Magnify",
+    "amount_paid": 20,
+    "slug_type": "a",
+    "art_id": 2476737048,
+    "amount_over_fmt": "$20",
+    "album_title": null,
+    "amount_paid_usd": 20,
+    "art_url": "https://f4.bcbits.com/img/a2476737048_7.jpg",
+    "details": {
+      "albumId": "3061758305",
+      "tags": [
+        "metal",
+        "death metal",
+        "melodic death metal",
+        "progressive metal",
+        "Dallas"
       ]
     }
   },
@@ -6164,6 +7286,38 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655846670.90644,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Damir Avdić",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://damiravdic.bandcamp.com/album/mainstream-horror",
+    "amount_paid": 0.5,
+    "item_description": "Mainstream Horror",
+    "slug_type": "a",
+    "art_id": 3398113538,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3398113538_7.jpg",
+    "details": {
+      "albumId": "1479122485",
+      "tags": [
+        "hardcore",
+        "punk",
+        "bosnia and herzegovina",
+        "hardcore",
+        "punk",
+        "Bosnia and Herzegovina"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654406569.2952,
@@ -6249,6 +7403,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655837799.85101,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Make-Up",
+    "country": "United States",
+    "artist_name": "voix in the dark",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://voixinthedark.bandcamp.com/album/make-up",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 364792804,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0364792804_7.jpg",
+    "details": {
+      "albumId": "3292907117",
+      "tags": [
+        "electronic",
+        "club music",
+        "ebm",
+        "electro",
+        "electronic dance pop",
+        "indie dance pop",
+        "industrial",
+        "techno",
+        "Philadelphia"
       ]
     }
   },
@@ -6627,6 +7816,96 @@
     }
   },
   {
+    "country_code": "nl",
+    "utc_date": 1656004815.88364,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Netherlands",
+    "item_description": "MakingMonsters EP 1",
+    "artist_name": "Making Monsters",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://makingmonsters.bandcamp.com/album/makingmonsters-ep-1",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1358710186,
+    "album_title": null,
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a1358710186_7.jpg",
+    "details": {
+      "albumId": "3865732373",
+      "tags": [
+        "hard rock metal",
+        "rock",
+        "Londonderry"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "item_description": "Making Noise",
+    "utc_date": 1655909279.43033,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Raaket",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://raaket.bandcamp.com/album/making-noise",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 831735706,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0831735706_7.jpg",
+    "details": {
+      "albumId": "418509764",
+      "tags": [
+        "electronic",
+        "experimental",
+        "dubstep",
+        "halftime",
+        "Fort Lauderdale"
+      ]
+    }
+  },
+  {
+    "country_code": "jp",
+    "utc_date": 1655915562.51058,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "artist_name": "Jessica Walrus",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2.34",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ninetin1.bandcamp.com/album/making-music-sets-is-fun",
+    "amount_paid": 2.34,
+    "item_description": "Making music sets is fun!!!",
+    "slug_type": "a",
+    "art_id": 82866948,
+    "amount_over_fmt": "$2.34",
+    "album_title": null,
+    "amount_paid_usd": 2.34,
+    "art_url": "https://f4.bcbits.com/img/a0082866948_7.jpg",
+    "details": {
+      "albumId": "4252079987",
+      "tags": [
+        "electronic",
+        "nothing",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654375681.84419,
@@ -6688,6 +7967,50 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1656018157.12911,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Balacade",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$19 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://balacade.bandcamp.com/album/malaise-era",
+    "amount_paid": 19,
+    "item_description": "Malaise Era",
+    "slug_type": "a",
+    "art_id": 841189899,
+    "amount_over_fmt": "$19",
+    "album_title": null,
+    "amount_paid_usd": 14.63,
+    "art_url": "https://f4.bcbits.com/img/a0841189899_7.jpg",
+    "details": {
+      "albumId": "977490545",
+      "tags": [
+        "alternative",
+        "balacade",
+        "dream pop",
+        "electronic",
+        "folk",
+        "grandaddy",
+        "indie",
+        "indie pop",
+        "indie rock",
+        "neil young",
+        "pop",
+        "rock",
+        "shoe gaze",
+        "sparklehorse",
+        "unsigned",
+        "victoria",
+        "Victoria"
       ]
     }
   },
@@ -7153,6 +8476,42 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656001499.87929,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Amanda Blackshaw",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://amandablackshaw.bandcamp.com/album/mandala-backwash",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 4013860566,
+    "item_description": "Mandala Backwash",
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a4013860566_7.jpg",
+    "details": {
+      "albumId": "4192321480",
+      "tags": [
+        "acoustic",
+        "demo",
+        "new orleans",
+        "croon",
+        "lofi",
+        "original music",
+        "piano",
+        "rough",
+        "slop",
+        "New Orleans"
+      ]
+    }
+  },
+  {
     "utc_date": 1653782440.98057,
     "country": "Germany",
     "artist_name": "Mandala Sound",
@@ -7187,6 +8546,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655904229.27741,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Chinaski",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_description": "Mandrágora",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://chinaskicurico.bandcamp.com/album/mandr-gora-2",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 2771500343,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2771500343_7.jpg",
+    "details": {
+      "albumId": "179208279",
+      "tags": [
+        "rock",
+        "chile",
+        "psychedelic stoner",
+        "stoner",
+        "stoner rock",
+        "stonerdoom",
+        "Curicó"
       ]
     }
   },
@@ -8145,6 +9537,72 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655969288.54664,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Marc Rebillet",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://marcrebillet.bandcamp.com/album/marc-rebillet",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2241612081,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "item_description": "Marc Rebillet",
+    "art_url": "https://f4.bcbits.com/img/a2241612081_7.jpg",
+    "details": {
+      "albumId": "2458162267",
+      "tags": [
+        "comedy",
+        "electronic",
+        "hip-hop",
+        "rap",
+        "soul",
+        "funk",
+        "New York"
+      ]
+    }
+  },
+  {
+    "country_code": "jp",
+    "utc_date": 1655893504.95117,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "artist_name": "J.PERIOD",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://jperiod.bandcamp.com/album/march-9-live-remix-ep-feat-b-i-g-nipsey-hussle-dead-prez-future",
+    "item_description": "March 9 [LIVE] Remix EP feat. B.I.G., Nipsey Hussle, Dead Prez & Future",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2256631789,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2256631789_7.jpg",
+    "details": {
+      "albumId": "1139718063",
+      "tags": [
+        "dj mix",
+        "hip hop",
+        "hip-hop/rap",
+        "r&b",
+        "reggae",
+        "soul",
+        "Brooklyn"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655572557.73459,
     "releases": null,
@@ -8232,6 +9690,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656003492.4175,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Barely March",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://barelymarch.bandcamp.com/album/marely-barch-plus",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 679695272,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "item_description": "Marely Barch Plus",
+    "art_url": "https://f4.bcbits.com/img/a0679695272_7.jpg",
+    "details": {
+      "albumId": "2971954853",
+      "tags": [
+        "punk",
+        "emo",
+        "pop punk",
+        "power-pop",
+        "Patchogue"
       ]
     }
   },
@@ -8575,6 +10065,38 @@
         "hip-hop/rap",
         "indie rap",
         "Freiburg"
+      ]
+    }
+  },
+  {
+    "item_description": "Mark of the Beast: Extinction",
+    "country_code": "us",
+    "utc_date": 1655844164.79054,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Sparrows",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://sparrowsmetal.bandcamp.com/album/mark-of-the-beast-extinction",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 3037885524,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a3037885524_7.jpg",
+    "details": {
+      "albumId": "2533900262",
+      "tags": [
+        "black metal",
+        "blackened death metal",
+        "death metal",
+        "extreme metal",
+        "metal",
+        "Dallas"
       ]
     }
   },
@@ -9024,6 +10546,49 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1655981413.07588,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "DJ Psy",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://djpsy.bandcamp.com/album/mash-conductor-free-download",
+    "item_description": "Mash Conductor (Free Download)",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 2577445898,
+    "amount_over_fmt": "£2",
+    "album_title": null,
+    "amount_paid_usd": 2.44,
+    "art_url": "https://f4.bcbits.com/img/a2577445898_7.jpg",
+    "details": {
+      "albumId": "2997423550",
+      "tags": [
+        "hip-hop/rap",
+        "acapella",
+        "blend",
+        "blends",
+        "disco",
+        "funk",
+        "hip hop",
+        "mashup",
+        "mashups",
+        "mix",
+        "r&b",
+        "rap",
+        "rework",
+        "reworks",
+        "soundclown",
+        "Leicester"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655525368.54464,
     "releases": null,
@@ -9116,6 +10681,72 @@
         "field recording",
         "folk",
         "Minneapolis"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655932014.57017,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "ENFUCKMENT",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://enfuckment.bandcamp.com/album/masks-on",
+    "item_description": "Masks On",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2315654755,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2315654755_7.jpg",
+    "details": {
+      "albumId": "2346444663",
+      "tags": [
+        "metal",
+        "beatdown",
+        "brutal",
+        "guttural",
+        "slam",
+        "trap",
+        "Phoenix"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "item_description": "Masque",
+    "utc_date": 1656003626.35212,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Paul Roland",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://paul-roland.bandcamp.com/album/masque",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 1367560577,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a1367560577_7.jpg",
+    "details": {
+      "albumId": "851790566",
+      "tags": [
+        "alternative",
+        "goth",
+        "neofolk",
+        "psychedelic pop",
+        "psychedelic rock",
+        "singer-songwriter",
+        "United Kingdom"
       ]
     }
   },
@@ -9479,6 +11110,39 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656028757.42665,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Poo Fighters",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://poofighters.bandcamp.com/album/masters-of-poopets",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 2925806510,
+    "amount_over_fmt": "€2",
+    "item_description": "Masters of Poopets",
+    "album_title": null,
+    "amount_paid_usd": 2.11,
+    "art_url": "https://f4.bcbits.com/img/a2925806510_7.jpg",
+    "details": {
+      "albumId": "3196440278",
+      "tags": [
+        "metal",
+        "caca",
+        "goregrind",
+        "grindcore",
+        "prout",
+        "Pau"
+      ]
+    }
+  },
+  {
     "item_description": "Masters of Universal Mysteries",
     "country": "United States",
     "amount_paid_fmt": "€1",
@@ -9594,6 +11258,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "nz",
+    "utc_date": 1656038620.85764,
+    "releases": null,
+    "item_description": "Matariki Mayhem",
+    "track_album_slug_text": null,
+    "country": "New Zealand",
+    "artist_name": "fantails",
+    "item_type": "a",
+    "currency": "NZD",
+    "amount_paid_fmt": "$5 NZD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://fantails.bandcamp.com/album/matariki-mayhem",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 1662230357,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 3.14,
+    "art_url": "https://f4.bcbits.com/img/a1662230357_7.jpg",
+    "details": {
+      "albumId": "2691397072",
+      "tags": [
+        "punk",
+        "animal-core",
+        "fast melodic",
+        "political",
+        "political punk",
+        "pop punk",
+        "Wellington"
       ]
     }
   },
@@ -9962,6 +11660,40 @@
     }
   },
   {
+    "country_code": "nz",
+    "utc_date": 1655869126.06165,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Mauritau Peace (2007)",
+    "country": "New Zealand",
+    "artist_name": "Aroha Yates-Smith, Richard Nunns and Bob Bickerton",
+    "item_type": "a",
+    "currency": "NZD",
+    "amount_paid_fmt": "$4 NZD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://bobbickerton.bandcamp.com/album/mauritau-peace-2007",
+    "amount_paid": 4,
+    "slug_type": "a",
+    "art_id": 3794061808,
+    "amount_over_fmt": "$4",
+    "album_title": null,
+    "amount_paid_usd": 2.52,
+    "art_url": "https://f4.bcbits.com/img/a3794061808_7.jpg",
+    "details": {
+      "albumId": "2729235984",
+      "tags": [
+        "aotearoa",
+        "folk",
+        "irish traditional",
+        "new zealand",
+        "taonga pūoro",
+        "world",
+        "Nelson"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "fr",
     "utc_date": 1654320307.40728,
@@ -9988,6 +11720,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656028395.60303,
+    "releases": null,
+    "item_description": "Max Alper - Alpdog II: Generative Works",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "jojotape",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://jojotape.bandcamp.com/album/max-alper-alpdog-ii-generative-works",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1811091662,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1811091662_7.jpg",
+    "details": {
+      "albumId": "803600701",
+      "tags": [
+        "experimental",
+        "improvised music",
+        "modular",
+        "noise",
+        "other",
+        "outsider",
+        "puredata",
+        "techno",
+        "New York"
       ]
     }
   },
@@ -10418,6 +12185,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1656012089.59422,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "VNCE",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://deadobies.bandcamp.com/album/me-my-dj-2",
+    "amount_paid": 5,
+    "item_description": "Me & My DJ",
+    "slug_type": "a",
+    "art_id": 1760904826,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 3.84,
+    "art_url": "https://f4.bcbits.com/img/a1760904826_7.jpg",
+    "details": {
+      "albumId": "2078804967",
+      "tags": [
+        "hip-hop/rap",
+        "post-rap",
+        "post-rap",
+        "Montreal"
       ]
     }
   },
@@ -10939,6 +12737,39 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1656018594.35683,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Brave New Waves",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$19",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://cbcbravenewwaves.bandcamp.com/album/mecca-normal",
+    "amount_paid": 19,
+    "slug_type": "a",
+    "art_id": 482835976,
+    "amount_over_fmt": "$19",
+    "album_title": null,
+    "amount_paid_usd": 19,
+    "art_url": "https://f4.bcbits.com/img/a0482835976_7.jpg",
+    "item_description": "Mecca Normal",
+    "details": {
+      "albumId": "1616917533",
+      "tags": [
+        "rock",
+        "feminism",
+        "indie",
+        "punk",
+        "riot grrrl",
+        "Canada"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "au",
     "art_url": "https://f4.bcbits.com/img/a4112422540_7.jpg",
@@ -11283,6 +13114,68 @@
     }
   },
   {
+    "country_code": "nl",
+    "utc_date": 1655818982.36587,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Netherlands",
+    "artist_name": "Joa Joys",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://highheal.bandcamp.com/album/meditadores-del-so-tano",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1059617727,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "item_description": "Meditadores del Sótano",
+    "art_url": "https://f4.bcbits.com/img/a1059617727_7.jpg",
+    "details": {
+      "albumId": "4051277000",
+      "tags": [
+        "ambient",
+        "Paris"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656057290.5167,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Xiphoid Dementia",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$6",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://xdementia.bandcamp.com/album/meditation-convulsions",
+    "amount_paid": 6,
+    "slug_type": "a",
+    "art_id": 995869738,
+    "amount_over_fmt": "$6",
+    "album_title": null,
+    "amount_paid_usd": 6,
+    "item_description": "Meditation Convulsions",
+    "art_url": "https://f4.bcbits.com/img/a0995869738_7.jpg",
+    "details": {
+      "albumId": "1024516947",
+      "tags": [
+        "electronic",
+        "ambient",
+        "avant-garde",
+        "industrial",
+        "noise",
+        "power electronics",
+        "Seattle"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "de",
     "utc_date": 1654383083.94559,
@@ -11378,6 +13271,39 @@
         "techno",
         "whatever",
         "Richmond"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655950872.33448,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Meditations on the Averse",
+    "artist_name": "NHMTH - Ritual Occult Noise",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3.33",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://nhmthfl.bandcamp.com/album/meditations-on-the-averse",
+    "amount_paid": 3.33,
+    "slug_type": "a",
+    "art_id": 2224484715,
+    "amount_over_fmt": "$3.33",
+    "album_title": null,
+    "amount_paid_usd": 3.33,
+    "art_url": "https://f4.bcbits.com/img/a2224484715_7.jpg",
+    "details": {
+      "albumId": "1666886289",
+      "tags": [
+        "drone",
+        "experimental",
+        "ambient",
+        "noise",
+        "ritual",
+        "Saint Petersburg"
       ]
     }
   },
@@ -11635,6 +13561,45 @@
     }
   },
   {
+    "country_code": "ch",
+    "utc_date": 1655975136.86898,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Meet the Colombian music powerhouses vol. 1 - An alliance of independent record labels",
+    "country": "Switzerland",
+    "artist_name": "various",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://lloronarecords.bandcamp.com/album/meet-the-colombian-music-powerhouses-vol-1-an-alliance-of-independent-record-labels",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1343611475,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1343611475_7.jpg",
+    "details": {
+      "albumId": "656992597",
+      "tags": [
+        "world",
+        "cumbia",
+        "currulao",
+        "dub",
+        "llorona records",
+        "marimba",
+        "palenque records",
+        "polen records",
+        "roots",
+        "sonidos enraizados",
+        "tambora records",
+        "world music",
+        "Bogotá"
+      ]
+    }
+  },
+  {
     "country_code": "fr",
     "utc_date": 1655475002.86566,
     "releases": null,
@@ -11765,6 +13730,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656040460.19911,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Hyde209",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://hyde209.bandcamp.com/album/mega-man-v-know-your-enemy",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 4136783744,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a4136783744_7.jpg",
+    "item_description": "Mega Man V - Know Your Enemy",
+    "details": {
+      "albumId": "2858718831",
+      "tags": [
+        "80s",
+        "90s",
+        "alternative",
+        "mega man",
+        "pop",
+        "rock",
+        "synth",
+        "vgm",
+        "Sweden"
       ]
     }
   },
@@ -11950,6 +13951,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656031451.35849,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Mitch Murder",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_description": "Megamagic: Wizards of the Neon Age OST",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mitchmurder.bandcamp.com/album/megamagic-wizards-of-the-neon-age-ost",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1570055673,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1570055673_7.jpg",
+    "details": {
+      "albumId": "2391329068",
+      "tags": [
+        "80's",
+        "80s",
+        "electronic",
+        "game",
+        "ost",
+        "soundtrack",
+        "electro",
+        "funk",
+        "Sweden"
       ]
     }
   },
@@ -12316,6 +14352,45 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655910750.84431,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Derlee",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https:https://derleemusic.com/album/mellow-morning-vol-ii",
+    "item_description": "Mellow Morning Vol. II",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 2047826199,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a2047826199_7.jpg",
+    "details": {
+      "albumId": "2673823922",
+      "tags": [
+        "electronic",
+        "pittsburgh",
+        "chil",
+        "chill beats",
+        "chillhop",
+        "derlee",
+        "downtempo",
+        "electronica",
+        "hip hop soul instrumental",
+        "instrumental",
+        "relaxing",
+        "Atlanta"
+      ]
+    }
+  },
+  {
     "utc_date": 1653817880.36669,
     "country": "United States",
     "artist_name": "TyrisWhite",
@@ -12403,6 +14478,40 @@
         "rock",
         "trance",
         "Poland"
+      ]
+    }
+  },
+  {
+    "country_code": "es",
+    "utc_date": 1655841125.95285,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Spain",
+    "artist_name": "TQ-Jam",
+    "item_type": "a",
+    "currency": "JPY",
+    "amount_paid_fmt": "¥100",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://tqjam.bandcamp.com/album/melolyn",
+    "amount_paid": 100,
+    "slug_type": "a",
+    "art_id": 1345966319,
+    "album_title": null,
+    "amount_paid_usd": 0.73,
+    "art_url": "https://f4.bcbits.com/img/a1345966319_7.jpg",
+    "item_description": "Melolyn",
+    "details": {
+      "albumId": "836195827",
+      "tags": [
+        "2a03",
+        "8-bit",
+        "electronic",
+        "nes",
+        "chipmusic",
+        "chiptune",
+        "famicom",
+        "Japan"
       ]
     }
   },
@@ -12884,6 +14993,46 @@
         "progressive metal",
         "experimental",
         "Rio De Janeiro"
+      ]
+    }
+  },
+  {
+    "item_description": "Memories of Western Civilisation",
+    "country_code": "us",
+    "utc_date": 1656060090.57017,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Water Music",
+    "item_type": "a",
+    "currency": "AUD",
+    "amount_paid_fmt": "$18 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://watermusic.bandcamp.com/album/memories-of-western-civilisation",
+    "amount_paid": 18,
+    "slug_type": "a",
+    "art_id": 1506559554,
+    "amount_over_fmt": "$18",
+    "album_title": null,
+    "amount_paid_usd": 12.44,
+    "art_url": "https://f4.bcbits.com/img/a1506559554_7.jpg",
+    "details": {
+      "albumId": "614547207",
+      "tags": [
+        "alternative",
+        "loner folk",
+        "alt-country",
+        "bedroom",
+        "dark folk",
+        "home made",
+        "lo-fi",
+        "lyrical",
+        "psychedelic folk",
+        "sadcore",
+        "slowcoustic",
+        "stoner folk",
+        "Melbourne"
       ]
     }
   },
@@ -13717,6 +15866,48 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656055372.19031,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Merav Stylee - Babylon Is At War",
+    "artist_name": "Merav Stylee",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://culturedub.bandcamp.com/album/merav-stylee-babylon-is-at-war",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3199784258,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a3199784258_7.jpg",
+    "details": {
+      "albumId": "393524969",
+      "tags": [
+        "culture dub",
+        "digital",
+        "dub",
+        "electro dub",
+        "reggae",
+        "roots",
+        "steppa",
+        "dub",
+        "free download",
+        "instrumental",
+        "militant",
+        "reggae",
+        "steppa",
+        "stepper",
+        "vocal",
+        "Poitiers"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "es",
     "utc_date": 1654456830.73011,
@@ -14034,6 +16225,47 @@
     }
   },
   {
+    "country_code": "us",
+    "releases": null,
+    "utc_date": 1655873317.69922,
+    "track_album_slug_text": null,
+    "item_description": "Merge Conflict",
+    "country": "United States",
+    "amount_paid_fmt": "5 PLN",
+    "currency": "PLN",
+    "item_type": "a",
+    "artist_name": "Merge Conflict",
+    "url": "https://mergeconflict.bandcamp.com/album/merge-conflict",
+    "package_image_id": null,
+    "item_price": 0,
+    "amount_paid": 5,
+    "art_id": 2842825711,
+    "slug_type": "a",
+    "amount_paid_usd": 1.13,
+    "album_title": null,
+    "art_url": "https://f4.bcbits.com/img/a2842825711_7.jpg",
+    "details": {
+      "albumId": "1625544400",
+      "tags": [
+        "hard rock",
+        "rock",
+        "doom",
+        "grunge",
+        "hard rock",
+        "metal",
+        "polish",
+        "polish metal",
+        "polish rock",
+        "polski rock",
+        "rock",
+        "stoner rock",
+        "vintage",
+        "vintage rock",
+        "Warsaw"
+      ]
+    }
+  },
+  {
     "item_description": "Meridian",
     "item_type": "a",
     "country_code": "us",
@@ -14308,6 +16540,39 @@
     }
   },
   {
+    "item_description": "Meta Programming",
+    "country_code": "gb",
+    "utc_date": 1656059540.02611,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Meta Program",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://section27.bandcamp.com/album/meta-programming",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3225941412,
+    "album_title": null,
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a3225941412_7.jpg",
+    "details": {
+      "albumId": "2847186803",
+      "tags": [
+        "downtempo",
+        "electronic",
+        "experimental",
+        "idm",
+        "industrial",
+        "techno",
+        "UK"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Sessions",
     "item_description": "Metacognition",
@@ -14423,6 +16688,41 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1655871803.9831,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Gray Fox Gaming",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://grayfoxgaming.bandcamp.com/album/metal-gear-msx-remixed",
+    "item_description": "Metal Gear MSX REMIXED",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 1347953831,
+    "amount_over_fmt": "£5",
+    "album_title": null,
+    "amount_paid_usd": 6.12,
+    "art_url": "https://f4.bcbits.com/img/a1347953831_7.jpg",
+    "details": {
+      "albumId": "751962503",
+      "tags": [
+        "gray fox gaming hd",
+        "gaming",
+        "soundtrack",
+        "metal gear",
+        "metal gear solid",
+        "msx",
+        "videogame music",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655500869.9354,
     "releases": null,
@@ -14482,6 +16782,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1655875386.40472,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "item_description": "Metal Unblack",
+    "artist_name": "Christageddon",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$15",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://christageddon-sbbr.bandcamp.com/album/metal-unblack",
+    "amount_paid": 15,
+    "slug_type": "a",
+    "art_id": 2032119865,
+    "amount_over_fmt": "$15",
+    "album_title": null,
+    "amount_paid_usd": 15,
+    "art_url": "https://f4.bcbits.com/img/a2032119865_7.jpg",
+    "details": {
+      "albumId": "1932528506",
+      "tags": [
+        "metal",
+        "black metal",
+        "blackened death metal",
+        "blackmetal",
+        "melodic black metal",
+        "skyburnsblack",
+        "unblack metal",
+        "Gettysburg"
       ]
     }
   },
@@ -14612,6 +16947,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655813799.96011,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Scott Lawlor and Friends",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://scottlawlor.bandcamp.com/album/metallurgy",
+    "amount_paid": 1,
+    "item_description": "Metallurgy",
+    "slug_type": "a",
+    "art_id": 2356380228,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2356380228_7.jpg",
+    "details": {
+      "albumId": "390563432",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "drone",
+        "electronic",
+        "meditation",
+        "space music",
+        "Corinth"
       ]
     }
   },
@@ -15198,6 +17566,38 @@
         "noise",
         "process music",
         "United States"
+      ]
+    }
+  },
+  {
+    "country_code": "nl",
+    "releases": null,
+    "utc_date": 1655891129.92993,
+    "track_album_slug_text": null,
+    "item_description": "Metro Ietsjelaterweg",
+    "country": "Netherlands",
+    "amount_paid_fmt": "€0.50",
+    "currency": "EUR",
+    "item_type": "a",
+    "artist_name": "Dreams of Empire",
+    "url": "https://dreamsofempire1.bandcamp.com/album/metro-ietsjelaterweg",
+    "package_image_id": null,
+    "item_price": 0,
+    "amount_paid": 0.5,
+    "art_id": 2910568270,
+    "slug_type": "a",
+    "amount_paid_usd": 0.53,
+    "album_title": null,
+    "art_url": "https://f4.bcbits.com/img/a2910568270_7.jpg",
+    "details": {
+      "albumId": "1826215684",
+      "tags": [
+        "electronic",
+        "ambient",
+        "breaks",
+        "experimental",
+        "techno",
+        "Rotterdam"
       ]
     }
   },
@@ -15949,6 +18349,37 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655940237.16797,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "benyamind",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://benyamind.bandcamp.com/album/microtonal-archive",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3318817690,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "item_description": "Microtonal archive",
+    "art_url": "https://f4.bcbits.com/img/a3318817690_7.jpg",
+    "details": {
+      "albumId": "579424439",
+      "tags": [
+        "experimental",
+        "cinematic",
+        "microtonal",
+        "xenharmonic",
+        "Netherlands"
+      ]
+    }
+  },
+  {
     "country_code": "jp",
     "utc_date": 1655711540.72785,
     "releases": null,
@@ -16008,6 +18439,47 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656035167.88627,
+    "releases": null,
+    "item_description": "Middle Discography",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Empire! Empire! (I Was a Lonely Estate)",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://empireempire.bandcamp.com/album/middle-discography",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 686101522,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0686101522_7.jpg",
+    "details": {
+      "albumId": "1133328217",
+      "tags": [
+        "cyls",
+        "emo",
+        "emo revival",
+        "empire! empire!",
+        "indie",
+        "indie rock",
+        "midwest emo",
+        "rock",
+        "stiff slack records",
+        "board game jams",
+        "eeiwale",
+        "emo",
+        "rpg jams",
+        "sad jams",
+        "Fenton"
       ]
     }
   },
@@ -16174,6 +18646,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655933546.37197,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "LEGEND",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://legend.bandcamp.com/album/midnight-champion",
+    "item_description": "Midnight Champion",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2040906944,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2040906944_7.jpg",
+    "details": {
+      "albumId": "1295496299",
+      "tags": [
+        "rock",
+        "electronic",
+        "gothrock",
+        "pop",
+        "post-rock",
+        "rock n roll",
+        "Iceland"
       ]
     }
   },
@@ -16462,6 +18967,38 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656023804.18432,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Midnight Tyrannosaurus",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$20",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://midnightasaurus.bandcamp.com/album/midnight-snacks-vol-1",
+    "item_description": "Midnight Snacks Vol. 1",
+    "amount_paid": 20,
+    "slug_type": "a",
+    "art_id": 785793150,
+    "amount_over_fmt": "$20",
+    "album_title": null,
+    "amount_paid_usd": 20,
+    "art_url": "https://f4.bcbits.com/img/a0785793150_7.jpg",
+    "details": {
+      "albumId": "1839436413",
+      "tags": [
+        "drum & bass",
+        "dubstep",
+        "electronic",
+        "experimental",
+        "Hudson"
+      ]
+    }
+  },
+  {
     "utc_date": 1653892105.71979,
     "country": "Germany",
     "artist_name": "Midnight Tyrannosaurus",
@@ -16517,6 +19054,45 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1656053867.58272,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "item_description": "Midnight flocks",
+    "artist_name": "Ivonne Van Cleef",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ivonnevancleef.bandcamp.com/album/midnight-flocks",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 4060508982,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a4060508982_7.jpg",
+    "details": {
+      "albumId": "676455202",
+      "tags": [
+        "experimental",
+        "rural psychedelia",
+        "san jose ca",
+        "santa fe",
+        "dark ambient",
+        "drone",
+        "experiemental",
+        "field recording",
+        "low",
+        "noise",
+        "western",
+        "San Jose"
+      ]
+    }
+  },
+  {
     "item_description": "Midnite Acid",
     "country": "Australia",
     "artist_name": "Pye Corner Audio",
@@ -16545,6 +19121,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655837217.83882,
+    "releases": null,
+    "item_description": "Midwayers Clock",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Glendora",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://glendora.bandcamp.com/album/midwayers-clock",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 4199310552,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a4199310552_7.jpg",
+    "details": {
+      "albumId": "3362598871",
+      "tags": [
+        "ambient",
+        "happy hardcore",
+        "metal",
+        "progressive",
+        "the devil wears prada",
+        "tragic hero records",
+        "august burns red",
+        "epic",
+        "erra",
+        "misery signals",
+        "northlane",
+        "post-hardcore",
+        "Bellmawr"
       ]
     }
   },
@@ -16849,6 +19464,40 @@
   },
   {
     "country_code": "us",
+    "utc_date": 1656022957.25241,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Get Set Go",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://getsetgola.bandcamp.com/album/miketvlive-2022-sessions-volume-12",
+    "amount_paid": 5,
+    "item_description": "MikeTVLive - 2022 Sessions - Volume 12",
+    "slug_type": "a",
+    "art_id": 2096132302,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2096132302_7.jpg",
+    "details": {
+      "albumId": "2560009873",
+      "tags": [
+        "alternative",
+        "cynical",
+        "folk",
+        "humorous",
+        "indie",
+        "powerpop",
+        "Austin"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
     "utc_date": 1655430649.07905,
     "releases": null,
     "item_type": "a",
@@ -17050,6 +19699,39 @@
         "indie rap",
         "unreleased material",
         "Freiburg"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655983546.28547,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Millennialisma",
+    "country": "Canada",
+    "artist_name": "VonViddy",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$100",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://vonviddy.bandcamp.com/album/millennialisma",
+    "amount_paid": 100,
+    "slug_type": "a",
+    "art_id": 2939262088,
+    "amount_over_fmt": "$100",
+    "album_title": null,
+    "amount_paid_usd": 100,
+    "art_url": "https://f4.bcbits.com/img/a2939262088_7.jpg",
+    "details": {
+      "albumId": "180897299",
+      "tags": [
+        "alternative",
+        "dream pop",
+        "hypnagogic pop",
+        "indie pop",
+        "psychedelic rock",
+        "Minneapolis"
       ]
     }
   },
@@ -17699,6 +20381,47 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1655913192.29393,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Egoless",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://egoless.bandcamp.com/album/mind-the-zaps",
+    "item_description": "Mind the Zaps",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 1432734602,
+    "amount_over_fmt": "€5",
+    "album_title": null,
+    "amount_paid_usd": 5.3,
+    "art_url": "https://f4.bcbits.com/img/a1432734602_7.jpg",
+    "details": {
+      "albumId": "3668250508",
+      "tags": [
+        "electronic",
+        "experimental",
+        "afro funk",
+        "deep medi",
+        "downtempo",
+        "dub",
+        "dubstep",
+        "electronica",
+        "experiments",
+        "idm",
+        "not dubstep",
+        "post",
+        "sessions",
+        "Zagreb"
+      ]
+    }
+  },
+  {
     "country_code": "mx",
     "utc_date": 1655387083.8916,
     "releases": null,
@@ -17726,6 +20449,39 @@
         "meditation",
         "minimal",
         "Portland"
+      ]
+    }
+  },
+  {
+    "country_code": "il",
+    "utc_date": 1655967125.92408,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Israel",
+    "artist_name": "Nervasystem & Aether",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://nervasystem.bandcamp.com/album/mineralien-molecule-e-p",
+    "amount_paid": 1,
+    "item_description": "Mineralien Molecule E.P.",
+    "slug_type": "a",
+    "art_id": 2100103626,
+    "album_title": null,
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a2100103626_7.jpg",
+    "details": {
+      "albumId": "502052472",
+      "tags": [
+        "electronic",
+        "goa",
+        "goa trance",
+        "psychedelic",
+        "psytrance",
+        "trance",
+        "UK"
       ]
     }
   },
@@ -17789,6 +20545,35 @@
         "leftfield",
         "techno",
         "Minneapolis"
+      ]
+    }
+  },
+  {
+    "country_code": "ae",
+    "utc_date": 1656005819.54577,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Arab Emirates",
+    "artist_name": "Julien Hauspie",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://julienhauspie.bandcamp.com/album/minilogue-covers-vol-i",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 3462685604,
+    "amount_over_fmt": "€5",
+    "album_title": null,
+    "amount_paid_usd": 5.25,
+    "item_description": "Minilogue Covers Vol.I",
+    "art_url": "https://f4.bcbits.com/img/a3462685604_7.jpg",
+    "details": {
+      "albumId": "501060923",
+      "tags": [
+        "soundtrack",
+        "Kortrijk"
       ]
     }
   },
@@ -17937,6 +20722,37 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655882892.80611,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Yotzeret Sheydim",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://yotzeretsheydim.bandcamp.com/album/minor-demon-bound-in-copper-001",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3915697217,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "item_description": "Minor Demon Bound In Copper 001",
+    "art_url": "https://f4.bcbits.com/img/a3915697217_7.jpg",
+    "details": {
+      "albumId": "1812259146",
+      "tags": [
+        "experimental",
+        "harsh noise",
+        "harsh noise wall",
+        "noise",
+        "Pittsburgh"
+      ]
+    }
+  },
+  {
     "amount_paid": 5,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a4221506469_7.jpg",
@@ -17991,6 +20807,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656000260.42351,
+    "releases": null,
+    "item_description": "Mint Bar",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Cadet",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://cadet164.bandcamp.com/album/mint-bar",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4165660737,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4165660737_7.jpg",
+    "details": {
+      "albumId": "3816638949",
+      "tags": [
+        "electronic",
+        "classic-styled vaporwave",
+        "future funk",
+        "house",
+        "plunderphonics",
+        "vaporfunk",
+        "vaporwave",
+        "Brady"
       ]
     }
   },
@@ -18478,6 +21328,39 @@
     "item_price": 0
   },
   {
+    "country_code": "gr",
+    "utc_date": 1656003681.44313,
+    "releases": null,
+    "item_description": "Mirrors Of The Dead",
+    "track_album_slug_text": null,
+    "country": "Greece",
+    "artist_name": "Insidious Process",
+    "item_type": "a",
+    "currency": "SEK",
+    "amount_paid_fmt": "6 SEK",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://notenough.bandcamp.com/album/mirrors-of-the-dead",
+    "amount_paid": 6,
+    "slug_type": "a",
+    "art_id": 544506406,
+    "album_title": null,
+    "amount_paid_usd": 0.59,
+    "art_url": "https://f4.bcbits.com/img/a0544506406_7.jpg",
+    "details": {
+      "albumId": "983549098",
+      "tags": [
+        "punk",
+        "crust",
+        "dbeat",
+        "mangel",
+        "rawpunk",
+        "råpunk",
+        "Sweden"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "Nöldr",
     "currency": "EUR",
@@ -18539,6 +21422,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "jp",
+    "utc_date": 1656005101.48866,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "artist_name": "every_de & mori_de_kurasu",
+    "item_type": "a",
+    "currency": "JPY",
+    "amount_paid_fmt": "¥100",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://local-visions.bandcamp.com/album/misasagi",
+    "amount_paid": 100,
+    "item_description": "Misasagi",
+    "slug_type": "a",
+    "art_id": 3703628748,
+    "album_title": null,
+    "amount_paid_usd": 0.74,
+    "art_url": "https://f4.bcbits.com/img/a3703628748_7.jpg",
+    "details": {
+      "albumId": "4037690020",
+      "tags": [
+        "pop",
+        "ambient",
+        "easy listening",
+        "jazz",
+        "newage",
+        "osaka",
+        "piano",
+        "pop",
+        "saxophone",
+        "synthesizer",
+        "tokyo",
+        "Izumo"
       ]
     }
   },
@@ -19381,6 +22302,36 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655966224.00874,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Mister Tingle",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mrtingle.bandcamp.com/album/mister-tingle-ep",
+    "amount_paid": 0.5,
+    "item_description": "Mister Tingle EP",
+    "slug_type": "a",
+    "art_id": 3486004724,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3486004724_7.jpg",
+    "details": {
+      "albumId": "1981067695",
+      "tags": [
+        "electronic",
+        "downbeat",
+        "folktronica",
+        "Hamburg"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "fr",
     "utc_date": 1654487995.57668,
@@ -19460,6 +22411,35 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655987725.32133,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "pisse",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://pisse.bandcamp.com/album/mit-schinken-durch-die-menopause",
+    "amount_paid": 0.5,
+    "item_description": "Mit Schinken durch die Menopause",
+    "slug_type": "a",
+    "art_id": 2852643121,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a2852643121_7.jpg",
+    "details": {
+      "albumId": "905326777",
+      "tags": [
+        "punk",
+        "pisse",
+        "Grimma"
       ]
     }
   },
@@ -19783,6 +22763,42 @@
     }
   },
   {
+    "item_description": "Mixing Bowl (Hip Hop Remixes) • Volume 5",
+    "country_code": "nz",
+    "utc_date": 1656058317.07985,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "New Zealand",
+    "artist_name": "The Quick Brown Fox (Remixes)",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://thequickbrownfoxremixes.bandcamp.com/album/mixing-bowl-hip-hop-remixes-volume-5",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3396037362,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3396037362_7.jpg",
+    "details": {
+      "albumId": "2604508636",
+      "tags": [
+        "a tribe called quest",
+        "beastie boys",
+        "hip-hop/rap",
+        "mf doom",
+        "funky",
+        "hip hop",
+        "indie",
+        "remixes",
+        "sampledelic",
+        "Albuquerque"
+      ]
+    }
+  },
+  {
     "utc_date": 1653708034.41271,
     "country": "Panama",
     "artist_name": "Fauna Lunar",
@@ -19808,6 +22824,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655951535.6029,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Miyazaki Coastline",
+    "country": "United States",
+    "artist_name": "Daibakaze",
+    "item_type": "a",
+    "currency": "JPY",
+    "amount_paid_fmt": "¥150",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://seikomart.bandcamp.com/album/miyazaki-coastline",
+    "amount_paid": 150,
+    "slug_type": "a",
+    "art_id": 70214753,
+    "album_title": null,
+    "amount_paid_usd": 1.1,
+    "art_url": "https://f4.bcbits.com/img/a0070214753_7.jpg",
+    "details": {
+      "albumId": "174496618",
+      "tags": [
+        "electronic",
+        "vaporcide",
+        "ambient",
+        "atmospheric",
+        "climatewave",
+        "cyberpunk",
+        "experimental",
+        "soundtrack",
+        "vaporwave",
+        "Japan"
       ]
     }
   },
@@ -19954,6 +23006,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655911169.58411,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Wandering Artist",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://wanderingartist.bandcamp.com/album/mocha",
+    "amount_paid": 1,
+    "item_description": "Mocha",
+    "slug_type": "a",
+    "art_id": 2305890909,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2305890909_7.jpg",
+    "details": {
+      "albumId": "1718710004",
+      "tags": [
+        "classical",
+        "contemporary classical",
+        "game soundtrack",
+        "neoclassical",
+        "orchestral",
+        "soundtrack",
+        "Italy"
       ]
     }
   },
@@ -20286,6 +23371,44 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1656008941.55732,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Rabbit Junk",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_description": "Modified Mortality (Remix Album)",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https:https://rabbitjunk.com/album/modified-mortality-remix-album",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2101007270,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2101007270_7.jpg",
+    "details": {
+      "albumId": "2110859959",
+      "tags": [
+        "cyberpunk",
+        "digital hardcore",
+        "drum & bass",
+        "electronic",
+        "industrial metal",
+        "neon metal",
+        "bass metal",
+        "future rock",
+        "industrial",
+        "metalstep",
+        "remix",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "utc_date": 1653758368.59053,
     "country": "United States",
     "artist_name": "Matthew Shapiro",
@@ -20547,6 +23670,39 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655924684.70809,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Bana Haffar",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://modulisme.bandcamp.com/album/modulisme-session-002",
+    "item_description": "Modulisme Session 002",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 4207339149,
+    "amount_over_fmt": "€2",
+    "album_title": null,
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a4207339149_7.jpg",
+    "details": {
+      "albumId": "892255322",
+      "tags": [
+        "electronic",
+        "ambient",
+        "electro-acoustic",
+        "experimental",
+        "modular",
+        "Marseille"
+      ]
+    }
+  },
+  {
     "item_description": "Modulisme Session 010",
     "country_code": "ca",
     "utc_date": 1655616853.40262,
@@ -20568,6 +23724,39 @@
     "amount_paid_usd": 5.25,
     "art_url": "https://f4.bcbits.com/img/a0952425974_7.jpg",
     "details": {
+      "tags": [
+        "electronic",
+        "ambient",
+        "electro-acoustic",
+        "experimental",
+        "modular",
+        "Marseille"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655924723.18982,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Rodent",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://modulisme.bandcamp.com/album/modulisme-session-017",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 3090531382,
+    "amount_over_fmt": "€2",
+    "item_description": "Modulisme Session 017",
+    "album_title": null,
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a3090531382_7.jpg",
+    "details": {
+      "albumId": "725003550",
       "tags": [
         "electronic",
         "ambient",
@@ -21102,6 +24291,38 @@
     }
   },
   {
+    "country_code": "jp",
+    "utc_date": 1655963445.71478,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "artist_name": "Dr Lum",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://drlum.bandcamp.com/album/molam-beatbox-studies",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3256842569,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "item_description": "Molam BeatBox Studies",
+    "art_url": "https://f4.bcbits.com/img/a3256842569_7.jpg",
+    "details": {
+      "albumId": "4158402406",
+      "tags": [
+        "electronica",
+        "experimental",
+        "molam",
+        "roots",
+        "world",
+        "Bangkok"
+      ]
+    }
+  },
+  {
     "utc_date": 1653788613.21429,
     "country": "United States",
     "artist_name": "Opinion",
@@ -21207,6 +24428,76 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656044698.66359,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Moloch - MRMD011 (Single)",
+    "artist_name": "Reinhaudt x MUNCHIES63AMG",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1.23",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mramadivision.bandcamp.com/album/moloch-mrmd011-single",
+    "amount_paid": 1.23,
+    "slug_type": "a",
+    "art_id": 1935083439,
+    "album_title": null,
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a1935083439_7.jpg",
+    "details": {
+      "albumId": "4159087705",
+      "tags": [
+        "electronic",
+        "Tunis"
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1656008631.36583,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Moloch / Sad - Wandering Ghosts",
+    "country": "Australia",
+    "artist_name": "Moloch",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://molochukr.bandcamp.com/album/moloch-sad-wandering-ghosts",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 1203343601,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a1203343601_7.jpg",
+    "details": {
+      "albumId": "3346567168",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "dark ambient",
+        "dungeon synth",
+        "lo-fi black metal",
+        "medieval",
+        "metal",
+        "moloch",
+        "one man black metal",
+        "raw black metal",
+        "sad",
+        "sergiy fjordsson",
+        "true black metal",
+        "ukraine",
+        "dsbm",
+        "Rivne"
       ]
     }
   },
@@ -21668,6 +24959,43 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655974223.05546,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Forbidden Place Records",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1.10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://forbiddenplacerecords.bandcamp.com/album/moms-new-hobby-ostara-noir",
+    "item_description": "Moms New Hobby - \"Ostara Noir\"",
+    "amount_paid": 1.1,
+    "slug_type": "a",
+    "art_id": 577291421,
+    "album_title": null,
+    "amount_paid_usd": 1.1,
+    "art_url": "https://f4.bcbits.com/img/a0577291421_7.jpg",
+    "details": {
+      "albumId": "2840652719",
+      "tags": [
+        "doom",
+        "metal",
+        "noise",
+        "punk",
+        "rock",
+        "stoner rock",
+        "darkwave",
+        "dreampop",
+        "gothic rock",
+        "shoegaze",
+        "Denver"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "se",
     "item_description": "Mona Records Sampler ADE 2018",
@@ -21763,6 +25091,39 @@
     }
   },
   {
+    "country_code": "co",
+    "utc_date": 1656026516.32212,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Colombia",
+    "artist_name": "USH",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ushalbum.bandcamp.com/album/moncers-inc",
+    "amount_paid": 0.5,
+    "item_description": "Moncers, Inc.",
+    "slug_type": "a",
+    "art_id": 3433936303,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3433936303_7.jpg",
+    "details": {
+      "albumId": "2637155138",
+      "tags": [
+        "drum n' bass",
+        "electronic",
+        "gabber",
+        "happy hardcore",
+        "hardstyle",
+        "breakbeat",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "item_description": "Money Matters (Single)",
     "country": "Australia",
     "artist_name": "Pink Noise Generator",
@@ -21796,6 +25157,47 @@
     }
   },
   {
+    "country_code": "us",
+    "releases": null,
+    "utc_date": 1655934595.75599,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "amount_paid_fmt": "$1",
+    "currency": "USD",
+    "item_type": "a",
+    "artist_name": "Silent Pendulum Records",
+    "url": "https://silentpendulumrecords.bandcamp.com/album/mongrel-the-number-twelve-looks-like-you",
+    "package_image_id": null,
+    "item_price": 0,
+    "amount_paid": 1,
+    "item_description": "Mongrel - The Number Twelve Looks Like You",
+    "art_id": 3671783114,
+    "slug_type": "a",
+    "amount_paid_usd": 1,
+    "album_title": null,
+    "art_url": "https://f4.bcbits.com/img/a3671783114_7.jpg",
+    "details": {
+      "albumId": "4197151616",
+      "tags": [
+        "black metal",
+        "metal",
+        "new jersey",
+        "rock",
+        "ambient",
+        "emo",
+        "experimental",
+        "jazz",
+        "jazzcore",
+        "math metal",
+        "math rock",
+        "metal",
+        "post-metal",
+        "sludge metal",
+        "New York"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "it",
     "utc_date": 1654359667.16944,
@@ -21824,6 +25226,41 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1655917230.14545,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Monkey Business",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.60",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://monkey-business.bandcamp.com/album/monkey-business-001",
+    "amount_paid": 0.6,
+    "slug_type": "a",
+    "art_id": 3165588134,
+    "item_description": "Monkey Business 001",
+    "album_title": null,
+    "amount_paid_usd": 0.63,
+    "art_url": "https://f4.bcbits.com/img/a3165588134_7.jpg",
+    "details": {
+      "albumId": "3484195174",
+      "tags": [
+        "junglism",
+        "ragga jungle",
+        "reggae",
+        "hardtek",
+        "jungle",
+        "junglism",
+        "raggacore",
+        "tekno",
+        "Belgium"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654440491.48713,
@@ -21846,6 +25283,77 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1656005075.13826,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Jack Vaul",
+    "item_type": "a",
+    "currency": "AUD",
+    "amount_paid_fmt": "$1 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://vaul.bandcamp.com/album/monkeypuppet",
+    "item_description": "MonkeyPuppet",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3542039029,
+    "album_title": null,
+    "amount_paid_usd": 0.69,
+    "art_url": "https://f4.bcbits.com/img/a3542039029_7.jpg",
+    "details": {
+      "albumId": "3003300127",
+      "tags": [
+        "adult contemporary rap",
+        "aussie rap",
+        "hip-hop/rap",
+        "alternative hip-hop",
+        "altrap",
+        "aussie hiphop",
+        "aussiehiphop",
+        "backpack rap",
+        "indierap",
+        "rap alternative",
+        "Adelaide"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655867035.58121,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "Mono Deluxe EP",
+    "country": "United States",
+    "artist_name": "Duburban Poison",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://jurassicrecords.bandcamp.com/album/mono-deluxe-ep",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4030923203,
+    "album_title": null,
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a4030923203_7.jpg",
+    "details": {
+      "albumId": "4189194211",
+      "tags": [
+        "electronic",
+        "breakcore",
+        "jungle",
+        "jungletek",
+        "jurassic",
+        "ragga",
+        "tekno",
+        "United Kingdom"
       ]
     }
   },
@@ -21909,6 +25417,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1655980032.35537,
+    "releases": null,
+    "item_description": "Monolith",
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "Perestroika",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$1 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://perestroika-mtl.bandcamp.com/album/monolith",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 93110759,
+    "album_title": null,
+    "amount_paid_usd": 0.77,
+    "art_url": "https://f4.bcbits.com/img/a0093110759_7.jpg",
+    "details": {
+      "albumId": "1982974396",
+      "tags": [
+        "punk",
+        "darkwave",
+        "goth rock",
+        "italodisco",
+        "new wave",
+        "positive punk",
+        "post-punk",
+        "synthpop",
+        "Montreal"
       ]
     }
   },
@@ -22031,6 +25574,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "utc_date": 1655985845.9459,
+    "releases": null,
+    "item_description": "Monologue",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "The Black Heart Rebellion",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://theblackheartrebellion.bandcamp.com/album/monologue",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3106400870,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a3106400870_7.jpg",
+    "details": {
+      "albumId": "1959021158",
+      "tags": [
+        "alternative",
+        "ghent",
+        "smoke & dust records",
+        "vlas vegas records",
+        "bedroom recordings",
+        "independent",
+        "Gent"
       ]
     }
   },
@@ -22218,6 +25794,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Montana EP",
+    "country_code": "es",
+    "utc_date": 1655857097.34293,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Spain",
+    "artist_name": "Saturn Reigns",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://saturnreigns.bandcamp.com/album/montana-ep",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4240154944,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4240154944_7.jpg",
+    "details": {
+      "albumId": "3743782978",
+      "tags": [
+        "electronic",
+        "hardgroove",
+        "techno",
+        "tribal techno",
+        "Nashville"
       ]
     }
   },
@@ -22750,6 +26357,37 @@
     "amount_paid_usd": 1,
     "art_url": "https://f4.bcbits.com/img/a2575018196_7.jpg",
     "details": {
+      "tags": [
+        "electronic",
+        "moombahsoul",
+        "moombahton",
+        "selegna records"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656010795.57836,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "V/A",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://selegnarecords.bandcamp.com/album/moombahsoul-vol-ii",
+    "item_description": "Moombahsoul Vol. II",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 569933751,
+    "amount_over_fmt": "€3",
+    "album_title": null,
+    "amount_paid_usd": 3.15,
+    "art_url": "https://f4.bcbits.com/img/a0569933751_7.jpg",
+    "details": {
+      "albumId": "526618951",
       "tags": [
         "electronic",
         "moombahsoul",
@@ -23725,6 +27363,37 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655926569.02685,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Amahoro Records",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://amahorosound.bandcamp.com/album/morgan-i-b-meets-rascat-red-rockers-women-dub-version",
+    "item_description": "Morgan I.B meets Rascat (Red Rockers) - Women + Dub version",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 1016078175,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a1016078175_7.jpg",
+    "details": {
+      "albumId": "2123187998",
+      "tags": [
+        "amahoro",
+        "digital",
+        "dub",
+        "reggae",
+        "Lyon"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "nz",
     "art_url": "https://f4.bcbits.com/img/a3964052022_7.jpg",
@@ -24065,6 +27734,40 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655838130.90217,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Semionauta",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://hide.bandcamp.com/album/mortem-sui",
+    "item_description": "Mortem Sui",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2176469323,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a2176469323_7.jpg",
+    "details": {
+      "albumId": "2203205656",
+      "tags": [
+        "electronic",
+        "abstract",
+        "ambient",
+        "deconstructed club",
+        "post-club",
+        "post-digital",
+        "post-industrial",
+        "Italy"
+      ]
+    }
+  },
+  {
     "utc_date": 1653736445.65496,
     "country": "Germany",
     "artist_name": "Morteminence",
@@ -24099,6 +27802,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Mortenkult",
+    "country_code": "nz",
+    "utc_date": 1655971255.40947,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "New Zealand",
+    "artist_name": "Vociferatus",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$4",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://vociferatus.bandcamp.com/album/mortenkult",
+    "amount_paid": 4,
+    "slug_type": "a",
+    "art_id": 3641378226,
+    "amount_over_fmt": "$4",
+    "album_title": null,
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a3641378226_7.jpg",
+    "details": {
+      "albumId": "3949080543",
+      "tags": [
+        "black metal",
+        "blackned death metal",
+        "brazil",
+        "metal",
+        "post black metal",
+        "rabm",
+        "antifascist",
+        "Rio De Janeiro"
       ]
     }
   },
@@ -24442,6 +28180,39 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655930064.36382,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Harry and the Potters",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://harryandthepotters.bandcamp.com/album/mostly-camping",
+    "amount_paid": 1,
+    "item_description": "Mostly Camping",
+    "slug_type": "a",
+    "art_id": 3666134752,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3666134752_7.jpg",
+    "details": {
+      "albumId": "2106640010",
+      "tags": [
+        "comedy",
+        "harry potter",
+        "punk",
+        "rock",
+        "weird",
+        "wizard rock",
+        "Boston"
+      ]
+    }
+  },
+  {
     "country": "Canada",
     "artist_name": "Piper Maru",
     "currency": "CAD",
@@ -24720,6 +28491,42 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655819189.63557,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Mount Moon",
+    "artist_name": "Pieridian Pool",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mountmoon.bandcamp.com/album/mount-moon-2",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 2401964765,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a2401964765_7.jpg",
+    "details": {
+      "albumId": "1546287589",
+      "tags": [
+        "americana",
+        "pop",
+        "soul",
+        "synth-pop",
+        "americana",
+        "freak folk",
+        "freak-folk",
+        "new wave",
+        "Brooklyn"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Mount Pisgah",
     "currency": "USD",
@@ -24787,6 +28594,34 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655816950.13496,
+    "releases": null,
+    "item_description": "Mountain (demos)",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Sacred Destinies",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://sacreddestinies.bandcamp.com/album/mountain-demos",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2377806798,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2377806798_7.jpg",
+    "details": {
+      "albumId": "2016058762",
+      "tags": [
+        "folk",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "utc_date": 1653788448.40798,
     "country": "United Kingdom",
     "artist_name": "J Plates",
@@ -24812,6 +28647,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1655807169.77697,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "item_description": "Mountain Kings",
+    "artist_name": "Mount Xiao",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mountxiao.bandcamp.com/album/mountain-kings",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 2751892179,
+    "album_title": null,
+    "amount_paid_usd": 0.62,
+    "art_url": "https://f4.bcbits.com/img/a2751892179_7.jpg",
+    "details": {
+      "albumId": "563033213",
+      "tags": [
+        "folk",
+        "indie",
+        "world",
+        "ambient",
+        "composer",
+        "contemporary",
+        "electronic",
+        "folk",
+        "indie",
+        "instrumental",
+        "orchestral",
+        "Brighton"
       ]
     }
   },
@@ -24951,6 +28824,39 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1655980478.23243,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "item_description": "Mountains EP",
+    "artist_name": "Digiklvb",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://digiklvb.bandcamp.com/album/mountains-ep",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 12143793,
+    "album_title": null,
+    "amount_paid_usd": 0.52,
+    "art_url": "https://f4.bcbits.com/img/a0012143793_7.jpg",
+    "details": {
+      "albumId": "2044626514",
+      "tags": [
+        "ambient",
+        "drone",
+        "field recordings",
+        "generative",
+        "soundscape",
+        "tapeloops",
+        "Prague"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "au",
     "utc_date": 1654371020.41158,
@@ -25057,6 +28963,43 @@
   },
   {
     "country_code": "gb",
+    "utc_date": 1655821058.31669,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "Highbay",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://psychedelicsourcerecords.bandcamp.com/album/mourning",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2885245917,
+    "item_description": "Mourning",
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a2885245917_7.jpg",
+    "details": {
+      "albumId": "3985143836",
+      "tags": [
+        "rock",
+        "contremarque",
+        "highbay",
+        "jam",
+        "lemurian folk songs",
+        "liquidacid",
+        "noise rock",
+        "post-rock",
+        "psychedelic rock",
+        "satorinaut",
+        "Páty"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
     "utc_date": 1655458148.4858,
     "releases": null,
     "item_type": "a",
@@ -25093,6 +29036,40 @@
         "post-rock",
         "ukbm",
         "Nottingham"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656028323.9934,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Mooses",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://realmooses.bandcamp.com/album/mousses",
+    "item_description": "Mousses",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 604478495,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0604478495_7.jpg",
+    "details": {
+      "albumId": "3479254475",
+      "tags": [
+        "alternative",
+        "experimental rock",
+        "rock",
+        "alternative",
+        "experimental rock",
+        "indie",
+        "indie rock",
+        "Detroit"
       ]
     }
   },
@@ -25158,6 +29135,47 @@
         "etherealwave",
         "synthwave",
         "Sweden"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656055099.03017,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Jacob Page",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$6",
+    "item_description": "Move Me EP",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://jacobpage.bandcamp.com/album/move-me-ep",
+    "amount_paid": 6,
+    "slug_type": "a",
+    "art_id": 3837956381,
+    "amount_over_fmt": "$6",
+    "album_title": null,
+    "amount_paid_usd": 6,
+    "art_url": "https://f4.bcbits.com/img/a3837956381_7.jpg",
+    "details": {
+      "albumId": "3021417832",
+      "tags": [
+        "alternative",
+        "diy",
+        "indie",
+        "rock",
+        "art rock",
+        "demos",
+        "folk",
+        "indie",
+        "indie rock",
+        "music",
+        "quarantine",
+        "rock",
+        "synthpop",
+        "Philadelphia"
       ]
     }
   },
@@ -25461,6 +29479,34 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655899542.30567,
+    "releases": null,
+    "item_description": "Moxie Presents Volume Three Sampler 2",
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Various",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://onloop.bandcamp.com/album/moxie-presents-volume-three-sampler-2",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 3805751964,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3805751964_7.jpg",
+    "details": {
+      "albumId": "3066472312",
+      "tags": [
+        "house",
+        "London"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655513296.95786,
     "releases": null,
@@ -25562,6 +29608,44 @@
     }
   },
   {
+    "item_description": "Mr. Good Stuff",
+    "country_code": "de",
+    "utc_date": 1656017643.81998,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "DJ Bazootka",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://zbazoot.bandcamp.com/album/mr-good-stuff",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 3991341923,
+    "album_title": null,
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3991341923_7.jpg",
+    "details": {
+      "albumId": "4286447520",
+      "tags": [
+        "detroit ghetto tech",
+        "electronic",
+        "ghettotech",
+        "detroit techno",
+        "electro",
+        "elektro",
+        "ghetto",
+        "ghetto house",
+        "hard techno",
+        "rave",
+        "sexy",
+        "Skopje"
+      ]
+    }
+  },
+  {
     "item_description": "Mr. Sandman (Deluxe Edition)",
     "amount_paid": 3,
     "country_code": "gb",
@@ -25587,6 +29671,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "no",
+    "utc_date": 1655831116.71128,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Norway",
+    "artist_name": "Mr Orkester",
+    "item_type": "a",
+    "currency": "NOK",
+    "amount_paid_fmt": "50 NOK",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mrorkester.bandcamp.com/album/mr-orkester-2011",
+    "amount_paid": 50,
+    "slug_type": "a",
+    "art_id": 3844656302,
+    "amount_over_fmt": "50",
+    "album_title": null,
+    "amount_paid_usd": 5.09,
+    "item_description": "Mr Orkester (2011)",
+    "art_url": "https://f4.bcbits.com/img/a3844656302_7.jpg",
+    "details": {
+      "albumId": "1808020013",
+      "tags": [
+        "almost on purpose",
+        "folk",
+        "acoustic",
+        "acoustic folk",
+        "alternative",
+        "bluesy",
+        "busker",
+        "heavy",
+        "jolly",
+        "one man band",
+        "swingy",
+        "Oslo"
       ]
     }
   },
@@ -25887,6 +30010,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1655866519.98302,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "James Muller & Chris Soole",
+    "item_type": "a",
+    "currency": "AUD",
+    "amount_paid_fmt": "$5 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://comadelaide.bandcamp.com/album/muller-soole-coma-2012-05-07",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 120347124,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 3.47,
+    "art_url": "https://f4.bcbits.com/img/a0120347124_7.jpg",
+    "item_description": "Muller/Soole @ COMA 2012 05 07",
+    "details": {
+      "albumId": "978416717",
+      "tags": [
+        "alternative",
+        "classical",
+        "electronic",
+        "jazz",
+        "Adelaide"
       ]
     }
   },
@@ -26339,6 +30494,37 @@
     }
   },
   {
+    "country_code": "au",
+    "utc_date": 1656030151.98776,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "Decreptic",
+    "item_type": "a",
+    "currency": "AUD",
+    "amount_paid_fmt": "$10 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://decreptic.bandcamp.com/album/museum",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 3665456103,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 6.9,
+    "item_description": "Museum",
+    "art_url": "https://f4.bcbits.com/img/a3665456103_7.jpg",
+    "details": {
+      "albumId": "3512001820",
+      "tags": [
+        "experimental",
+        "darkpsy",
+        "psytrance",
+        "Sydney"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655699418.6325,
     "releases": null,
@@ -26762,6 +30948,80 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1656021015.42767,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "item_description": "Music Lovers Club #001",
+    "artist_name": "Various Artists",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://lautluise.bandcamp.com/album/music-lovers-club-001",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2584896526,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a2584896526_7.jpg",
+    "details": {
+      "albumId": "1638491661",
+      "tags": [
+        "fusion festival",
+        "berlin",
+        "deephouse",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "free",
+        "katerblau",
+        "techno",
+        "wilderenate",
+        "Cologne"
+      ]
+    }
+  },
+  {
+    "country_code": "de",
+    "item_description": "Music Lovers Club #002",
+    "utc_date": 1656001065.28435,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Various Artists",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://lautluise.bandcamp.com/album/music-lovers-club-002",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 2703000551,
+    "amount_over_fmt": "€10",
+    "album_title": null,
+    "amount_paid_usd": 10.53,
+    "art_url": "https://f4.bcbits.com/img/a2703000551_7.jpg",
+    "details": {
+      "albumId": "617727177",
+      "tags": [
+        "fusion festival",
+        "berlin",
+        "deephouse",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "free",
+        "hip house",
+        "katerblau",
+        "Cologne"
+      ]
+    }
+  },
+  {
     "utc_date": 1653699160.18805,
     "country": "Australia",
     "artist_name": "Various Artists",
@@ -26816,6 +31076,40 @@
         "noise",
         "psychedelic",
         "West Virginia"
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1656007866.95296,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Music Waste",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$10 CAD",
+    "item_description": "Music Waste '17",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://musicwaste.bandcamp.com/album/music-waste-17",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 3553943764,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 7.69,
+    "art_url": "https://f4.bcbits.com/img/a3553943764_7.jpg",
+    "details": {
+      "albumId": "1898913392",
+      "tags": [
+        "alternative",
+        "independent",
+        "live",
+        "local",
+        "musicwaste",
+        "musicwasted",
+        "Vancouver"
       ]
     }
   },
@@ -27216,6 +31510,39 @@
     }
   },
   {
+    "country_code": "de",
+    "utc_date": 1655918462.45549,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Germany",
+    "artist_name": "Oles Deyneka",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://olesdeyneka.bandcamp.com/album/music-for-your-soul",
+    "item_description": "Music for your Soul",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2658796213,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a2658796213_7.jpg",
+    "details": {
+      "albumId": "80066252",
+      "tags": [
+        "ambient",
+        "handpan",
+        "hang",
+        "hangdrum",
+        "meditation",
+        "relaxation",
+        "Trieste"
+      ]
+    }
+  },
+  {
     "utc_date": 1653777919.88873,
     "country": "Canada",
     "artist_name": "Matthew Cardinal",
@@ -27496,6 +31823,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655953496.99933,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "csz",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://pseudocsz.bandcamp.com/album/mutantpunk-vol-4",
+    "item_description": "Mutantpunk Vol. 4",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1921788072,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1921788072_7.jpg",
+    "details": {
+      "albumId": "3994224326",
+      "tags": [
+        "experimental",
+        "art punk",
+        "avant garde",
+        "avant-rock",
+        "improvisation",
+        "mutantpunk",
+        "noise",
+        "noise rock",
+        "Rochester"
       ]
     }
   },
@@ -27873,6 +32235,39 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655871005.09772,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Car Seat Headrest",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://carseatheadrest.bandcamp.com/album/my-back-is-killing-me-baby",
+    "item_description": "My Back Is Killing Me Baby",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1891550984,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1891550984_7.jpg",
+    "details": {
+      "albumId": "499702893",
+      "tags": [
+        "alternative",
+        "bedroom recording",
+        "electronic",
+        "indie",
+        "indie rock",
+        "lo-fi",
+        "psychedelic"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655746965.62937,
     "releases": null,
@@ -28174,6 +32569,41 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656038616.86332,
+    "releases": null,
+    "item_description": "My Eyes Never Really Adjusted to the Light",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Healing Potpourri",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://healingpotpourri.bandcamp.com/album/my-eyes-never-really-adjusted-to-the-light",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 3834805507,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a3834805507_7.jpg",
+    "details": {
+      "albumId": "3336589857",
+      "tags": [
+        "experimental",
+        "healing & easylistening",
+        "healing & meditation",
+        "healing music",
+        "lounge",
+        "weird",
+        "weird pop",
+        "San Francisco"
+      ]
+    }
+  },
+  {
     "utc_date": 1653697723.34599,
     "country": "United States",
     "artist_name": "Iden Kai",
@@ -28307,6 +32737,45 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655829518.55112,
+    "releases": null,
+    "item_description": "My Hair Is A Rat's Nest",
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "MY HAIR IS A RAT'S NEST",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://tombtreetapes.bandcamp.com/album/my-hair-is-a-rats-nest",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1196396945,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1196396945_7.jpg",
+    "details": {
+      "albumId": "3749341147",
+      "tags": [
+        "new mexico",
+        "punk",
+        "grind",
+        "hardcore",
+        "lo-fi",
+        "post-hardcore",
+        "punk",
+        "rock",
+        "screamo",
+        "shoegaze",
+        "skramz",
+        "solo",
+        "Nanaimo"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654422623.23615,
@@ -28357,6 +32826,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "au",
+    "utc_date": 1655987620.52496,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Australia",
+    "artist_name": "Landspeeder",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://landspeeder.bandcamp.com/album/my-kind-of-scum-digital-master",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 1770049219,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "item_description": "My Kind Of Scum (DIGITAL MASTER)",
+    "art_url": "https://f4.bcbits.com/img/a1770049219_7.jpg",
+    "details": {
+      "albumId": "682388465",
+      "tags": [
+        "ewok n' roll",
+        "pop punk",
+        "punk",
+        "star wars",
+        "rebel music",
+        "sith licks",
+        "Chicago"
       ]
     }
   },
@@ -28731,6 +33234,42 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1655956777.83441,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Mycorrhizae",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://bigbovine.bandcamp.com/album/mycorrhizae",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 3937571718,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "item_description": "Mycorrhizae",
+    "art_url": "https://f4.bcbits.com/img/a3937571718_7.jpg",
+    "details": {
+      "albumId": "169169449",
+      "tags": [
+        "black metal",
+        "metal",
+        "raw black metal",
+        "atmospheric black metal",
+        "black metal",
+        "new wave",
+        "raw black metal",
+        "techincolor synthpunk",
+        "Minneapolis"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "My dying world Mako",
     "currency": "USD",
@@ -28786,6 +33325,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "no",
+    "utc_date": 1655999480.45254,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Norway",
+    "artist_name": "Psychic Dose",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://psychicdose.bandcamp.com/album/myrkvi-r",
+    "amount_paid": 1,
+    "item_description": "Myrkviðr",
+    "slug_type": "a",
+    "art_id": 362016723,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0362016723_7.jpg",
+    "details": {
+      "albumId": "3266427198",
+      "tags": [
+        "metal",
+        "doom metal",
+        "occult",
+        "proto-metal",
+        "psychedelic rock",
+        "stoner rock",
+        "Fort Myers"
       ]
     }
   },
@@ -28973,6 +33545,35 @@
   },
   {
     "country_code": "us",
+    "utc_date": 1655851463.37701,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Verena Serene",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://verenaserene.bandcamp.com/album/mystery-music-side-two",
+    "item_description": "Mystery Music: Side Two",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 4239504763,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4239504763_7.jpg",
+    "details": {
+      "albumId": "1368028460",
+      "tags": [
+        "metal",
+        "instrumental post-metal",
+        "Pharr"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
     "utc_date": 1655483486.07821,
     "releases": null,
     "item_type": "a",
@@ -29099,6 +33700,75 @@
         "retrowave",
         "synth",
         "New London"
+      ]
+    }
+  },
+  {
+    "item_description": "Mystical Dimension of the Almighty Serpent (Split)",
+    "country_code": "il",
+    "utc_date": 1655914425.04575,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Israel",
+    "artist_name": "Glorification",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$6.66",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://glorificationblackdeath.bandcamp.com/album/mystical-dimension-of-the-almighty-serpent-split",
+    "amount_paid": 6.66,
+    "slug_type": "a",
+    "art_id": 3391752455,
+    "amount_over_fmt": "$6.66",
+    "album_title": null,
+    "amount_paid_usd": 6.66,
+    "art_url": "https://f4.bcbits.com/img/a3391752455_7.jpg",
+    "details": {
+      "albumId": "1400426584",
+      "tags": [
+        "black metal",
+        "death metal",
+        "metal",
+        "Asunción"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655969535.42694,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "item_description": "Mythological Cycle Volume 1",
+    "artist_name": "Ishqamatics",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://neotantra.bandcamp.com/album/mythological-cycle-volume-1",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2441768801,
+    "album_title": null,
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a2441768801_7.jpg",
+    "details": {
+      "albumId": "1852282607",
+      "tags": [
+        "ambient",
+        "electronic",
+        "ambient",
+        "atmospheric",
+        "chillout",
+        "dark ambient",
+        "drone",
+        "electronica",
+        "meditation",
+        "new age",
+        "soundscape",
+        "United Kingdom"
       ]
     }
   },
@@ -29601,6 +34271,101 @@
     }
   },
   {
+    "country_code": "jp",
+    "utc_date": 1655825592.23883,
+    "releases": null,
+    "item_description": "major major",
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "artist_name": "supermassive",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://supermassiveandfriends.bandcamp.com/album/major-major",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 2777231469,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a2777231469_7.jpg",
+    "details": {
+      "albumId": "3916633253",
+      "tags": [
+        "pop",
+        "boombap",
+        "indiepop",
+        "Davis"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655931028.65755,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "haunt pawson",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://thousandsofbeez.bandcamp.com/album/major-parts",
+    "item_description": "major parts",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 3405097053,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a3405097053_7.jpg",
+    "details": {
+      "albumId": "728640287",
+      "tags": [
+        "pittsburgh",
+        "soundtrack",
+        "faceless",
+        "frog",
+        "toad",
+        "tomb tunes",
+        "Pittsburgh"
+      ]
+    }
+  },
+  {
+    "country_code": "fr",
+    "utc_date": 1656004522.51383,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "France",
+    "item_description": "make better choices",
+    "artist_name": "Harrison Hufman",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://harrisonhufman.bandcamp.com/album/make-better-choices",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 1986067924,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1986067924_7.jpg",
+    "details": {
+      "albumId": "3566512705",
+      "tags": [
+        "experimental",
+        "sleeping in a jar",
+        "Phoenix"
+      ]
+    }
+  },
+  {
     "utc_date": 1653727547.11236,
     "country": "Australia",
     "artist_name": "jashka",
@@ -29751,6 +34516,37 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1655910090.73048,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "marry me",
+    "country": "United States",
+    "artist_name": "sherwood forest",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://grenewood.bandcamp.com/album/marry-me",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 2295343693,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2295343693_7.jpg",
+    "details": {
+      "albumId": "718455425",
+      "tags": [
+        "folk",
+        "experimental",
+        "mumblecore",
+        "Atlanta"
+      ]
+    }
+  },
+  {
     "utc_date": 1653744198.06408,
     "country": "Germany",
     "artist_name": "VARIOUS ARTISTS",
@@ -29881,6 +34677,36 @@
     }
   },
   {
+    "country_code": "gb",
+    "utc_date": 1655861860.38662,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "ease",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://easebanduk.bandcamp.com/album/meanwhile",
+    "item_description": "meanwhile",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 216531340,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a0216531340_7.jpg",
+    "details": {
+      "albumId": "2686141814",
+      "tags": [
+        "90's emo",
+        "alternative",
+        "rock",
+        "Leicester"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "item_description": "medicalmechanica",
@@ -29937,6 +34763,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "ca",
+    "utc_date": 1655852752.86169,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "sevenism",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.60",
+    "item_description": "meditations disintegrations iii",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://sevenism.bandcamp.com/album/meditations-disintegrations-iii",
+    "amount_paid": 0.6,
+    "slug_type": "a",
+    "art_id": 161332445,
+    "album_title": null,
+    "amount_paid_usd": 0.74,
+    "art_url": "https://f4.bcbits.com/img/a0161332445_7.jpg",
+    "details": {
+      "albumId": "97494360",
+      "tags": [
+        "electronic",
+        "ambient",
+        "avant garde",
+        "drone",
+        "experimental",
+        "psych",
+        "United Kingdom"
       ]
     }
   },
@@ -30059,6 +34918,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655922996.979,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "niteffect",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€9",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://niteffect.bandcamp.com/album/memento-ep",
+    "item_description": "memento (ep)",
+    "amount_paid": 9,
+    "slug_type": "a",
+    "art_id": 871888645,
+    "amount_over_fmt": "€9",
+    "album_title": null,
+    "amount_paid_usd": 9.52,
+    "art_url": "https://f4.bcbits.com/img/a0871888645_7.jpg",
+    "details": {
+      "albumId": "3903078933",
+      "tags": [
+        "electronic",
+        "ambient",
+        "chill out",
+        "creative commons",
+        "downtempo",
+        "idm",
+        "Budapest"
       ]
     }
   },
@@ -30192,6 +35085,45 @@
     }
   },
   {
+    "country_code": "jp",
+    "utc_date": 1655821623.09225,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "item_description": "metadata // pink origins",
+    "artist_name": "metaroom",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://hyperpoprecords.bandcamp.com/album/metadata-pink-origins",
+    "amount_paid": 3,
+    "slug_type": "a",
+    "art_id": 99394513,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a0099394513_7.jpg",
+    "details": {
+      "albumId": "2027333149",
+      "tags": [
+        "electronic",
+        "experimental",
+        "future bass",
+        "hyperpop",
+        "idm",
+        "pop",
+        "electronica",
+        "energetic",
+        "hyper",
+        "kawaii bass",
+        "metaroom",
+        "Philadelphia"
+      ]
+    }
+  },
+  {
     "country": "France",
     "artist_name": "noir boy george",
     "currency": "EUR",
@@ -30218,6 +35150,73 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "miKRO_TAPE",
+    "country_code": "ca",
+    "utc_date": 1656031854.15642,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "BAPHOMANE",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$5 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://baphomane.bandcamp.com/album/mikro-tape",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 3739325500,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 3.85,
+    "art_url": "https://f4.bcbits.com/img/a3739325500_7.jpg",
+    "details": {
+      "albumId": "2709773090",
+      "tags": [
+        "experimental",
+        "hardstyle",
+        "hip-hop/rap",
+        "idm",
+        "phonk",
+        "Edmonton"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "item_description": "microcosm",
+    "utc_date": 1655866851.8397,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "carisa",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://carisa.bandcamp.com/album/microcosm",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 114029338,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0114029338_7.jpg",
+    "details": {
+      "albumId": "2868017695",
+      "tags": [
+        "acoustic",
+        "acoustic guitar",
+        "folk",
+        "harmonies",
+        "jazz",
+        "singer-songwriter",
+        "New York"
       ]
     }
   },
@@ -30342,6 +35341,79 @@
     }
   },
   {
+    "country_code": "nz",
+    "utc_date": 1655943176.29653,
+    "releases": null,
+    "track_album_slug_text": null,
+    "item_description": "mikeyeldey: the album",
+    "country": "New Zealand",
+    "artist_name": "mikeyeldey",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$1 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mikeyeldey.bandcamp.com/album/mikeyeldey-the-album",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2035890537,
+    "album_title": null,
+    "amount_paid_usd": 0.77,
+    "art_url": "https://f4.bcbits.com/img/a2035890537_7.jpg",
+    "details": {
+      "albumId": "1924254326",
+      "tags": [
+        "electronic",
+        "canada",
+        "chiptune",
+        "electronic",
+        "novelty",
+        "vancouver",
+        "Vancouver"
+      ]
+    }
+  },
+  {
+    "item_description": "mikeyeldey: the album for Sega Genesis",
+    "country_code": "us",
+    "utc_date": 1655957764.84958,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "mikeyeldey",
+    "item_type": "a",
+    "currency": "CAD",
+    "amount_paid_fmt": "$1 CAD",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://mikeyeldey.bandcamp.com/album/mikeyeldey-the-album-for-sega-genesis",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 221403964,
+    "album_title": null,
+    "amount_paid_usd": 0.77,
+    "art_url": "https://f4.bcbits.com/img/a0221403964_7.jpg",
+    "details": {
+      "albumId": "1513022574",
+      "tags": [
+        "16-bit",
+        "electronic",
+        "canada",
+        "chiptune",
+        "electronic",
+        "genesis",
+        "mega drive",
+        "mikeyeldey",
+        "sega",
+        "sega genesis",
+        "sega mega drive",
+        "vancouver",
+        "video game music",
+        "Vancouver"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a4266972678_7.jpg",
@@ -30364,6 +35436,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1655837115.18626,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "hyi",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https:https://halleylabs.com/album/mind-breaking-the-body",
+    "item_description": "mind breaking the body",
+    "amount_paid": 10,
+    "slug_type": "a",
+    "art_id": 690517404,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a0690517404_7.jpg",
+    "details": {
+      "albumId": "3410993761",
+      "tags": [
+        "electronic",
+        "ambient",
+        "anxiety",
+        "atmospheric",
+        "breakbeat",
+        "dnb",
+        "experimental",
+        "grief",
+        "panic disorder",
+        "thantophobia",
+        "Hamilton"
       ]
     }
   },
