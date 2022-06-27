@@ -67,6 +67,39 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "c2",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1874838367_7.jpg",
+    "country": "C2",
+    "item_description": "QSR×BP 2016​~​17 SAMPLER",
+    "artist_name": "BoringProductions",
+    "currency": "USD",
+    "utc_date": 1656140929.38977,
+    "url": "https://boringproductions.bandcamp.com/album/qsr-bp-2016-17-sampler",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1874838367,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2326097880",
+      "tags": [
+        "rock",
+        "c86",
+        "indie rock",
+        "jangle pop",
+        "shoegaze",
+        "twee pop",
+        "Shenzhen"
+      ]
+    }
+  },
+  {
     "country": "Brazil",
     "artist_name": "Chinese Cookie Poets",
     "item_description": "QTV006 – ■",
@@ -1150,6 +1183,37 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "kr",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2128080583_7.jpg",
+    "country": "Republic of Korea",
+    "artist_name": "Sub Question (with Alex G.)",
+    "currency": "USD",
+    "utc_date": 1656136954.54135,
+    "url": "https://tranceunion.bandcamp.com/album/quartz-ep",
+    "track_album_slug_text": null,
+    "item_description": "Quartz EP",
+    "item_type": "a",
+    "art_id": 2128080583,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "96409216",
+      "tags": [
+        "electronic",
+        "progressive trance",
+        "trance",
+        "uplifting trance",
+        "South Korea"
+      ]
+    }
+  },
+  {
     "utc_date": 1653828506.39282,
     "item_description": "Quatre - L'album sans fin - 2021",
     "country": "France",
@@ -1910,6 +1974,74 @@
         "indie rock",
         "lo-fi",
         "Los Angeles"
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "fr",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1.04,
+    "art_url": "https://f4.bcbits.com/img/a4219756577_7.jpg",
+    "country": "France",
+    "item_description": "Quod Erat Faciendum",
+    "artist_name": "Euclidean",
+    "currency": "CHF",
+    "utc_date": 1656109668.57222,
+    "url": "https://euclidean.bandcamp.com/album/quod-erat-faciendum",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 4219756577,
+    "amount_paid_fmt": "1 CHF",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3241246189",
+      "tags": [
+        "black metal",
+        "metal",
+        "ambient black metal",
+        "doom metal",
+        "post-hardcore",
+        "progressive black metal",
+        "sludge metal",
+        "Neuchâtel"
+      ]
+    }
+  },
+  {
+    "amount_paid": 5,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$5",
+    "item_description": "Quorum Of Unspeakable Curses",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2125359401_7.jpg",
+    "country": "United States",
+    "artist_name": "Angelic Desolation",
+    "currency": "USD",
+    "utc_date": 1656153901.72109,
+    "url": "https://angelicdesolation.bandcamp.com/album/quorum-of-unspeakable-curses",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2125359401,
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3568492524",
+      "tags": [
+        "metal",
+        "thrash metal",
+        "death metal",
+        "grindcore",
+        "heavy metal",
+        "razorgrind",
+        "Denver"
       ]
     }
   },

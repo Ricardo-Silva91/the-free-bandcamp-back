@@ -197,6 +197,34 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "X THE DEMOS X",
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0785325345_7.jpg",
+    "country": "United States",
+    "artist_name": "X CHUG CHUG X",
+    "currency": "USD",
+    "utc_date": 1656169809.20655,
+    "url": "https://xchugchugx.bandcamp.com/album/x-the-demos-x",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 785325345,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "4152240358",
+      "tags": [
+        "punk",
+        "Gainesville"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "jp",
     "utc_date": 1654485627.94554,
@@ -742,6 +770,43 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "se",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a3472621715_7.jpg",
+    "country": "Sweden",
+    "artist_name": "XXIII",
+    "currency": "EUR",
+    "item_description": "XXIII // 150",
+    "utc_date": 1656319784.72431,
+    "url": "https://xxiii.bandcamp.com/album/xxiii-150",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3472621715,
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "594599056",
+      "tags": [
+        "afrobeat",
+        "ballroom beats",
+        "brazilian",
+        "electronic",
+        "funk",
+        "future beats",
+        "jersey club",
+        "edits",
+        "funk",
+        "remixes",
+        "Portugal"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655478099.40624,
     "releases": null,
@@ -1180,6 +1245,75 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Gatget Owl",
+    "amount_paid": 405,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "¥405",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a3584129163_7.jpg",
+    "country": "United States",
+    "artist_name": "Xat0li",
+    "currency": "JPY",
+    "utc_date": 1656269161.42551,
+    "url": "https://zisatsu.bandcamp.com/album/gatget-owl",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3584129163,
+    "amount_paid_fmt": "¥405",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1213333373",
+      "tags": [
+        "experimental",
+        "exprimental",
+        "hardcore techno",
+        "idm",
+        "breakcore",
+        "depressive",
+        "mashcore",
+        "psytribe",
+        "Tokyo"
+      ]
+    }
+  },
+  {
+    "amount_paid": 7.77,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$7.77",
+    "album_title": null,
+    "amount_paid_usd": 7.77,
+    "art_url": "https://f4.bcbits.com/img/a4162407307_7.jpg",
+    "item_description": "\"Abundance Of Truth\" - EP",
+    "country": "United States",
+    "artist_name": "Xavier R. Ortega",
+    "currency": "USD",
+    "utc_date": 1656168566.19961,
+    "url": "https://xavierrortega.bandcamp.com/album/abundance-of-truth-ep",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 4162407307,
+    "amount_paid_fmt": "$7.77",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "238241547",
+      "tags": [
+        "ambient",
+        "electronic",
+        "experimental",
+        "dark ambient",
+        "noise",
+        "Texas"
       ]
     }
   },

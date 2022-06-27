@@ -287,6 +287,37 @@
     }
   },
   {
+    "amount_paid": 5,
+    "country_code": "es",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a4203880369_7.jpg",
+    "country": "Spain",
+    "item_description": "HARD-CORE TAPE (2017)",
+    "artist_name": "OBLAKA",
+    "currency": "USD",
+    "utc_date": 1656107492.31462,
+    "url": "https://oblaka8000.bandcamp.com/album/hard-core-tape-2017",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 4203880369,
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "4131657948",
+      "tags": [
+        "punk",
+        "hardcore",
+        "yakutsk",
+        "Yakutsk"
+      ]
+    }
+  },
+  {
     "country": "France",
     "item_description": "GLORY BE TO THE BOMB",
     "artist_name": "OBSOLETE MAN",
@@ -1202,6 +1233,69 @@
     }
   },
   {
+    "amount_paid": 100,
+    "country_code": "jp",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "Intentions / Split with HETH",
+    "album_title": null,
+    "amount_paid_usd": 0.74,
+    "art_url": "https://f4.bcbits.com/img/a3074338362_7.jpg",
+    "country": "Japan",
+    "artist_name": "ONLY THE LAST SONG",
+    "currency": "JPY",
+    "utc_date": 1656139788.44119,
+    "url": "https://onlythelastsong.bandcamp.com/album/intentions-split-with-heth",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3074338362,
+    "amount_paid_fmt": "¥100",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2400779230",
+      "tags": [
+        "punk",
+        "fastcore",
+        "hardcore",
+        "powerviolence",
+        "Kashiwa"
+      ]
+    }
+  },
+  {
+    "amount_paid": 135,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3727319718_7.jpg",
+    "country": "United States",
+    "artist_name": "ONOMATO",
+    "currency": "JPY",
+    "utc_date": 1656323666.59036,
+    "url": "https://seikomart.bandcamp.com/album/fan-fiction",
+    "track_album_slug_text": null,
+    "item_description": "Fan Fiction",
+    "item_type": "a",
+    "art_id": 3727319718,
+    "amount_paid_fmt": "¥135",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "4097847800",
+      "tags": [
+        "electronic",
+        "eccojams",
+        "experimental",
+        "pop",
+        "vaporwave",
+        "Japan"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "OOPARTs",
     "currency": "USD",
@@ -1390,6 +1484,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 5,
+    "country_code": "se",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1903675298_7.jpg",
+    "country": "Sweden",
+    "artist_name": "ORDO AZERATE",
+    "currency": "USD",
+    "utc_date": 1656149345.44674,
+    "url": "https://ordoazerate.bandcamp.com/album/the-seven-hells-and-seven-earths",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1903675298,
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "item_description": "The Seven Hells and Seven Earths",
+    "details": {
+      "albumId": "2653527497",
+      "tags": [
+        "ambient",
+        "ritual ambient",
+        "dark ambient",
+        "drone ambient",
+        "Russia"
       ]
     }
   },
@@ -1709,6 +1835,44 @@
     }
   },
   {
+    "amount_paid": 0.5,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "Girls On Bikes",
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a2757464608_7.jpg",
+    "country": "United States",
+    "artist_name": "OSC",
+    "currency": "GBP",
+    "utc_date": 1656104116.98775,
+    "url": "https://opussciencecollective.bandcamp.com/album/girls-on-bikes-2",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2757464608,
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1912278947",
+      "tags": [
+        "1980s",
+        "80s",
+        "electronic",
+        "funk",
+        "retrowave",
+        "synthpop",
+        "synthwave",
+        "electro",
+        "electronica",
+        "funk",
+        "vaporwave",
+        "Brighton"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1656040606.45706,
     "releases": null,
@@ -1883,6 +2047,43 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 2,
+    "country_code": "be",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2954525809_7.jpg",
+    "country": "Belgium",
+    "artist_name": "OSCOB",
+    "currency": "USD",
+    "utc_date": 1656266779.60796,
+    "url": "https://oscob.bandcamp.com/album/rejects",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2954525809,
+    "amount_paid_fmt": "$2",
+    "item_description": "rejects",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "559687822",
+      "tags": [
+        "experimental",
+        "ambient",
+        "avant garde",
+        "caretaker",
+        "eccojams",
+        "electronic",
+        "hauntology",
+        "signalwave",
+        "slushwave",
+        "vaporwave",
+        "Germany"
       ]
     }
   },
@@ -2098,6 +2299,36 @@
     }
   },
   {
+    "amount_paid": 2,
+    "country_code": "us",
+    "item_description": "PRESSION OUTLAWSPHERIQUE",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "€2",
+    "album_title": null,
+    "amount_paid_usd": 2.11,
+    "art_url": "https://f4.bcbits.com/img/a1195193166_7.jpg",
+    "country": "United States",
+    "artist_name": "OUTLAW",
+    "currency": "EUR",
+    "utc_date": 1656263092.6397,
+    "url": "https://outlaw-2-mars.bandcamp.com/album/pression-outlawspherique",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1195193166,
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3146172267",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "Marseille"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1656048763.25088,
     "releases": null,
@@ -2159,6 +2390,40 @@
         "god killer",
         "overload",
         "Cambridge"
+      ]
+    }
+  },
+  {
+    "country_code": "gb",
+    "utc_date": 1656095411.11314,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United Kingdom",
+    "artist_name": "OVERPOWER",
+    "item_type": "a",
+    "currency": "GBP",
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://overpowerthrash.bandcamp.com/album/overpower",
+    "item_description": "OVERPOWER",
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "art_id": 2150844906,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a2150844906_7.jpg",
+    "details": {
+      "albumId": "923099649",
+      "tags": [
+        "crossover",
+        "metal",
+        "punk",
+        "thrash metal",
+        "crossover",
+        "hardcore",
+        "thrash",
+        "United Kingdom"
       ]
     }
   },
@@ -3445,6 +3710,37 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "nl",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1474591159_7.jpg",
+    "country": "Netherlands",
+    "artist_name": "Observer",
+    "currency": "USD",
+    "utc_date": 1656274481.50354,
+    "url": "https://thetrueobserver.bandcamp.com/album/observer-2",
+    "item_description": "Observer",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1474591159,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3205672543",
+      "tags": [
+        "black metal",
+        "death metal",
+        "metal",
+        "noise",
+        "Natal"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655601099.07552,
     "releases": null,
@@ -3569,6 +3865,43 @@
     }
   },
   {
+    "item_description": "Padrões Espaço Tempo",
+    "country_code": "br",
+    "utc_date": 1656093209.86563,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Brazil",
+    "artist_name": "Obtuso",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://obtuso.bandcamp.com/album/padr-es-espa-o-tempo",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2032235245,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2032235245_7.jpg",
+    "details": {
+      "albumId": "657732684",
+      "tags": [
+        "electronic",
+        "ambient",
+        "drones",
+        "dub techno",
+        "eurorack",
+        "eurorack modular",
+        "minimal",
+        "minimal techno",
+        "minimalism",
+        "techno",
+        "Florianópolis"
+      ]
+    }
+  },
+  {
     "item_description": "Warrior in the secret war",
     "amount_paid": 5,
     "country_code": "us",
@@ -3595,6 +3928,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "gb",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "Silent Scream \"Carrion Screaming\"",
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0363256699_7.jpg",
+    "country": "United Kingdom",
+    "artist_name": "Occult Whispers Records",
+    "currency": "USD",
+    "utc_date": 1656268116.68692,
+    "url": "https://occultwhispersrecords.bandcamp.com/album/silent-scream-carrion-screaming",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 363256699,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3282719768",
+      "tags": [
+        "punk",
+        "esoteric",
+        "occult",
+        "Chicago"
       ]
     }
   },
@@ -4139,6 +4502,38 @@
     }
   },
   {
+    "country_code": "us",
+    "utc_date": 1656088285.25822,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Odd Eyed",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$2",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://oddeyed.bandcamp.com/album/swords-and-serpents",
+    "item_description": "Swords and Serpents",
+    "amount_paid": 2,
+    "slug_type": "a",
+    "art_id": 4247654045,
+    "album_title": null,
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a4247654045_7.jpg",
+    "details": {
+      "albumId": "2997159973",
+      "tags": [
+        "death metal",
+        "doom death metal",
+        "metal",
+        "death doom metal",
+        "russian death metal",
+        "Russia"
+      ]
+    }
+  },
+  {
     "item_description": "OddJohn Edits Series!",
     "country_code": "nl",
     "utc_date": 1655839328.64636,
@@ -4366,6 +4761,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "au",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 0.69,
+    "art_url": "https://f4.bcbits.com/img/a2343789557_7.jpg",
+    "country": "Australia",
+    "artist_name": "Oderous Bait",
+    "currency": "AUD",
+    "utc_date": 1656136543.8503,
+    "url": "https://oderousbait.bandcamp.com/album/the-lost-port",
+    "item_description": "The Lost Port",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2343789557,
+    "amount_paid_fmt": "$1 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1601488742",
+      "tags": [
+        "experimental",
+        "ambient",
+        "drone",
+        "electronic",
+        "experimental",
+        "noise",
+        "Perth"
       ]
     }
   },
@@ -4601,6 +5029,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 10,
+    "country_code": "us",
+    "item_description": "False Healer",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a1638036019_7.jpg",
+    "country": "United States",
+    "artist_name": "Of Feather and Bone",
+    "currency": "USD",
+    "utc_date": 1656125682.19334,
+    "url": "https://hydrogenman.bandcamp.com/album/false-healer",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1638036019,
+    "amount_paid_fmt": "$10",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1066078632",
+      "tags": [
+        "hardcore",
+        "punk",
+        "vegan",
+        "crust",
+        "grind",
+        "hardcore",
+        "hardcore punk",
+        "hydrogen man records",
+        "punk",
+        "punk hardcore",
+        "straight edge",
+        "Philadelphia"
       ]
     }
   },
@@ -4986,6 +5453,43 @@
     }
   },
   {
+    "amount_paid": 0.95,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3992941415_7.jpg",
+    "country": "United States",
+    "artist_name": "Offret",
+    "currency": "EUR",
+    "item_description": "Black Mare / Offret - Alone Among Mirrors Split",
+    "utc_date": 1656127038.97278,
+    "url": "https://offret.bandcamp.com/album/black-mare-offret-alone-among-mirrors-split",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3992941415,
+    "amount_paid_fmt": "€0.95",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "712482620",
+      "tags": [
+        "black metal",
+        "metal",
+        "acoustic",
+        "atmospheric",
+        "black",
+        "blackgaze",
+        "dark ambient",
+        "doom",
+        "post black metal",
+        "post-black",
+        "Nizhny Novgorod"
+      ]
+    }
+  },
+  {
     "item_description": "Front / Omijam",
     "item_type": "a",
     "country_code": "pl",
@@ -5244,6 +5748,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 2,
+    "country_code": "de",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "€2",
+    "album_title": null,
+    "amount_paid_usd": 2.11,
+    "art_url": "https://f4.bcbits.com/img/a3539643272_7.jpg",
+    "country": "Germany",
+    "artist_name": "Oidorno",
+    "currency": "EUR",
+    "item_description": "Oi! the EP",
+    "utc_date": 1656116198.31747,
+    "url": "https://oidorno.bandcamp.com/album/oi-the-ep",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3539643272,
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1776392063",
+      "tags": [
+        "oi",
+        "punk",
+        "demo",
+        "oidorno",
+        "Hamburg"
       ]
     }
   },
@@ -6233,6 +6769,33 @@
         "acoustic folk",
         "blues folk",
         "Genoa"
+      ]
+    }
+  },
+  {
+    "amount_paid": 0.5,
+    "country_code": "de",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3266699016_7.jpg",
+    "country": "Germany",
+    "item_description": "Based On Bass Vol 1",
+    "artist_name": "Oldboy & Celestial Being",
+    "currency": "GBP",
+    "utc_date": 1656169121.94697,
+    "url": "https://dademolitionsquad.bandcamp.com/album/based-on-bass-vol-1",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3266699016,
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3342308503",
+      "tags": [
+        "London"
       ]
     }
   },
@@ -7984,6 +8547,40 @@
     }
   },
   {
+    "amount_paid": 5,
+    "country_code": "cz",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1719228999_7.jpg",
+    "item_description": "Kolektivní vina",
+    "country": "Czech Republic",
+    "artist_name": "Ondřej Komárek",
+    "currency": "USD",
+    "utc_date": 1656316609.47684,
+    "url": "https://poli5.bandcamp.com/album/kolektivn-vina",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 1719228999,
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2013791052",
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "experiemental",
+        "folk",
+        "jazz and improvised music",
+        "underground",
+        "Czech Republic"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "item_description": "Witches",
@@ -9369,6 +9966,47 @@
     }
   },
   {
+    "amount_paid": 7,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$7",
+    "album_title": null,
+    "amount_paid_usd": 7,
+    "art_url": "https://f4.bcbits.com/img/a3711254540_7.jpg",
+    "country": "United States",
+    "artist_name": "Opinion Zero",
+    "currency": "USD",
+    "utc_date": 1656099551.3446,
+    "url": "https://disillusionmusiclabel.bandcamp.com/album/the-complete-collection",
+    "track_album_slug_text": null,
+    "item_description": "The Complete Collection",
+    "item_type": "a",
+    "art_id": 3711254540,
+    "amount_paid_fmt": "$7",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1576242705",
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "tucson hardcore",
+        "band merchandise",
+        "disillusion music label",
+        "garage rock",
+        "hardcore punk",
+        "hardcore punk bands",
+        "indie bands",
+        "indie rock",
+        "noisecore",
+        "punk metal",
+        "punk rock",
+        "Seattle"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1656056768.10551,
     "releases": null,
@@ -10543,6 +11181,96 @@
     }
   },
   {
+    "item_description": "Destierro",
+    "amount_paid": 2,
+    "country_code": "fo",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "€2",
+    "album_title": null,
+    "amount_paid_usd": 2.11,
+    "art_url": "https://f4.bcbits.com/img/a0575446617_7.jpg",
+    "country": "Faroe Islands",
+    "artist_name": "Ornamentos del Miedo",
+    "currency": "EUR",
+    "utc_date": 1656271728.38267,
+    "url": "https://ornamentosdelmiedo.bandcamp.com/album/destierro",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 575446617,
+    "amount_paid_fmt": "€2",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2389795055",
+      "tags": [
+        "atmospheric funeral doom",
+        "metal",
+        "funeral doom",
+        "Burgos"
+      ]
+    }
+  },
+  {
+    "country_code": "sk",
+    "utc_date": 1656081334.10899,
+    "releases": null,
+    "item_description": "Yo, no soy yo",
+    "track_album_slug_text": null,
+    "country": "Slovakia",
+    "artist_name": "Ornamentos del Miedo",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€5",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ornamentosdelmiedo.bandcamp.com/album/yo-no-soy-yo",
+    "amount_paid": 5,
+    "slug_type": "a",
+    "art_id": 3280804397,
+    "amount_over_fmt": "€5",
+    "album_title": null,
+    "amount_paid_usd": 5.26,
+    "art_url": "https://f4.bcbits.com/img/a3280804397_7.jpg",
+    "details": {
+      "albumId": "3402008916",
+      "tags": [
+        "atmospheric funeral doom",
+        "metal",
+        "funeral doom",
+        "Burgos"
+      ]
+    }
+  },
+  {
+    "country_code": "jp",
+    "utc_date": 1656086992.77045,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Japan",
+    "item_description": "A Clockwork Existence",
+    "artist_name": "Oroboro",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://wearetar.bandcamp.com/album/a-clockwork-existence",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2262143936,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2262143936_7.jpg",
+    "details": {
+      "albumId": "461699329",
+      "tags": [
+        "experimental",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "country": "Germany",
     "amount_paid_fmt": "€0.51",
     "artist_name": "Oroboro",
@@ -10622,6 +11350,34 @@
         "ambient",
         "drone",
         "Barcelona"
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "fr",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1431153833_7.jpg",
+    "country": "France",
+    "artist_name": "Ortrotasce",
+    "currency": "USD",
+    "utc_date": 1656280782.05245,
+    "url": "https://ortrotasce.bandcamp.com/album/awakenings",
+    "track_album_slug_text": null,
+    "item_description": "Awakenings",
+    "item_type": "a",
+    "art_id": 1431153833,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1366620164",
+      "tags": [
+        "electronic",
+        "USA"
       ]
     }
   },
@@ -10741,6 +11497,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "nl",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "Canções de Amor",
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0541710951_7.jpg",
+    "country": "Netherlands",
+    "artist_name": "Os Intrusivos",
+    "currency": "USD",
+    "utc_date": 1656165925.00108,
+    "url": "https://intrusivos.bandcamp.com/album/can-es-de-amor",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 541710951,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2847025485",
+      "tags": [
+        "bubblegum",
+        "pop punk",
+        "punk",
+        "punk rock",
+        "ramonescore",
+        "Fortaleza"
       ]
     }
   },
@@ -10896,6 +11684,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "gb",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2799412760_7.jpg",
+    "country": "United Kingdom",
+    "artist_name": "Oscillian",
+    "currency": "USD",
+    "utc_date": 1656100420.96635,
+    "url": "https://oscillian.bandcamp.com/album/1984-fight-the-future",
+    "item_description": "1984 \"Fight the Future\"",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2799412760,
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2362321657",
+      "tags": [
+        "80s",
+        "electronic",
+        "electronica",
+        "soundtrack",
+        "synth",
+        "synthwave",
+        "Sweden"
       ]
     }
   },
@@ -11851,6 +12672,72 @@
   {
     "amount_paid": 3,
     "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a0312102018_7.jpg",
+    "country": "United States",
+    "artist_name": "Ourang Medan",
+    "currency": "USD",
+    "utc_date": 1656311860.62296,
+    "url": "https://ourangmedan.bandcamp.com/album/lords-of-eternal-seas",
+    "item_description": "Lords Of Eternal Seas",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 312102018,
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1641215202",
+      "tags": [
+        "metal",
+        "decrepit doom",
+        "sludge stronghold",
+        "Natal"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
+    "utc_date": 1656067984.89682,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "Ourang Medan",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://ourangmedan.bandcamp.com/album/de-eb-rneo-ossu-rio-feral-responso",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 3475575711,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3475575711_7.jpg",
+    "item_description": "De Ebúrneo Ossuário - Feral Responso",
+    "details": {
+      "albumId": "738477802",
+      "tags": [
+        "metal",
+        "death",
+        "decrepit doom",
+        "disgrace",
+        "doom",
+        "sludge",
+        "sludge doom",
+        "sludge stronghold",
+        "Natal"
+      ]
+    }
+  },
+  {
+    "amount_paid": 3,
+    "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a3732941715_7.jpg",
     "slug_type": "a",
     "amount_over_fmt": "$3",
@@ -12491,6 +13378,39 @@
     }
   },
   {
+    "country_code": "ca",
+    "utc_date": 1656087080.60417,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "Canada",
+    "artist_name": "Outre",
+    "item_type": "a",
+    "currency": "EUR",
+    "amount_paid_fmt": "€1",
+    "item_description": "Split with Thaw",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://outremetal.bandcamp.com/album/split-with-thaw",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 1210909260,
+    "album_title": null,
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a1210909260_7.jpg",
+    "details": {
+      "albumId": "2442380493",
+      "tags": [
+        "black metal",
+        "cracow",
+        "metal",
+        "outre",
+        "polish metal",
+        "post-metal",
+        "Kraków"
+      ]
+    }
+  },
+  {
     "amount_paid": 5,
     "country_code": "pt",
     "art_url": "https://f4.bcbits.com/img/a2955562906_7.jpg",
@@ -12580,6 +13500,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 20,
+    "country_code": "cz",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 0.85,
+    "art_url": "https://f4.bcbits.com/img/a0028275041_7.jpg",
+    "item_description": "Cremation of Care (Live '21)",
+    "country": "Czech Republic",
+    "artist_name": "Outward",
+    "currency": "CZK",
+    "utc_date": 1656160373.05741,
+    "url": "https://outwardcz.bandcamp.com/album/cremation-of-care-live-21",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 28275041,
+    "amount_paid_fmt": "20 CZK",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "4024120472",
+      "tags": [
+        "blackened post metal",
+        "metal",
+        "doommetal",
+        "post-rock",
+        "rock'n'roll",
+        "Prague"
       ]
     }
   },
@@ -12680,6 +13632,37 @@
   },
   {
     "country_code": "us",
+    "utc_date": 1656079615.7352,
+    "releases": null,
+    "track_album_slug_text": null,
+    "country": "United States",
+    "artist_name": "OverDose",
+    "item_type": "a",
+    "currency": "USD",
+    "amount_paid_fmt": "$1",
+    "item_price": 0,
+    "package_image_id": null,
+    "url": "https://overdosebrazil.bandcamp.com/album/circus-of-death",
+    "amount_paid": 1,
+    "slug_type": "a",
+    "art_id": 2640739600,
+    "album_title": null,
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2640739600_7.jpg",
+    "item_description": "Circus Of Death",
+    "details": {
+      "albumId": "3458076736",
+      "tags": [
+        "metal",
+        "brazilian metal",
+        "groove metal",
+        "thrash metal",
+        "Brazil"
+      ]
+    }
+  },
+  {
+    "country_code": "us",
     "utc_date": 1655765324.11443,
     "releases": null,
     "track_album_slug_text": null,
@@ -12742,6 +13725,33 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 6,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 0.59,
+    "art_url": "https://f4.bcbits.com/img/a3698624465_7.jpg",
+    "country": "United States",
+    "artist_name": "Overdrive",
+    "item_description": "Metal Attack",
+    "currency": "SEK",
+    "utc_date": 1656116515.9095,
+    "url": "https://regainrecords.bandcamp.com/album/metal-attack",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3698624465,
+    "amount_paid_fmt": "6 SEK",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "4083894531",
+      "tags": [
+        "Sweden"
       ]
     }
   },
@@ -14700,6 +15710,39 @@
     }
   },
   {
+    "amount_paid": 3,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$3",
+    "album_title": null,
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a0655980121_7.jpg",
+    "country": "United States",
+    "artist_name": "onewayness",
+    "currency": "USD",
+    "utc_date": 1656286003.91635,
+    "item_description": "beginner's course / second edition",
+    "url": "https://onewayness.bandcamp.com/album/beginners-course-second-edition",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 655980121,
+    "amount_paid_fmt": "$3",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1555975251",
+      "tags": [
+        "experimental",
+        "ambient",
+        "drone",
+        "electronic",
+        "minimal",
+        "Erie"
+      ]
+    }
+  },
+  {
     "utc_date": 1653783274.95347,
     "country": "Japan",
     "artist_name": "ongia",
@@ -14885,6 +15928,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 5,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$5",
+    "album_title": null,
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0519045841_7.jpg",
+    "country": "United States",
+    "artist_name": "ooooooooooo",
+    "currency": "USD",
+    "utc_date": 1656291604.06625,
+    "url": "https://o011.bandcamp.com/album/airport-facts",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 519045841,
+    "amount_paid_fmt": "$5",
+    "item_price": 0,
+    "package_image_id": null,
+    "item_description": "airport facts",
+    "details": {
+      "albumId": "3771104634",
+      "tags": [
+        "ambient",
+        "noise",
+        "Virginia"
       ]
     }
   },
