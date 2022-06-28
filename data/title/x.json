@@ -490,6 +490,42 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "item_description": "XPLOSIVEZ",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "SIX TON DOG",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1161364138_7.jpg",
+    "url": "https://elysiantunes.bandcamp.com/album/xplosivez",
+    "utc_date": 1656390662.4327,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1161364138,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "2187766743",
+      "tags": [
+        "diycore",
+        "electronic",
+        "breakbeat",
+        "gabba",
+        "gabber",
+        "hardcore",
+        "industrial",
+        "noise",
+        "rave",
+        "Tallinn"
+      ]
+    }
+  },
+  {
     "country_code": "nl",
     "utc_date": 1655759669.77968,
     "releases": null,
@@ -1659,6 +1695,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "DJ Skulldiner",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4281663442_7.jpg",
+    "url": "https://skulldiner.bandcamp.com/album/xyaro-game-ost-complete",
+    "utc_date": 1656386078.97674,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4281663442,
+    "amount_paid_fmt": "$1",
+    "item_description": "Xyaro Game - OST Complete",
+    "details": {
+      "albumId": "2417295974",
+      "tags": [
+        "anime",
+        "chiptune",
+        "edm",
+        "electronic",
+        "metal",
+        "vaporwave",
+        "game",
+        "loli",
+        "lolicon",
+        "metal",
+        "orchestral",
+        "rock",
+        "New Jersey"
       ]
     }
   },

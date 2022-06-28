@@ -1249,6 +1249,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 20,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$20",
+    "artist_name": "Question Mark Zero",
+    "currency": "USD",
+    "amount_paid_usd": 20,
+    "art_url": "https://f4.bcbits.com/img/a2667599519_7.jpg",
+    "url": "https://questionmarkzero.bandcamp.com/album/dance-with-me-tonight",
+    "utc_date": 1656383383.51805,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2667599519,
+    "amount_paid_fmt": "$20",
+    "item_description": "Dance With Me Tonight",
+    "details": {
+      "albumId": "104051716",
+      "tags": [
+        "80's new wave infusion",
+        "punk",
+        "rock",
+        "synthpop",
+        "Chicago"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Quick Save",
     "currency": "USD",
@@ -1795,6 +1827,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "item_description": "Complements & Misprints",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Germany",
+    "artist_name": "qole",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3385768059_7.jpg",
+    "url": "https://qole.bandcamp.com/album/complements-misprints",
+    "utc_date": 1656354133.20499,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3385768059,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "2549092304",
+      "tags": [
+        "hip-hop/rap",
+        "beat",
+        "hip hop",
+        "instrumental",
+        "producer",
+        "sample",
+        "Austin"
       ]
     }
   },

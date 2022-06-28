@@ -170,6 +170,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "KAELIN ELLIS",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1933074847_7.jpg",
+    "url": "https://kaelinellis.bandcamp.com/album/wake-up-coastin",
+    "utc_date": 1656384151.97546,
+    "item_description": "WAKE UP / COASTIN",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1933074847,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "350231427",
+      "tags": [
+        "dance",
+        "electronic",
+        "hip hop",
+        "i.d.m.",
+        "Florida"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655569416.82854,
     "releases": null,
@@ -749,6 +780,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "za",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "South Africa",
+    "artist_name": "MOJVKI",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4246880708_7.jpg",
+    "url": "https://mojvki.bandcamp.com/album/ways-2",
+    "utc_date": 1656354226.58902,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4246880708,
+    "item_description": "WAYS 2",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1768680567",
+      "tags": [
+        "electronic",
+        "futurebeats #hiphop #edm #trap",
+        "instrumental",
+        "samples",
+        "Johannesburg"
       ]
     }
   },
@@ -2043,6 +2105,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "item_description": "WNCL037VIP FREE D/L",
+    "artist_name": "TENEBRE",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a0740716280_7.jpg",
+    "url": "https://wnclrecordings.bandcamp.com/album/wncl037vip-free-d-l",
+    "utc_date": 1656355838.8995,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 740716280,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "1507908610",
+      "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "dubstep",
+        "London"
       ]
     }
   },
@@ -3790,6 +3883,46 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "item_description": "Walter",
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Triangle Piece",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0559910639_7.jpg",
+    "url": "https://trianglepiece.bandcamp.com/album/walter",
+    "utc_date": 1656367398.88793,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 559910639,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "761496956",
+      "tags": [
+        "burger reviews",
+        "chris trager",
+        "gameboy",
+        "hard target",
+        "hip-hop/rap",
+        "jim henson",
+        "r&b",
+        "samples",
+        "the dark crystal",
+        "beats",
+        "hip-hop",
+        "instrumental",
+        "Columbus"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "item_description": "Wander",
@@ -3826,6 +3959,39 @@
         "sadboy",
         "vaporwave",
         "Pittsburgh"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "mafmadmaf",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1589747888_7.jpg",
+    "url": "https://mafmadmaf.bandcamp.com/album/wanderer",
+    "utc_date": 1656397319.75571,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1589747888,
+    "item_description": "Wanderer 遊子",
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "1574237394",
+      "tags": [
+        "ambient",
+        "ambient",
+        "avant-garde",
+        "electronic",
+        "experimental",
+        "noise",
+        "Guangzhou"
       ]
     }
   },
@@ -4077,6 +4243,39 @@
         "speed metal",
         "thrash metal",
         "Bielsko Biala"
+      ]
+    }
+  },
+  {
+    "amount_paid": 0.5,
+    "country_code": "ua",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 0.62,
+    "art_url": "https://f4.bcbits.com/img/a2626786286_7.jpg",
+    "item_description": "War Of The Roses",
+    "country": "Ukraine",
+    "artist_name": "War Of The Roses",
+    "currency": "GBP",
+    "utc_date": 1656324921.72351,
+    "url": "https://legion-blotan.bandcamp.com/album/war-of-the-roses",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2626786286,
+    "amount_paid_fmt": "£0.50",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "2907670193",
+      "tags": [
+        "metal",
+        "pagan metal",
+        "punk",
+        "raw black metal",
+        "ukbm",
+        "yorkshire",
+        "United Kingdom"
       ]
     }
   },
@@ -4684,6 +4883,35 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "pl",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a3357472159_7.jpg",
+    "country": "Poland",
+    "artist_name": "Waste Cult",
+    "currency": "EUR",
+    "item_description": "Waste Cult",
+    "utc_date": 1656326282.51375,
+    "url": "https://wastecult.bandcamp.com/album/waste-cult-2",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 3357472159,
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "756870949",
+      "tags": [
+        "metal",
+        "stoner sludge doom",
+        "Bologna"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "Reason To Leave",
     "currency": "GBP",
@@ -4791,6 +5019,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "it",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Italy",
+    "artist_name": "Bazer & Der Cherep",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a3177024064_7.jpg",
+    "url": "https://doomcorerecords.bandcamp.com/album/wasteland-winds",
+    "utc_date": 1656367487.17496,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3177024064,
+    "amount_paid_fmt": "€1",
+    "item_description": "Wasteland Winds",
+    "details": {
+      "albumId": "2434960795",
+      "tags": [
+        "doomcore",
+        "doomtechno",
+        "electronic",
+        "experimental",
+        "hardcore",
+        "industrial hardcore",
+        "Hamburg"
       ]
     }
   },
@@ -5342,6 +5603,34 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "Water the Next Day",
+    "artist_name": "Yves Jarvis",
+    "currency": "CAD",
+    "amount_paid_usd": 0.78,
+    "art_url": "https://f4.bcbits.com/img/a2583436700_7.jpg",
+    "url": "https://yvesjarvis.bandcamp.com/album/water-the-next-day",
+    "utc_date": 1656363457.13663,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2583436700,
+    "amount_paid_fmt": "$1 CAD",
+    "details": {
+      "albumId": "3016212185",
+      "tags": [
+        "devotional",
+        "Montreal"
       ]
     }
   },
@@ -7017,6 +7306,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 10,
+    "country_code": "au",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "$10",
+    "album_title": null,
+    "amount_paid_usd": 6.94,
+    "art_url": "https://f4.bcbits.com/img/a0991706394_7.jpg",
+    "country": "Australia",
+    "item_description": "We The Disease",
+    "artist_name": "The Fibs",
+    "currency": "AUD",
+    "utc_date": 1656326414.85662,
+    "url": "https://thefibs1.bandcamp.com/album/we-the-disease",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 991706394,
+    "amount_paid_fmt": "$10 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3773890634",
+      "tags": [
+        "alternative",
+        "punk",
+        "rock & roll",
+        "blues",
+        "flamenco",
+        "gypsy",
+        "hardrock",
+        "psychedelic rock",
+        "Melbourne"
       ]
     }
   },
@@ -9514,6 +9839,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Robert M",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1080919336_7.jpg",
+    "url": "https://robertmmuzak.bandcamp.com/album/what-i-did-on-the-morning-of-june-27-2022",
+    "utc_date": 1656363868.84139,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1080919336,
+    "amount_paid_fmt": "$5",
+    "item_description": "What I Did On The Morning Of June 27, 2022",
+    "details": {
+      "albumId": "150631363",
+      "tags": [
+        "electronic",
+        "experimental",
+        "rock",
+        "ambient",
+        "Boston"
+      ]
+    }
+  },
+  {
     "country_code": "fi",
     "utc_date": 1655573042.15348,
     "releases": null,
@@ -10404,6 +10761,43 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 8.69,
+    "slug_type": "a",
+    "country": "Canada",
+    "amount_over_fmt": "$8.69",
+    "artist_name": "✠Tony Ross & The BongWater✠",
+    "currency": "CAD",
+    "amount_paid_usd": 6.75,
+    "art_url": "https://f4.bcbits.com/img/a0801044272_7.jpg",
+    "url": "https://tonyrossandthebongwater.bandcamp.com/album/when-shit-hits-the-fan-2",
+    "utc_date": 1656350679.45274,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 801044272,
+    "item_description": "When Shit Hits The Fan",
+    "amount_paid_fmt": "$8.69 CAD",
+    "details": {
+      "albumId": "1981171455",
+      "tags": [
+        "country",
+        "blues",
+        "choppers",
+        "drugs",
+        "folk",
+        "motorcycles",
+        "outlaw country",
+        "roots",
+        "satan worshipping",
+        "Rigaud"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "item_description": "When The Morning Comes",
     "artist_name": "bee wife",
@@ -10818,6 +11212,46 @@
         "post-black metal",
         "post-metal",
         "Mexico"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Bhob Rainey",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2637729999_7.jpg",
+    "url": "https://bhobrainey.bandcamp.com/album/when-you-talk-you-hear-from-the-other-side",
+    "item_description": "When you talk, you hear from the other side",
+    "utc_date": 1656359641.39974,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2637729999,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1026378896",
+      "tags": [
+        "experimental",
+        "ambient",
+        "dub",
+        "eai",
+        "experimental",
+        "family",
+        "found sound",
+        "improvised music",
+        "lowercase",
+        "minimal",
+        "musique concrete",
+        "noise",
+        "wire spool",
+        "Philadelphia"
       ]
     }
   },
@@ -11330,6 +11764,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "nl",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Netherlands",
+    "artist_name": "Yoko",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1969488202_7.jpg",
+    "url": "https://yokomusic.bandcamp.com/album/where-the-ferns-are-ep",
+    "utc_date": 1656365705.44127,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1969488202,
+    "item_description": "Where The Ferns Are EP",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1579031026",
+      "tags": [
+        "electronic",
+        "bass",
+        "bass music",
+        "downtempo",
+        "dubstep",
+        "Denver"
+      ]
+    }
+  },
+  {
     "item_description": "Where The Sky Is Born",
     "country_code": "kr",
     "utc_date": 1655476437.33595,
@@ -11556,6 +12022,40 @@
         "synthpop",
         "ambient. experimental",
         "New York"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "es",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Spain",
+    "artist_name": "Jedethan",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3179242678_7.jpg",
+    "item_description": "While The Black City Burns",
+    "url": "https://jedethan.bandcamp.com/album/while-the-black-city-burns",
+    "utc_date": 1656384749.04109,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3179242678,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "649577408",
+      "tags": [
+        "alternative",
+        "hardcore",
+        "hxc",
+        "noise",
+        "punk",
+        "rock",
+        "stoner",
+        "United Kingdom"
       ]
     }
   },
@@ -12270,6 +12770,40 @@
     }
   },
   {
+    "amount_paid": 4,
+    "country_code": "ie",
+    "slug_type": "a",
+    "releases": null,
+    "amount_over_fmt": "€4",
+    "album_title": null,
+    "amount_paid_usd": 4.23,
+    "art_url": "https://f4.bcbits.com/img/a0761273485_7.jpg",
+    "country": "Ireland",
+    "artist_name": "Panik Attaks",
+    "currency": "EUR",
+    "item_description": "White Water Rafting",
+    "utc_date": 1656326821.54823,
+    "url": "https://panikattaks.bandcamp.com/album/white-water-rafting",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 761273485,
+    "amount_paid_fmt": "€4",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "3477764766",
+      "tags": [
+        "irish punk",
+        "panik attaks",
+        "rock",
+        "noise",
+        "rocknroll",
+        "sludge",
+        "Dublin"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655848163.76992,
     "releases": null,
@@ -12806,6 +13340,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "item_description": "Who’s Next?",
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Strictly Hip Hop",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3467553309_7.jpg",
+    "url": "https://strictlyhiphopgrind.bandcamp.com/album/who-s-next",
+    "utc_date": 1656387789.23539,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3467553309,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1710429433",
+      "tags": [
+        "death metal",
+        "hip hop",
+        "metal",
+        "doom",
+        "east coast",
+        "grind",
+        "grindcore",
+        "hardcore",
+        "new england",
+        "powerviolence",
+        "punk",
+        "sludge",
+        "Boston"
       ]
     }
   },
@@ -14459,6 +15032,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Wings of an Angel & Scott Lawlor",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2013794383_7.jpg",
+    "url": "https://scottlawlor.bandcamp.com/album/wings-of-flight-volume-5",
+    "utc_date": 1656366129.5045,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2013794383,
+    "item_description": "Wings of Flight, Volume 5",
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "3167550576",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "drone",
+        "electronic",
+        "meditation",
+        "space music",
+        "Corinth"
+      ]
+    }
+  },
+  {
     "amount_paid": 14,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a2529781398_7.jpg",
@@ -15564,6 +16171,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 30,
+    "slug_type": "a",
+    "country": "Germany",
+    "amount_over_fmt": "€30",
+    "artist_name": "Zwielicht",
+    "currency": "EUR",
+    "amount_paid_usd": 31.75,
+    "art_url": "https://f4.bcbits.com/img/a0262990829_7.jpg",
+    "url": "https://zwielicht.bandcamp.com/album/with-love-from-sinister",
+    "utc_date": 1656370464.27958,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 262990829,
+    "item_description": "With Love From Sinister",
+    "amount_paid_fmt": "€30",
+    "details": {
+      "albumId": "93732749",
+      "tags": [
+        "black metal",
+        "germany",
+        "metal",
+        "occult",
+        "underground",
+        "Herne"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655446581.64749,
     "releases": null,
@@ -15881,6 +16521,39 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "at",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "Austria",
+    "amount_over_fmt": "€5",
+    "artist_name": "Rojinski",
+    "currency": "EUR",
+    "amount_paid_usd": 5.3,
+    "art_url": "https://f4.bcbits.com/img/a0102857460_7.jpg",
+    "url": "https://rojinski.bandcamp.com/album/witnessing-the-end-of-the-world",
+    "utc_date": 1656409829.8542,
+    "item_type": "a",
+    "item_description": "Witnessing The End Of The World",
+    "track_album_slug_text": null,
+    "art_id": 102857460,
+    "amount_paid_fmt": "€5",
+    "details": {
+      "albumId": "1069883920",
+      "tags": [
+        "ambient",
+        "cinematic",
+        "dark ambient",
+        "drone",
+        "soundscape",
+        "soundtrack"
       ]
     }
   },
@@ -21042,6 +21715,33 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "amount_paid": 1,
+    "country_code": "us",
+    "slug_type": "a",
+    "releases": null,
+    "item_description": "wyd",
+    "album_title": null,
+    "amount_paid_usd": 0.69,
+    "art_url": "https://f4.bcbits.com/img/a2530575019_7.jpg",
+    "country": "United States",
+    "artist_name": "culte",
+    "currency": "AUD",
+    "utc_date": 1656327065.45267,
+    "url": "https://jpegartefacts.bandcamp.com/album/wyd",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2530575019,
+    "amount_paid_fmt": "$1 AUD",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1966493579",
+      "tags": [
+        "Melbourne"
       ]
     }
   },

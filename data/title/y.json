@@ -250,6 +250,35 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "YEDD",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a3039402428_7.jpg",
+    "url": "https://yedd.bandcamp.com/album/yedd-demo",
+    "utc_date": 1656383899.87579,
+    "item_description": "YEDD DEMO",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3039402428,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "659563883",
+      "tags": [
+        "rock",
+        "Washington"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655613734.76975,
     "releases": null,
@@ -274,6 +303,83 @@
       "tags": [
         "soundtrack",
         "Australia"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$3",
+    "artist_name": "Half Mast",
+    "currency": "USD",
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a3845360343_7.jpg",
+    "item_description": "YHVH Blotter",
+    "url": "https://halfmastband.bandcamp.com/album/yhvh-blotter",
+    "utc_date": 1656390581.4035,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3845360343,
+    "amount_paid_fmt": "$3",
+    "details": {
+      "albumId": "2553598723",
+      "tags": [
+        "punk",
+        "blues punk",
+        "hardcore punk",
+        "punk rock",
+        "space punk",
+        "weird shit",
+        "Amherst"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "$3",
+    "item_description": "YOLO寡斷 EP (2016)",
+    "artist_name": "Jami Brwn",
+    "currency": "USD",
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a2053510059_7.jpg",
+    "url": "https://jamibrwn.bandcamp.com/album/yolo-ep-2016",
+    "utc_date": 1656351862.85491,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2053510059,
+    "amount_paid_fmt": "$3",
+    "details": {
+      "albumId": "3285460",
+      "tags": [
+        "hip-hop/rap",
+        "laytowoohbill",
+        "rgry",
+        "taipei, taiwan",
+        "asia",
+        "bass",
+        "beats",
+        "chill",
+        "funk",
+        "house",
+        "love",
+        "qiubo",
+        "soniacalico",
+        "soulection",
+        "stoned",
+        "Taiwan"
       ]
     }
   },
@@ -1160,6 +1266,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "NDV",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2942075582_7.jpg",
+    "url": "https://botanika.bandcamp.com/album/yazoo-dont-go-ndv-remix",
+    "utc_date": 1656401970.55926,
+    "item_description": "Yazoo - Don't Go (NDV Remix)",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2942075582,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1155919991",
+      "tags": [
+        "bass",
+        "beats",
+        "broken beat",
+        "electronic",
+        "house",
+        "broken beat",
+        "bruk",
+        "yazoo",
+        "Tel Aviv"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655852167.65194,
     "releases": null,
@@ -1337,6 +1478,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "item_description": "Year Zero (Part One)",
+    "artist_name": "LOVECRYPT",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2007699495_7.jpg",
+    "url": "https://lovecrypt.bandcamp.com/album/year-zero-part-one",
+    "utc_date": 1656384299.32232,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2007699495,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "133773191",
+      "tags": [
+        "electronic",
+        "ambient",
+        "dnb",
+        "experimental",
+        "industrial",
+        "Los Angeles"
       ]
     }
   },
@@ -3264,6 +3437,71 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "t r u m a n",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2581207992_7.jpg",
+    "url": "https://trumanbeats.bandcamp.com/album/you-only-love-once-ep",
+    "utc_date": 1656363551.35325,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2581207992,
+    "amount_paid_fmt": "$1",
+    "item_description": "You Only Love Once (EP)",
+    "details": {
+      "albumId": "1583295974",
+      "tags": [
+        "hip-hop/rap",
+        "indie hip hop",
+        "instrumental hip-hop",
+        "rap",
+        "beats",
+        "lofi hip-hop",
+        "Milan"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 25,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$25",
+    "artist_name": "Rachel Addington",
+    "currency": "USD",
+    "amount_paid_usd": 25,
+    "art_url": "https://f4.bcbits.com/img/a0325992467_7.jpg",
+    "url": "https://racheladdington.bandcamp.com/album/you-sang-first",
+    "item_description": "You Sang First",
+    "utc_date": 1656385589.01448,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 325992467,
+    "amount_paid_fmt": "$25",
+    "details": {
+      "albumId": "803572767",
+      "tags": [
+        "folk",
+        "acoustic",
+        "indie",
+        "singer-songwriter",
+        "Minneapolis"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655613075.76231,
     "releases": null,
@@ -4517,6 +4755,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "yet",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "dslobley",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2129171209_7.jpg",
+    "url": "https://dslobley.bandcamp.com/album/yet",
+    "utc_date": 1656353525.82782,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2129171209,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "3446573379",
+      "tags": [
+        "rock",
+        "electronic",
+        "garage rock",
+        "singer-songwriter",
+        "Portland"
       ]
     }
   },

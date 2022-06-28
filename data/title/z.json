@@ -178,6 +178,43 @@
     }
   },
   {
+    "amount_paid": 1,
+    "country_code": "de",
+    "slug_type": "a",
+    "releases": null,
+    "album_title": null,
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a2513316050_7.jpg",
+    "country": "Germany",
+    "item_description": "ZEET",
+    "artist_name": "Somnoroase Păsărele",
+    "currency": "EUR",
+    "utc_date": 1656325256.04798,
+    "url": "https://mahorka.bandcamp.com/album/zeet",
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "art_id": 2513316050,
+    "amount_paid_fmt": "€1",
+    "item_price": 0,
+    "package_image_id": null,
+    "details": {
+      "albumId": "1054459015",
+      "tags": [
+        "electronic",
+        "experimental",
+        "abstract",
+        "abstract electronic",
+        "ambient",
+        "electroacoustic",
+        "electronic",
+        "experimental",
+        "experimental electronic",
+        "plunderphonics",
+        "Bulgaria"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "MKULTRA VICTlM",
     "currency": "USD",
@@ -482,6 +519,37 @@
         "post-hardcore",
         "punk",
         "Berlin"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ch",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "Switzerland",
+    "amount_over_fmt": "€5",
+    "artist_name": "Alas",
+    "currency": "EUR",
+    "amount_paid_usd": 5.29,
+    "art_url": "https://f4.bcbits.com/img/a3766327595_7.jpg",
+    "url": "https://zilpzalprec.bandcamp.com/album/zzr037-alas-uusi-vuosi",
+    "item_description": "ZZR037 - alas - uusi vuosi",
+    "utc_date": 1656408497.52056,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3766327595,
+    "amount_paid_fmt": "€5",
+    "details": {
+      "albumId": "626771256",
+      "tags": [
+        "punk",
+        "emo",
+        "hardcore",
+        "screamo"
       ]
     }
   },
@@ -962,6 +1030,41 @@
         "synth",
         "synthwave",
         "United States"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "Zelda II: The Adventure of Link Remade",
+    "artist_name": "IsabelleChiming",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a4178255213_7.jpg",
+    "url": "https://isabellechiming.bandcamp.com/album/zelda-ii-the-adventure-of-link-remade",
+    "utc_date": 1656368926.24357,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4178255213,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1510663092",
+      "tags": [
+        "electronic",
+        "vrc6",
+        "chiptune",
+        "chiptunes",
+        "famitracker",
+        "zelda",
+        "zelda 2",
+        "zelda ii",
+        "North Carolina"
       ]
     }
   },

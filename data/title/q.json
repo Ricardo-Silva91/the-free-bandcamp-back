@@ -1750,6 +1750,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "Canada",
+    "artist_name": "Moss Covered Technology",
+    "currency": "CAD",
+    "amount_paid_usd": 1.55,
+    "art_url": "https://f4.bcbits.com/img/a1091961461_7.jpg",
+    "url": "https:https://dewtonerecordings.com/album/quiet-loops",
+    "item_description": "Quiet Loops",
+    "utc_date": 1656372131.53222,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1091961461,
+    "amount_paid_fmt": "$2 CAD",
+    "details": {
+      "albumId": "1942879764",
+      "tags": [
+        "ambient",
+        "chill-out",
+        "deep techno",
+        "experimental",
+        "minimal",
+        "Canada"
+      ]
+    }
+  },
+  {
     "country_code": "de",
     "utc_date": 1656056115.63393,
     "releases": null,
@@ -1818,6 +1850,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Quintessence",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "£2",
+    "artist_name": "Wood Ship",
+    "currency": "GBP",
+    "amount_paid_usd": 2.46,
+    "art_url": "https://f4.bcbits.com/img/a3607146532_7.jpg",
+    "url": "https://woodship.bandcamp.com/album/quintessence",
+    "utc_date": 1656403355.6554,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3607146532,
+    "amount_paid_fmt": "£2",
+    "details": {
+      "albumId": "2981344418",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "drone",
+        "electronic",
+        "field recordings",
+        "London"
       ]
     }
   },
@@ -2076,6 +2141,39 @@
         "industrial",
         "witch house",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Alex Carr",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1078185784_7.jpg",
+    "url": "https://alexcarrmusic.bandcamp.com/album/quarantine-demos-vol-2",
+    "utc_date": 1656383648.78076,
+    "item_type": "a",
+    "item_description": "quarantine demos: vol. 2",
+    "track_album_slug_text": null,
+    "art_id": 1078185784,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "2757538348",
+      "tags": [
+        "punk",
+        "rock",
+        "garage rock",
+        "indie rock",
+        "pop",
+        "psychedelic",
+        "New York"
       ]
     }
   },

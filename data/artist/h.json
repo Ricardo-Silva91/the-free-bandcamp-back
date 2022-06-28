@@ -732,6 +732,34 @@
     }
   },
   {
+    "item_description": "DOITORA",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "jp",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 100,
+    "slug_type": "a",
+    "country": "Japan",
+    "artist_name": "HASAMI group",
+    "currency": "JPY",
+    "amount_paid_usd": 0.74,
+    "art_url": "https://f4.bcbits.com/img/a1241365832_7.jpg",
+    "url": "https://hasamigroup.bandcamp.com/album/doitora",
+    "utc_date": 1656404243.83121,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1241365832,
+    "amount_paid_fmt": "¥100",
+    "details": {
+      "albumId": "910854758",
+      "tags": [
+        "experimental",
+        "Japan"
+      ]
+    }
+  },
+  {
     "country_code": "jp",
     "utc_date": 1655822095.64006,
     "releases": null,
@@ -1629,6 +1657,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "France",
+    "artist_name": "HEIMBERG",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a2889074822_7.jpg",
+    "url": "https://heimberg.bandcamp.com/album/untitled-demos",
+    "utc_date": 1656356816.92331,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2889074822,
+    "amount_paid_fmt": "€1",
+    "item_description": "Untitled (demos)",
+    "details": {
+      "albumId": "836743686",
+      "tags": [
+        "punk",
+        "coldwave",
+        "darkwave",
+        "post-punk",
+        "Strasbourg"
+      ]
+    }
+  },
+  {
     "item_description": "Innocently Wicked",
     "amount_paid": 0.5,
     "country_code": "cz",
@@ -2369,6 +2428,43 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "nl",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Netherlands",
+    "artist_name": "HHG UN-kunst",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a2789316521_7.jpg",
+    "url": "https://hostishumanigenerissince1976.bandcamp.com/album/angst",
+    "utc_date": 1656383154.88704,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2789316521,
+    "amount_paid_fmt": "€0.50",
+    "item_description": ": angst :",
+    "details": {
+      "albumId": "1753009496",
+      "tags": [
+        "'s-hertogenbosch",
+        "experimental",
+        "ambient",
+        "ambient electronic",
+        "dark ambient",
+        "dark ritual ambient",
+        "drone",
+        "field recordings",
+        "soundscape",
+        "the netherlands",
+        "'S Hertogenbosch"
+      ]
+    }
+  },
+  {
     "utc_date": 1653734056.5755,
     "item_description": "Gregor Dys - errors / regrets",
     "country": "Slovenia",
@@ -2668,6 +2764,38 @@
       "tags": [
         "punk",
         "Philadelphia"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "Parental Advisory",
+    "artist_name": "HISstory Music Group",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1054482186_7.jpg",
+    "url": "https://hisstorymusicgroup.bandcamp.com/album/parental-advisory",
+    "utc_date": 1656350919.00633,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1054482186,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "1884342932",
+      "tags": [
+        "gospel rap",
+        "hip-hop/rap",
+        "holy hip hop",
+        "christian hip hop",
+        "gospel hip hop",
+        "Florida"
       ]
     }
   },
@@ -4384,6 +4512,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "es",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Spain",
+    "artist_name": "Hack Job",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a3509510172_7.jpg",
+    "url": "https://hackjob.bandcamp.com/album/please-worship-satan-responsibly",
+    "utc_date": 1656357579.37426,
+    "item_description": "Please Worship Satan Responsibly",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3509510172,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "110340433",
+      "tags": [
+        "punk",
+        "grind",
+        "grindcore",
+        "hardcore",
+        "hardcore punk",
+        "portsmouth",
+        "powerviolence",
+        "punk",
+        "Portsmouth"
+      ]
+    }
+  },
+  {
     "country": "Canada",
     "artist_name": "Hacked Apart",
     "currency": "CAD",
@@ -5383,6 +5546,49 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "item_description": "Half Gramme Of Soma",
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "Canada",
+    "amount_over_fmt": "€2",
+    "artist_name": "Half Gramme Of Soma",
+    "currency": "EUR",
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a1586796168_7.jpg",
+    "url": "https://halfgrammeofsoma.bandcamp.com/album/half-gramme-of-soma",
+    "utc_date": 1656357054.60531,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1586796168,
+    "amount_paid_fmt": "€2",
+    "details": {
+      "albumId": "3629948992",
+      "tags": [
+        "rock",
+        "doom",
+        "fuzz",
+        "grunge",
+        "heavy",
+        "heavy psych",
+        "heavy rock",
+        "post-metal",
+        "post-rock",
+        "psych",
+        "psychedelic rock",
+        "stoner",
+        "stoner metal",
+        "stoner rock",
+        "Αθήνα",
+        "Athens"
+      ]
+    }
+  },
+  {
     "country_code": "gr",
     "utc_date": 1656095788.93548,
     "releases": null,
@@ -5442,6 +5648,40 @@
         "bedroom pop",
         "indie",
         "Minnesota"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$3",
+    "artist_name": "Half Mast",
+    "currency": "USD",
+    "amount_paid_usd": 3,
+    "art_url": "https://f4.bcbits.com/img/a3845360343_7.jpg",
+    "item_description": "YHVH Blotter",
+    "url": "https://halfmastband.bandcamp.com/album/yhvh-blotter",
+    "utc_date": 1656390581.4035,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3845360343,
+    "amount_paid_fmt": "$3",
+    "details": {
+      "albumId": "2553598723",
+      "tags": [
+        "punk",
+        "blues punk",
+        "hardcore punk",
+        "punk rock",
+        "space punk",
+        "weird shit",
+        "Amherst"
       ]
     }
   },
@@ -6345,6 +6585,65 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "item_description": "On The Island",
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "€2",
+    "artist_name": "Hangover Central Station",
+    "currency": "EUR",
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a0372639019_7.jpg",
+    "url": "https://hangovercentralstation.bandcamp.com/album/on-the-island",
+    "utc_date": 1656370639.46476,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 372639019,
+    "amount_paid_fmt": "€2",
+    "details": {
+      "albumId": "864522990",
+      "tags": [
+        "experimental",
+        "Hamburg"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "nl",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "Netherlands",
+    "amount_over_fmt": "$5",
+    "artist_name": "Hania Shalaby",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0158259156_7.jpg",
+    "url": "https://haniashalaby1.bandcamp.com/album/dedicated-to-breathe",
+    "item_description": "DEDICATED TO BREATHE",
+    "utc_date": 1656350113.4174,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 158259156,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "4080997690",
+      "tags": [
+        "electronic",
+        "techno",
+        "Egypt"
       ]
     }
   },
@@ -11111,6 +11410,36 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "item_description": "LouderSpace",
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Heavyskies",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2901970516_7.jpg",
+    "url": "https://heavyskies.bandcamp.com/album/louderspace",
+    "utc_date": 1656358983.85161,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2901970516,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "2166171568",
+      "tags": [
+        "metal",
+        "thrash metal",
+        "stoner metal",
+        "San Jose"
+      ]
+    }
+  },
+  {
     "utc_date": 1653819809.73133,
     "country": "Germany",
     "artist_name": "Heaw",
@@ -11640,6 +11969,38 @@
         "blackmetal",
         "depressive",
         "Halmstad"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Heksena",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a0922840970_7.jpg",
+    "url": "https://heksena.bandcamp.com/album/ethereal",
+    "item_description": "Ethereal",
+    "utc_date": 1656373703.78443,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 922840970,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "585622044",
+      "tags": [
+        "black metal",
+        "dsbm",
+        "depressive black metal",
+        "depressive suicidal black metal",
+        "metal",
+        "Finland"
       ]
     }
   },
@@ -15538,6 +15899,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Hijo de la Tormenta",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3522405054_7.jpg",
+    "url": "https://neciorecords.bandcamp.com/album/hijo-de-la-tormenta-el-manto-de-la-especie-nr-lp-002",
+    "item_description": "Hijo de la Tormenta - El Manto de la Especie [NR-LP/002]",
+    "utc_date": 1656366090.58396,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3522405054,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3743814314",
+      "tags": [
+        "progressive rock",
+        "rock",
+        "latinoamerica",
+        "psychedelia",
+        "space rock",
+        "stoner",
+        "Lima"
+      ]
+    }
+  },
+  {
     "amount_paid": 5,
     "country_code": "ca",
     "art_url": "https://f4.bcbits.com/img/a1027774648_7.jpg",
@@ -15597,6 +15991,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Hiki",
+    "item_description": "Stargaze",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a0501875366_7.jpg",
+    "url": "https://hikimusic.bandcamp.com/album/stargaze",
+    "utc_date": 1656367031.0787,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 501875366,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "1712527972",
+      "tags": [
+        "acoustic",
+        "ambient",
+        "atmospheric",
+        "dream pop",
+        "dreampop",
+        "indie",
+        "shoegaze",
+        "Podolsk"
       ]
     }
   },
@@ -17060,6 +17489,76 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Metal Gear - Amiga OST",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Canada",
+    "artist_name": "Hoffman",
+    "currency": "GBP",
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a3103978837_7.jpg",
+    "url": "https://hoffman.bandcamp.com/album/metal-gear-amiga-ost",
+    "utc_date": 1656380200.36257,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3103978837,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "2015357103",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "ambient",
+        "bass",
+        "dubstep",
+        "garage",
+        "video game soundtrack",
+        "Salisbury"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 15,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "£15",
+    "artist_name": "Hoffman",
+    "currency": "GBP",
+    "amount_paid_usd": 18.41,
+    "art_url": "https://f4.bcbits.com/img/a3194410598_7.jpg",
+    "url": "https://hoffman.bandcamp.com/album/knightmare-amiga-ost",
+    "utc_date": 1656359824.03458,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3194410598,
+    "item_description": "Knightmare - Amiga OST",
+    "amount_paid_fmt": "£15",
+    "details": {
+      "albumId": "3603309579",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "ambient",
+        "dubstep",
+        "garage",
+        "video game",
+        "video game music",
+        "video game ost",
+        "Salisbury"
       ]
     }
   },
@@ -19624,6 +20123,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "Reptile Disfunction Split",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Horsebiter",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2395850969_7.jpg",
+    "url": "https://fuckinglifeless.bandcamp.com/album/reptile-disfunction-split",
+    "utc_date": 1656369189.17788,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2395850969,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "2210664860",
+      "tags": [
+        "metal",
+        "black metal",
+        "doom",
+        "punk",
+        "sludge",
+        "thrash",
+        "New Orleans"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655520637.9248,
     "releases": null,
@@ -19959,6 +20491,69 @@
         "toledo",
         "upper peninsula",
         "Lansing"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Hot Sorry",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3633229602_7.jpg",
+    "url": "https://hotsorry.bandcamp.com/album/5-songs-about-nothing",
+    "utc_date": 1656385188.43984,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3633229602,
+    "item_description": "5 Songs About Nothing",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1739008020",
+      "tags": [
+        "pop",
+        "balloon pop",
+        "Iowa City"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "€2",
+    "artist_name": "Hot Wall",
+    "currency": "EUR",
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a0749756291_7.jpg",
+    "url": "https://hotwall.bandcamp.com/album/prism",
+    "item_description": "Prism",
+    "utc_date": 1656381373.11277,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 749756291,
+    "amount_paid_fmt": "€2",
+    "details": {
+      "albumId": "533485992",
+      "tags": [
+        "electronic",
+        "lo-fi",
+        "minimalistic",
+        "no-input",
+        "noise",
+        "samples",
+        "Sweden"
       ]
     }
   },
@@ -21920,6 +22515,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "Hunter Kelley",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "item_description": "Get Out/If I'm Lyin I'm Dyin",
+    "art_url": "https://f4.bcbits.com/img/a2346020756_7.jpg",
+    "url": "https://hunterkelleymusic.bandcamp.com/album/get-out-if-im-lyin-im-dyin",
+    "utc_date": 1656397713.34025,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2346020756,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "1609472234",
+      "tags": [
+        "hard rock",
+        "rock",
+        "alternative rock",
+        "classic rock",
+        "grunge",
+        "punk rock",
+        "Indianapolis"
+      ]
+    }
+  },
+  {
     "amount_paid": 100,
     "country_code": "us",
     "slug_type": "a",
@@ -23510,6 +24139,43 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Hâsk",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0918853435_7.jpg",
+    "url": "https://hask.bandcamp.com/album/irrequietus-miseria",
+    "item_description": "Irrequietus Miseria",
+    "utc_date": 1656375751.49679,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 918853435,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3120578275",
+      "tags": [
+        "ambient",
+        "black metal",
+        "blackgaze",
+        "dsbm",
+        "depressive black metal",
+        "depressive suicidal black metal",
+        "melancholic black metal",
+        "metal",
+        "raw black metal",
+        "usbm",
+        "United States"
+      ]
+    }
+  },
+  {
     "country": "Germany",
     "item_description": "Adie Merci LP",
     "artist_name": "Hässig",
@@ -23890,6 +24556,76 @@
         "electronic",
         "sextrance",
         "Texas"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "haircuts for men",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1915979467_7.jpg",
+    "url": "https://haircutsformen.bandcamp.com/album/lp-3",
+    "item_description": "手遅れに実現 lp",
+    "utc_date": 1656393532.68267,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1915979467,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1868544541",
+      "tags": [
+        "electronic",
+        "chillwave",
+        "experimental",
+        "fusion",
+        "instrumental",
+        "jazzwave",
+        "post-wave",
+        "soundtrack",
+        "vaporwave",
+        "wavey",
+        "Honolulu"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "haircuts for men",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2811124369_7.jpg",
+    "url": "https://haircutsformen.bandcamp.com/album/ep-4",
+    "item_description": "地下カラオケ ep",
+    "utc_date": 1656388360.13173,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2811124369,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "936936053",
+      "tags": [
+        "electronic",
+        "chillwave",
+        "experimental",
+        "instrumental",
+        "soundtrack",
+        "vaporwave",
+        "Honolulu"
       ]
     }
   },
@@ -26078,6 +26814,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "be",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "item_description": "too much for me to handle",
+    "slug_type": "a",
+    "country": "Belgium",
+    "amount_over_fmt": "$4",
+    "artist_name": "homicidegirls",
+    "currency": "USD",
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a0655196111_7.jpg",
+    "url": "https://euphoniumrecords.bandcamp.com/album/too-much-for-me-to-handle",
+    "utc_date": 1656353225.12424,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 655196111,
+    "amount_paid_fmt": "$4",
+    "details": {
+      "albumId": "1657621144",
+      "tags": [
+        "electronic",
+        "experimental",
+        "breakcore",
+        "New York"
       ]
     }
   },

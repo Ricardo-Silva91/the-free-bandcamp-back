@@ -3446,6 +3446,34 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "it",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Italy",
+    "artist_name": "Oblivion",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0361786006_7.jpg",
+    "url": "https://dupagecountyhardcore.bandcamp.com/album/neighborhood-demo",
+    "utc_date": 1656398375.74941,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 361786006,
+    "item_description": "Neighborhood Demo",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "4183168598",
+      "tags": [
+        "punk",
+        "Chicago"
+      ]
+    }
+  },
+  {
     "amount_paid": 2,
     "country_code": "se",
     "art_url": "https://f4.bcbits.com/img/a2953584138_7.jpg",
@@ -5490,6 +5518,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Germany",
+    "artist_name": "Offworld Recordings",
+    "currency": "GBP",
+    "amount_paid_usd": 1.23,
+    "art_url": "https://f4.bcbits.com/img/a1113211799_7.jpg",
+    "url": "https://offworldrecordings.bandcamp.com/album/music-without-borders-lp-various-artists-offworldfr04",
+    "utc_date": 1656356843.18276,
+    "item_description": "Music Without Borders LP - Various Artists (OffworldFR04)",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1113211799,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "2251831014",
+      "tags": [
+        " drum & bass",
+        "electronic",
+        "atmospheric",
+        "breaks",
+        "electronica",
+        "melodic",
+        "Edinburgh"
+      ]
+    }
+  },
+  {
     "item_description": "Front / Omijam",
     "item_type": "a",
     "country_code": "pl",
@@ -5748,6 +5809,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.9,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Oi N'ast",
+    "currency": "EUR",
+    "amount_paid_usd": 0.95,
+    "art_url": "https://f4.bcbits.com/img/a0432179120_7.jpg",
+    "url": "https://oinast.bandcamp.com/album/fusoa",
+    "utc_date": 1656390483.17498,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 432179120,
+    "item_description": "fusoa",
+    "amount_paid_fmt": "€0.90",
+    "details": {
+      "albumId": "40521816",
+      "tags": [
+        "folk",
+        "folk punk street punk",
+        "folkrock",
+        "Gijón"
       ]
     }
   },
@@ -6643,6 +6734,40 @@
         "psych",
         "psych rock",
         "New Jersey"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "Old Soul Society",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a2983606593_7.jpg",
+    "url": "https://oldsoulsociety.bandcamp.com/album/the-farmhouse-sessions-2",
+    "utc_date": 1656382211.81572,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2983606593,
+    "item_description": "The Farmhouse Sessions",
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "3629693891",
+      "tags": [
+        "acoustic",
+        "americana",
+        "country",
+        "folk",
+        "rock",
+        "roots",
+        "Wisconsin"
       ]
     }
   },
@@ -7817,6 +7942,35 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "is",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Iceland",
+    "artist_name": "Olmatri",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a1316796302_7.jpg",
+    "url": "https://olmatri.bandcamp.com/album/die-frage-nach-dem-huhn-und-dem-ei",
+    "utc_date": 1656373041.76711,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1316796302,
+    "item_description": "Die Frage nach dem Huhn und dem Ei",
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "22026098",
+      "tags": [
+        "experimental",
+        "ambient",
+        "Germany"
+      ]
+    }
+  },
+  {
     "country": "South Africa",
     "artist_name": "Ololiuhqui",
     "currency": "USD",
@@ -8084,6 +8238,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ee",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Estonia",
+    "item_description": "Cosmic Carnival V.A",
+    "artist_name": "Ominous Evolution Records",
+    "currency": "AUD",
+    "amount_paid_usd": 0.7,
+    "art_url": "https://f4.bcbits.com/img/a0752391754_7.jpg",
+    "url": "https://ominousevolutionrecords.bandcamp.com/album/cosmic-carnival-v-a",
+    "utc_date": 1656404330.67643,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 752391754,
+    "amount_paid_fmt": "$1 AUD",
+    "details": {
+      "albumId": "2884771053",
+      "tags": [
+        "australian psytrance",
+        "dark psy trance",
+        "electronic",
+        "fullon psytrance",
+        "dark psy",
+        "darkpsy",
+        "experimental electronic",
+        "forest",
+        "forest psytrance",
+        "night full on",
+        "psychedelic",
+        "psytrance",
+        "Australia"
       ]
     }
   },
@@ -10185,6 +10378,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "item_description": "Le Naufrage",
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Opprobre",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a0823435848_7.jpg",
+    "url": "https://endlessdecrepitudeprod.bandcamp.com/album/le-naufrage",
+    "utc_date": 1656366470.74548,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 823435848,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "234764171",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "dark ambient",
+        "metal",
+        "pagan black metal",
+        "post black metal",
+        "melodic metal",
+        "post-black",
+        "symphonic black metal",
+        "France"
       ]
     }
   },
@@ -13536,6 +13765,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "OvO",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0774648839_7.jpg",
+    "url": "https://ovomusic.bandcamp.com/album/miasma",
+    "item_description": "Miasma",
+    "utc_date": 1656353647.82846,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 774648839,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "4132830399",
+      "tags": [
+        "rock",
+        "industrial",
+        "masked rock and roll",
+        "noise",
+        "postpunk",
+        "sludge",
+        "Italy"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655641576.54294,
     "releases": null,
@@ -14431,6 +14693,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "Germany",
+    "amount_over_fmt": "€10",
+    "artist_name": "Oxydz Beats",
+    "currency": "EUR",
+    "amount_paid_usd": 10.58,
+    "art_url": "https://f4.bcbits.com/img/a1254844472_7.jpg",
+    "url": "https://oxydzbeats.bandcamp.com/album/hiphopopology-saveurs-lancienne-vol-2",
+    "item_description": "Hiphopopology (Saveurs à l'ancienne vol 2)",
+    "utc_date": 1656360655.33362,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1254844472,
+    "amount_paid_fmt": "€10",
+    "details": {
+      "albumId": "1211614714",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "instrumental hip-hop",
+        "abstract hip-hop",
+        "beat tape",
+        "Paris"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a2606960599_7.jpg",
@@ -14524,6 +14819,38 @@
         "dungeon synth",
         "fantasy synth",
         "Rhode Island"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "se",
+    "item_description": "#2",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "Sweden",
+    "artist_name": "Ozoi The Maid",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1531435362_7.jpg",
+    "url": "https://ozoithemaid.bandcamp.com/album/2",
+    "utc_date": 1656374546.64448,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1531435362,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "3690672379",
+      "tags": [
+        "experimental",
+        "jaguar revival",
+        "homemade",
+        "indie",
+        "one-maid-band",
+        "post-t.a.t.u"
       ]
     }
   },
@@ -15159,6 +15486,40 @@
         "ohwshe",
         "remix",
         "New York"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "jp",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 500,
+    "item_description": "01010",
+    "slug_type": "a",
+    "country": "Japan",
+    "amount_over_fmt": "¥500",
+    "artist_name": "oioio",
+    "currency": "JPY",
+    "amount_paid_usd": 3.69,
+    "art_url": "https://f4.bcbits.com/img/a0720699536_7.jpg",
+    "url": "https://oioio.bandcamp.com/album/01010",
+    "utc_date": 1656372497.25661,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 720699536,
+    "amount_paid_fmt": "¥500",
+    "details": {
+      "albumId": "2522556843",
+      "tags": [
+        "experimental",
+        "bedroom pop",
+        "electronica",
+        "experimental pop",
+        "indie pop",
+        "noise pop",
+        "Japan"
       ]
     }
   },
