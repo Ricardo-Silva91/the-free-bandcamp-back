@@ -4113,6 +4113,42 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "item_description": "Wapentake - Harbinger",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "£2",
+    "artist_name": "Wapentake",
+    "currency": "GBP",
+    "amount_paid_usd": 2.44,
+    "art_url": "https://f4.bcbits.com/img/a0968435945_7.jpg",
+    "url": "https://blackwoodproductions.bandcamp.com/album/wapentake-harbinger",
+    "utc_date": 1656456984.17309,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 968435945,
+    "amount_paid_fmt": "£2",
+    "details": {
+      "albumId": "3332359669",
+      "tags": [
+        "ambient",
+        "black metal",
+        "metal",
+        "acoustic",
+        "acoustic black metal",
+        "ambient",
+        "black metal",
+        "uk black metal",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "country_code": "cz",
     "utc_date": 1655548213.51294,
     "releases": null,
@@ -5669,6 +5705,45 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "item_description": "Watsky & Mody",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Watsky & Mody",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1671446261_7.jpg",
+    "url": "https://gwatsky.bandcamp.com/album/watsky-mody",
+    "utc_date": 1656469564.19153,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1671446261,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1830660296",
+      "tags": [
+        "alternative",
+        "hip-hop/rap",
+        "acoustic",
+        "acoustic folk",
+        "alternative",
+        "alternative hip-hop",
+        "bluegrass",
+        "bluegrass fusion",
+        "country",
+        "hip hop",
+        "rap",
+        "spoken word",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1656057282.32991,
     "releases": null,
@@ -6142,6 +6217,36 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "item_description": "We'll See",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 12,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$12",
+    "artist_name": "Terry Colquitt",
+    "currency": "USD",
+    "amount_paid_usd": 12,
+    "art_url": "https://f4.bcbits.com/img/a2383398092_7.jpg",
+    "url": "https://terrycolquitt.bandcamp.com/album/well-see",
+    "utc_date": 1656412594.1422,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2383398092,
+    "amount_paid_fmt": "$12",
+    "details": {
+      "albumId": "2470033721",
+      "tags": [
+        "rock",
+        "indie rock",
+        "Burneyville"
+      ]
+    }
+  },
+  {
     "utc_date": 1653698945.18286,
     "country": "United States",
     "artist_name": "The Blood Pact",
@@ -6294,6 +6399,73 @@
         "technical death metal",
         "underwater metal",
         "St. Catharines"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "mx",
+    "releases": null,
+    "item_description": "We're Here With You (Deluxe Edition)",
+    "album_title": null,
+    "amount_paid": 25,
+    "slug_type": "a",
+    "country": "Mexico",
+    "amount_over_fmt": "$25",
+    "artist_name": "Julien-K",
+    "currency": "USD",
+    "amount_paid_usd": 25,
+    "art_url": "https://f4.bcbits.com/img/a3351665355_7.jpg",
+    "url": "https://julienk.bandcamp.com/album/were-here-with-you-deluxe-edition",
+    "utc_date": 1656489462.70072,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3351665355,
+    "amount_paid_fmt": "$25",
+    "details": {
+      "albumId": "3651826212",
+      "tags": [
+        "alternative",
+        "goth",
+        "indie electronic",
+        "industrial",
+        "julien k",
+        "julienk",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "item_description": "We're Not Grasshoppers",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Dissident Prophet",
+    "currency": "GBP",
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a4107953297_7.jpg",
+    "url": "https://dissidentprophet.bandcamp.com/album/were-not-grasshoppers-2",
+    "utc_date": 1656437146.06763,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4107953297,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "3747006262",
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "apocalyptic",
+        "indie rock",
+        "new wave",
+        "rhubarb",
+        "Birmingham"
       ]
     }
   },
@@ -7669,6 +7841,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "We are VAW",
+    "album_title": null,
+    "amount_paid": 500,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "¥500",
+    "artist_name": "Various Artists",
+    "currency": "JPY",
+    "amount_paid_usd": 3.68,
+    "art_url": "https://f4.bcbits.com/img/a0067769527_7.jpg",
+    "url": "https://ved-a-works.bandcamp.com/album/we-are-vaw",
+    "utc_date": 1656467652.66993,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 67769527,
+    "amount_paid_fmt": "¥500",
+    "details": {
+      "albumId": "1540601893",
+      "tags": [
+        "dubstep.",
+        "electronic",
+        "hardstyle",
+        "hardcore",
+        "Tokyo"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "Nick McCabe",
     "currency": "GBP",
@@ -8436,6 +8640,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Kelsey Cork and The Swigs",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2558503011_7.jpg",
+    "url": "https://kelseycorkandtheswigs.bandcamp.com/album/weird-bones",
+    "utc_date": 1656468568.87638,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2558503011,
+    "amount_paid_fmt": "$2",
+    "item_description": "Weird Bones",
+    "details": {
+      "albumId": "2432165817",
+      "tags": [
+        "diy",
+        "philadelphia",
+        "rock",
+        "blues rock",
+        "garage rock",
+        "punk rock",
+        "rock",
+        "rock n roll",
+        "Philadelphia"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "rs",
     "utc_date": 1654334201.30411,
@@ -8656,6 +8895,37 @@
         "jazz",
         "singer-songwriter",
         "Toronto"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 100,
+    "item_description": "Welcome To Windows Mall",
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Lefty Larry",
+    "currency": "JPY",
+    "amount_paid_usd": 0.73,
+    "art_url": "https://f4.bcbits.com/img/a1947638090_7.jpg",
+    "url": "https://seikomart.bandcamp.com/album/welcome-to-windows-mall",
+    "utc_date": 1656453460.0942,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1947638090,
+    "amount_paid_fmt": "¥100",
+    "details": {
+      "albumId": "2319026635",
+      "tags": [
+        "electronic",
+        "experimental",
+        "mallsoft",
+        "vaporwave",
+        "Japan"
       ]
     }
   },
@@ -11145,6 +11415,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Rob Frye",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1058293125_7.jpg",
+    "url": "https://robfrye.bandcamp.com/album/when-the-rains-come",
+    "item_description": "When the Rains Come",
+    "utc_date": 1656456887.46318,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1058293125,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "2382048364",
+      "tags": [
+        "devotional",
+        "ambient",
+        "bicycles",
+        "jazz & improvised music",
+        "percussion",
+        "Chicago"
+      ]
+    }
+  },
+  {
     "amount_paid": 2,
     "country_code": "cz",
     "item_description": "When the Time Comes",
@@ -11474,6 +11777,43 @@
         "roots rock",
         "singer-songwriter",
         "Nashville"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ro",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 15,
+    "slug_type": "a",
+    "country": "Romania",
+    "amount_over_fmt": "15",
+    "artist_name": "Chaotian",
+    "currency": "DKK",
+    "amount_paid_usd": 2.12,
+    "art_url": "https://f4.bcbits.com/img/a1197611430_7.jpg",
+    "url": "https://chaotian.bandcamp.com/album/where-gods-excarnate-demo",
+    "utc_date": 1656440500.75211,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1197611430,
+    "item_description": "Where Gods Excarnate (demo)",
+    "amount_paid_fmt": "15 DKK",
+    "details": {
+      "albumId": "533235739",
+      "tags": [
+        "death metal",
+        "metal",
+        "copenhagen metal",
+        "danish metal",
+        "death metal",
+        "doom metal",
+        "killtown death metal",
+        "killtown metal",
+        "metal",
+        "Copenhagen"
       ]
     }
   },
@@ -14010,6 +14350,35 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "Rob Voland",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a3391909180_7.jpg",
+    "url": "https://robvolandmusic.bandcamp.com/album/wide-open-sky",
+    "item_description": "Wide Open Sky",
+    "utc_date": 1656417334.39225,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3391909180,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "3719236240",
+      "tags": [
+        "rock",
+        "Burlington"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655663552.16869,
     "releases": null,
@@ -15212,6 +15581,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "Winter Contemplations",
+    "artist_name": "Soul Dissolution",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a3463586834_7.jpg",
+    "url": "https://souldissolution.bandcamp.com/album/winter-contemplations",
+    "utc_date": 1656460276.71969,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3463586834,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "3028463501",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "metal",
+        "post black metal",
+        "depressive",
+        "melancholic",
+        "Belgium"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "au",
     "utc_date": 1654325134.7348,
@@ -16378,6 +16780,43 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "item_description": "Within The Walls Of The Promised Kingdom",
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Dyvyná",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0177342800_7.jpg",
+    "url": "https://ithildintapeproduction.bandcamp.com/album/within-the-walls-of-the-promised-kingdom",
+    "utc_date": 1656470444.83069,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 177342800,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1641908508",
+      "tags": [
+        "ambient",
+        "dungeon synth",
+        "epic dungeon synth",
+        "fantasy",
+        "fantasy music",
+        "fantasynth",
+        "lofi-fantasy",
+        "medieval dungeon synth",
+        "orchestral dungeon synth",
+        "raw dungeon synth",
+        "Grand Rapids"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654473951.24863,
@@ -16582,6 +17021,46 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$3",
+    "artist_name": "Forbidden Place Records",
+    "currency": "USD",
+    "amount_paid_usd": 3,
+    "item_description": "Wizard Master - \"Phasmatis\"",
+    "art_url": "https://f4.bcbits.com/img/a1994770832_7.jpg",
+    "url": "https://forbiddenplacerecords.bandcamp.com/album/wizard-master-phasmatis",
+    "utc_date": 1656461725.78888,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1994770832,
+    "amount_paid_fmt": "$3",
+    "details": {
+      "albumId": "1987785344",
+      "tags": [
+        "doom",
+        "metal",
+        "noise",
+        "punk",
+        "rock",
+        "stoner rock",
+        "death doom",
+        "doom",
+        "doom stoner",
+        "epic doom metal",
+        "magical mystical meditation",
+        "wizard rock",
+        "Denver"
       ]
     }
   },
@@ -17458,6 +17937,39 @@
         "reggae",
         "underground hip hop",
         "Indiana"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Mücha",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a0605915983_7.jpg",
+    "url": "https://logicofthesignifier.bandcamp.com/album/word-murder",
+    "utc_date": 1656421969.96048,
+    "item_description": "Word Murder",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 605915983,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "3089813098",
+      "tags": [
+        "experimental",
+        "ambient",
+        "bass",
+        "drone",
+        "skronk",
+        "techno",
+        "United Kingdom"
       ]
     }
   },
@@ -18978,6 +19490,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "jp",
+    "item_description": "Wounds of Love: Khmer Oldies, Vol. 2",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Japan",
+    "artist_name": "Various Artists",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a1487321630_7.jpg",
+    "url": "https://deathisnot.bandcamp.com/album/wounds-of-love-khmer-oldies-vol-2",
+    "utc_date": 1656412616.93699,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1487321630,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "915085689",
+      "tags": [
+        "devotional",
+        "archival",
+        "blues",
+        "field recordings",
+        "folk",
+        "gospel",
+        "London"
       ]
     }
   },
@@ -20641,6 +21186,40 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Spickle",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2286201779_7.jpg",
+    "url": "https://spickle.bandcamp.com/album/whatever",
+    "item_description": "whatever",
+    "utc_date": 1656478958.73476,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2286201779,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "435446513",
+      "tags": [
+        "metal",
+        "rock",
+        "instrumental",
+        "metal",
+        "punk rock",
+        "stoner rock",
+        "New Orleans"
       ]
     }
   },

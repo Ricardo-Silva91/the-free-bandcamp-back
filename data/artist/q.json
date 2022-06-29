@@ -1451,6 +1451,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$4",
+    "artist_name": "Quilombo",
+    "currency": "USD",
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a2197687609_7.jpg",
+    "url": "https://quilombo.bandcamp.com/album/itankale",
+    "utc_date": 1656487264.52061,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2197687609,
+    "item_description": "Itankale",
+    "amount_paid_fmt": "$4",
+    "details": {
+      "albumId": "504110943",
+      "tags": [
+        "death metal",
+        "metal",
+        "grindcore",
+        "São Paulo"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "item_description": "Marianas",
     "utc_date": 1655478904.11481,
@@ -1860,6 +1891,38 @@
         "producer",
         "sample",
         "Austin"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Canada",
+    "artist_name": "quantifiq, balaur,",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0024639418_7.jpg",
+    "url": "https://balaur1.bandcamp.com/album/sorry-dont-sorry-ep-quantifiq-balaur-md005",
+    "utc_date": 1656442049.9797,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 24639418,
+    "item_description": "Sorry, don't sorry EP // Quantifiq & Balaur [MD005]",
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "2511555022",
+      "tags": [
+        "electronic",
+        "micro",
+        "minimal",
+        "tech",
+        "techno",
+        "Roman"
       ]
     }
   },

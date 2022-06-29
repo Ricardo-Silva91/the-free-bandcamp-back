@@ -66,6 +66,36 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "item_description": "Soundscapes Vol. 1",
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "K-Murdock",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0603696163_7.jpg",
+    "url": "https://cultclassicrecords.bandcamp.com/album/soundscapes-vol-1",
+    "utc_date": 1656413254.21761,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 603696163,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "3242641518",
+      "tags": [
+        "panacea",
+        "progressive",
+        "instrumental",
+        "London"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655486932.38335,
     "releases": null,
@@ -1607,6 +1637,38 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "£2",
+    "artist_name": "KID 85",
+    "currency": "GBP",
+    "amount_paid_usd": 2.44,
+    "art_url": "https://f4.bcbits.com/img/a4238519657_7.jpg",
+    "url": "https://kid85.bandcamp.com/album/just-a-guide-ep",
+    "item_description": "Just A Guide (EP)",
+    "utc_date": 1656429504.7573,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4238519657,
+    "amount_paid_fmt": "£2",
+    "details": {
+      "albumId": "1955756816",
+      "tags": [
+        "alternative",
+        "folk",
+        "indie rock",
+        "rap alternative",
+        "United Kingdom"
       ]
     }
   },
@@ -5169,6 +5231,39 @@
     }
   },
   {
+    "item_description": "10162003",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Kalx",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a3086857267_7.jpg",
+    "url": "https:https://nophi.net/album/10162003",
+    "utc_date": 1656458902.02862,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3086857267,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "3255026383",
+      "tags": [
+        "alternative",
+        "chiptunes",
+        "electronic",
+        "experimental",
+        "indie",
+        "nerdy",
+        "Atlanta"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "de",
     "utc_date": 1654387503.70987,
@@ -6379,6 +6474,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "€3",
+    "artist_name": "Karl Alekhine",
+    "currency": "EUR",
+    "amount_paid_usd": 3.16,
+    "art_url": "https://f4.bcbits.com/img/a3434076458_7.jpg",
+    "url": "https://karlalekhine.bandcamp.com/album/cgcg-vol-2",
+    "utc_date": 1656447089.06954,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3434076458,
+    "item_description": "CGCG vol.2",
+    "amount_paid_fmt": "€3",
+    "details": {
+      "albumId": "923415695",
+      "tags": [
+        "hip-hop/rap",
+        "synthtrap",
+        "trap",
+        "Rennes"
       ]
     }
   },
@@ -8419,6 +8545,36 @@
     }
   },
   {
+    "country_code": "gb",
+    "package_image_id": null,
+    "item_price": 0,
+    "releases": null,
+    "item_description": "The Language of Stones",
+    "amount_paid": 0.5,
+    "album_title": null,
+    "country": "United Kingdom",
+    "slug_type": "a",
+    "amount_paid_usd": 0.53,
+    "currency": "EUR",
+    "artist_name": "Kave",
+    "art_url": "https://f4.bcbits.com/img/a3621724927_7.jpg",
+    "url": "https://kave.bandcamp.com/album/the-language-of-stones",
+    "utc_date": 1656447055.88357,
+    "art_id": 3621724927,
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "3980069031",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "drone",
+        "Hilversum"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Kawabata Makoto",
     "currency": "USD",
@@ -10160,6 +10316,41 @@
         "neoclassical",
         "soundtrack",
         "London"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Kelsey Cork and The Swigs",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a2558503011_7.jpg",
+    "url": "https://kelseycorkandtheswigs.bandcamp.com/album/weird-bones",
+    "utc_date": 1656468568.87638,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2558503011,
+    "amount_paid_fmt": "$2",
+    "item_description": "Weird Bones",
+    "details": {
+      "albumId": "2432165817",
+      "tags": [
+        "diy",
+        "philadelphia",
+        "rock",
+        "blues rock",
+        "garage rock",
+        "punk rock",
+        "rock",
+        "rock n roll",
+        "Philadelphia"
       ]
     }
   },
@@ -12197,6 +12388,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "Germany",
+    "amount_over_fmt": "$3",
+    "artist_name": "Kids Eat Crayons",
+    "currency": "CAD",
+    "amount_paid_usd": 2.33,
+    "art_url": "https://f4.bcbits.com/img/a0838711215_7.jpg",
+    "item_description": "Dogs at Play Among the Ruins",
+    "url": "https://kidseatcrayons.bandcamp.com/album/dogs-at-play-among-the-ruins",
+    "utc_date": 1656452601.53418,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 838711215,
+    "amount_paid_fmt": "$3 CAD",
+    "details": {
+      "albumId": "1110459364",
+      "tags": [
+        "contemporary improvisation",
+        "eat shit",
+        "experimental",
+        "jazz",
+        "metal",
+        "punk",
+        "Montreal"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "item_description": "Tactical Necessity",
     "utc_date": 1655850009.70464,
@@ -13409,6 +13634,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "RJ028. Kind of like Paris-Not What You Want It To Be",
+    "artist_name": "Kind of like Paris",
+    "currency": "CAD",
+    "amount_paid_usd": 0.78,
+    "art_url": "https://f4.bcbits.com/img/a0912821170_7.jpg",
+    "url": "https://lesdisquesrabat-joie.bandcamp.com/album/rj028-kind-of-like-paris-not-what-you-want-it-to-be",
+    "utc_date": 1656437817.13982,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 912821170,
+    "amount_paid_fmt": "$1 CAD",
+    "details": {
+      "albumId": "1473337306",
+      "tags": [
+        "black metal",
+        "punk",
+        "emo",
+        "lofi",
+        "post-hardcore",
+        "post-rock",
+        "screamo",
+        "slowcore",
+        "Rouyn Noranda"
+      ]
+    }
+  },
+  {
     "amount_paid": 3,
     "country_code": "gb",
     "art_url": "https://f4.bcbits.com/img/a1930797492_7.jpg",
@@ -13470,6 +13730,39 @@
         "screamo",
         "screamo.",
         "Singapore"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "€5",
+    "item_description": "BBSTRDZ RMXs",
+    "artist_name": "KindredBeats, Ben Stazic, DJ One Up",
+    "currency": "EUR",
+    "amount_paid_usd": 5.26,
+    "art_url": "https://f4.bcbits.com/img/a2586959111_7.jpg",
+    "url": "https://bayoubastardisebobd.bandcamp.com/album/bbstrdz-rmxs",
+    "utc_date": 1656448318.53244,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2586959111,
+    "amount_paid_fmt": "€5",
+    "details": {
+      "albumId": "2528441562",
+      "tags": [
+        "blues",
+        "soundtrack",
+        "bluegrass",
+        "cloud trap",
+        "rap",
+        "Guémené Penfao"
       ]
     }
   },
@@ -15043,6 +15336,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "item_description": "The Ascerbi Trilogy (A Compilation)",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 6.66,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$6.66",
+    "artist_name": "Klaus Morlock",
+    "currency": "USD",
+    "amount_paid_usd": 6.66,
+    "art_url": "https://f4.bcbits.com/img/a3183387672_7.jpg",
+    "url": "https://klausmorlock.bandcamp.com/album/the-ascerbi-trilogy-a-compilation",
+    "utc_date": 1656434343.66358,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3183387672,
+    "amount_paid_fmt": "$6.66",
+    "details": {
+      "albumId": "791770378",
+      "tags": [
+        "electronic",
+        "hauntology",
+        "soundtrack",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "au",
     "slug_type": "a",
@@ -16195,6 +16519,71 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "€2",
+    "item_description": "KAD-02: Oakdrome",
+    "artist_name": "Kobeuk",
+    "currency": "EUR",
+    "amount_paid_usd": 2.1,
+    "art_url": "https://f4.bcbits.com/img/a0444518300_7.jpg",
+    "url": "https://kadotusrecords.bandcamp.com/album/kad-02-oakdrome",
+    "utc_date": 1656487929.49974,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 444518300,
+    "amount_paid_fmt": "€2",
+    "details": {
+      "albumId": "1979767366",
+      "tags": [
+        "experimental",
+        "harsh noise",
+        "noise",
+        "Finland"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 60,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$60",
+    "artist_name": "Kodiak",
+    "currency": "USD",
+    "amount_paid_usd": 60,
+    "art_url": "https://f4.bcbits.com/img/a3294143962_7.jpg",
+    "url": "https://imafraidattimes.bandcamp.com/album/incompli",
+    "item_description": "incompli",
+    "utc_date": 1656474862.71257,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3294143962,
+    "amount_paid_fmt": "$60",
+    "details": {
+      "albumId": "187605482",
+      "tags": [
+        "acoustic",
+        "electronic",
+        "ambient",
+        "ambient electronic",
+        "downtempo",
+        "orchestral",
+        "Arizona"
+      ]
+    }
+  },
+  {
     "amount_paid": 15,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a1674581711_7.jpg",
@@ -16391,6 +16780,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "uy",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "item_description": "MEGURU",
+    "slug_type": "a",
+    "country": "Uruguay",
+    "artist_name": "Kojika",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3262016821_7.jpg",
+    "url": "https://neutralrecords.bandcamp.com/album/meguru",
+    "utc_date": 1656433963.76825,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3262016821,
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "3238815514",
+      "tags": [
+        "alternative",
+        "japan",
+        "mathrock",
+        "post-rock",
+        "vocaloid",
+        "Metz"
       ]
     }
   },
@@ -16596,6 +17017,38 @@
         "harsh noise",
         "power electronics",
         "Cologne"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "item_description": "IOA",
+    "artist_name": "Koloto",
+    "currency": "GBP",
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a3631423771_7.jpg",
+    "url": "https://koloto.bandcamp.com/album/ioa",
+    "utc_date": 1656468738.34683,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3631423771,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "2200516602",
+      "tags": [
+        "electronic",
+        "electroacoustic",
+        "electronica",
+        "glitch",
+        "glitch hop",
+        "UK"
       ]
     }
   },
@@ -18591,6 +19044,102 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "item_description": "The Dark Hours to Come",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Krauhl",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a1019126221_7.jpg",
+    "url": "https://krauhl.bandcamp.com/album/the-dark-hours-to-come",
+    "utc_date": 1656460687.23084,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1019126221,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "410359891",
+      "tags": [
+        "black metal",
+        "metal",
+        "dark ambient",
+        "dungeon synth",
+        "folk",
+        "instrumental",
+        "medieval",
+        "neo-medieval",
+        "Syracuse"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 3,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "€3",
+    "artist_name": "Krav Boca",
+    "currency": "EUR",
+    "amount_paid_usd": 3.16,
+    "art_url": "https://f4.bcbits.com/img/a1321823153_7.jpg",
+    "url": "https://kravboca.bandcamp.com/album/sanatorium-r-dition",
+    "item_description": "Sanatorium - Réédition",
+    "utc_date": 1656446926.09554,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1321823153,
+    "amount_paid_fmt": "€3",
+    "details": {
+      "albumId": "3965682816",
+      "tags": [
+        "alternative",
+        "punk rap mandolin",
+        "Toulouse"
+      ]
+    }
+  },
+  {
+    "item_description": "Marée Noire",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "€4",
+    "artist_name": "Krav Boca",
+    "currency": "EUR",
+    "amount_paid_usd": 4.21,
+    "art_url": "https://f4.bcbits.com/img/a2131610499_7.jpg",
+    "url": "https://kravboca.bandcamp.com/album/mar-e-noire",
+    "utc_date": 1656446567.01887,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2131610499,
+    "amount_paid_fmt": "€4",
+    "details": {
+      "albumId": "3284536046",
+      "tags": [
+        "alternative",
+        "punk rap mandolin",
+        "Toulouse"
+      ]
+    }
+  },
+  {
     "country": "Finland",
     "artist_name": "Krav Boca",
     "currency": "EUR",
@@ -19085,6 +19634,44 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "se",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "Sweden",
+    "amount_over_fmt": "€4",
+    "artist_name": "Krisz Deak",
+    "currency": "EUR",
+    "amount_paid_usd": 4.21,
+    "art_url": "https://f4.bcbits.com/img/a0973160319_7.jpg",
+    "url": "https://odrexmusic.bandcamp.com/album/nostalgia-lathe-cut-edition-1st-cut",
+    "utc_date": 1656449196.15012,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 973160319,
+    "item_description": "Nostalgia (​​lathe cut edition _ 1st cut)",
+    "amount_paid_fmt": "€4",
+    "details": {
+      "albumId": "804770298",
+      "tags": [
+        "electronic",
+        "experimental",
+        "chillout",
+        "deep",
+        "deep techno",
+        "drone",
+        "dub techno",
+        "lathe cut",
+        "limited edition vinyl",
+        "minimal dub",
+        "Berlin"
+      ]
+    }
+  },
+  {
     "item_description": "Lofi hiphop ㇱ",
     "country": "United States",
     "artist_name": "Krock Beats",
@@ -19135,6 +19722,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "at",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Austria",
+    "artist_name": "Kroil",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1968551659_7.jpg",
+    "item_description": "A Constitution Of Wills For Dead Dreams",
+    "url": "https://kroil.bandcamp.com/album/a-constitution-of-wills-for-dead-dreams",
+    "utc_date": 1656412754.46553,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1968551659,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "64492635",
+      "tags": [
+        "metal",
+        "doom",
+        "sludge",
+        "Memphis"
       ]
     }
   },
@@ -19244,6 +19861,38 @@
         "russian",
         "ukrainian",
         "United States"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Krum & Rob Viktum",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2245077769_7.jpg",
+    "url": "https://rappersiknow.bandcamp.com/album/bare-knuckle-gospel",
+    "item_description": "Bare Knuckle Gospel",
+    "utc_date": 1656453186.0991,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2245077769,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "2356581231",
+      "tags": [
+        "denmark vessey",
+        "jabee",
+        "krum",
+        "rappers i know",
+        "rob viktum",
+        "Seattle"
       ]
     }
   },
@@ -20302,6 +20951,34 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "is",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Iceland",
+    "artist_name": "Kurup",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0756140234_7.jpg",
+    "url": "https://tropicaltwistarecords.bandcamp.com/album/kurup-maca-ba-ttr003",
+    "item_description": "Kurup - Macaúba (TTR003)",
+    "utc_date": 1656432926.00545,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 756140234,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1176199692",
+      "tags": [
+        "experimental latin",
+        "Brazil"
+      ]
+    }
+  },
+  {
     "utc_date": 1653791878.27851,
     "country": "United States",
     "artist_name": "Kurushimi",
@@ -20991,6 +21668,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "Live at Noise Brunch (June 25th, 2022)",
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$5",
+    "artist_name": "Kyle Jessen",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a4067332200_7.jpg",
+    "url": "https://kylejessen.bandcamp.com/album/live-at-noise-brunch-june-25th-2022",
+    "utc_date": 1656471314.44325,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4067332200,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "1862350055",
+      "tags": [
+        "free improvisation",
+        "free jazz",
+        "jazz",
+        "omaha",
+        "saxophone",
+        "solo saxophone",
+        "Omaha"
       ]
     }
   },
@@ -22534,6 +23245,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "kid ghidorah",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1224045976_7.jpg",
+    "url": "https://kidghidorah.bandcamp.com/album/immolation",
+    "item_description": "IMMOLATION",
+    "utc_date": 1656481987.49438,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1224045976,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "3512997437",
+      "tags": [
+        "electronic",
+        "instrumental hip-hop",
+        "noise trap",
+        "noisetrap",
+        "scratchcore",
+        "Bremerton"
+      ]
+    }
+  },
+  {
     "utc_date": 1653813179.65253,
     "country": "United States",
     "artist_name": "kid gorgeous",
@@ -22556,6 +23299,48 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "pl",
+    "releases": null,
+    "item_description": "so lost now",
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "Poland",
+    "amount_over_fmt": "$5",
+    "artist_name": "kigo",
+    "currency": "AUD",
+    "amount_paid_usd": 3.47,
+    "art_url": "https://f4.bcbits.com/img/a1534927153_7.jpg",
+    "url": "https://kigo.bandcamp.com/album/so-lost-now",
+    "utc_date": 1656416083.76653,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1534927153,
+    "amount_paid_fmt": "$5 AUD",
+    "details": {
+      "albumId": "1460514299",
+      "tags": [
+        "alternative",
+        "australia",
+        "electronic",
+        "alternative rock",
+        "dance",
+        "dreampop",
+        "ethereal",
+        "home recording",
+        "jungle",
+        "pop",
+        "shoegaze",
+        "shoegazer",
+        "synth",
+        "synthpop",
+        "Melbourne"
       ]
     }
   },
@@ -23424,6 +24209,68 @@
         "tekno",
         "tribe",
         "Italy"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 8,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "$8",
+    "artist_name": "knola",
+    "currency": "USD",
+    "amount_paid_usd": 8,
+    "art_url": "https://f4.bcbits.com/img/a2978328816_7.jpg",
+    "item_description": "To The Rhythm",
+    "url": "https://knola.bandcamp.com/album/to-the-rhythm",
+    "utc_date": 1656452608.17319,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2978328816,
+    "amount_paid_fmt": "$8",
+    "details": {
+      "albumId": "3416482955",
+      "tags": [
+        "punk",
+        "emotive",
+        "indie",
+        "United States"
+      ]
+    }
+  },
+  {
+    "item_description": "The Black Beach",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "$5",
+    "artist_name": "knola",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a2194844827_7.jpg",
+    "url": "https://knola.bandcamp.com/album/the-black-beach",
+    "utc_date": 1656452274.79192,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2194844827,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "1961510974",
+      "tags": [
+        "punk",
+        "emotive",
+        "indie",
+        "United States"
       ]
     }
   },

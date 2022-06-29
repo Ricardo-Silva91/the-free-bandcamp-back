@@ -1159,6 +1159,42 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Germany",
+    "artist_name": "JAJA",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a3342374556_7.jpg",
+    "url": "https://jaja-music.bandcamp.com/album/botanas-jaja",
+    "utc_date": 1656483148.97049,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3342374556,
+    "amount_paid_fmt": "€0.50",
+    "item_description": "Botanas: JAJA",
+    "details": {
+      "albumId": "2788144402",
+      "tags": [
+        "andes grooves",
+        "electronic",
+        "nu-exotica",
+        "organic electronic",
+        "tropical beats",
+        "folktronica",
+        "shika shika",
+        "tropical",
+        "world music",
+        "Leipzig"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655387371.12991,
     "releases": null,
@@ -2932,6 +2968,45 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 6,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$6",
+    "artist_name": "JPEGSTRIPES",
+    "currency": "USD",
+    "amount_paid_usd": 6,
+    "art_url": "https://f4.bcbits.com/img/a1719750688_7.jpg",
+    "url": "https://jpegstripes.bandcamp.com/album/humans-on-television",
+    "item_description": "humans on television",
+    "utc_date": 1656461151.18352,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1719750688,
+    "amount_paid_fmt": "$6",
+    "details": {
+      "albumId": "609988172",
+      "tags": [
+        "electronic",
+        "experimental",
+        "glitch",
+        "lo-fi",
+        "noise",
+        "plunderphonics",
+        "signalwave",
+        "television",
+        "vapornoise",
+        "vaporwave",
+        "vhs",
+        "Brooklyn"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "amount_paid_fmt": "$25",
     "artist_name": "JP Lenon",
@@ -3875,6 +3950,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "item_description": "Jack Henderson Now Lands Enclosed",
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "amount_over_fmt": "£5",
+    "artist_name": "Jack Henderson",
+    "currency": "GBP",
+    "amount_paid_usd": 6.1,
+    "art_url": "https://f4.bcbits.com/img/a1451209937_7.jpg",
+    "url": "https://daveauld.bandcamp.com/album/jack-henderson-now-lands-enclosed",
+    "utc_date": 1656443419.19398,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1451209937,
+    "amount_paid_fmt": "£5",
+    "details": {
+      "albumId": "3266855531",
+      "tags": [
+        "folk",
+        "folk",
+        "music",
+        "traditional folk",
+        "United Kingdom"
       ]
     }
   },
@@ -5452,6 +5559,68 @@
         "punk",
         "twinkle",
         "Charlotte"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Jaira Records",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a4084261045_7.jpg",
+    "url": "https://jairarecords.bandcamp.com/album/va-shadows-in-the-sun-vol-3-compiled-by-bernhardt-hansen-2o21",
+    "item_description": "VA_Shadows in the Sun​.​Vol 3 Compiled by Bernhardt & Hansen_2o21",
+    "utc_date": 1656488922.69855,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4084261045,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "1902171413",
+      "tags": [
+        "electronic",
+        "dark progressive",
+        "jazz and improvised music",
+        "psychedelic",
+        "Israel"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "item_description": "VA_Shadows In The Night _Vol.1 Compiled by Bernhardt & Hansen",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Jaira Records",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0552227551_7.jpg",
+    "url": "https://jairarecords.bandcamp.com/album/va-shadows-in-the-night-vol-1-compiled-by-bernhardt-hansen",
+    "utc_date": 1656488865.85206,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 552227551,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "1631385857",
+      "tags": [
+        "electronic",
+        "dark progressive",
+        "jazz and improvised music",
+        "psychedelic",
+        "Israel"
       ]
     }
   },
@@ -7460,6 +7629,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Canada",
+    "artist_name": "Jamil Jasey",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a1434180193_7.jpg",
+    "url": "https://jamiljasey79.bandcamp.com/album/jamil-jasey-2",
+    "utc_date": 1656462157.249,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1434180193,
+    "item_description": "Jamil Jasey",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1291207671",
+      "tags": [
+        "r&b",
+        "soul",
+        "spoken word",
+        "hiphop| rap | spoken word",
+        "poetry",
+        "poetry and music",
+        "Richmond"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654497278.04451,
@@ -7598,6 +7800,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Jamo Beatz",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a4201894586_7.jpg",
+    "url": "https://jamobeatz.bandcamp.com/album/beatz-piecez-editz-vol-4",
+    "utc_date": 1656438387.94661,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4201894586,
+    "item_description": "BEATZ + PIECEZ EDITZ VOL. 4",
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "561956781",
+      "tags": [
+        "alternative",
+        "hip-hop",
+        "r&b",
+        "rap",
+        "soul",
+        "trap",
+        "London"
       ]
     }
   },
@@ -7853,6 +8088,41 @@
         "serbia",
         "progressive death metal",
         "Zenta"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "Janeiro Lockhart",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a1430200450_7.jpg",
+    "url": "https://janeirolockhart.bandcamp.com/album/nostalgia-season",
+    "item_description": "Nostalgia Season",
+    "utc_date": 1656430288.44238,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1430200450,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "964398427",
+      "tags": [
+        "hip-hop/rap",
+        "instrumental hip-hop",
+        "anime",
+        "anime soundtracks",
+        "portland",
+        "video game music",
+        "video game soundtracks",
+        "Portland"
       ]
     }
   },
@@ -8652,6 +8922,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Jason Raso Funktet",
+    "currency": "CAD",
+    "amount_paid_usd": 0.78,
+    "item_description": "Live At The Jazz Room",
+    "art_url": "https://f4.bcbits.com/img/a0159926493_7.jpg",
+    "url": "https://rasobass.bandcamp.com/album/live-at-the-jazz-room",
+    "utc_date": 1656455283.47163,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 159926493,
+    "amount_paid_fmt": "$1 CAD",
+    "details": {
+      "albumId": "2100256070",
+      "tags": [
+        "jazz",
+        "jazz fusion",
+        "electric bass guitar",
+        "funk",
+        "fusion",
+        "jazz",
+        "jazz fusion instrumental",
+        "Toronto"
+      ]
+    }
+  },
+  {
     "amount_paid": 10,
     "country_code": "fr",
     "slug_type": "a",
@@ -8869,6 +9173,79 @@
         "alternative metal",
         "atmospheric",
         "Roanoke"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "item_description": "Nasze oblicze",
+    "slug_type": "a",
+    "country": "Germany",
+    "artist_name": "Jauntix",
+    "currency": "PLN",
+    "amount_paid_usd": 1.12,
+    "art_url": "https://f4.bcbits.com/img/a1682364740_7.jpg",
+    "url": "https://jauntix1.bandcamp.com/album/nasze-oblicze",
+    "utc_date": 1656436589.49181,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1682364740,
+    "amount_paid_fmt": "5 PLN",
+    "details": {
+      "albumId": "1079541328",
+      "tags": [
+        "electronic",
+        "electronic pop",
+        "synthpop",
+        "Wieliczka"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "Rasa",
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$4",
+    "artist_name": "Java Sonic Ensemble & ɟɐɥɯᴉ ɯnɹsʎᴉp",
+    "currency": "USD",
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a1032398082_7.jpg",
+    "url": "https://ideologikal.bandcamp.com/album/rasa",
+    "utc_date": 1656444133.47276,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1032398082,
+    "amount_paid_fmt": "$4",
+    "details": {
+      "albumId": "623241495",
+      "tags": [
+        "bandung",
+        "experimental",
+        "indonesia",
+        "acoustic",
+        "avantgarde",
+        "bali",
+        "dark ambient",
+        "drone",
+        "electroacoustic",
+        "electronic",
+        "folk",
+        "javanese",
+        "modular",
+        "modular synth",
+        "world music",
+        "Indonesia"
       ]
     }
   },
@@ -9660,6 +10037,38 @@
         "sound art",
         "stones",
         "London"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "pl",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Poland",
+    "artist_name": "Jean-Emmanuel Rosnet",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a1548282638_7.jpg",
+    "url": "https://jean-emmanuel.bandcamp.com/album/the-distant-murmur-of-the-city",
+    "utc_date": 1656439940.85485,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1548282638,
+    "amount_paid_fmt": "€0.50",
+    "item_description": "The Distant Murmur of the City",
+    "details": {
+      "albumId": "31159086",
+      "tags": [
+        "ambient",
+        "fieldrecording",
+        "pads",
+        "score",
+        "soundscape",
+        "Lyon"
       ]
     }
   },
@@ -11133,6 +11542,36 @@
         "noise",
         "techno",
         "Vienna"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 45,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$45",
+    "item_description": "My Blood My Flag",
+    "artist_name": "Jerome Duffy",
+    "currency": "USD",
+    "amount_paid_usd": 45,
+    "art_url": "https://f4.bcbits.com/img/a3779388072_7.jpg",
+    "url": "https://jeromeduffy.bandcamp.com/album/my-blood-my-flag",
+    "utc_date": 1656443658.74257,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3779388072,
+    "amount_paid_fmt": "$45",
+    "details": {
+      "albumId": "3328731437",
+      "tags": [
+        "#ados #reparations",
+        "hip-hop/rap",
+        "California"
       ]
     }
   },
@@ -12661,6 +13100,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Jitterbug",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3887906436_7.jpg",
+    "url": "https://theskunkapesircus.bandcamp.com/album/deleted-album",
+    "utc_date": 1656441274.87799,
+    "item_type": "a",
+    "item_description": "deleted album",
+    "track_album_slug_text": null,
+    "art_id": 3887906436,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1690919205",
+      "tags": [
+        "acoustic",
+        "acoustic indie",
+        "anti-folk",
+        "experimental folk",
+        "folk",
+        "lofi",
+        "Buffalo"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "Jiub",
     "currency": "USD",
@@ -13585,6 +14057,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "item_description": "The Mountain",
+    "slug_type": "a",
+    "country": "Australia",
+    "amount_over_fmt": "$4",
+    "artist_name": "Joe McAnaney",
+    "currency": "USD",
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a3395838743_7.jpg",
+    "url": "https://joemcananey.bandcamp.com/album/the-mountain",
+    "utc_date": 1656467025.10072,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3395838743,
+    "amount_paid_fmt": "$4",
+    "details": {
+      "albumId": "3475068767",
+      "tags": [
+        "metal",
+        "guitar",
+        "metal",
+        "progressive metal",
+        "shred",
+        "Boston"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "amount_paid_fmt": "$50",
     "artist_name": "Joe Peppercorn",
@@ -13882,6 +14387,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Joel Koster re-creates The Beach Boys: Pet Sounds",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "jp",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Japan",
+    "artist_name": "Joel Koster",
+    "currency": "AUD",
+    "amount_paid_usd": 0.69,
+    "art_url": "https://f4.bcbits.com/img/a4145477041_7.jpg",
+    "url": "https://joelkoster.bandcamp.com/album/joel-koster-re-creates-the-beach-boys-pet-sounds",
+    "utc_date": 1656466351.7417,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4145477041,
+    "amount_paid_fmt": "$1 AUD",
+    "details": {
+      "albumId": "1268581490",
+      "tags": [
+        "psychedelic rock",
+        "rock",
+        "baroque pop",
+        "classic rock",
+        "experiemental",
+        "pop",
+        "psychedelic pop",
+        "psychedelic rock",
+        "rock",
+        "Melbourne"
       ]
     }
   },
@@ -14367,6 +14908,43 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "(SH) Tunings",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "John Beaulieu",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a2064003184_7.jpg",
+    "url": "https://biosonics1.bandcamp.com/album/sh-tunings",
+    "utc_date": 1656472750.33957,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2064003184,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "3743969510",
+      "tags": [
+        "experimental",
+        "human tuning",
+        "meditation",
+        "planet sounds",
+        "sound healing",
+        "experimental sound",
+        "live performance",
+        "sound art",
+        "sound healing",
+        "Stone Ridge"
       ]
     }
   },
@@ -18656,6 +19234,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Jr. Joy",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0930376350_7.jpg",
+    "item_description": "Dr. Boy",
+    "url": "https://jrjoy.bandcamp.com/album/dr-boy",
+    "utc_date": 1656446765.23696,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 930376350,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1944161405",
+      "tags": [
+        "rock",
+        "folk",
+        "jazz",
+        "math",
+        "post-punk",
+        "prog",
+        "psychedelic",
+        "Atlanta"
+      ]
+    }
+  },
+  {
     "amount_paid": 5,
     "country_code": "by",
     "art_url": "https://f4.bcbits.com/img/a3273267427_7.jpg",
@@ -19290,6 +19902,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "at",
+    "releases": null,
+    "item_description": "[LOVMP304] Mass",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Austria",
+    "artist_name": "Judith Priest",
+    "currency": "GBP",
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a0877270880_7.jpg",
+    "url": "https://lovelovedigital.bandcamp.com/album/lovmp304-mass",
+    "utc_date": 1656462204.48888,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 877270880,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "2758322068",
+      "tags": [
+        "breakcore",
+        "gabba",
+        "gabber",
+        "hardcore",
+        "post breakcore",
+        "Colchester"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654462181.06891,
@@ -19494,6 +20138,41 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Germany",
+    "artist_name": "Juke Bounce Werk",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0729452418_7.jpg",
+    "url": "https://jukebouncewerk.bandcamp.com/album/juke-bounce-werk-presents-jbdubz-vol-7",
+    "utc_date": 1656491319.98937,
+    "item_description": "Juke Bounce Werk Presents | JBDUBZ Vol. 7",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 729452418,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3514381036",
+      "tags": [
+        "160",
+        "electronic",
+        "juke bounce werk",
+        "club",
+        "footwork",
+        "jazz",
+        "juke",
+        "jungle",
+        "Los Angeles"
       ]
     }
   },
@@ -20031,6 +20710,74 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "mx",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 15,
+    "slug_type": "a",
+    "country": "Mexico",
+    "amount_over_fmt": "$15",
+    "artist_name": "Julien-K",
+    "currency": "USD",
+    "amount_paid_usd": 15,
+    "art_url": "https://f4.bcbits.com/img/a3512105698_7.jpg",
+    "url": "https://julienk.bandcamp.com/album/california-noir-chapter-two-nightlife-in-neon",
+    "utc_date": 1656490024.325,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3512105698,
+    "amount_paid_fmt": "$15",
+    "item_description": "California Noir - Chapter Two: Nightlife in Neon",
+    "details": {
+      "albumId": "444095315",
+      "tags": [
+        "alternative",
+        "goth",
+        "indie electronic",
+        "industrial",
+        "julien k",
+        "julienk",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "mx",
+    "releases": null,
+    "item_description": "We're Here With You (Deluxe Edition)",
+    "album_title": null,
+    "amount_paid": 25,
+    "slug_type": "a",
+    "country": "Mexico",
+    "amount_over_fmt": "$25",
+    "artist_name": "Julien-K",
+    "currency": "USD",
+    "amount_paid_usd": 25,
+    "art_url": "https://f4.bcbits.com/img/a3351665355_7.jpg",
+    "url": "https://julienk.bandcamp.com/album/were-here-with-you-deluxe-edition",
+    "utc_date": 1656489462.70072,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3351665355,
+    "amount_paid_fmt": "$25",
+    "details": {
+      "albumId": "3651826212",
+      "tags": [
+        "alternative",
+        "goth",
+        "indie electronic",
+        "industrial",
+        "julien k",
+        "julienk",
+        "Los Angeles"
       ]
     }
   },

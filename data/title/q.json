@@ -386,6 +386,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "jp",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Japan",
+    "artist_name": "Born an Eskimo, Die an Eskimo",
+    "currency": "GBP",
+    "amount_paid_usd": 1.22,
+    "art_url": "https://f4.bcbits.com/img/a3737288658_7.jpg",
+    "url": "https://baedae.bandcamp.com/album/qimmiq",
+    "item_description": "QimmiQ",
+    "utc_date": 1656426772.47815,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3737288658,
+    "amount_paid_fmt": "£1",
+    "details": {
+      "albumId": "719498108",
+      "tags": [
+        "rock",
+        "math rock",
+        "mathcore",
+        "mathrock",
+        "post-rock",
+        "spazz rock",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "item_description": "Qliphoth",
     "country": "United States",
     "artist_name": "Cloud Rat",
@@ -474,6 +507,46 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_description": "Quadratura Cinetectura",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "de",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "Germany",
+    "amount_over_fmt": "$5",
+    "artist_name": "Eric Chamberlain",
+    "currency": "USD",
+    "amount_paid_usd": 5,
+    "art_url": "https://f4.bcbits.com/img/a3762685346_7.jpg",
+    "url": "https://ericchamberlain.bandcamp.com/album/quadratura-cinetectura",
+    "utc_date": 1656446533.60387,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3762685346,
+    "amount_paid_fmt": "$5",
+    "details": {
+      "albumId": "3817138295",
+      "tags": [
+        "edm",
+        "electronic",
+        "experimental",
+        "industrial metal",
+        "soundtrack music",
+        "classical",
+        "electro",
+        "electronica",
+        "industrial",
+        "neoclassical",
+        "party",
+        "rock",
+        "Albuquerque"
       ]
     }
   },
@@ -1690,6 +1763,39 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "item_description": "Quiescence",
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Shores Of Null",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a3223290894_7.jpg",
+    "url": "https://shoresofnull.bandcamp.com/album/quiescence",
+    "utc_date": 1656418055.67296,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3223290894,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "2811195955",
+      "tags": [
+        "black metal",
+        "metal",
+        "blackened gloom",
+        "gothic doom metal",
+        "melancholic",
+        "melodic death metal",
+        "Rome"
+      ]
+    }
+  },
+  {
     "country_code": "ie",
     "utc_date": 1655571426.49595,
     "releases": null,
@@ -1715,6 +1821,41 @@
         "rock",
         "electroacoustic",
         "Brooklyn"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Miktek",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a2486730676_7.jpg",
+    "url": "https://miktek.bandcamp.com/album/quiet-ep",
+    "utc_date": 1656462160.39439,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2486730676,
+    "item_description": "Quiet EP",
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "1002451578",
+      "tags": [
+        "33recordings",
+        "abstrakt reflections",
+        "ambient",
+        "cinematic",
+        "downtempo",
+        "idm",
+        "miktek",
+        "ultimae records",
+        "Greece"
       ]
     }
   },

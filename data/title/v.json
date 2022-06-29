@@ -233,6 +233,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "nz",
+    "releases": null,
+    "item_description": "V.A. Nonviolent Communication",
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "New Zealand",
+    "artist_name": "Turiya Records",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a2336256507_7.jpg",
+    "url": "https://turiyarecords.bandcamp.com/album/v-a-nonviolent-communication",
+    "utc_date": 1656493826.93263,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2336256507,
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "2469732437",
+      "tags": [
+        "nightpsy",
+        "psychedelic",
+        "psyforest",
+        "psytrance",
+        "darkpsy",
+        "Waldbröl"
+      ]
+    }
+  },
+  {
     "country_code": "dk",
     "utc_date": 1655513742.83176,
     "releases": null,
@@ -1698,6 +1730,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "in",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "India",
+    "artist_name": "Biijah Records",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0435284282_7.jpg",
+    "url": "https://biijahrecords.bandcamp.com/album/va-chemical-memories",
+    "utc_date": 1656411682.19188,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 435284282,
+    "item_description": "VA - Chemical Memories",
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3423578018",
+      "tags": [
+        "biijah records",
+        "electronic",
+        "dark",
+        "darkpsy",
+        "forest",
+        "psychedelic",
+        "trance",
+        "Antigua Guatemala"
       ]
     }
   },
@@ -3645,6 +3711,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Bernhart & Hansen",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a4089219310_7.jpg",
+    "url": "https://jairarecords.bandcamp.com/album/va-shadows-in-the-sun-by-bernhart-hansen",
+    "utc_date": 1656488942.18155,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4089219310,
+    "item_description": "VA Shadows In The Sun_By_Bernhart&Hansen",
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "3083731574",
+      "tags": [
+        "electronic",
+        "dark progressive",
+        "jazz and improvised music",
+        "psychedelic",
+        "Israel"
+      ]
+    }
+  },
+  {
     "country": "France",
     "artist_name": "Shunyata Records",
     "currency": "EUR",
@@ -3763,6 +3860,68 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "item_description": "VA_Shadows In The Night _Vol.1 Compiled by Bernhardt & Hansen",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Jaira Records",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0552227551_7.jpg",
+    "url": "https://jairarecords.bandcamp.com/album/va-shadows-in-the-night-vol-1-compiled-by-bernhardt-hansen",
+    "utc_date": 1656488865.85206,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 552227551,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "1631385857",
+      "tags": [
+        "electronic",
+        "dark progressive",
+        "jazz and improvised music",
+        "psychedelic",
+        "Israel"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "Jaira Records",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a4084261045_7.jpg",
+    "url": "https://jairarecords.bandcamp.com/album/va-shadows-in-the-sun-vol-3-compiled-by-bernhardt-hansen-2o21",
+    "item_description": "VA_Shadows in the Sun​.​Vol 3 Compiled by Bernhardt & Hansen_2o21",
+    "utc_date": 1656488922.69855,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 4084261045,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "1902171413",
+      "tags": [
+        "electronic",
+        "dark progressive",
+        "jazz and improvised music",
+        "psychedelic",
+        "Israel"
       ]
     }
   },
@@ -4160,6 +4319,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ca",
+    "releases": null,
+    "item_description": "VGM",
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "Canada",
+    "artist_name": "CHANCE デラソウル",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0695718606_7.jpg",
+    "url": "https://chancedelasoul.bandcamp.com/album/vgm",
+    "utc_date": 1656471199.88138,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 695718606,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "2237410927",
+      "tags": [
+        "electronic",
+        "house",
+        "plunderphonics",
+        "California"
       ]
     }
   },
@@ -5081,6 +5270,36 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "mx",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Mexico",
+    "artist_name": "Sangam",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a2240707882_7.jpg",
+    "url": "https://vill4in.bandcamp.com/album/void-003-sangam",
+    "utc_date": 1656468548.78249,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2240707882,
+    "amount_paid_fmt": "$1",
+    "item_description": "VOID-003 - SANGAM",
+    "details": {
+      "albumId": "2898959334",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "mystery",
+        "Ukraine"
       ]
     }
   },
@@ -6174,6 +6393,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "medafOracle",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0660992979_7.jpg",
+    "url": "https://medaforacle.bandcamp.com/album/valentines-prey",
+    "item_description": "Valentine's Prey",
+    "utc_date": 1656466412.70577,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 660992979,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3610069678",
+      "tags": [
+        "hip-hop",
+        "hip-hop/rap",
+        "rap",
+        "hip hop (real shit) (soul)",
+        "medaforacle",
+        "newmusic  indie  music",
+        "paul cabbin",
+        "valentinesday",
+        "valentinesprey"
+      ]
+    }
+  },
+  {
     "amount_paid": 0.5,
     "country_code": "ie",
     "slug_type": "a",
@@ -6379,6 +6633,39 @@
         "chanson",
         "chanson francophone",
         "La Souterraine"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Dumptrux",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a3403124429_7.jpg",
+    "url": "https://dumptrux.bandcamp.com/album/valuable-technology",
+    "utc_date": 1656442785.09437,
+    "item_description": "Valuable Technology",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 3403124429,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "3196659832",
+      "tags": [
+        "alternative",
+        "anime kiss",
+        "emo lover",
+        "plaza punk",
+        "sunday brunch",
+        "lo-fi",
+        "Portland"
       ]
     }
   },
@@ -8038,6 +8325,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ch",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Switzerland",
+    "artist_name": "Various Artists",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0735474003_7.jpg",
+    "url": "https://marshallneeko.bandcamp.com/album/various-artists-remix-mi-dis-volume-4-2020",
+    "item_description": "Various Artists - Remix Mi Dis Volume 4 (2020)",
+    "utc_date": 1656450032.71071,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 735474003,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "802293300",
+      "tags": [
+        "marshall neeko",
+        "reggae",
+        "roots music",
+        "roots reggae",
+        "digital reggae",
+        "raggamuffin",
+        "reggae",
+        "remix mi dis volume 4",
+        "France"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655919914.36819,
     "releases": null,
@@ -8069,6 +8391,41 @@
         "raggamuffin",
         "reggae",
         "remix mi dis volume 6",
+        "France"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "gb",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "United Kingdom",
+    "artist_name": "Various Artists",
+    "currency": "EUR",
+    "amount_paid_usd": 0.53,
+    "art_url": "https://f4.bcbits.com/img/a1037220215_7.jpg",
+    "url": "https://marshallneeko.bandcamp.com/album/various-artists-remix-mi-dis-volume-9-2021",
+    "utc_date": 1656464666.4746,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1037220215,
+    "item_description": "Various Artists - Remix Mi Dis Volume 9 (2021)",
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "3177050826",
+      "tags": [
+        "marshall neeko",
+        "reggae",
+        "roots music",
+        "roots reggae",
+        "digital reggae",
+        "raggamuffin",
+        "reggae",
+        "remix mi dis volume 9",
         "France"
       ]
     }
@@ -9441,6 +9798,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "no",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "Norway",
+    "artist_name": "Solvognen",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a0247900239_7.jpg",
+    "url": "https://solvognen.bandcamp.com/album/ventifact",
+    "utc_date": 1656480948.09927,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 247900239,
+    "item_description": "Ventifact",
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "2828295211",
+      "tags": [
+        "detroit techno",
+        "electronic",
+        "ambient",
+        "ambient electronic",
+        "ambient techno",
+        "dub techno",
+        "modular",
+        "Michigan"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "ar",
     "utc_date": 1654471878.55319,
@@ -10430,6 +10821,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "GREAT RIFT",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a0847473243_7.jpg",
+    "url": "https://greatrift.bandcamp.com/album/vesta",
+    "utc_date": 1656495529.73394,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 847473243,
+    "item_description": "Vesta",
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "379445746",
+      "tags": [
+        "70s inspired stoner metal",
+        "hard rock",
+        "metal",
+        "rock",
+        "doom",
+        "doom metal",
+        "heavy psych",
+        "psychedelic rock",
+        "rock stoner metal",
+        "stoner",
+        "stoner metal",
+        "stoner rock",
+        "Austria"
       ]
     }
   },
@@ -11810,6 +12240,37 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "DinahMusic",
+    "currency": "USD",
+    "amount_paid_usd": 1,
+    "art_url": "https://f4.bcbits.com/img/a0779343587_7.jpg",
+    "url": "https://dcot.bandcamp.com/album/vindicated-the-makings-of-a-worshipper-2",
+    "utc_date": 1656460650.26389,
+    "item_description": "Vindicated: The Makings of a Worshipper",
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 779343587,
+    "amount_paid_fmt": "$1",
+    "details": {
+      "albumId": "1713817163",
+      "tags": [
+        "devotional",
+        "r&b",
+        "christian hip hop",
+        "worship",
+        "Florida"
+      ]
+    }
+  },
+  {
     "item_description": "Vindictive Miscreant (Death Metal)",
     "country": "Germany",
     "artist_name": "MASTER (Czech Republic)",
@@ -12132,6 +12593,39 @@
         "samplepacks",
         "samples",
         "Pennsylvania"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 6,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "O.o.p.s. (Operating other peoples sounds)",
+    "currency": "NOK",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a2157115311_7.jpg",
+    "url": "https://oops42.bandcamp.com/album/violated-tapes-antic",
+    "item_description": "Violated tapes (antic)",
+    "utc_date": 1656461004.19053,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2157115311,
+    "amount_paid_fmt": "6 NOK",
+    "details": {
+      "albumId": "1028782774",
+      "tags": [
+        "electronic",
+        "experimental",
+        "cassette underground",
+        "electronica",
+        "glitchy",
+        "remix",
+        "Trondheim"
       ]
     }
   },
@@ -12922,6 +13416,41 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "ie",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Ireland",
+    "artist_name": "Seffi Starshine",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a1762571711_7.jpg",
+    "url": "https://fireflower.bandcamp.com/album/virtual-temptress",
+    "utc_date": 1656446274.2733,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1762571711,
+    "amount_paid_fmt": "€1",
+    "item_description": "Virtual Temptress",
+    "details": {
+      "albumId": "526874066",
+      "tags": [
+        "electronic",
+        "ambient",
+        "dark ambient",
+        "dreampunk",
+        "drone",
+        "drone ambient",
+        "vaporambient",
+        "vapordrone",
+        "Copenhagen"
+      ]
+    }
+  },
+  {
     "country_code": "be",
     "item_description": "Virtual Vinyl",
     "utc_date": 1655936931.61999,
@@ -13561,6 +14090,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "hu",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Hungary",
+    "artist_name": "Pendro",
+    "item_description": "Visitant Voices II",
+    "currency": "GBP",
+    "amount_paid_usd": 0.61,
+    "art_url": "https://f4.bcbits.com/img/a2466103696_7.jpg",
+    "url": "https://pendro.bandcamp.com/album/visitant-voices-ii",
+    "utc_date": 1656411474.77328,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2466103696,
+    "amount_paid_fmt": "£0.50",
+    "details": {
+      "albumId": "469210188",
+      "tags": [
+        "electronic",
+        "experimental",
+        "north wales",
+        "dark ambient",
+        "electronic",
+        "electronica",
+        "experimental electronic",
+        "industrial",
+        "outside of the box",
+        "outsider",
+        "wales",
+        "United Kingdom"
       ]
     }
   },
@@ -15135,6 +15702,43 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "be",
+    "releases": null,
+    "item_description": "Vol.6",
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "Belgium",
+    "artist_name": "Synthwave Radio",
+    "currency": "EUR",
+    "amount_paid_usd": 1.06,
+    "art_url": "https://f4.bcbits.com/img/a1903121115_7.jpg",
+    "url": "https://synthwave-radio.bandcamp.com/album/vol-6",
+    "utc_date": 1656421569.35882,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1903121115,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "499234858",
+      "tags": [
+        "edm",
+        "electronic",
+        "house",
+        "nu disco",
+        "electro",
+        "synth",
+        "synthesizer",
+        "synthwave",
+        "techno",
+        "vaporwave",
+        "Russia"
+      ]
+    }
+  },
+  {
     "country": "Malaysia",
     "item_description": "Vol. 6",
     "artist_name": "Seer",
@@ -15731,6 +16335,37 @@
         "alternative",
         "psychedelic",
         "Seattle"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "au",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 0.5,
+    "slug_type": "a",
+    "country": "Australia",
+    "artist_name": "AoC & W_C",
+    "currency": "EUR",
+    "amount_paid_usd": 0.52,
+    "art_url": "https://f4.bcbits.com/img/a2172816017_7.jpg",
+    "url": "https://futuregrapher.bandcamp.com/album/volume-2-v-lusp",
+    "item_description": "Volume 2 - Völuspá",
+    "utc_date": 1656490297.77363,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2172816017,
+    "amount_paid_fmt": "€0.50",
+    "details": {
+      "albumId": "3943823965",
+      "tags": [
+        "electronic",
+        "ambient",
+        "techno",
+        "weirdcore",
+        "Iceland"
       ]
     }
   },
@@ -18129,6 +18764,41 @@
         "noise",
         "power electronics",
         "Kyiv"
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "vol.1 UNIAXIALISM",
+    "album_title": null,
+    "amount_paid": 500,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "¥500",
+    "artist_name": "Phantom Cruel Project",
+    "currency": "JPY",
+    "amount_paid_usd": 3.68,
+    "art_url": "https://f4.bcbits.com/img/a2898933531_7.jpg",
+    "url": "https://phantomcruelproject.bandcamp.com/album/vol-1-uniaxialism",
+    "utc_date": 1656467491.24062,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2898933531,
+    "amount_paid_fmt": "¥500",
+    "details": {
+      "albumId": "2782780188",
+      "tags": [
+        "frenchcore",
+        "hardtek",
+        "idm",
+        "soundtrack",
+        "breakcore",
+        "hardcore",
+        "toho",
+        "Japan"
       ]
     }
   },

@@ -95,6 +95,38 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 1,
+    "slug_type": "a",
+    "country": "France",
+    "artist_name": "ZAD KOKAR & LES COMBI BEYAZ",
+    "currency": "EUR",
+    "amount_paid_usd": 1.05,
+    "art_url": "https://f4.bcbits.com/img/a2284713561_7.jpg",
+    "url": "https://kakakidsrecords.bandcamp.com/album/mold-grows",
+    "item_description": "Mold Grows",
+    "utc_date": 1656491769.07554,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2284713561,
+    "amount_paid_fmt": "€1",
+    "details": {
+      "albumId": "3357161459",
+      "tags": [
+        "1000 balles",
+        "experimental",
+        "punk",
+        "kakakids records",
+        "synth",
+        "Geneva"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "slug_type": "a",
@@ -1441,6 +1473,40 @@
     }
   },
   {
+    "country_code": "us",
+    "package_image_id": null,
+    "item_price": 0,
+    "releases": null,
+    "amount_paid": 12,
+    "album_title": null,
+    "amount_over_fmt": "$12",
+    "country": "United States",
+    "slug_type": "a",
+    "amount_paid_usd": 12,
+    "currency": "USD",
+    "artist_name": "Zane Bishop",
+    "art_url": "https://f4.bcbits.com/img/a2111654221_7.jpg",
+    "url": "https://zanebishop.bandcamp.com/album/infinite-wave",
+    "item_description": "Infinite Wave",
+    "utc_date": 1656446870.81963,
+    "art_id": 2111654221,
+    "track_album_slug_text": null,
+    "item_type": "a",
+    "amount_paid_fmt": "$12",
+    "details": {
+      "albumId": "1543729465",
+      "tags": [
+        "pop",
+        "r&b",
+        "new wave",
+        "psychedelic",
+        "soul",
+        "synthwave",
+        "Madison"
+      ]
+    }
+  },
+  {
     "country_code": "jp",
     "utc_date": 1655475359.08797,
     "releases": null,
@@ -1763,6 +1829,44 @@
         "lap steel",
         "spooky",
         "Palatine"
+      ]
+    }
+  },
+  {
+    "item_description": "End Trance",
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$4",
+    "artist_name": "Zebbler Encanti Experience",
+    "currency": "USD",
+    "amount_paid_usd": 4,
+    "art_url": "https://f4.bcbits.com/img/a1731469577_7.jpg",
+    "url": "https://wakaan.bandcamp.com/album/end-trance",
+    "utc_date": 1656476736.74681,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1731469577,
+    "amount_paid_fmt": "$4",
+    "details": {
+      "albumId": "1727553471",
+      "tags": [
+        "eprom",
+        "griz",
+        "liquid stranger",
+        "wakaan",
+        "bassnectar",
+        "clozee",
+        "pretty lights",
+        "space jesus",
+        "tipper",
+        "zeds dead",
+        "United States"
       ]
     }
   },
