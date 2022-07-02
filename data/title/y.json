@@ -95,6 +95,40 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 4,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "£4",
+    "artist_name": "Fat Frumos",
+    "currency": "GBP",
+    "amount_paid_usd": 4.85,
+    "art_url": "https://f4.bcbits.com/img/a0693746301_7.jpg",
+    "url": "https://offmenutrecords.bandcamp.com/album/yad",
+    "utc_date": 1656520431.66567,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 693746301,
+    "item_description": "YAD",
+    "amount_paid_fmt": "£4",
+    "details": {
+      "albumId": "2572342166",
+      "tags": [
+        "electronic",
+        "bassline",
+        "breakcore",
+        "jungle",
+        "rave",
+        "sheffield",
+        "Sheffield"
+      ]
+    }
+  },
+  {
     "utc_date": 1653765809.64132,
     "country": "United States",
     "artist_name": "Evan Fraser and Vir McCoy",
@@ -250,6 +284,78 @@
     }
   },
   {
+    "utc_date": 1656607449.4497397,
+    "artist_name": "Elm City Guitar Ensemble",
+    "item_type": "a",
+    "item_description": "Y Bolanzero by Terry Riley",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 2922633464,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://elmcityrecords.bandcamp.com/album/y-bolanzero-by-terry-riley",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2922633464_7.jpg",
+    "details": {
+      "albumId": "1755972891",
+      "tags": [
+        "acoustic",
+        "classical",
+        "new classical",
+        "acoustic guitar",
+        "contemporary classical",
+        "guitar",
+        "New Haven"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656653486.3100004,
+    "artist_name": "9th Circle Symphony",
+    "item_type": "a",
+    "item_description": "YEAR ZERO",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2856557906,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://9thcirclesymphony.bandcamp.com/album/year-zero",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2856557906_7.jpg",
+    "details": {
+      "albumId": "856604386",
+      "tags": [
+        "apocalyptic",
+        "black metal",
+        "horror",
+        "metal",
+        "punk",
+        "thrash",
+        "apocalypse",
+        "cadavers",
+        "metal",
+        "post",
+        "punk",
+        "rock",
+        "Indianapolis"
+      ]
+    }
+  },
+  {
     "item_price": 0,
     "package_image_id": null,
     "country_code": "us",
@@ -337,6 +443,76 @@
         "space punk",
         "weird shit",
         "Amherst"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656625306.6855676,
+    "artist_name": "Herb Funk",
+    "item_type": "a",
+    "item_description": "YO! NYC RAPS",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 3135808548,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://herbfunk.bandcamp.com/album/yo-nyc-raps",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3135808548_7.jpg",
+    "details": {
+      "albumId": "1540876484",
+      "tags": [
+        "blend",
+        "experimental",
+        "funk",
+        "hip hop",
+        "mashup",
+        "new york",
+        "pop",
+        "rap",
+        "remix",
+        "rock",
+        "São Paulo"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656625381.9511764,
+    "artist_name": "Herb Funk",
+    "item_type": "a",
+    "item_description": "YO! NYC RAPS VOLUME 2",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 2252339635,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://herbfunk.bandcamp.com/album/yo-nyc-raps-volume-2",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2252339635_7.jpg",
+    "details": {
+      "albumId": "1339367007",
+      "tags": [
+        "experimental",
+        "funk",
+        "hip hop",
+        "mashup",
+        "pop",
+        "rock",
+        "São Paulo"
       ]
     }
   },
@@ -1652,6 +1828,49 @@
     }
   },
   {
+    "utc_date": 1656600547.123242,
+    "artist_name": "ETERNAL STRUGGLE",
+    "item_type": "a",
+    "item_description": "Year of the Gun",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "Germany",
+    "art_id": 3242018765,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://eternalstrugglehc.bandcamp.com/album/year-of-the-gun",
+    "country_code": "de",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a3242018765_7.jpg",
+    "details": {
+      "albumId": "1854736120",
+      "tags": [
+        "beatdown",
+        "extreme metal",
+        "hardcore metal",
+        "hardcore punk",
+        "metal",
+        "army",
+        "extreme",
+        "hardcore",
+        "metal",
+        "middle-eastern",
+        "military",
+        "pma",
+        "punk",
+        "religion",
+        "veteran",
+        "Tel Aviv Yafo"
+      ]
+    }
+  },
+  {
     "country": "Germany",
     "amount_paid_fmt": "$1",
     "artist_name": "GABBY'S WORLD",
@@ -1873,6 +2092,74 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "se",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "item_description": "Yesterday Ep",
+    "slug_type": "a",
+    "country": "Sweden",
+    "artist_name": "Anonymous Sunz",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "art_url": "https://f4.bcbits.com/img/a1210788987_7.jpg",
+    "url": "https://anonymoussunz.bandcamp.com/album/yesterday-ep",
+    "utc_date": 1656513937.18961,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1210788987,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "2533219360",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "instrumental hip-hop",
+        "masun",
+        "nameless",
+        "synesthesia records",
+        "Philadelphia"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656647988.6359422,
+    "artist_name": "Macaque Sauna",
+    "item_type": "a",
+    "item_description": "Yesterday I Thought About You",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3111127185,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://macaquesauna.bandcamp.com/album/yesterday-i-thought-about-you",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3111127185_7.jpg",
+    "details": {
+      "albumId": "2724798897",
+      "tags": [
+        "classical",
+        "dallas",
+        "ambient",
+        "dark ambient",
+        "drone",
+        "piano",
+        "solo piano improv",
+        "solo piano improvisation",
+        "Texas"
       ]
     }
   },
@@ -2508,6 +2795,46 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "fr",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 5,
+    "slug_type": "a",
+    "country": "France",
+    "amount_over_fmt": "€5",
+    "artist_name": "Yoshi Di Original",
+    "currency": "EUR",
+    "amount_paid_usd": 5.24,
+    "art_url": "https://f4.bcbits.com/img/a2948324103_7.jpg",
+    "url": "https://yoshidioriginal.bandcamp.com/album/yoshi-meets-soap",
+    "item_description": "Yoshi meets Soap",
+    "utc_date": 1656519521.65124,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2948324103,
+    "amount_paid_fmt": "€5",
+    "details": {
+      "albumId": "2538766743",
+      "tags": [
+        "bass music",
+        "beatbox",
+        "chinese man",
+        "electronic",
+        "hip hop",
+        "hip-hop momo",
+        "hip-hop/rap",
+        "rap",
+        "soap",
+        "son of a pitch",
+        "underground hip hop",
+        "underground rap",
+        "Paris"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Svdestada",
     "currency": "EUR",
@@ -2821,6 +3148,40 @@
         "noise",
         "techno",
         "Antarctica"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656580918.2700262,
+    "artist_name": "Phoenix #2772",
+    "item_type": "a",
+    "item_description": "You Are Already Dead.",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3211489453,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://nightlighttapes.bandcamp.com/album/you-are-already-dead",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3211489453_7.jpg",
+    "details": {
+      "albumId": "3915346191",
+      "tags": [
+        "experimental",
+        "miami",
+        "ambient",
+        "electronic",
+        "hypnagogic pop",
+        "late night lo-fi",
+        "late night lofi",
+        "Pennsylvania"
       ]
     }
   },
@@ -3261,6 +3622,42 @@
     }
   },
   {
+    "utc_date": 1656642255.985882,
+    "artist_name": "KING CIRCUS",
+    "item_type": "a",
+    "item_description": "You Don't Belong Here",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2.43,
+    "country": "United Kingdom",
+    "art_id": 1956106973,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://kingcircus.bandcamp.com/album/you-dont-belong-here",
+    "country_code": "gb",
+    "amount_paid_fmt": "£2",
+    "amount_over_fmt": "£2",
+    "art_url": "https://f4.bcbits.com/img/a1956106973_7.jpg",
+    "details": {
+      "albumId": "762670910",
+      "tags": [
+        "experimental",
+        "circus punk",
+        "experimental",
+        "indie",
+        "lo-fi",
+        "lo.fi",
+        "outsider art",
+        "outsider music",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "country": "Norway",
     "artist_name": "BOYO",
     "currency": "USD",
@@ -3643,6 +4040,42 @@
     }
   },
   {
+    "utc_date": 1656653962.7791114,
+    "artist_name": "Zer0 れい x J_ade_",
+    "item_type": "a",
+    "item_description": "You Too Should Fear What You Have Created",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.05,
+    "country": "United States",
+    "art_id": 1009457518,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zer0trashwave.bandcamp.com/album/you-too-should-fear-what-you-have-created",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1009457518_7.jpg",
+    "details": {
+      "albumId": "3543484147",
+      "tags": [
+        "electronic",
+        "ambient",
+        "dark ambient",
+        "glitch",
+        "kortrijk",
+        "mallsoft",
+        "noise",
+        "soundscape",
+        "vaporwave",
+        "Belgium"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655518630.05243,
     "releases": null,
@@ -3839,6 +4272,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1656613673.9208405,
+    "artist_name": "Jealous Me",
+    "item_type": "a",
+    "item_description": "You are never going to change just who you are",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 7.77,
+    "country": "Canada",
+    "art_id": 3253303895,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://jealousme.bandcamp.com/album/you-are-never-going-to-change-just-who-you-are",
+    "country_code": "ca",
+    "amount_paid_fmt": "$10 CAD",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a3253303895_7.jpg",
+    "details": {
+      "albumId": "3698571164",
+      "tags": [
+        "alternative",
+        "wave punk",
+        "alternative",
+        "indie",
+        "Vancouver"
       ]
     }
   },
@@ -4169,6 +4634,77 @@
     }
   },
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "item_description": "Your Ghost In Me",
+    "album_title": null,
+    "amount_paid": 10,
+    "slug_type": "a",
+    "country": "United States",
+    "amount_over_fmt": "$10",
+    "artist_name": "Desert Trees",
+    "currency": "USD",
+    "amount_paid_usd": 10,
+    "art_url": "https://f4.bcbits.com/img/a2407608786_7.jpg",
+    "url": "https://desert-trees.bandcamp.com/album/your-ghost-in-me",
+    "utc_date": 1656506497.36146,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 2407608786,
+    "amount_paid_fmt": "$10",
+    "details": {
+      "albumId": "1319603036",
+      "tags": [
+        "rock",
+        "experimental rock",
+        "indie rock",
+        "lofi rock",
+        "noise rock",
+        "plunderphonics",
+        "Moon"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656549466.607698,
+    "artist_name": "roboctopus",
+    "item_type": "a",
+    "item_description": "Your Heart is a Pie Chart",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 4246704180,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://roboctopus.bandcamp.com/album/your-heart-is-a-pie-chart",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a4246704180_7.jpg",
+    "details": {
+      "albumId": "3707950022",
+      "tags": [
+        "8-bit",
+        "electronic",
+        "chip",
+        "chipmusic",
+        "chiptune",
+        "chiptunes",
+        "gameboy",
+        "lsdj",
+        "nintendo",
+        "Huntsville"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "nz",
     "slug_type": "a",
@@ -4451,6 +4987,36 @@
     }
   },
   {
+    "utc_date": 1656599882.0113215,
+    "artist_name": "Feris, Lunarveil",
+    "item_type": "a",
+    "item_description": "Your Voice, Your Song",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 3.87,
+    "country": "Singapore",
+    "art_id": 4233725350,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://feris-music.bandcamp.com/album/your-voice-your-song",
+    "country_code": "sg",
+    "amount_paid_fmt": "$5 CAD",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a4233725350_7.jpg",
+    "details": {
+      "albumId": "3194787737",
+      "tags": [
+        "anime",
+        "pop",
+        "Canada"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655909950.33386,
     "releases": null,
@@ -4483,6 +5049,39 @@
         "synthesizer",
         "alternate rock",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656597089.2419972,
+    "artist_name": "Youth Novel",
+    "item_type": "a",
+    "item_description": "Youth Novel",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Canada",
+    "art_id": 893406462,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youthnovel.bandcamp.com/album/youth-novel",
+    "country_code": "ca",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0893406462_7.jpg",
+    "details": {
+      "albumId": "208524415",
+      "tags": [
+        "punk",
+        "emo",
+        "emotive hardcore",
+        "hardcore",
+        "midwest emo",
+        "screamo",
+        "Ann Arbor"
       ]
     }
   },
@@ -4632,6 +5231,34 @@
     }
   },
   {
+    "utc_date": 1656540340.3889434,
+    "artist_name": "Yukon Jack",
+    "item_type": "a",
+    "item_description": "Yukon Jack",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1819223661,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yukonjack.bandcamp.com/album/yukon-jack",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1819223661_7.jpg",
+    "details": {
+      "albumId": "3756345445",
+      "tags": [
+        "rock",
+        "Bloomfield"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "item_description": "Yuletide Bangerz",
     "utc_date": 1655462510.26562,
@@ -4768,6 +5395,47 @@
         "hardcore",
         "powerviolence",
         "Hamburg"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656632201.7366836,
+    "artist_name": "Ashbringer",
+    "item_type": "a",
+    "item_description": "Yūgen",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 8,
+    "item_price": 0,
+    "amount_paid_usd": 8,
+    "country": "Canada",
+    "art_id": 1731290445,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ashbringermusic.bandcamp.com/album/y-gen",
+    "country_code": "ca",
+    "amount_paid_fmt": "$8",
+    "amount_over_fmt": "$8",
+    "art_url": "https://f4.bcbits.com/img/a1731290445_7.jpg",
+    "details": {
+      "albumId": "1372695343",
+      "tags": [
+        "metal",
+        "ambient",
+        "ambient black metal",
+        "atmospheric black metal",
+        "atmospheric metal",
+        "black metal",
+        "dark metal",
+        "folk metal",
+        "post-black metal",
+        "post-metal",
+        "post-rock",
+        "progressive black metal",
+        "progressive metal",
+        "Minnesota"
       ]
     }
   },
@@ -5084,6 +5752,39 @@
         "skramz",
         "twinkle",
         "Norwich"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656624576.9923162,
+    "artist_name": "acab brik",
+    "item_type": "a",
+    "item_description": "you are a genius: selected demos 2017-2020",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 13.12,
+    "item_price": 0,
+    "amount_paid_usd": 15.97,
+    "country": "United Kingdom",
+    "art_id": 1019551232,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://acabbrik.bandcamp.com/album/you-are-a-genius-selected-demos-2017-2020",
+    "country_code": "gb",
+    "amount_paid_fmt": "£13.12",
+    "amount_over_fmt": "£13.12",
+    "art_url": "https://f4.bcbits.com/img/a1019551232_7.jpg",
+    "details": {
+      "albumId": "1471980900",
+      "tags": [
+        "hip-hop/rap",
+        "cloud rap",
+        "emo trap",
+        "lofi rap",
+        "south london",
+        "London"
       ]
     }
   },

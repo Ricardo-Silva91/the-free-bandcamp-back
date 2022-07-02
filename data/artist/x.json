@@ -585,6 +585,38 @@
     }
   },
   {
+    "utc_date": 1656654363.7217677,
+    "artist_name": "XISTS",
+    "item_type": "a",
+    "item_description": "Electric Nietzsche",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 2981273606,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xists.bandcamp.com/album/electric-nietzsche",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a2981273606_7.jpg",
+    "details": {
+      "albumId": "1556881333",
+      "tags": [
+        "electronic",
+        "ambient",
+        "dance",
+        "soundtrack",
+        "Nashville"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1656002238.9493,
     "releases": null,
@@ -1967,6 +1999,70 @@
         "raw dungeon synth",
         "usbm",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656661361.7869906,
+    "artist_name": "Xita Records",
+    "item_type": "a",
+    "item_description": "Super Desilusão - Primeira Dama em Duo (ao Vivo, pela Filho Único na SMUP)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.52,
+    "country": "Portugal",
+    "art_id": 3066325424,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xitarecords.bandcamp.com/album/super-desilus-o-primeira-dama-em-duo-ao-vivo-pela-filho-nico-na-smup",
+    "country_code": "pt",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a3066325424_7.jpg",
+    "details": {
+      "albumId": "1032118984",
+      "tags": [
+        "alternative",
+        "indie rock",
+        "lo-fi",
+        "power pop",
+        "Lisbon"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656580681.3309307,
+    "artist_name": "XoArK",
+    "item_type": "a",
+    "item_description": "6:03 / 1:00:54",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "Ukraine",
+    "art_id": 2192094574,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xoark.bandcamp.com/album/6-03-1-00-54",
+    "country_code": "ua",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a2192094574_7.jpg",
+    "details": {
+      "albumId": "1019700695",
+      "tags": [
+        "8.5.4.6.216064",
+        "soundtrack",
+        "comma-separated list of tags",
+        "computer music",
+        "copy to draft",
+        "temp",
+        "United States"
       ]
     }
   },

@@ -1,5 +1,37 @@
 [
   {
+    "item_price": 0,
+    "package_image_id": null,
+    "country_code": "us",
+    "releases": null,
+    "album_title": null,
+    "amount_paid": 2,
+    "slug_type": "a",
+    "country": "United States",
+    "artist_name": "Los Straitjackets featuring Sarah Borges",
+    "currency": "USD",
+    "amount_paid_usd": 2,
+    "item_description": "Q-Dee Rock and Soul Series #11",
+    "art_url": "https://f4.bcbits.com/img/a1805183993_7.jpg",
+    "url": "https:https://q-dee.com/album/q-dee-rock-and-soul-series-11",
+    "utc_date": 1656522764.86759,
+    "item_type": "a",
+    "track_album_slug_text": null,
+    "art_id": 1805183993,
+    "amount_paid_fmt": "$2",
+    "details": {
+      "albumId": "3168960591",
+      "tags": [
+        "classic",
+        "q division",
+        "r&b/soul",
+        "rock and soul",
+        "vinyl",
+        "Somerville"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654427142.27258,
@@ -124,6 +156,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1656534361.5854638,
+    "artist_name": "Mbé",
+    "item_type": "a",
+    "item_description": "QTV048 – ROCINHA",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "France",
+    "art_id": 144446701,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://qtvlabel.bandcamp.com/album/qtv048-rocinha",
+    "country_code": "fr",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a0144446701_7.jpg",
+    "details": {
+      "albumId": "1500234047",
+      "tags": [
+        "experimental",
+        "arte sonora",
+        "brasil",
+        "canção torta",
+        "cinema",
+        "experimentalismo negro",
+        "favela",
+        "improviso",
+        "maximalismo sombrio",
+        "música brasileira",
+        "Rio De Janeiro"
       ]
     }
   },
@@ -290,6 +360,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1656598244.7909157,
+    "artist_name": "LIGHT-ON SUPER-DISCO",
+    "item_type": "a",
+    "item_description": "QUEST",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 200,
+    "item_price": 0,
+    "amount_paid_usd": 1.47,
+    "country": "Switzerland",
+    "art_id": 4042487337,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://light-onsuper-disco.bandcamp.com/album/quest",
+    "country_code": "ch",
+    "amount_paid_fmt": "¥200",
+    "art_url": "https://f4.bcbits.com/img/a4042487337_7.jpg",
+    "details": {
+      "albumId": "1937801412",
+      "tags": [
+        "reggae",
+        "dancehall",
+        "dub",
+        "new roots",
+        "roots",
+        "ska",
+        "Niigata"
       ]
     }
   },
@@ -1640,6 +1743,36 @@
     }
   },
   {
+    "utc_date": 1656560620.212954,
+    "artist_name": "Helblinde",
+    "item_type": "a",
+    "item_description": "Questionable Future EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Japan",
+    "art_id": 1250765150,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://helblinde.bandcamp.com/album/questionable-future-ep",
+    "country_code": "jp",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1250765150_7.jpg",
+    "details": {
+      "albumId": "1740860216",
+      "tags": [
+        "electronic",
+        "hardcore techno",
+        "putin",
+        "Sweden"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Yarn",
     "currency": "EUR",
@@ -2282,6 +2415,42 @@
         "industrial",
         "witch house",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656570609.56315,
+    "artist_name": "Alex Carr",
+    "item_type": "a",
+    "item_description": "quarantine demos",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2720359654,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://alexcarrmusic.bandcamp.com/album/quarantine-demos",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2720359654_7.jpg",
+    "details": {
+      "albumId": "2788877866",
+      "tags": [
+        "punk",
+        "rock",
+        "bedroom pop",
+        "garage rock",
+        "indie",
+        "indie rock",
+        "lofi",
+        "pop",
+        "psychedelic",
+        "New York"
       ]
     }
   },
