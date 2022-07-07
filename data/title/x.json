@@ -315,6 +315,43 @@
     }
   },
   {
+    "utc_date": 1657177890.2292721,
+    "artist_name": "Telos369",
+    "item_type": "a",
+    "item_description": "XIBALBA (LP)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.19,
+    "country": "Germany",
+    "art_id": 4176830194,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://visionaryshamanics.bandcamp.com/album/xibalba-lp",
+    "country_code": "de",
+    "amount_paid_fmt": "£1",
+    "art_url": "https://f4.bcbits.com/img/a4176830194_7.jpg",
+    "details": {
+      "albumId": "1847113611",
+      "tags": [
+        "dark psy. darkpsy",
+        "electronic",
+        "forest psychedelic",
+        "psybass",
+        "psychedelic trance",
+        "chillout",
+        "darkpsy",
+        "ethnic",
+        "tribal",
+        "world music",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "fi",
     "utc_date": 1654412994.36142,
@@ -870,6 +907,42 @@
         "re-edit",
         "re-edits",
         "London"
+      ]
+    }
+  },
+  {
+    "utc_date": 1656871755.4671535,
+    "artist_name": "wimps",
+    "item_type": "a",
+    "item_description": "XRAY.FM Session",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 690293782,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://thesewimps.bandcamp.com/album/xray-fm-session-2",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0690293782_7.jpg",
+    "details": {
+      "albumId": "2858339825",
+      "tags": [
+        "punk",
+        "garage",
+        "kill rock stars",
+        "northwest",
+        "punk",
+        "punk rock",
+        "seattle",
+        "wimps",
+        "xrayfm",
+        "Seattle"
       ]
     }
   },
