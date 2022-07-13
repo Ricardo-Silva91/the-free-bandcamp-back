@@ -2665,6 +2665,36 @@
     }
   },
   {
+    "utc_date": 1657570154.3470457,
+    "artist_name": "Xoán Anleo",
+    "item_type": "a",
+    "item_description": "Bailar en una línea sin dejar huella",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.01,
+    "country": "Spain",
+    "art_id": 339976622,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xoananleo.bandcamp.com/album/bailar-en-una-l-nea-sin-dejar-huella",
+    "country_code": "es",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a0339976622_7.jpg",
+    "details": {
+      "albumId": "977027873",
+      "tags": [
+        "experimental",
+        "arte sonoro",
+        "electronic",
+        "Vigo"
+      ]
+    }
+  },
+  {
     "utc_date": 1657522366.7200017,
     "artist_name": "Xpire",
     "item_type": "a",
@@ -2952,6 +2982,35 @@
         "braindance",
         "drill",
         "Germany"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657687563.8851547,
+    "artist_name": "Xyris",
+    "item_type": "a",
+    "item_description": "Terraformed Neoplanet",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "United States",
+    "art_id": 1071023125,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xyris.bandcamp.com/album/terraformed-neoplanet",
+    "country_code": "us",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a1071023125_7.jpg",
+    "details": {
+      "albumId": "184985949",
+      "tags": [
+        "electronic",
+        "Los Angeles"
       ]
     }
   },

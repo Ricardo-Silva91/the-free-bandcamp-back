@@ -157,6 +157,73 @@
     }
   },
   {
+    "utc_date": 1657623049.5177917,
+    "artist_name": "MUNYASYA",
+    "item_type": "a",
+    "item_description": "XANES",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "Kenya",
+    "art_id": 2139123242,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://munyasya.bandcamp.com/album/xanes",
+    "country_code": "ke",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a2139123242_7.jpg",
+    "details": {
+      "albumId": "1473041319",
+      "tags": [
+        "electronic",
+        "idm",
+        "alternative",
+        "experimental electronic",
+        "Nairobi"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657637264.5932295,
+    "artist_name": "VoltageCtrlR",
+    "item_type": "a",
+    "item_description": "XAOC Devices Moskwa Sketchbook",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Sweden",
+    "art_id": 1206520776,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://voltagectrlr.bandcamp.com/album/xaoc-devices-moskwa-sketchbook",
+    "country_code": "se",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1206520776_7.jpg",
+    "details": {
+      "albumId": "922105514",
+      "tags": [
+        "analog modular synthesis",
+        "electronic",
+        "idm",
+        "shiro fujioka",
+        "voltagectrlr",
+        "xaoc moskwa",
+        "analog modular synthesis",
+        "beats",
+        "eurorack",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "utc_date": 1653860690.47242,
     "country": "United Kingdom",
     "artist_name": "Degeneration XXX",
@@ -1687,6 +1754,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1657667655.494874,
+    "artist_name": "Stunna Stairlift",
+    "item_type": "a",
+    "item_description": "Xelgix Digitape Complete",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3,
+    "country": "United States",
+    "art_id": 4023331563,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://casscamacho.bandcamp.com/album/xelgix-digitape-complete",
+    "country_code": "us",
+    "amount_paid_fmt": "$3",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a4023331563_7.jpg",
+    "details": {
+      "albumId": "1691565538",
+      "tags": [
+        "ambient",
+        "distorted beat",
+        "dreamy",
+        "electronic",
+        "hypnagogic",
+        "lofi",
+        "noise",
+        "psychedelic",
+        "solo home recording",
+        "sound collage",
+        "synth",
+        "Los Angeles"
       ]
     }
   },
