@@ -129,6 +129,34 @@
     }
   },
   {
+    "utc_date": 1657970135.6557305,
+    "artist_name": "TOKYO ROMANTIC",
+    "item_type": "a",
+    "item_description": "YAGARA EP vol.3",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 100,
+    "item_price": 0,
+    "amount_paid_usd": 0.72,
+    "country": "Japan",
+    "art_id": 3078609851,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://tokyoromantic.bandcamp.com/album/yagara-ep-vol-3",
+    "country_code": "jp",
+    "amount_paid_fmt": "¥100",
+    "art_url": "https://f4.bcbits.com/img/a3078609851_7.jpg",
+    "details": {
+      "albumId": "2974969876",
+      "tags": [
+        "electronic",
+        "Tokyo"
+      ]
+    }
+  },
+  {
     "utc_date": 1653765809.64132,
     "country": "United States",
     "artist_name": "Evan Fraser and Vir McCoy",
@@ -284,6 +312,69 @@
       "tags": [
         "alternative",
         "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657817891.7896194,
+    "artist_name": "YAM YAM",
+    "item_type": "a",
+    "item_description": "YAM YAM - The Peach Music Festival - 07/03/2021",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3657060869,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yamyamband.bandcamp.com/album/yam-yam-the-peach-music-festival-07-03-2021",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3657060869_7.jpg",
+    "details": {
+      "albumId": "2137969961",
+      "tags": [
+        "funk",
+        "jazz",
+        "jam",
+        "Harrisburg"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657894580.1556032,
+    "artist_name": "Adam Darowski",
+    "item_type": "a",
+    "item_description": "YAY!",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 2156585858,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://adarowski.bandcamp.com/album/yay",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a2156585858_7.jpg",
+    "details": {
+      "albumId": "4079448084",
+      "tags": [
+        "punk",
+        "indie",
+        "pop punk",
+        "power pop",
+        "punk rock",
+        "Rehoboth"
       ]
     }
   },
@@ -1019,6 +1110,39 @@
     }
   },
   {
+    "utc_date": 1657910981.4628298,
+    "artist_name": "HOORSEES",
+    "item_type": "a",
+    "item_description": "YOUTH (demos)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2.02,
+    "country": "Germany",
+    "art_id": 1167384451,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://hoorsees.bandcamp.com/album/youth-demos",
+    "country_code": "de",
+    "amount_paid_fmt": "€2",
+    "amount_over_fmt": "€2",
+    "art_url": "https://f4.bcbits.com/img/a1167384451_7.jpg",
+    "details": {
+      "albumId": "3992443230",
+      "tags": [
+        "nineties teen",
+        "rock",
+        "garage rock",
+        "lofi",
+        "shoegaze",
+        "Paris"
+      ]
+    }
+  },
+  {
     "utc_date": 1656769149.1034327,
     "artist_name": "JACOPO SB",
     "item_type": "a",
@@ -1106,6 +1230,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1657741603.8472204,
+    "artist_name": "YUKIYANAGI",
+    "item_type": "a",
+    "item_description": "YUKIYANAGI - Let Me Be EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 500,
+    "item_price": 0,
+    "amount_paid_usd": 3.64,
+    "country": "Netherlands",
+    "art_id": 1694536403,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yukiyanagi.bandcamp.com/album/yukiyanagi-let-me-be-ep",
+    "country_code": "nl",
+    "amount_paid_fmt": "¥500",
+    "amount_over_fmt": "¥500",
+    "art_url": "https://f4.bcbits.com/img/a1694536403_7.jpg",
+    "details": {
+      "albumId": "205936989",
+      "tags": [
+        "electronic",
+        "hardstyle",
+        "j-core",
+        "futurebass",
+        "hardcore",
+        "Japan"
       ]
     }
   },
@@ -1736,6 +1893,39 @@
     }
   },
   {
+    "utc_date": 1657714056.339676,
+    "artist_name": "2TO6 Records",
+    "item_type": "a",
+    "item_description": "Yaminahua - Total Harmonic Distortion (2TO6EP008) - FREE DOWNLOAD -",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "Japan",
+    "art_id": 3402892516,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://2to6records.bandcamp.com/album/yaminahua-total-harmonic-distortion-2to6ep008-free-download",
+    "country_code": "jp",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a3402892516_7.jpg",
+    "details": {
+      "albumId": "356359839",
+      "tags": [
+        "dark psy",
+        "electronic",
+        "hitech",
+        "psychedelic trance",
+        "forest",
+        "psytrance",
+        "Austria"
+      ]
+    }
+  },
+  {
     "utc_date": 1657290489.1913161,
     "artist_name": "Yoink",
     "item_type": "a",
@@ -2182,6 +2372,77 @@
         "mixtape",
         "sampler",
         "West Islip"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657726224.7791448,
+    "artist_name": "Loner Chic",
+    "item_type": "a",
+    "item_description": "Year Of The Goth",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 419621567,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://lonerchic.bandcamp.com/album/year-of-the-goth",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a0419621567_7.jpg",
+    "details": {
+      "albumId": "3634063222",
+      "tags": [
+        "pop punk",
+        "punk",
+        "indie rock",
+        "pop",
+        "power pop",
+        "New Haven"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657826744.8118107,
+    "artist_name": "AVANT! Records",
+    "item_type": "a",
+    "item_description": "Year Of The Mask",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Italy",
+    "art_id": 435322007,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://avantrecords.bandcamp.com/album/year-of-the-mask",
+    "country_code": "it",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a0435322007_7.jpg",
+    "details": {
+      "albumId": "4006013764",
+      "tags": [
+        "alternative",
+        "electronic",
+        "coldwave",
+        "darkwave",
+        "ebm",
+        "ethereal wave",
+        "industrial darkwave",
+        "minimal synth",
+        "minimal wave",
+        "new wave",
+        "synthpop",
+        "synthwave",
+        "Bologna"
       ]
     }
   },
@@ -2639,6 +2900,43 @@
         "punk",
         "hardcore",
         "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657983788.9347363,
+    "artist_name": "Various Artists",
+    "item_type": "a",
+    "item_description": "Yep Roc 2018",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3170439703,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yeprocrecords.bandcamp.com/album/yep-roc-2018",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3170439703_7.jpg",
+    "details": {
+      "albumId": "3908169942",
+      "tags": [
+        "americana",
+        "folk",
+        "yep roc",
+        "alternative",
+        "bluegrass",
+        "compilation",
+        "indie folk",
+        "indie rock",
+        "various artists",
+        "yep roc records",
+        "Hillsborough"
       ]
     }
   },
@@ -3208,6 +3506,40 @@
     }
   },
   {
+    "utc_date": 1657795777.0262277,
+    "artist_name": "Starcoma",
+    "item_type": "a",
+    "item_description": "Ylem",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 11.87,
+    "country": "Germany",
+    "art_id": 3422039109,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://starcoma.bandcamp.com/album/ylem",
+    "country_code": "de",
+    "amount_paid_fmt": "£10",
+    "amount_over_fmt": "£10",
+    "art_url": "https://f4.bcbits.com/img/a3422039109_7.jpg",
+    "details": {
+      "albumId": "1318846490",
+      "tags": [
+        "instrumental",
+        "melodic",
+        "metal",
+        "progressive",
+        "heavy metal",
+        "heavy rock",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a2085491385_7.jpg",
@@ -3752,6 +4084,38 @@
     }
   },
   {
+    "utc_date": 1657825660.22243,
+    "artist_name": "The Kleptones",
+    "item_type": "a",
+    "item_description": "Yoshimi Battles The Hip-Hop Robots",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 0.99,
+    "item_price": 0,
+    "amount_paid_usd": 1.17,
+    "country": "Greece",
+    "art_id": 581828828,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://kleptones.bandcamp.com/album/yoshimi-battles-the-hip-hop-robots",
+    "country_code": "gr",
+    "amount_paid_fmt": "£0.99",
+    "art_url": "https://f4.bcbits.com/img/a0581828828_7.jpg",
+    "details": {
+      "albumId": "3803565754",
+      "tags": [
+        "electronic",
+        "experimental",
+        "mashup",
+        "re-edit",
+        "remix",
+        "Amsterdam"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Svdestada",
     "currency": "EUR",
@@ -4102,6 +4466,39 @@
     }
   },
   {
+    "utc_date": 1657911950.169867,
+    "artist_name": "Spoken Records",
+    "item_type": "a",
+    "item_description": "You Are A Speaker: Together, Separate, and All-Together",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2732189444,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://spoken-records.bandcamp.com/album/you-are-a-speaker-together-separate-and-all-together",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2732189444_7.jpg",
+    "details": {
+      "albumId": "469788801",
+      "tags": [
+        "experimental",
+        "avant garde",
+        "contemporary classical",
+        "musique concrete",
+        "spoken word",
+        "text-sound",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "utc_date": 1656580918.2700262,
     "artist_name": "Phoenix #2772",
     "item_type": "a",
@@ -4414,6 +4811,34 @@
     }
   },
   {
+    "utc_date": 1657744501.7587209,
+    "artist_name": "Quinn",
+    "item_type": "a",
+    "item_description": "You Are What You Eat LP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "AUD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 0.68,
+    "country": "United States",
+    "art_id": 4034980769,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://freakazoidrecords.bandcamp.com/album/you-are-what-you-eat-lp",
+    "country_code": "us",
+    "amount_paid_fmt": "$1 AUD",
+    "art_url": "https://f4.bcbits.com/img/a4034980769_7.jpg",
+    "details": {
+      "albumId": "3022878224",
+      "tags": [
+        "experimental",
+        "Australia"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "item_description": "You Believe In Satan?",
     "artist_name": "アレックス H O R R O R 666",
@@ -4469,6 +4894,34 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1657748712.633321,
+    "artist_name": "You Brought Me a Panasonic DX4500",
+    "item_type": "a",
+    "item_description": "You Brought Me a Panasonic DX4500 : A Lo-fi Compilation",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Canada",
+    "art_id": 740645516,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://tmglofi.bandcamp.com/album/you-brought-me-a-panasonic-dx4500-a-lo-fi-compilation",
+    "country_code": "ca",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0740645516_7.jpg",
+    "details": {
+      "albumId": "1609796519",
+      "tags": [
+        "acoustic",
+        "Tallahassee"
       ]
     }
   },
@@ -5156,6 +5609,76 @@
     }
   },
   {
+    "utc_date": 1657885023.5245714,
+    "artist_name": "Dj P.",
+    "item_type": "a",
+    "item_description": "You Must Learn (C-Side)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Germany",
+    "art_id": 135475396,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://the1andonlydjp.bandcamp.com/album/you-must-learn-c-side",
+    "country_code": "de",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a0135475396_7.jpg",
+    "details": {
+      "albumId": "165624035",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "beatjugglin",
+        "boom-bap",
+        "golden era hip hop",
+        "mixtape",
+        "scratching",
+        "underground hip hop",
+        "underground hip-hop",
+        "vinyl only",
+        "Berlin"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657884775.0800254,
+    "artist_name": "Dj P.",
+    "item_type": "a",
+    "item_description": "You Must Learn - Volume 1",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Germany",
+    "art_id": 611749058,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://the1andonlydjp.bandcamp.com/album/you-must-learn-volume-1",
+    "country_code": "de",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a0611749058_7.jpg",
+    "details": {
+      "albumId": "3686852027",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "boom-bap",
+        "golden era hip hop",
+        "mixtape",
+        "underground hip-hop",
+        "Berlin"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "ca",
     "utc_date": 1654445660.78379,
@@ -5215,6 +5738,37 @@
         "beats",
         "lofi hip-hop",
         "Milan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657716210.0707045,
+    "artist_name": "Iroha",
+    "item_type": "a",
+    "item_description": "You Reap What You Sow",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.01,
+    "country": "United States",
+    "art_id": 1410777834,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://iroha.bandcamp.com/album/you-reap-what-you-sow",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1410777834_7.jpg",
+    "details": {
+      "albumId": "2737129130",
+      "tags": [
+        "metal",
+        "rock",
+        "electronica",
+        "shoegaze",
+        "United Kingdom"
       ]
     }
   },
@@ -5844,6 +6398,39 @@
     }
   },
   {
+    "utc_date": 1657865590.9170573,
+    "artist_name": "Prevention",
+    "item_type": "a",
+    "item_description": "Your Bad Habits",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 400432,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://preventionxxx.bandcamp.com/album/your-bad-habits",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0000400432_7.jpg",
+    "details": {
+      "albumId": "980277920",
+      "tags": [
+        "punk",
+        "hardcore",
+        "hardcore punk",
+        "straight edge",
+        "xxx",
+        "youth crew",
+        "Springfield"
+      ]
+    }
+  },
+  {
     "item_description": "Your Best Won't Do",
     "item_type": "a",
     "country_code": "us",
@@ -5940,6 +6527,41 @@
     }
   },
   {
+    "utc_date": 1657791297.2101943,
+    "artist_name": "Eerie Heir",
+    "item_type": "a",
+    "item_description": "Your Face Forgotten, Your Fate Nightmare",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CZK",
+    "amount_paid": 50,
+    "item_price": 0,
+    "amount_paid_usd": 2.06,
+    "country": "Germany",
+    "art_id": 3706297321,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://eerieheir.bandcamp.com/album/your-face-forgotten-your-fate-nightmare",
+    "country_code": "de",
+    "amount_paid_fmt": "50 CZK",
+    "amount_over_fmt": "50",
+    "art_url": "https://f4.bcbits.com/img/a3706297321_7.jpg",
+    "details": {
+      "albumId": "2769882502",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "blackgaze",
+        "metal",
+        "post black metal",
+        "raw black metal",
+        "shoegaze",
+        "Prague"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "at",
     "utc_date": 1654378914.03329,
@@ -5967,6 +6589,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1657741783.2132022,
+    "artist_name": "Oral Sax",
+    "item_type": "a",
+    "item_description": "Your Frustrations Will Fade Away",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "United States",
+    "art_id": 925740600,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://oralsax.bandcamp.com/album/your-frustrations-will-fade-away",
+    "country_code": "us",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a0925740600_7.jpg",
+    "details": {
+      "albumId": "1953184632",
+      "tags": [
+        "electronic",
+        "house",
+        "acid house",
+        "dreamy",
+        "retrowave",
+        "synthpop",
+        "synthwave",
+        "techno",
+        "Nashville"
       ]
     }
   },
@@ -6107,6 +6765,41 @@
         "soundtrack",
         "synthesizer",
         "Toronto"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658000173.6373255,
+    "artist_name": "A.Fruit",
+    "item_type": "a",
+    "item_description": "Your Inner Sun",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.01,
+    "country": "United Kingdom",
+    "art_id": 3674488562,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://annafruit.bandcamp.com/album/your-inner-sun",
+    "country_code": "gb",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a3674488562_7.jpg",
+    "details": {
+      "albumId": "1649168566",
+      "tags": [
+        "160bpm",
+        "d'n'b",
+        "electronic",
+        "experimental",
+        "footwork",
+        "future bass",
+        "jungle",
+        "juke",
+        "Moscow"
       ]
     }
   },
@@ -6520,6 +7213,35 @@
         "synthesizer",
         "alternate rock",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657766667.1254737,
+    "artist_name": "Youth Avoiders",
+    "item_type": "a",
+    "item_description": "Youth Avoiders",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.01,
+    "country": "United States",
+    "art_id": 2344933833,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youthavoiders.bandcamp.com/album/youth-avoiders",
+    "country_code": "us",
+    "amount_paid_fmt": "€3",
+    "amount_over_fmt": "€3",
+    "art_url": "https://f4.bcbits.com/img/a2344933833_7.jpg",
+    "details": {
+      "albumId": "595574979",
+      "tags": [
+        "punk",
+        "Paris"
       ]
     }
   },
@@ -7636,6 +8358,38 @@
     }
   },
   {
+    "utc_date": 1657935437.2957711,
+    "artist_name": "youcantgettheseincanada",
+    "item_type": "a",
+    "item_description": "youcantgettheseincanada",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2886836940,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youcantgettheseincanada.bandcamp.com/album/youcantgettheseincanada",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2886836940_7.jpg",
+    "details": {
+      "albumId": "3178768329",
+      "tags": [
+        "punk",
+        "hardcore",
+        "scremo",
+        "skramz",
+        "twinkles",
+        "Lancaster"
+      ]
+    }
+  },
+  {
     "country_code": "mx",
     "utc_date": 1655682273.59621,
     "releases": null,
@@ -7733,6 +8487,45 @@
         "powerpop",
         "surf",
         "San Antonio"
+      ]
+    }
+  },
+  {
+    "utc_date": 1657917449.047691,
+    "artist_name": "poems about bloodletting",
+    "item_type": "a",
+    "item_description": "you motherfuckers gotta go",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 1112351063,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://poemsaboutbloodletting.bandcamp.com/album/you-motherfuckers-gotta-go",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a1112351063_7.jpg",
+    "details": {
+      "albumId": "2463348259",
+      "tags": [
+        "folk",
+        "acoustic",
+        "bubblegum pop",
+        "claustrophobia pop",
+        "dirty rock",
+        "harsh noise",
+        "lofi",
+        "lofi noise",
+        "midwest emo",
+        "noise pop",
+        "pop",
+        "punk",
+        "Bluff"
       ]
     }
   },
