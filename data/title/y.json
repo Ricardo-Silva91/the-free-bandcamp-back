@@ -346,6 +346,42 @@
     }
   },
   {
+    "utc_date": 1658097964.2510674,
+    "artist_name": "Lord Distortion",
+    "item_type": "a",
+    "item_description": "YAUTJA",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Japan",
+    "art_id": 2401976260,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://distortionthe1.bandcamp.com/album/yautja",
+    "country_code": "jp",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2401976260_7.jpg",
+    "details": {
+      "albumId": "2667190165",
+      "tags": [
+        "hip-hop/rap",
+        "metal",
+        "aggressive rap",
+        "bass",
+        "gloomy",
+        "hardcore",
+        "trap metal",
+        "trapmetal",
+        "weird rap",
+        "Ohio"
+      ]
+    }
+  },
+  {
     "utc_date": 1657894580.1556032,
     "artist_name": "Adam Darowski",
     "item_type": "a",
@@ -8071,6 +8107,46 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658106170.287926,
+    "artist_name": "Jon Svetkey",
+    "item_type": "a",
+    "item_description": "yeah yeah yeah",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 20,
+    "item_price": 0,
+    "amount_paid_usd": 20,
+    "country": "United States",
+    "art_id": 2510077354,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://jonsvetkey.bandcamp.com/album/yeah-yeah-yeah",
+    "country_code": "us",
+    "amount_paid_fmt": "$20",
+    "amount_over_fmt": "$20",
+    "art_url": "https://f4.bcbits.com/img/a2510077354_7.jpg",
+    "details": {
+      "albumId": "2448591626",
+      "tags": [
+        "boston folk",
+        "club passim",
+        "dar williams",
+        "ellis paul",
+        "end construction productions",
+        "everett pendleton",
+        "folk",
+        "stuart ferguson",
+        "the loomers",
+        "acoustic",
+        "folk rock",
+        "singer-songwriter",
+        "Boston"
       ]
     }
   },

@@ -6462,6 +6462,38 @@
     }
   },
   {
+    "utc_date": 1658109431.0570936,
+    "artist_name": "You Me & Us",
+    "item_type": "a",
+    "item_description": "Paperweights",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "Canada",
+    "art_id": 63387886,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youmeandusband.bandcamp.com/album/paperweights",
+    "country_code": "ca",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a0063387886_7.jpg",
+    "details": {
+      "albumId": "281823125",
+      "tags": [
+        "pop",
+        "california",
+        "garage",
+        "noise",
+        "Palm Springs"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "ca",
     "utc_date": 1654469154.5199,
@@ -8445,6 +8477,40 @@
         "minimal techno",
         "techno",
         "Illingen"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658117376.591552,
+    "artist_name": "Yuu Kurihara",
+    "item_type": "a",
+    "item_description": "栗原優弾き語り 高円寺4th floor 20220605",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 1000,
+    "item_price": 0,
+    "amount_paid_usd": 7.24,
+    "country": "Japan",
+    "art_id": 2496018219,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yuukurihara.bandcamp.com/album/4th-floor-20220605",
+    "country_code": "jp",
+    "amount_paid_fmt": "¥1,000",
+    "amount_over_fmt": "¥1,000",
+    "art_url": "https://f4.bcbits.com/img/a2496018219_7.jpg",
+    "details": {
+      "albumId": "1768673053",
+      "tags": [
+        "acoustic",
+        "alternative",
+        "electronica",
+        "rock",
+        "soul",
+        "voice",
+        "Japan"
       ]
     }
   },

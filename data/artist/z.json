@@ -2480,6 +2480,46 @@
     }
   },
   {
+    "utc_date": 1658127928.9451241,
+    "artist_name": "Zaka Pulco",
+    "item_type": "a",
+    "item_description": "L'Amour Est Dans Le Prêt ...",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.04,
+    "country": "France",
+    "art_id": 2017276451,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zakapulco.bandcamp.com/album/lamour-est-dans-le-pr-t",
+    "country_code": "fr",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a2017276451_7.jpg",
+    "details": {
+      "albumId": "2094433777",
+      "tags": [
+        "electronic",
+        "experimental",
+        "abstract hip-hop",
+        "c'est dimanche",
+        "classical",
+        "hip hop",
+        "hip hop instrumentals",
+        "hybride ricordz",
+        "ixpa tonantzin",
+        "la primera",
+        "los puros",
+        "zaka pulco",
+        "Lyon"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "item_description": "Songs and Lamentations",
     "utc_date": 1655695498.45551,
@@ -3589,6 +3629,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658117495.1879277,
+    "artist_name": "Zegema Beach Records",
+    "item_type": "a",
+    "item_description": "Split - The World That Summer / Apostles Of Eris",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3277101365,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zegemabeachrecords.bandcamp.com/album/split-the-world-that-summer-apostles-of-eris",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3277101365_7.jpg",
+    "details": {
+      "albumId": "21346944",
+      "tags": [
+        "punk",
+        "emo-violence",
+        "post-hardcore",
+        "post-metal",
+        "screamo",
+        "skramz",
+        "Ladysmith"
       ]
     }
   },

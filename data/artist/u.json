@@ -37,6 +37,47 @@
     }
   },
   {
+    "utc_date": 1658090835.4792478,
+    "artist_name": "U-Rie  / Bass Culture Players",
+    "item_type": "a",
+    "item_description": "Digital Showcase",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.01,
+    "country": "United Kingdom",
+    "art_id": 1497512574,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://basscultureplayers.bandcamp.com/album/digital-showcase",
+    "country_code": "gb",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1497512574_7.jpg",
+    "details": {
+      "albumId": "578332694",
+      "tags": [
+        "reggae",
+        "barcelona",
+        "bass culture players",
+        "digital reggae",
+        "discoinferno",
+        "dub",
+        "lafamille music",
+        "madrid",
+        "neblina sound",
+        "reggae",
+        "reggae roots",
+        "roots",
+        "soulful",
+        "u-rie",
+        "Madrid"
+      ]
+    }
+  },
+  {
     "amount_paid": 2,
     "country_code": "us",
     "slug_type": "a",
@@ -1663,6 +1704,41 @@
         "modularsynth",
         "noise",
         "Russia"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658104017.9762545,
+    "artist_name": "UNRESTRAINED",
+    "item_type": "a",
+    "item_description": "Forward Onto Death",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 449217698,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://unrestrained.bandcamp.com/album/forward-onto-death",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0449217698_7.jpg",
+    "details": {
+      "albumId": "4209049995",
+      "tags": [
+        "hardcore",
+        "metal",
+        "metalcore",
+        "metallic hardcore",
+        "nwhc",
+        "northwest hardcore",
+        "portland",
+        "punk",
+        "metallic hardcore"
       ]
     }
   },
@@ -3882,6 +3958,35 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658119945.0594902,
+    "artist_name": "Umbrakinetic",
+    "item_type": "a",
+    "item_description": "RAZE",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10,
+    "country": "Philippines",
+    "art_id": 266741823,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://umbrakinetic.bandcamp.com/album/raze",
+    "country_code": "ph",
+    "amount_paid_fmt": "$10",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a0266741823_7.jpg",
+    "details": {
+      "albumId": "485332258",
+      "tags": [
+        "electronic",
+        "fake video game music"
       ]
     }
   },

@@ -1804,6 +1804,37 @@
     }
   },
   {
+    "utc_date": 1658102257.403769,
+    "artist_name": "JT3",
+    "item_type": "a",
+    "item_description": "JT3 Live at Spangalang",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1417573789,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://jt3music.bandcamp.com/album/jt3-live-at-spangalang",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1417573789_7.jpg",
+    "details": {
+      "albumId": "2357842944",
+      "tags": [
+        "b3 organ",
+        "jazz",
+        "jazz organ trio",
+        "jazz rock",
+        "Denver"
+      ]
+    }
+  },
+  {
     "utc_date": 1653816324.08902,
     "country": "Italy",
     "artist_name": "LLEROY",
@@ -6515,6 +6546,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658123746.9650378,
+    "artist_name": "Jogging",
+    "item_type": "a",
+    "item_description": "Jogging",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 2.31,
+    "country": "Canada",
+    "art_id": 4198043231,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://joggingisgoodforyou.bandcamp.com/album/jogging-2",
+    "country_code": "ca",
+    "amount_paid_fmt": "$3 CAD",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a4198043231_7.jpg",
+    "details": {
+      "albumId": "2276454383",
+      "tags": [
+        "alternative",
+        "rock",
+        "indie",
+        "toronto",
+        "Toronto"
       ]
     }
   },

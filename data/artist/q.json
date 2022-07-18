@@ -643,6 +643,48 @@
     }
   },
   {
+    "utc_date": 1658092143.4306238,
+    "artist_name": "Qeight",
+    "item_type": "a",
+    "item_description": "Soul Salvation",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1.01,
+    "item_price": 0,
+    "amount_paid_usd": 1.02,
+    "country": "Poland",
+    "art_id": 16131925,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://cosmicleaf.bandcamp.com/album/soul-salvation",
+    "country_code": "pl",
+    "amount_paid_fmt": "€1.01",
+    "amount_over_fmt": "€1.01",
+    "art_url": "https://f4.bcbits.com/img/a0016131925_7.jpg",
+    "details": {
+      "albumId": "802319002",
+      "tags": [
+        "2step",
+        "ambient",
+        "chill out",
+        "chillout",
+        "chillstep",
+        "cosmicleaf",
+        "download chill out music",
+        "downtempo",
+        "electronica",
+        "future garage",
+        "psychill",
+        "qeight",
+        "trance",
+        "trip hop",
+        "Greece"
+      ]
+    }
+  },
+  {
     "amount_paid": 0.5,
     "country_code": "es",
     "art_url": "https://f4.bcbits.com/img/a0799050293_7.jpg",
@@ -2453,6 +2495,47 @@
         "ambient",
         "trance",
         "Sweden"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658055793.5839193,
+    "artist_name": "Quixotic and The Human Experience",
+    "item_type": "a",
+    "item_description": "From the Outside Looking in",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United Kingdom",
+    "art_id": 2294344951,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://thehumanexperience.bandcamp.com/album/from-the-outside-looking-in",
+    "country_code": "gb",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a2294344951_7.jpg",
+    "details": {
+      "albumId": "1355667535",
+      "tags": [
+        "world",
+        "acoustic",
+        "ambient",
+        "chill out",
+        "cinematic",
+        "dance",
+        "downtempo",
+        "electronic",
+        "ethno",
+        "global",
+        "organic",
+        "world",
+        "world fusion",
+        "California"
       ]
     }
   },
