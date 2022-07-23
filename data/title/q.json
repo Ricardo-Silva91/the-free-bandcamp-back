@@ -99,6 +99,35 @@
     }
   },
   {
+    "utc_date": 1658304013.905084,
+    "artist_name": "Jung DJ",
+    "item_type": "a",
+    "item_description": "Q/Archive",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "United States",
+    "art_id": 2607542022,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://jungdeejay.bandcamp.com/album/q-archive",
+    "country_code": "us",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a2607542022_7.jpg",
+    "details": {
+      "albumId": "2955832504",
+      "tags": [
+        "world",
+        "New York"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "c2",
     "slug_type": "a",
@@ -236,6 +265,35 @@
         "rhythmic noise",
         "synthpop",
         "New Zealand"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658490277.5442839,
+    "artist_name": "GLAAS",
+    "item_type": "a",
+    "item_description": "QUALM",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.08,
+    "country": "Spain",
+    "art_id": 1816057924,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://glaas.bandcamp.com/album/qualm",
+    "country_code": "es",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a1816057924_7.jpg",
+    "details": {
+      "albumId": "583614704",
+      "tags": [
+        "punk",
+        "Berlin"
       ]
     }
   },
@@ -929,6 +987,45 @@
     }
   },
   {
+    "utc_date": 1658383979.9214544,
+    "artist_name": "Vater Denke",
+    "item_type": "a",
+    "item_description": "Qualm",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.51,
+    "country": "Japan",
+    "art_id": 16956516,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://vaterdenke.bandcamp.com/album/qualm",
+    "country_code": "jp",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a0016956516_7.jpg",
+    "details": {
+      "albumId": "3991987897",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "blackgaze",
+        "doom",
+        "experimental black metal",
+        "instrumental black metal",
+        "metal",
+        "progressive metal",
+        "avantgarde metal",
+        "cosmic black metal",
+        "dark ambient",
+        "doom metal",
+        "Germany"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "us",
     "utc_date": 1654449185.27121,
@@ -1019,6 +1116,41 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658522641.879462,
+    "artist_name": "Visceral Climax",
+    "item_type": "a",
+    "item_description": "Quando Sobreviver se Torna Inviável",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1330901310,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://visceralclimax.bandcamp.com/album/quando-sobreviver-se-torna-invi-vel",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1330901310_7.jpg",
+    "details": {
+      "albumId": "1216512907",
+      "tags": [
+        "death metal",
+        "punk",
+        "crust punk",
+        "goregrind",
+        "grindcore",
+        "hardcore",
+        "mince",
+        "noise",
+        "Fortaleza"
       ]
     }
   },
@@ -1497,6 +1629,38 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658268432.5388117,
+    "artist_name": "Sensa",
+    "item_type": "a",
+    "item_description": "Quarantine Creations",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.6,
+    "country": "United Kingdom",
+    "art_id": 1162162639,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://sensasounds.bandcamp.com/album/quarantine-creations",
+    "country_code": "gb",
+    "amount_paid_fmt": "£0.50",
+    "art_url": "https://f4.bcbits.com/img/a1162162639_7.jpg",
+    "details": {
+      "albumId": "4175389124",
+      "tags": [
+        "electronic",
+        "breakbeat",
+        "breaks",
+        "jungle",
+        "ukgarage",
+        "Bristol"
       ]
     }
   },
@@ -2109,6 +2273,36 @@
     }
   },
   {
+    "utc_date": 1658147263.7945704,
+    "artist_name": "歳納さん",
+    "item_type": "a",
+    "item_description": "Queen of Neptune",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Japan",
+    "art_id": 955998806,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://toshino-san.bandcamp.com/album/queen-of-neptune",
+    "country_code": "jp",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0955998806_7.jpg",
+    "details": {
+      "albumId": "1276648269",
+      "tags": [
+        "experimental",
+        "nightcore revival",
+        "post-nightcore",
+        "Takaoka"
+      ]
+    }
+  },
+  {
     "utc_date": 1653804384.0893,
     "country": "United States",
     "artist_name": "Starmoon",
@@ -2260,6 +2454,36 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658369706.0570612,
+    "artist_name": "MOHAMA SAZ",
+    "item_type": "a",
+    "item_description": "Quemar las naves",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.02,
+    "country": "United States",
+    "art_id": 2739399398,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://mohamasaz.bandcamp.com/album/quemar-las-naves",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2739399398_7.jpg",
+    "details": {
+      "albumId": "965426627",
+      "tags": [
+        "experimental",
+        "mohama saz",
+        "spanish turkish music",
+        "Madrid"
       ]
     }
   },
@@ -2470,6 +2694,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658157113.7795932,
+    "artist_name": "Dana Dirksen",
+    "item_type": "a",
+    "item_description": "Questions with Answers Vol. 1: God and Creation",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1360232781,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://sfs-music.bandcamp.com/album/questions-with-answers-vol-1-god-and-creation",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1360232781_7.jpg",
+    "details": {
+      "albumId": "65824164",
+      "tags": [
+        "christian",
+        "god",
+        "kids",
+        "bible",
+        "children's music",
+        "church",
+        "church music",
+        "educational",
+        "folk",
+        "kids",
+        "scripture",
+        "Portland"
       ]
     }
   },
@@ -3024,6 +3286,44 @@
     }
   },
   {
+    "utc_date": 1658378299.965391,
+    "artist_name": "Rhyme Artist",
+    "item_type": "a",
+    "item_description": "Quinto Die",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Canada",
+    "art_id": 2136452672,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://rhymeartist.bandcamp.com/album/quinto-die",
+    "country_code": "ca",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2136452672_7.jpg",
+    "details": {
+      "albumId": "3199487712",
+      "tags": [
+        "hip hop",
+        "hip-hop",
+        "hip-hop/rap",
+        "rap",
+        "stove god cook$ & roc marciano",
+        "boom bap",
+        "comic book",
+        "free music",
+        "nerdcore",
+        "underground",
+        "underground hip hop",
+        "Amarillo"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "artist_name": "tunic",
     "currency": "USD",
@@ -3183,6 +3483,38 @@
         "progressive black metal",
         "sludge metal",
         "Neuchâtel"
+      ]
+    }
+  },
+  {
+    "utc_date": 1658223287.041872,
+    "artist_name": "Dr Berndt Hoffmann",
+    "item_type": "a",
+    "item_description": "Quordd City",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.6,
+    "country": "United Kingdom",
+    "art_id": 1568792880,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://drberndthoffmann.bandcamp.com/album/quordd-city",
+    "country_code": "gb",
+    "amount_paid_fmt": "£3",
+    "amount_over_fmt": "£3",
+    "art_url": "https://f4.bcbits.com/img/a1568792880_7.jpg",
+    "details": {
+      "albumId": "1373777178",
+      "tags": [
+        "electronic",
+        "experimental",
+        "modular",
+        "modular synth",
+        "London"
       ]
     }
   },
@@ -3359,6 +3691,39 @@
     }
   },
   {
+    "utc_date": 1658356432.305386,
+    "artist_name": "yan jun",
+    "item_type": "a",
+    "item_description": "quartet h.k. 香港四重奏",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10.18,
+    "country": "United Kingdom",
+    "art_id": 808295798,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yanjun.bandcamp.com/album/quartet-h-k",
+    "country_code": "gb",
+    "amount_paid_fmt": "€10",
+    "amount_over_fmt": "€10",
+    "art_url": "https://f4.bcbits.com/img/a0808295798_7.jpg",
+    "details": {
+      "albumId": "3109910440",
+      "tags": [
+        "experimental",
+        "feedback",
+        "field recording",
+        "improvised music",
+        "sound art",
+        "Beijing"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "mx",
     "utc_date": 1654487677.25354,
@@ -3386,6 +3751,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1658343620.6631622,
+    "artist_name": "elizabeth whitington",
+    "item_type": "a",
+    "item_description": "quiet pop songs",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 363065216,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://elizabethwhitington.bandcamp.com/album/quiet-pop-songs",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0363065216_7.jpg",
+    "details": {
+      "albumId": "3583436223",
+      "tags": [
+        "experimental",
+        "bedroom recordings",
+        "claustrophobia pop",
+        "diy",
+        "emo",
+        "lofi",
+        "noise pop",
+        "nutcore",
+        "queer",
+        "Martinez"
       ]
     }
   },
