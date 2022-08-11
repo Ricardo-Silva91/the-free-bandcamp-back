@@ -1119,6 +1119,101 @@
     }
   },
   {
+    "utc_date": 1660053855.3611054,
+    "artist_name": "YDANE",
+    "item_type": "a",
+    "item_description": "KANDA 2",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.12,
+    "country": "France",
+    "art_id": 3143406431,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https:https://souterraine.biz/album/kanda-2",
+    "country_code": "fr",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a3143406431_7.jpg",
+    "details": {
+      "albumId": "575401661",
+      "tags": [
+        "chanson française",
+        "free download",
+        "freedownload",
+        "french pop",
+        "french rap",
+        "nouvelle chanson française",
+        "sad rap",
+        "La Souterraine"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660137946.9465308,
+    "artist_name": "YDINPERHE",
+    "item_type": "a",
+    "item_description": "Kymmenen välivuotta LP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.13,
+    "country": "Finland",
+    "art_id": 1296242863,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ydinperhe.bandcamp.com/album/kymmenen-v-livuotta-lp",
+    "country_code": "fi",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a1296242863_7.jpg",
+    "details": {
+      "albumId": "2826279871",
+      "tags": [
+        "punk",
+        "hardcore",
+        "Finland"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659741569.693328,
+    "artist_name": "YDINPERHE",
+    "item_type": "a",
+    "item_description": "ÄLÄ TEE MITÄ PITÄÄ LP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2.04,
+    "country": "Finland",
+    "art_id": 94858119,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ydinperhe.bandcamp.com/album/l-tee-mit-pit-lp",
+    "country_code": "fi",
+    "amount_paid_fmt": "€2",
+    "amount_over_fmt": "€2",
+    "art_url": "https://f4.bcbits.com/img/a0094858119_7.jpg",
+    "details": {
+      "albumId": "462902586",
+      "tags": [
+        "punk",
+        "hardcore",
+        "Finland"
+      ]
+    }
+  },
+  {
     "utc_date": 1656840674.398567,
     "artist_name": "YEAH YOU",
     "item_type": "a",
@@ -1406,6 +1501,46 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1659613533.4456208,
+    "artist_name": "YESJAR",
+    "item_type": "a",
+    "item_description": "De Toegift",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.06,
+    "country": "Germany",
+    "art_id": 2253948057,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yesjar.bandcamp.com/album/de-toegift",
+    "country_code": "de",
+    "amount_paid_fmt": "€3",
+    "amount_over_fmt": "€3",
+    "art_url": "https://f4.bcbits.com/img/a2253948057_7.jpg",
+    "details": {
+      "albumId": "1874619122",
+      "tags": [
+        "deep house",
+        "drum & bass",
+        "electronic",
+        "experimental",
+        "house",
+        "lo-fi",
+        "techno",
+        "breakbeat",
+        "electro",
+        "electronic",
+        "lo-fi",
+        "techno",
+        "Berlin"
       ]
     }
   },
@@ -2035,6 +2170,39 @@
     }
   },
   {
+    "utc_date": 1659691822.898894,
+    "artist_name": "YSENGÅRD",
+    "item_type": "a",
+    "item_description": "Pagan Forest",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.51,
+    "country": "France",
+    "art_id": 791711368,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ysengard.bandcamp.com/album/pagan-forest",
+    "country_code": "fr",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a0791711368_7.jpg",
+    "details": {
+      "albumId": "3266873276",
+      "tags": [
+        "black metal",
+        "blackened heavy metal",
+        "dungeon metal",
+        "dungeon synth",
+        "medieval black metal",
+        "metal",
+        "Liechtenstein"
+      ]
+    }
+  },
+  {
     "utc_date": 1659560283.415541,
     "artist_name": "YSIDRO",
     "item_type": "a",
@@ -2059,6 +2227,34 @@
       "tags": [
         "punk",
         "San Diego"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659689548.234708,
+    "artist_name": "YTST",
+    "item_type": "a",
+    "item_description": "We Are Terror",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 3104703231,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://fastercrapproduction.bandcamp.com/album/we-are-terror",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3104703231_7.jpg",
+    "details": {
+      "albumId": "2365382086",
+      "tags": [
+        "world",
+        "Seoul"
       ]
     }
   },
@@ -2130,6 +2326,37 @@
         "futurebass",
         "hardcore",
         "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659761930.62304,
+    "artist_name": "YUNG BAE",
+    "item_type": "a",
+    "item_description": "Skyscraper Anonymous",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3936445025,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yungbaebae.bandcamp.com/album/skyscraper-anonymous",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3936445025_7.jpg",
+    "details": {
+      "albumId": "393989930",
+      "tags": [
+        "funk",
+        "disco",
+        "future funk",
+        "vaporwave",
+        "Los Angeles"
       ]
     }
   },
@@ -3131,6 +3358,42 @@
     }
   },
   {
+    "utc_date": 1659632369.0406346,
+    "artist_name": "Yahowa",
+    "item_type": "a",
+    "item_description": "Take Me Gently, But Do Take Me",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "DKK",
+    "amount_paid": 40,
+    "item_price": 0,
+    "amount_paid_usd": 5.49,
+    "country": "United States",
+    "art_id": 3306888417,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yahowa.bandcamp.com/album/take-me-gently-but-do-take-me",
+    "country_code": "us",
+    "amount_paid_fmt": "40 DKK",
+    "amount_over_fmt": "40",
+    "art_url": "https://f4.bcbits.com/img/a3306888417_7.jpg",
+    "details": {
+      "albumId": "3479695660",
+      "tags": [
+        "alternative",
+        "dope pop",
+        "dope pop",
+        "indie rock",
+        "punk rock",
+        "punkrock",
+        "satanic folk",
+        "shoegaze",
+        "Copenhagen"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "ca",
     "utc_date": 1654454129.87039,
@@ -3517,6 +3780,38 @@
         "dub",
         "uk roots",
         "Bristol"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659830468.6011312,
+    "artist_name": "Yakui",
+    "item_type": "a",
+    "item_description": "Pillars / Other Heart Tracks",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 921053985,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yakui.bandcamp.com/album/pillars-other-heart-tracks",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a0921053985_7.jpg",
+    "details": {
+      "albumId": "1318726710",
+      "tags": [
+        "electronic",
+        "idm",
+        "ambient techno",
+        "metro-ko",
+        "new age",
+        "Pittsburgh"
       ]
     }
   },
@@ -4123,6 +4418,35 @@
         "morusque",
         "soundscape",
         "France"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659722428.8968582,
+    "artist_name": "Yantan Ministry",
+    "item_type": "a",
+    "item_description": "ATTACCO MIXTAPE",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.05,
+    "country": "United States",
+    "art_id": 76805181,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yantanministry.bandcamp.com/album/attacco-mixtape",
+    "country_code": "us",
+    "amount_paid_fmt": "€3",
+    "amount_over_fmt": "€3",
+    "art_url": "https://f4.bcbits.com/img/a0076805181_7.jpg",
+    "details": {
+      "albumId": "2959383625",
+      "tags": [
+        "experimental",
+        "Berlin"
       ]
     }
   },
@@ -4750,6 +5074,41 @@
     }
   },
   {
+    "utc_date": 1659906163.4690647,
+    "artist_name": "Yawning Chasm",
+    "item_type": "a",
+    "item_description": "Whispered Sun EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2.04,
+    "country": "United Kingdom",
+    "art_id": 1293668451,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yawningchasm.bandcamp.com/album/whispered-sun-ep",
+    "country_code": "gb",
+    "amount_paid_fmt": "€2",
+    "amount_over_fmt": "€2",
+    "art_url": "https://f4.bcbits.com/img/a1293668451_7.jpg",
+    "details": {
+      "albumId": "3660078277",
+      "tags": [
+        "folk",
+        "galway",
+        "acoustic",
+        "casio",
+        "folkish",
+        "songwriter",
+        "tenor guitar",
+        "Ireland"
+      ]
+    }
+  },
+  {
     "utc_date": 1656800274.8815079,
     "artist_name": "Yawning Chasm",
     "item_type": "a",
@@ -5361,6 +5720,39 @@
         "post-rock",
         "shoegaze",
         "Belgium"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660067132.2559335,
+    "artist_name": "Yeast Machine",
+    "item_type": "a",
+    "item_description": "Behind The Dead End EP - Studio Live Session",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.11,
+    "country": "Germany",
+    "art_id": 112839183,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yeastmachine.bandcamp.com/album/behind-the-dead-end-ep-studio-live-session",
+    "country_code": "de",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a0112839183_7.jpg",
+    "details": {
+      "albumId": "1558247977",
+      "tags": [
+        "rock",
+        "alternative rock",
+        "grunge",
+        "psychedelic rock",
+        "stoner rock",
+        "Tübingen"
       ]
     }
   },
@@ -6308,6 +6700,39 @@
     }
   },
   {
+    "utc_date": 1660018691.7163606,
+    "artist_name": "Yhdarl",
+    "item_type": "a",
+    "item_description": "Und so endet es",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.51,
+    "country": "Australia",
+    "art_id": 999034237,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yhdarl.bandcamp.com/album/und-so-endet-es",
+    "country_code": "au",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a0999034237_7.jpg",
+    "details": {
+      "albumId": "1130677767",
+      "tags": [
+        "metal",
+        "black metal",
+        "doom metal",
+        "drone metal",
+        "noise",
+        "suicidal",
+        "Belgium"
+      ]
+    }
+  },
+  {
     "utc_date": 1656823883.2213013,
     "artist_name": "Yhdarl",
     "item_type": "a",
@@ -6881,6 +7306,36 @@
         "rock",
         "session",
         "Shenzhen"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659618995.050167,
+    "artist_name": "Yiros MC",
+    "item_type": "a",
+    "item_description": "Kebab Shop Stories",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "AUD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 0.7,
+    "country": "Australia",
+    "art_id": 3578707049,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yiros.bandcamp.com/album/kebab-shop-stories",
+    "country_code": "au",
+    "amount_paid_fmt": "$1 AUD",
+    "art_url": "https://f4.bcbits.com/img/a3578707049_7.jpg",
+    "details": {
+      "albumId": "177895419",
+      "tags": [
+        "hip-hop/rap",
+        "greasy",
+        "underground hip hop",
+        "Perth"
       ]
     }
   },
@@ -8330,6 +8785,40 @@
     }
   },
   {
+    "utc_date": 1660020175.5383267,
+    "artist_name": "Yotsuya Kaidan",
+    "item_type": "a",
+    "item_description": "Tired Of Tomorrow's You EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 3743935176,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://samegreyrecords.bandcamp.com/album/tired-of-tomorrows-you-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a3743935176_7.jpg",
+    "details": {
+      "albumId": "2732654560",
+      "tags": [
+        "punk",
+        "emo",
+        "emotional hardcore",
+        "emoviolence",
+        "screamo",
+        "skramz",
+        "Odessa"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655958179.45954,
     "releases": null,
@@ -9050,6 +9539,45 @@
     }
   },
   {
+    "utc_date": 1659821872.8782241,
+    "artist_name": "Young Jesus",
+    "item_type": "a",
+    "item_description": "Grow / Decompose",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "United Kingdom",
+    "art_id": 2039341407,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youngjesus.bandcamp.com/album/grow-decompose",
+    "country_code": "gb",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a2039341407_7.jpg",
+    "details": {
+      "albumId": "4006116317",
+      "tags": [
+        "alternative",
+        "chicago",
+        "pop punk",
+        "rock",
+        "emo",
+        "grunge",
+        "hellhole supermarket",
+        "indie",
+        "post-punk",
+        "shoegaze",
+        "tain",
+        "Los Angeles"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655966851.79493,
     "releases": null,
@@ -9077,6 +9605,42 @@
         "post rock",
         "shoegaze",
         "Los Angeles"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660172731.173096,
+    "artist_name": "Young Mister",
+    "item_type": "a",
+    "item_description": "Young Mister",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3485314468,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youngmister.bandcamp.com/album/young-mister",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3485314468_7.jpg",
+    "details": {
+      "albumId": "3017387222",
+      "tags": [
+        "story core",
+        "world",
+        "cd",
+        "colored vinyl",
+        "folk",
+        "folk rock",
+        "indie",
+        "steven fiore",
+        "vinyl",
+        "Waynesville"
       ]
     }
   },
@@ -9180,6 +9744,38 @@
     }
   },
   {
+    "utc_date": 1659911439.1419444,
+    "artist_name": "Young Republicans",
+    "item_type": "a",
+    "item_description": "Television Bangsquad",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4,
+    "country": "United States",
+    "art_id": 1836491308,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youngrepublicans.bandcamp.com/album/television-bangsquad",
+    "country_code": "us",
+    "amount_paid_fmt": "$4",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a1836491308_7.jpg",
+    "details": {
+      "albumId": "1433765068",
+      "tags": [
+        "hip-hop. rap",
+        "hip-hop/rap",
+        "weirdo",
+        "electro",
+        "New York"
+      ]
+    }
+  },
+  {
     "utc_date": 1658248580.9034286,
     "artist_name": "Young Scum",
     "item_type": "a",
@@ -9211,6 +9807,37 @@
         "noise pop",
         "power pop",
         "Richmond"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659616194.3355818,
+    "artist_name": "Young Tricksters",
+    "item_type": "a",
+    "item_description": "Ripples",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10,
+    "country": "United States",
+    "art_id": 2524674058,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youngtricksters.bandcamp.com/album/ripples",
+    "country_code": "us",
+    "amount_paid_fmt": "$10",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a2524674058_7.jpg",
+    "details": {
+      "albumId": "354401741",
+      "tags": [
+        "alternative",
+        "explorative rock",
+        "rock",
+        "Amherst"
       ]
     }
   },
@@ -9716,6 +10343,37 @@
     }
   },
   {
+    "utc_date": 1659903275.4032059,
+    "artist_name": "Youth & Canvas",
+    "item_type": "a",
+    "item_description": "saints",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Germany",
+    "art_id": 1499753967,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://youthandcanvas.bandcamp.com/album/saints",
+    "country_code": "de",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1499753967_7.jpg",
+    "details": {
+      "albumId": "3389625080",
+      "tags": [
+        "rock",
+        "blues rock",
+        "garage rock",
+        "roots",
+        "Austin"
+      ]
+    }
+  },
+  {
     "utc_date": 1657766667.1254737,
     "artist_name": "Youth Avoiders",
     "item_type": "a",
@@ -10158,6 +10816,39 @@
     }
   },
   {
+    "utc_date": 1659806695.1202624,
+    "artist_name": "Ypaul de Quarse",
+    "item_type": "a",
+    "item_description": "Die ganze Welt brennt",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 4.07,
+    "country": "Germany",
+    "art_id": 1792028021,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ypauldequarse.bandcamp.com/album/die-ganze-welt-brennt",
+    "country_code": "de",
+    "amount_paid_fmt": "€4",
+    "amount_over_fmt": "€4",
+    "art_url": "https://f4.bcbits.com/img/a1792028021_7.jpg",
+    "details": {
+      "albumId": "794825426",
+      "tags": [
+        "alternative",
+        "industrial",
+        "medieval",
+        "noise",
+        "outer worlds",
+        "Paris"
+      ]
+    }
+  },
+  {
     "utc_date": 1653702742.42399,
     "country": "United States",
     "artist_name": "Yr Face",
@@ -10193,6 +10884,45 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1659916304.277146,
+    "artist_name": "Yr Helyg",
+    "item_type": "a",
+    "item_description": "hyphae",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3,
+    "country": "Australia",
+    "art_id": 1191249567,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://marienhaus.bandcamp.com/album/hyphae",
+    "country_code": "au",
+    "amount_paid_fmt": "$3",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a1191249567_7.jpg",
+    "details": {
+      "albumId": "3243275374",
+      "tags": [
+        "experimental",
+        "hartford",
+        "ambient",
+        "ambient techno",
+        "drone",
+        "dub techno",
+        "electronica",
+        "experimental electronic",
+        "glitch",
+        "idm",
+        "minimal",
+        "Baltimore"
       ]
     }
   },
@@ -10703,6 +11433,39 @@
         "drone ambient",
         "spiritual",
         "Moscow"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659902965.4930606,
+    "artist_name": "Yuka",
+    "item_type": "a",
+    "item_description": "Episodes of Yesterday",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "South Africa",
+    "art_id": 559184053,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https:https://shop.silentseason.com/album/episodes-of-yesterday",
+    "country_code": "za",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0559184053_7.jpg",
+    "details": {
+      "albumId": "1751854632",
+      "tags": [
+        "electronic",
+        "ambient",
+        "ambient techno",
+        "deep techno",
+        "dub techno",
+        "dubtechno",
+        "techno"
       ]
     }
   },
@@ -11392,6 +12155,38 @@
     }
   },
   {
+    "utc_date": 1660114838.294606,
+    "artist_name": "Yung Morpheus x Sumthin Gunny",
+    "item_type": "a",
+    "item_description": "Juxtaposition",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.02,
+    "country": "United Kingdom",
+    "art_id": 2753301515,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://cosmic-compositions.bandcamp.com/album/juxtaposition",
+    "country_code": "gb",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2753301515_7.jpg",
+    "details": {
+      "albumId": "1193677144",
+      "tags": [
+        "gully",
+        "hip hop",
+        "new york",
+        "rap",
+        "beats",
+        "lo-fi"
+      ]
+    }
+  },
+  {
     "country_code": "nl",
     "utc_date": 1655650203.96553,
     "releases": null,
@@ -11927,6 +12722,42 @@
     }
   },
   {
+    "utc_date": 1660086679.2954023,
+    "artist_name": "yQwO",
+    "item_type": "a",
+    "item_description": "vhyrcqs",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 15,
+    "item_price": 0,
+    "amount_paid_usd": 18.11,
+    "country": "United States",
+    "art_id": 848187698,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yqwo.bandcamp.com/album/vhyrcqs",
+    "country_code": "us",
+    "amount_paid_fmt": "£15",
+    "amount_over_fmt": "£15",
+    "art_url": "https://f4.bcbits.com/img/a0848187698_7.jpg",
+    "details": {
+      "albumId": "646180267",
+      "tags": [
+        "electronic",
+        "abrasive",
+        "atmospheric",
+        "coldwave",
+        "electro",
+        "electronica",
+        "heavy",
+        "industrial",
+        "Plymouth"
+      ]
+    }
+  },
+  {
     "utc_date": 1657294617.8276832,
     "artist_name": "yQwO",
     "item_type": "a",
@@ -12156,6 +12987,36 @@
     }
   },
   {
+    "utc_date": 1659862870.6940281,
+    "artist_name": "yarivuel",
+    "item_type": "a",
+    "item_description": "the pattern of corrupted expressions",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3369240711,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yarivuel.bandcamp.com/album/the-pattern-of-corrupted-expressions-2",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3369240711_7.jpg",
+    "details": {
+      "albumId": "3202720407",
+      "tags": [
+        "experimental",
+        "ambient",
+        "haunting",
+        "Maykop"
+      ]
+    }
+  },
+  {
     "utc_date": 1659027519.9137979,
     "artist_name": "yaseta",
     "item_type": "a",
@@ -12187,6 +13048,38 @@
         "dance",
         "hardcore",
         "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660048765.1895103,
+    "artist_name": "yawner.",
+    "item_type": "a",
+    "item_description": "naysay",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1975037312,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yawnerband.bandcamp.com/album/naysay",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1975037312_7.jpg",
+    "details": {
+      "albumId": "119422334",
+      "tags": [
+        "dark wave",
+        "electronic",
+        "punk",
+        "indie rock",
+        "post-punk",
+        "Columbus"
       ]
     }
   },
@@ -12321,6 +13214,40 @@
         "slacker rock",
         "xbox360",
         "Philadelphia"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659907916.2695076,
+    "artist_name": "yellow6",
+    "item_type": "a",
+    "item_description": "Archive Series - E.P. (Catherine Whiskey)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.63,
+    "country": "United Kingdom",
+    "art_id": 2716828292,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yellow6.bandcamp.com/album/archive-series-e-p-catherine-whiskey",
+    "country_code": "gb",
+    "amount_paid_fmt": "£3",
+    "amount_over_fmt": "£3",
+    "art_url": "https://f4.bcbits.com/img/a2716828292_7.jpg",
+    "details": {
+      "albumId": "616453311",
+      "tags": [
+        "ambient",
+        "drone",
+        "minimalist",
+        "post-rock",
+        "shoegaze",
+        "soundscape",
+        "Leicester"
       ]
     }
   },
@@ -12748,6 +13675,39 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1659921915.1928804,
+    "artist_name": "yoel melek",
+    "item_type": "a",
+    "item_description": "amerikkka'smosthunted (EP)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 12,
+    "item_price": 0,
+    "amount_paid_usd": 12,
+    "country": "United States",
+    "art_id": 2854359734,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yoelmelek.bandcamp.com/album/amerikkkasmosthunted-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "$12",
+    "amount_over_fmt": "$12",
+    "art_url": "https://f4.bcbits.com/img/a2854359734_7.jpg",
+    "details": {
+      "albumId": "1646501232",
+      "tags": [
+        "christian",
+        "hip hop",
+        "hip-hop/rap",
+        "rap",
+        "truth music",
+        "Raleigh"
       ]
     }
   },
@@ -13342,6 +14302,76 @@
     }
   },
   {
+    "utc_date": 1659910970.6032605,
+    "artist_name": "ytcracker",
+    "item_type": "a",
+    "item_description": "Strictly for My Streamers",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1554418361,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ytcracker.bandcamp.com/album/strictly-for-my-streamers",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1554418361_7.jpg",
+    "details": {
+      "albumId": "1761780711",
+      "tags": [
+        "hip-hop/rap",
+        "chiptune",
+        "cyberpunk",
+        "electronic",
+        "hacker",
+        "nerdcore",
+        "Colorado"
+      ]
+    }
+  },
+  {
+    "utc_date": 1659910690.6161556,
+    "artist_name": "ytcracker",
+    "item_type": "a",
+    "item_description": "introducing neals",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 982730190,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ytcracker.bandcamp.com/album/introducing-neals",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0982730190_7.jpg",
+    "details": {
+      "albumId": "3015993515",
+      "tags": [
+        "hip-hop",
+        "hip-hop/rap",
+        "rap",
+        "chiptune",
+        "cyberpunk",
+        "electronic",
+        "hacker",
+        "nerdcore",
+        "outrun",
+        "synthwave",
+        "Colorado"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "ytcracker",
     "currency": "USD",
@@ -13432,6 +14462,79 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1660002556.2674577,
+    "artist_name": "yumesaki",
+    "item_type": "a",
+    "item_description": "YUMESAKINOISEMACHIME",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 1000,
+    "item_price": 0,
+    "amount_paid_usd": 7.41,
+    "country": "Australia",
+    "art_id": 1423535670,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yumesaki.bandcamp.com/album/yumesakinoisemachime",
+    "country_code": "au",
+    "amount_paid_fmt": "¥1,000",
+    "amount_over_fmt": "¥1,000",
+    "art_url": "https://f4.bcbits.com/img/a1423535670_7.jpg",
+    "details": {
+      "albumId": "2867994979",
+      "tags": [
+        "hip-hop/rap",
+        "phonk",
+        "trapnoise",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660187204.492083,
+    "artist_name": "yumi 2k",
+    "item_type": "a",
+    "item_description": "VPLUG GEN 0",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.03,
+    "country": "Japan",
+    "art_id": 1124457926,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://mosaicboyz.bandcamp.com/album/vplug-gen-0",
+    "country_code": "jp",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1124457926_7.jpg",
+    "details": {
+      "albumId": "3204469182",
+      "tags": [
+        "2d",
+        "artesian",
+        "ambient",
+        "ost-phonk",
+        "phonk",
+        "trap",
+        "hololive",
+        "hyperpop",
+        "kiryu coco",
+        "nightcore",
+        "ost",
+        "plug",
+        "plugg",
+        "sped up",
+        "vtuber",
+        "Hamburg"
       ]
     }
   },
@@ -13589,6 +14692,42 @@
       "stories": [
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1659917153.0947537,
+    "artist_name": "yunum",
+    "item_type": "a",
+    "item_description": "Time will reveal...",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10,
+    "country": "United States",
+    "art_id": 3097879275,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://yunum.bandcamp.com/album/time-will-reveal",
+    "country_code": "us",
+    "amount_paid_fmt": "$10",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a3097879275_7.jpg",
+    "details": {
+      "albumId": "1522607440",
+      "tags": [
+        "edm",
+        "electronic",
+        "metal",
+        "orchestral",
+        "touhou",
+        "touhou vocal",
+        "trance",
+        "東方project",
+        "United States"
       ]
     }
   },
