@@ -793,6 +793,39 @@
     }
   },
   {
+    "utc_date": 1660749508.1450303,
+    "artist_name": "El Búho",
+    "item_type": "a",
+    "item_description": "Y EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.51,
+    "country": "France",
+    "art_id": 1950492821,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://elbuho.bandcamp.com/album/y-ep",
+    "country_code": "fr",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a1950492821_7.jpg",
+    "details": {
+      "albumId": "656801933",
+      "tags": [
+        "andino",
+        "cumbia",
+        "electronic",
+        "electronica",
+        "folktronica",
+        "owlbass",
+        "Paris"
+      ]
+    }
+  },
+  {
     "utc_date": 1658652373.5317752,
     "artist_name": "LASSIE",
     "item_type": "a",
@@ -924,6 +957,39 @@
         "traditional",
         "world music",
         "Prague"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660613973.510024,
+    "artist_name": "Yheti",
+    "item_type": "a",
+    "item_description": "YHETI - HUMAN",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 7,
+    "item_price": 0,
+    "amount_paid_usd": 7,
+    "country": "Canada",
+    "art_id": 1577655003,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://toortous.bandcamp.com/album/yheti-human",
+    "country_code": "ca",
+    "amount_paid_fmt": "$7",
+    "amount_over_fmt": "$7",
+    "art_url": "https://f4.bcbits.com/img/a1577655003_7.jpg",
+    "details": {
+      "albumId": "4271057581",
+      "tags": [
+        "experimental",
+        "hip-hop",
+        "rap",
+        "bass music",
+        "electronic",
+        "United States"
       ]
     }
   },
@@ -1486,6 +1552,39 @@
     }
   },
   {
+    "utc_date": 1660213967.6978014,
+    "artist_name": "ELEKTROSEKT",
+    "item_type": "a",
+    "item_description": "YOUR SEX",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.03,
+    "country": "United States",
+    "art_id": 388279585,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://shoknova.bandcamp.com/album/your-sex",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a0388279585_7.jpg",
+    "details": {
+      "albumId": "625077187",
+      "tags": [
+        "electronic",
+        "industrial ambient",
+        "ebm",
+        "experimental electronic",
+        "industrial",
+        "new beat",
+        "Sydney"
+      ]
+    }
+  },
+  {
     "utc_date": 1657910981.4628298,
     "artist_name": "HOORSEES",
     "item_type": "a",
@@ -1705,6 +1804,40 @@
         "phonk",
         "trapnoise",
         "Japan"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660761001.5135367,
+    "artist_name": "BLAKMOTH",
+    "item_type": "a",
+    "item_description": "YUMME",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3125811438,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://blakmoth.bandcamp.com/album/yumme",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3125811438_7.jpg",
+    "details": {
+      "albumId": "1183043433",
+      "tags": [
+        "ambient",
+        "experimental",
+        "dark ambient",
+        "drone ambient",
+        "mbls",
+        "noise",
+        "soundscape",
+        "Maryland"
       ]
     }
   },
@@ -2469,6 +2602,40 @@
     }
   },
   {
+    "utc_date": 1660347197.426672,
+    "artist_name": "Toiret $egatus",
+    "item_type": "a",
+    "item_description": "YamaGucci",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 500,
+    "item_price": 0,
+    "amount_paid_usd": 3.75,
+    "country": "Japan",
+    "art_id": 563264170,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://toiretsegatus.bandcamp.com/album/yamagucci",
+    "country_code": "jp",
+    "amount_paid_fmt": "¥500",
+    "amount_over_fmt": "¥500",
+    "art_url": "https://f4.bcbits.com/img/a0563264170_7.jpg",
+    "details": {
+      "albumId": "1267224233",
+      "tags": [
+        "hi-tech",
+        "local music",
+        "world",
+        "j-pop",
+        "neo hick",
+        "yamagucci",
+        "Yamaguchi"
+      ]
+    }
+  },
+  {
     "utc_date": 1659986844.5793617,
     "artist_name": "Keen On Keys",
     "item_type": "a",
@@ -2869,6 +3036,40 @@
     }
   },
   {
+    "utc_date": 1660769330.2234788,
+    "artist_name": "Dogs In a Pile",
+    "item_type": "a",
+    "item_description": "Yasgur's Farm, Bethel, NY 10/2/2020",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 9,
+    "item_price": 0,
+    "amount_paid_usd": 9,
+    "country": "United States",
+    "art_id": 363699812,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://dogsinapilenj.bandcamp.com/album/yasgurs-farm-bethel-ny-10-2-2020",
+    "country_code": "us",
+    "amount_paid_fmt": "$9",
+    "amount_over_fmt": "$9",
+    "art_url": "https://f4.bcbits.com/img/a0363699812_7.jpg",
+    "details": {
+      "albumId": "318031948",
+      "tags": [
+        "funk",
+        "rock",
+        "blues",
+        "jam rock",
+        "jazz",
+        "psychedelic",
+        "New Jersey"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654438724.92633,
@@ -2990,6 +3191,37 @@
         "chillhop",
         "trip hop",
         "Nantes"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660571079.3440814,
+    "artist_name": "Counter Intuitive Records",
+    "item_type": "a",
+    "item_description": "Yawners - Duplo",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Japan",
+    "art_id": 3934245921,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://counterintuitiverecords.bandcamp.com/album/yawners-duplo",
+    "country_code": "jp",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3934245921_7.jpg",
+    "details": {
+      "albumId": "486530758",
+      "tags": [
+        "emo",
+        "rock",
+        "alt-indie",
+        "indie rock",
+        "Massachusetts"
       ]
     }
   },
@@ -3126,6 +3358,36 @@
       "tags": [
         "pop",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660375640.0408037,
+    "artist_name": "Evening Traveler",
+    "item_type": "a",
+    "item_description": "Year After Year",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 1098706812,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://eveningtraveler.bandcamp.com/album/year-after-year",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1098706812_7.jpg",
+    "details": {
+      "albumId": "1966198281",
+      "tags": [
+        "electronic",
+        "pop",
+        "instrumental",
+        "Pittsburgh"
       ]
     }
   },
@@ -3570,6 +3832,41 @@
     }
   },
   {
+    "utc_date": 1660535565.8271463,
+    "artist_name": "Zaid Tabani",
+    "item_type": "a",
+    "item_description": "Yearbook",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2433822641,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zaidtmusic.bandcamp.com/album/yearbook",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2433822641_7.jpg",
+    "details": {
+      "albumId": "55633801",
+      "tags": [
+        "hip-hop/rap",
+        "bars",
+        "hype",
+        "inspiring",
+        "it's lit",
+        "lyrical",
+        "rap & hip-hop",
+        "wavy",
+        "Irvine"
+      ]
+    }
+  },
+  {
     "utc_date": 1660159210.1228642,
     "artist_name": "Spirits of Leo",
     "item_type": "a",
@@ -3781,6 +4078,41 @@
     }
   },
   {
+    "utc_date": 1660778483.1666539,
+    "artist_name": "DJ Corpmane",
+    "item_type": "a",
+    "item_description": "Years Go By I'm Still In",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.21,
+    "country": "United States",
+    "art_id": 200364115,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://organtapes.bandcamp.com/album/years-go-by-im-still-in",
+    "country_code": "us",
+    "amount_paid_fmt": "£1",
+    "art_url": "https://f4.bcbits.com/img/a0200364115_7.jpg",
+    "details": {
+      "albumId": "2939447611",
+      "tags": [
+        "experimental",
+        "london",
+        "pop",
+        "ambient",
+        "club",
+        "collage",
+        "mashup",
+        "上海",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "amount_paid": 2,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a4144789815_7.jpg",
@@ -3938,6 +4270,42 @@
     }
   },
   {
+    "utc_date": 1660570959.1287465,
+    "artist_name": "Muffler",
+    "item_type": "a",
+    "item_description": "Yellow Leaves",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CHF",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3.18,
+    "country": "Finland",
+    "art_id": 3069268423,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://djmuffler.bandcamp.com/album/yellow-leaves",
+    "country_code": "fi",
+    "amount_paid_fmt": "3 CHF",
+    "amount_over_fmt": "3",
+    "art_url": "https://f4.bcbits.com/img/a3069268423_7.jpg",
+    "details": {
+      "albumId": "1735200063",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "ambient",
+        "drum & bass",
+        "meditation",
+        "piano",
+        "rave",
+        "violin",
+        "Lucerne"
+      ]
+    }
+  },
+  {
     "utc_date": 1657548322.2407289,
     "artist_name": "Mush",
     "item_type": "a",
@@ -4065,6 +4433,42 @@
         "various artists",
         "yep roc records",
         "Hillsborough"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660537436.397447,
+    "artist_name": "Uberzone",
+    "item_type": "a",
+    "item_description": "Yes (Remix) [single]",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 3266044713,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://bbzmusic.bandcamp.com/album/yes-remix-single",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3266044713_7.jpg",
+    "details": {
+      "albumId": "2400277640",
+      "tags": [
+        "acid",
+        "big beat",
+        "breakbeat",
+        "breaks",
+        "drum & bass",
+        "electronic",
+        "future bass",
+        "bbzmusic",
+        "breakbeat",
+        "Russia"
       ]
     }
   },
@@ -4437,6 +4841,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1660410136.4724789,
+    "artist_name": "Brass Komotion",
+    "item_type": "a",
+    "item_description": "Yesturday My Mind",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10.26,
+    "country": "France",
+    "art_id": 1364326722,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://brasskomotion.bandcamp.com/album/yesturday-my-mind",
+    "country_code": "fr",
+    "amount_paid_fmt": "€10",
+    "amount_over_fmt": "€10",
+    "art_url": "https://f4.bcbits.com/img/a1364326722_7.jpg",
+    "details": {
+      "albumId": "2445532120",
+      "tags": [
+        "electronic",
+        "analogic",
+        "brass",
+        "dance electro",
+        "guitar",
+        "rock electro",
+        "France"
       ]
     }
   },
@@ -5155,6 +5593,39 @@
     }
   },
   {
+    "utc_date": 1660515066.2718046,
+    "artist_name": "Yog-Sothoth (FREE DOWNLOAD)",
+    "item_type": "a",
+    "item_description": "Yog-Sothoth - The Life After Of The Death EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.03,
+    "country": "United States",
+    "art_id": 2191582093,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://nightmares420records.bandcamp.com/album/yog-sothoth-the-life-after-of-the-death-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2191582093_7.jpg",
+    "details": {
+      "albumId": "1525622103",
+      "tags": [
+        "electronic",
+        "experimental",
+        "hitech",
+        "psycore",
+        "darkpsy",
+        "pachuca",
+        "Pachuca"
+      ]
+    }
+  },
+  {
     "country_code": "fi",
     "utc_date": 1655477094.01324,
     "releases": null,
@@ -5850,6 +6321,77 @@
     }
   },
   {
+    "utc_date": 1660349037.7432013,
+    "artist_name": "The Adventures of Duane & Brando",
+    "item_type": "a",
+    "item_description": "You're Welcome, Son",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3935255676,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://duaneandbrando.bandcamp.com/album/youre-welcome-son",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3935255676_7.jpg",
+    "details": {
+      "albumId": "560170128",
+      "tags": [
+        "punk",
+        "acapellas",
+        "instrumental",
+        "nerd rock",
+        "nerdcore",
+        "parody",
+        "stems",
+        "Flint"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660355557.67122,
+    "artist_name": "El Búho Cósmico",
+    "item_type": "a",
+    "item_description": "You're a Sociopath",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 6.66,
+    "item_price": 0,
+    "amount_paid_usd": 6.66,
+    "country": "United States",
+    "art_id": 4231344768,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://elbuhocosmico.bandcamp.com/album/youre-a-sociopath",
+    "country_code": "us",
+    "amount_paid_fmt": "$6.66",
+    "amount_over_fmt": "$6.66",
+    "art_url": "https://f4.bcbits.com/img/a4231344768_7.jpg",
+    "details": {
+      "albumId": "3484903190",
+      "tags": [
+        "alternative",
+        "fort worth",
+        "punk",
+        "ambient",
+        "emo",
+        "post-punk",
+        "shoegaze",
+        "space rock",
+        "tacos",
+        "Fort Worth"
+      ]
+    }
+  },
+  {
     "utc_date": 1659763840.604986,
     "artist_name": "The Arrogants",
     "item_type": "a",
@@ -6038,6 +6580,43 @@
         "late night lo-fi",
         "late night lofi",
         "Pennsylvania"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660613811.1123636,
+    "artist_name": "rationale.",
+    "item_type": "a",
+    "item_description": "You Are Flawed, But You'll Be Fine.",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1132407103,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://rationaleband.bandcamp.com/album/you-are-flawed-but-youll-be-fine",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1132407103_7.jpg",
+    "details": {
+      "albumId": "3910077051",
+      "tags": [
+        "punk",
+        "punk rock",
+        "emo",
+        "emo rock",
+        "indie",
+        "indie rock",
+        "pop punk",
+        "punk",
+        "punk rock",
+        "rock",
+        "Chicago"
       ]
     }
   },
@@ -6955,6 +7534,40 @@
         "interactive",
         "rock",
         "Washington"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660750826.2354898,
+    "artist_name": "The Blues Dream Box",
+    "item_type": "a",
+    "item_description": "You Could Sleep Twice Tonight",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 7,
+    "item_price": 0,
+    "amount_paid_usd": 7,
+    "country": "United States",
+    "art_id": 2936706983,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://thebluesdreambox.bandcamp.com/album/you-could-sleep-twice-tonight",
+    "country_code": "us",
+    "amount_paid_fmt": "$7",
+    "amount_over_fmt": "$7",
+    "art_url": "https://f4.bcbits.com/img/a2936706983_7.jpg",
+    "details": {
+      "albumId": "2045131789",
+      "tags": [
+        "jazz",
+        "dream bop",
+        "halloween jazz",
+        "mysterious reggae",
+        "reggae noir",
+        "unconscious blues",
+        "Boston"
       ]
     }
   },
@@ -9789,6 +10402,72 @@
     }
   },
   {
+    "utc_date": 1660614953.6187775,
+    "artist_name": "Fart Simpson & Friends",
+    "item_type": "a",
+    "item_description": "Your Moms House Prank Calls vol. 1",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 2796354981,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://fartsimpson.bandcamp.com/album/your-moms-house-prank-calls-vol-1",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a2796354981_7.jpg",
+    "details": {
+      "albumId": "3421677173",
+      "tags": [
+        "comedy",
+        "fartsimpson",
+        "prank call",
+        "prank phone call",
+        "telephone",
+        "tomsegura",
+        "ymh",
+        "yourmomshouse",
+        "Portland"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660526951.6472204,
+    "artist_name": "Dismembered Engorgement",
+    "item_type": "a",
+    "item_description": "Your Mother Slams My Cock EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 3402239647,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://dismemberedengorgement.bandcamp.com/album/your-mother-slams-my-cock-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a3402239647_7.jpg",
+    "details": {
+      "albumId": "266559055",
+      "tags": [
+        "death metal",
+        "metal",
+        "brutal death metal",
+        "slamming brutal death metal",
+        "California"
+      ]
+    }
+  },
+  {
     "utc_date": 1658970636.0724201,
     "artist_name": "LC 沖縄",
     "item_type": "a",
@@ -9918,6 +10597,42 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1660812143.1524005,
+    "artist_name": "building castles out of matchsticks",
+    "item_type": "a",
+    "item_description": "Your Skin, My Mask (HT008)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2954472082,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://histaminetapes.bandcamp.com/album/your-skin-my-mask-ht008",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2954472082_7.jpg",
+    "details": {
+      "albumId": "2749188993",
+      "tags": [
+        "experimental",
+        "ambient",
+        "ambient noise",
+        "drone music",
+        "effects pedals",
+        "girls who drone",
+        "guitar",
+        "sound art",
+        "sound collage",
+        "East Montpelier"
       ]
     }
   },
@@ -10791,6 +11506,39 @@
     }
   },
   {
+    "utc_date": 1660556125.3272579,
+    "artist_name": "Gus BC",
+    "item_type": "a",
+    "item_description": "Yucatan Explorer",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.21,
+    "country": "United States",
+    "art_id": 3372300762,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://chalicesofthepast.bandcamp.com/album/yucatan-explorer",
+    "country_code": "us",
+    "amount_paid_fmt": "£1",
+    "art_url": "https://f4.bcbits.com/img/a3372300762_7.jpg",
+    "details": {
+      "albumId": "2363354979",
+      "tags": [
+        "acid house",
+        "electronic",
+        "lo-fi",
+        "pop",
+        "lo-fi",
+        "weird",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "utc_date": 1657303691.8481174,
     "artist_name": "2 0 2 1",
     "item_type": "a",
@@ -11572,6 +12320,38 @@
         "post-rock",
         "shoegaze",
         "Almería"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660496187.758226,
+    "artist_name": "藤本ちゃお",
+    "item_type": "a",
+    "item_description": "yay",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 800,
+    "item_price": 0,
+    "amount_paid_usd": 6,
+    "country": "United Kingdom",
+    "art_id": 1358165748,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://fujichao.bandcamp.com/album/yay",
+    "country_code": "gb",
+    "amount_paid_fmt": "¥800",
+    "amount_over_fmt": "¥800",
+    "art_url": "https://f4.bcbits.com/img/a1358165748_7.jpg",
+    "details": {
+      "albumId": "2783427003",
+      "tags": [
+        "electronic",
+        "electro",
+        "j-pop",
+        "techno",
+        "Japan"
       ]
     }
   },
