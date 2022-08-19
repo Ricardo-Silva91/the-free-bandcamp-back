@@ -4368,6 +4368,38 @@
     }
   },
   {
+    "utc_date": 1660873184.3923395,
+    "artist_name": "Suis La Lune",
+    "item_type": "a",
+    "item_description": "Quiet, Pull The Strings!",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "SEK",
+    "amount_paid": 6,
+    "item_price": 0,
+    "amount_paid_usd": 0.57,
+    "country": "United States",
+    "art_id": 3424947294,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://suislalune.bandcamp.com/album/quiet-pull-the-strings",
+    "country_code": "us",
+    "amount_paid_fmt": "6 SEK",
+    "art_url": "https://f4.bcbits.com/img/a3424947294_7.jpg",
+    "details": {
+      "albumId": "2090406708",
+      "tags": [
+        "punk",
+        "emo",
+        "hardcore",
+        "post-rock",
+        "screamo",
+        "Sweden"
+      ]
+    }
+  },
+  {
     "item_price": 0,
     "package_image_id": null,
     "country_code": "au",
@@ -5896,6 +5928,35 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1660846114.4909906,
+    "artist_name": "Quängelexemplar",
+    "item_type": "a",
+    "item_description": "quängeln4life",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10.09,
+    "country": "Germany",
+    "art_id": 3113042752,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://quaengelexemplar.bandcamp.com/album/qu-ngeln4life",
+    "country_code": "de",
+    "amount_paid_fmt": "€10",
+    "amount_over_fmt": "€10",
+    "art_url": "https://f4.bcbits.com/img/a3113042752_7.jpg",
+    "details": {
+      "albumId": "3973053979",
+      "tags": [
+        "punk",
+        "Munich"
       ]
     }
   },

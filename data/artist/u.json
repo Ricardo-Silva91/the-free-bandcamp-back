@@ -5977,6 +5977,38 @@
     }
   },
   {
+    "utc_date": 1660900051.2010252,
+    "artist_name": "Ulv",
+    "item_type": "a",
+    "item_description": "Lysets Undergang",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "DKK",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 0.68,
+    "country": "Italy",
+    "art_id": 2861920664,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://projectulv.bandcamp.com/album/lysets-undergang",
+    "country_code": "it",
+    "amount_paid_fmt": "5 DKK",
+    "art_url": "https://f4.bcbits.com/img/a2861920664_7.jpg",
+    "details": {
+      "albumId": "23246970",
+      "tags": [
+        "atmospheric black metal",
+        "black metal",
+        "metal",
+        "viking metal",
+        "true black metal",
+        "Denmark"
+      ]
+    }
+  },
+  {
     "amount_paid": 5,
     "country_code": "it",
     "art_url": "https://f4.bcbits.com/img/a1571584236_7.jpg",
@@ -13278,6 +13310,35 @@
     }
   },
   {
+    "utc_date": 1660847076.7665145,
+    "artist_name": "Upon The Altar",
+    "item_type": "a",
+    "item_description": "UPON THE ALTAR / DEATHEPOCH split album",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.01,
+    "country": "Poland",
+    "art_id": 1360404525,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://uponthealtar.bandcamp.com/album/upon-the-altar-deathepoch-split-album",
+    "country_code": "pl",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1360404525_7.jpg",
+    "details": {
+      "albumId": "195476724",
+      "tags": [
+        "metal",
+        "death metal",
+        "Poland"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655432508.37662,
     "releases": null,
@@ -13911,6 +13972,39 @@
         "psychedelic",
         "psytrance",
         "Portugal"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660864383.9677541,
+    "artist_name": "Urban Grey",
+    "item_type": "a",
+    "item_description": "Only In Me/Planned Escapes",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10.09,
+    "country": "Netherlands",
+    "art_id": 1154758615,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://urban-grey.bandcamp.com/album/only-in-me-planned-escapes",
+    "country_code": "nl",
+    "amount_paid_fmt": "€10",
+    "amount_over_fmt": "€10",
+    "art_url": "https://f4.bcbits.com/img/a1154758615_7.jpg",
+    "details": {
+      "albumId": "710347887",
+      "tags": [
+        "alternative",
+        "amsterdam",
+        "new wave",
+        "post-punk",
+        "synth",
+        "Amsterdam"
       ]
     }
   },

@@ -1289,6 +1289,40 @@
     }
   },
   {
+    "utc_date": 1660883305.5807273,
+    "artist_name": "PACHA PAPA",
+    "item_type": "a",
+    "item_description": "ZUMBA HITS",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 3.86,
+    "country": "United States",
+    "art_id": 2313881095,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://pachapapa.bandcamp.com/album/zumba-hits",
+    "country_code": "us",
+    "amount_paid_fmt": "$5 CAD",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a2313881095_7.jpg",
+    "details": {
+      "albumId": "1638463902",
+      "tags": [
+        "dub",
+        "global",
+        "halftime footwork",
+        "trap",
+        "tribal",
+        "world",
+        "Vancouver"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655928631.45602,
     "releases": null,
@@ -6063,6 +6097,38 @@
         "organic",
         "soundscape",
         "Saint Petersburg"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660854681.5300298,
+    "artist_name": "Zé Bigode Orquestra",
+    "item_type": "a",
+    "item_description": "Zé Bigode",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "France",
+    "art_id": 3380149058,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zebigodeorquestra.bandcamp.com/album/z-bigode",
+    "country_code": "fr",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3380149058_7.jpg",
+    "details": {
+      "albumId": "1516773607",
+      "tags": [
+        "afro-brazilian",
+        "afrobeat",
+        "world",
+        "dub",
+        "reggae",
+        "Rio De Janeiro"
       ]
     }
   },
