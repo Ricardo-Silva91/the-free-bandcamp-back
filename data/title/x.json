@@ -973,6 +973,37 @@
     }
   },
   {
+    "utc_date": 1660914454.7847803,
+    "artist_name": "DJ EARL",
+    "item_type": "a",
+    "item_description": "XMEN VIP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.59,
+    "country": "United Kingdom",
+    "art_id": 1924487926,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://djearlteklife.bandcamp.com/album/xmen-vip",
+    "country_code": "gb",
+    "amount_paid_fmt": "£0.50",
+    "art_url": "https://f4.bcbits.com/img/a1924487926_7.jpg",
+    "details": {
+      "albumId": "461085128",
+      "tags": [
+        "electronic",
+        "footwork",
+        "juke",
+        "juke footwork",
+        "Chicago"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655703054.34913,
     "releases": null,
@@ -2327,6 +2358,39 @@
     }
   },
   {
+    "utc_date": 1660967799.5813959,
+    "artist_name": "NONO",
+    "item_type": "a",
+    "item_description": "XXLife",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2382939116,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://nonogotdopedope.bandcamp.com/album/xxlife",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2382939116_7.jpg",
+    "details": {
+      "albumId": "973072524",
+      "tags": [
+        "experimental",
+        "rap",
+        "trap",
+        "ambient",
+        "noise rap",
+        "vaporwave",
+        "Lexington"
+      ]
+    }
+  },
+  {
     "amount_paid": 3,
     "country_code": "mx",
     "slug_type": "a",
@@ -3118,6 +3182,43 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1660913092.073891,
+    "artist_name": "Rollout Records",
+    "item_type": "a",
+    "item_description": "Xmas 2021 Free DL Series",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 3.7,
+    "item_price": 0,
+    "amount_paid_usd": 4.38,
+    "country": "United States",
+    "art_id": 86721752,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://rolloutrecords.bandcamp.com/album/xmas-2021-free-dl-series",
+    "country_code": "us",
+    "amount_paid_fmt": "£3.70",
+    "amount_over_fmt": "£3.70",
+    "art_url": "https://f4.bcbits.com/img/a0086721752_7.jpg",
+    "details": {
+      "albumId": "561882684",
+      "tags": [
+        "darkdrum&bass",
+        "drum&bass",
+        "electronic",
+        "liquid drum and bass",
+        "minimaldrum&bass",
+        "rollingdnb",
+        "techdnb",
+        "deep drum and bass",
+        "free download",
+        "United Kingdom"
       ]
     }
   },

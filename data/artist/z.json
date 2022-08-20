@@ -4490,6 +4490,41 @@
     }
   },
   {
+    "utc_date": 1660969354.660537,
+    "artist_name": "Zamróz",
+    "item_type": "a",
+    "item_description": "Zwraca Śniadanie",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "PLN",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 0.63,
+    "country": "Australia",
+    "art_id": 870889460,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zamroz.bandcamp.com/album/zwraca-niadanie",
+    "country_code": "au",
+    "amount_paid_fmt": "3 PLN",
+    "art_url": "https://f4.bcbits.com/img/a0870889460_7.jpg",
+    "details": {
+      "albumId": "2672169589",
+      "tags": [
+        "black metal",
+        "edm",
+        "electronic",
+        "melodic black metal",
+        "melodic death metal",
+        "metal",
+        "post black metal",
+        "folk metal",
+        "Poland"
+      ]
+    }
+  },
+  {
     "item_description": "Zamurah - Izanagi / LYCEP006 2021 / 4 trax",
     "country_code": "ca",
     "utc_date": 1655691436.12168,
@@ -9789,6 +9824,38 @@
     }
   },
   {
+    "utc_date": 1660947462.9130747,
+    "artist_name": "Zombie Deer",
+    "item_type": "a",
+    "item_description": "RED DAWN DISEASE",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 3217746491,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zombiedeer.bandcamp.com/album/red-dawn-disease",
+    "country_code": "gb",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a3217746491_7.jpg",
+    "details": {
+      "albumId": "2827828760",
+      "tags": [
+        "ambient",
+        "dark ambient",
+        "drone",
+        "experimental",
+        "harsh noise",
+        "St. Louis"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "amount_paid_fmt": "$10",
     "artist_name": "Zombie Giuliani",
@@ -10090,6 +10157,36 @@
         "industrial",
         "noise",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1660985014.4477053,
+    "artist_name": "Zone Infinie",
+    "item_type": "a",
+    "item_description": "ZONE INFINIE",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "France",
+    "art_id": 3189315527,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://zoneinfinie.bandcamp.com/album/zone-infinie",
+    "country_code": "fr",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a3189315527_7.jpg",
+    "details": {
+      "albumId": "2939242740",
+      "tags": [
+        "punk",
+        "saint etienne",
+        "punk rock",
+        "Villeurbanne"
       ]
     }
   },
