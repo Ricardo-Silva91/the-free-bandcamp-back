@@ -2216,6 +2216,40 @@
     }
   },
   {
+    "utc_date": 1661021493.691265,
+    "artist_name": "XXIII",
+    "item_type": "a",
+    "item_description": "XXIII // VOLUME 3",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 2550724959,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xxiii.bandcamp.com/album/xxiii-volume-3",
+    "country_code": "gb",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2550724959_7.jpg",
+    "details": {
+      "albumId": "1743738236",
+      "tags": [
+        "afrobeat",
+        "ballroom beats",
+        "electronic",
+        "funk",
+        "future bass",
+        "future beats",
+        "jersey club",
+        "Portugal"
+      ]
+    }
+  },
+  {
     "amount_paid": 4,
     "country_code": "ch",
     "slug_type": "a",
@@ -2248,6 +2282,41 @@
         "jersey club",
         "club",
         "global bass",
+        "Portugal"
+      ]
+    }
+  },
+  {
+    "utc_date": 1661021935.586464,
+    "artist_name": "XXIII",
+    "item_type": "a",
+    "item_description": "XXIII // VOLUME 6",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United Kingdom",
+    "art_id": 1275205612,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xxiii.bandcamp.com/album/xxiii-volume-6",
+    "country_code": "gb",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a1275205612_7.jpg",
+    "details": {
+      "albumId": "3073751398",
+      "tags": [
+        "afrobeat",
+        "ballroom beats",
+        "electronic",
+        "funk",
+        "future beats",
+        "jersey club",
+        "clubbing",
+        "hard drum",
         "Portugal"
       ]
     }
@@ -3488,6 +3557,42 @@
         "lofi",
         "psychedelic folk",
         "United Kingdom"
+      ]
+    }
+  },
+  {
+    "utc_date": 1661012468.103337,
+    "artist_name": "BPM&M",
+    "item_type": "a",
+    "item_description": "XtraKcts & ArtifaKcts",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 790190218,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://patmastelotto.bandcamp.com/album/xtrakcts-artifakcts",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0790190218_7.jpg",
+    "details": {
+      "albumId": "3924433107",
+      "tags": [
+        "experimental",
+        "easy listening",
+        "electronica",
+        "fripp",
+        "king crimson",
+        "mastelotto",
+        "pop",
+        "rock",
+        "world",
+        "Dripping Springs"
       ]
     }
   },
