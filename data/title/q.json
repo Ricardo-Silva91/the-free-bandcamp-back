@@ -3790,6 +3790,40 @@
     }
   },
   {
+    "utc_date": 1662605857.346643,
+    "artist_name": "Baruch",
+    "item_type": "a",
+    "item_description": "Quebrada [UDA001]",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Brazil",
+    "art_id": 1661409834,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ukiyobeattapes.bandcamp.com/album/quebrada-uda001",
+    "country_code": "br",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1661409834_7.jpg",
+    "details": {
+      "albumId": "1431325556",
+      "tags": [
+        "alternative",
+        "baruch",
+        "pantanal",
+        "beat tape",
+        "beats",
+        "cassette",
+        "zona leste",
+        "São Paulo"
+      ]
+    }
+  },
+  {
     "utc_date": 1653708789.56639,
     "country": "United States",
     "currency": "USD",
@@ -4500,6 +4534,37 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1662567746.324631,
+    "artist_name": "Estorbo",
+    "item_type": "a",
+    "item_description": "Quesque Están Vivos",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "MXN",
+    "amount_paid": 40,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "Mexico",
+    "art_id": 2167942363,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://losestorbo.bandcamp.com/album/quesque-est-n-vivos",
+    "country_code": "mx",
+    "amount_paid_fmt": "$40 MXN",
+    "amount_over_fmt": "$40",
+    "art_url": "https://f4.bcbits.com/img/a2167942363_7.jpg",
+    "details": {
+      "albumId": "1981597164",
+      "tags": [
+        "punk",
+        "rock alternativo",
+        "ska punk",
+        "Monclova"
       ]
     }
   },
@@ -5902,6 +5967,44 @@
     }
   },
   {
+    "utc_date": 1662310049.65037,
+    "artist_name": "Harvey Lord",
+    "item_type": "a",
+    "item_description": "Quiet in the Small Corner",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.76,
+    "country": "United Kingdom",
+    "art_id": 2214286408,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://railcables.bandcamp.com/album/quiet-in-the-small-corner",
+    "country_code": "gb",
+    "amount_paid_fmt": "£5",
+    "amount_over_fmt": "£5",
+    "art_url": "https://f4.bcbits.com/img/a2214286408_7.jpg",
+    "details": {
+      "albumId": "2826409727",
+      "tags": [
+        "cumbria",
+        "electronic",
+        "experimental",
+        "avant-garde",
+        "field recordings",
+        "fieldrecording",
+        "folk",
+        "lo-fi",
+        "trains",
+        "weird",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "country": "United Kingdom",
     "item_description": "Quilt Jams",
     "artist_name": "Elsa Hewitt",
@@ -6836,6 +6939,37 @@
         "electronic",
         "house",
         "Groningen"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662347942.2856028,
+    "artist_name": "PidgeonRoyal",
+    "item_type": "a",
+    "item_description": "quantum theory",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 7.77,
+    "item_price": 0,
+    "amount_paid_usd": 7.77,
+    "country": "United States",
+    "art_id": 2940451114,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://pidgeonroyal.bandcamp.com/album/quantum-theory",
+    "country_code": "us",
+    "amount_paid_fmt": "$7.77",
+    "amount_over_fmt": "$7.77",
+    "art_url": "https://f4.bcbits.com/img/a2940451114_7.jpg",
+    "details": {
+      "albumId": "386755160",
+      "tags": [
+        "hip hop",
+        "hip-hop/rap",
+        "samples",
+        "Scottsdale"
       ]
     }
   },

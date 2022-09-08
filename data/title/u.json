@@ -360,6 +360,35 @@
     }
   },
   {
+    "utc_date": 1662359305.837932,
+    "artist_name": "UBU",
+    "item_type": "a",
+    "item_description": "UBU",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 20,
+    "item_price": 0,
+    "amount_paid_usd": 19.81,
+    "country": "France",
+    "art_id": 3891405172,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ubupunk.bandcamp.com/album/ubu",
+    "country_code": "fr",
+    "amount_paid_fmt": "€20",
+    "amount_over_fmt": "€20",
+    "art_url": "https://f4.bcbits.com/img/a3891405172_7.jpg",
+    "details": {
+      "albumId": "875074656",
+      "tags": [
+        "punk",
+        "Lyon"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "gb",
     "utc_date": 1654396701.22043,
@@ -488,6 +517,36 @@
         "psicodelia",
         "sludge",
         "Spain"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662348472.142593,
+    "artist_name": "H0LY RiPPLE",
+    "item_type": "a",
+    "item_description": "U Don't Know Me",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 20,
+    "item_price": 0,
+    "amount_paid_usd": 20,
+    "country": "United States",
+    "art_id": 1303900555,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://holyripple.bandcamp.com/album/u-dont-know-me",
+    "country_code": "us",
+    "amount_paid_fmt": "$20",
+    "amount_over_fmt": "$20",
+    "art_url": "https://f4.bcbits.com/img/a1303900555_7.jpg",
+    "details": {
+      "albumId": "1578871688",
+      "tags": [
+        "folk",
+        "folkrock",
+        "New Jersey"
       ]
     }
   },
@@ -3909,6 +3968,43 @@
     }
   },
   {
+    "utc_date": 1662599318.4277809,
+    "artist_name": "Cardi B",
+    "item_type": "a",
+    "item_description": "UP (RLE cumbia remix)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 1755876968,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://djrle.bandcamp.com/album/up-rle-cumbia-remix",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a1755876968_7.jpg",
+    "details": {
+      "albumId": "2734083348",
+      "tags": [
+        "electronic",
+        "experimental",
+        "hip hop",
+        "moombahton",
+        "remixes",
+        "trap",
+        "cardi b",
+        "cumbia",
+        "cumbia hip hop remix",
+        "remix",
+        "Austin"
+      ]
+    }
+  },
+  {
     "utc_date": 1658759949.9704058,
     "artist_name": "Dj P.",
     "item_type": "a",
@@ -4265,6 +4361,40 @@
         "shoegaze",
         "surf rock",
         "Manchester"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662343334.03124,
+    "artist_name": "G. Green",
+    "item_type": "a",
+    "item_description": "USA Don't Run",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 1266297200,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://cultofggreen.bandcamp.com/album/usa-dont-run",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a1266297200_7.jpg",
+    "details": {
+      "albumId": "2601326645",
+      "tags": [
+        "mt. st. mtn.",
+        "oakland",
+        "punk",
+        "sacramento",
+        "san francisco",
+        "weird punk",
+        "Sacramento"
       ]
     }
   },
@@ -6334,6 +6464,35 @@
     }
   },
   {
+    "utc_date": 1662623746.8762925,
+    "artist_name": "Various Artists",
+    "item_type": "a",
+    "item_description": "Ultimate_Collection ''beech trees''",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "JPY",
+    "amount_paid": 100,
+    "item_price": 0,
+    "amount_paid_usd": 0.7,
+    "country": "Japan",
+    "art_id": 786598883,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://tokinogake.bandcamp.com/album/ultimate-collection-beech-trees",
+    "country_code": "jp",
+    "amount_paid_fmt": "¥100",
+    "art_url": "https://f4.bcbits.com/img/a0786598883_7.jpg",
+    "details": {
+      "albumId": "4079427311",
+      "tags": [
+        "electronic",
+        "experimental",
+        "Japan"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655855827.09219,
     "releases": null,
@@ -6817,6 +6976,39 @@
         "instrumental",
         "punk rock",
         "Rennes"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662454772.949315,
+    "artist_name": "Ultra Spikes",
+    "item_type": "a",
+    "item_description": "Ultra Spikes",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "NZD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 1.22,
+    "country": "Australia",
+    "art_id": 2322006585,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://nolabelnz.bandcamp.com/album/ultra-spikes",
+    "country_code": "au",
+    "amount_paid_fmt": "$2 NZD",
+    "art_url": "https://f4.bcbits.com/img/a2322006585_7.jpg",
+    "details": {
+      "albumId": "392568784",
+      "tags": [
+        "aotearoa",
+        "experimental",
+        "free noise",
+        "new zealand",
+        "no wave",
+        "noise",
+        "Auckland"
       ]
     }
   },
@@ -7908,6 +8100,36 @@
     }
   },
   {
+    "utc_date": 1662439309.0518842,
+    "artist_name": "Rata Negra",
+    "item_type": "a",
+    "item_description": "Una Vida Vulgar",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "United States",
+    "art_id": 894673484,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://humointernacional.bandcamp.com/album/una-vida-vulgar",
+    "country_code": "us",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a0894673484_7.jpg",
+    "details": {
+      "albumId": "2939502591",
+      "tags": [
+        "punk",
+        "rata negra",
+        "spanish punk",
+        "Oviedo"
+      ]
+    }
+  },
+  {
     "utc_date": 1660594086.7377164,
     "artist_name": "Young Stroke aka Young Muscle",
     "item_type": "a",
@@ -8136,6 +8358,39 @@
         "hardore",
         "michigan",
         "Detroit"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662420261.6451426,
+    "artist_name": "WARGOAT / BLACK CEREMONIAL KULT",
+    "item_type": "a",
+    "item_description": "Unapproachable Laws of the Abyss",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 0.99,
+    "country": "United States",
+    "art_id": 4231254421,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://godzovwarproductions.bandcamp.com/album/unapproachable-laws-of-the-abyss",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a4231254421_7.jpg",
+    "details": {
+      "albumId": "603343071",
+      "tags": [
+        "black metal",
+        "blackened death metal",
+        "death metal",
+        "experimental metal",
+        "extreme metal",
+        "metal",
+        "Poland"
       ]
     }
   },
@@ -8536,6 +8791,47 @@
     }
   },
   {
+    "utc_date": 1662422667.1381013,
+    "artist_name": "New Standard Elite",
+    "item_type": "a",
+    "item_description": "Unbirth | Fleshforged Columns Of Deceit",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Canada",
+    "art_id": 2556765759,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://newstandardelite.bandcamp.com/album/unbirth-fleshforged-columns-of-deceit",
+    "country_code": "ca",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2556765759_7.jpg",
+    "details": {
+      "albumId": "2124435230",
+      "tags": [
+        "brutal death metal",
+        "death metal",
+        "deathcore",
+        "metal",
+        "osdm",
+        "old school death metal",
+        "slam",
+        "black metal",
+        "brutal death metal",
+        "death metal",
+        "depressive black metal",
+        "goregrind",
+        "metal",
+        "slam",
+        "United States"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "Argonautas",
     "currency": "USD",
@@ -8918,6 +9214,39 @@
     }
   },
   {
+    "utc_date": 1662462816.8841453,
+    "artist_name": "Junkbomb",
+    "item_type": "a",
+    "item_description": "Uncle Bingo EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 4049921443,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://junkbombmusic.bandcamp.com/album/uncle-bingo-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a4049921443_7.jpg",
+    "details": {
+      "albumId": "949165424",
+      "tags": [
+        "rock",
+        "industrial",
+        "industrial metal",
+        "industrial rock",
+        "noise rock",
+        "punk",
+        "Jacksonville"
+      ]
+    }
+  },
+  {
     "utc_date": 1657582067.387037,
     "artist_name": "Uncle Buck",
     "item_type": "a",
@@ -9021,6 +9350,47 @@
         "twins",
         "two-piece",
         "San Diego"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662577212.248072,
+    "artist_name": "Moth Equals",
+    "item_type": "a",
+    "item_description": "Uncollected // Remixes and Singles",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.15,
+    "country": "United States",
+    "art_id": 241605756,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://mothequals.bandcamp.com/album/uncollected-remixes-and-singles",
+    "country_code": "us",
+    "amount_paid_fmt": "£1",
+    "art_url": "https://f4.bcbits.com/img/a0241605756_7.jpg",
+    "details": {
+      "albumId": "764577305",
+      "tags": [
+        "2013",
+        "dubstep",
+        "electronic",
+        "trip hop",
+        "ambient",
+        "chillout",
+        "chillstep",
+        "chillwave",
+        "downtempo",
+        "electronica",
+        "post dubstep",
+        "remixes",
+        "the xx",
+        "unsigned",
+        "United Kingdom"
       ]
     }
   },
@@ -9525,6 +9895,45 @@
     }
   },
   {
+    "utc_date": 1662446060.7695248,
+    "artist_name": "Windowshopping",
+    "item_type": "a",
+    "item_description": "Undead Sampler",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Mexico",
+    "art_id": 2686086611,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://normcorps.bandcamp.com/album/undead-sampler",
+    "country_code": "mx",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2686086611_7.jpg",
+    "details": {
+      "albumId": "3674142644",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "tallahassee",
+        "tallahassee, florida",
+        "breakcore",
+        "footcore",
+        "footwork",
+        "hardcore",
+        "juke",
+        "jungle",
+        "noise",
+        "rave",
+        "Portland"
+      ]
+    }
+  },
+  {
     "utc_date": 1658699524.6403067,
     "artist_name": "Cavurn",
     "item_type": "a",
@@ -10006,6 +10415,44 @@
     }
   },
   {
+    "utc_date": 1662310173.7962892,
+    "artist_name": "Forest Freaks",
+    "item_type": "a",
+    "item_description": "Under The Moss vol.3",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 9,
+    "item_price": 0,
+    "amount_paid_usd": 8.96,
+    "country": "Norway",
+    "art_id": 103099973,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://forestfreaks.bandcamp.com/album/under-the-moss-vol-3",
+    "country_code": "no",
+    "amount_paid_fmt": "€9",
+    "amount_over_fmt": "€9",
+    "art_url": "https://f4.bcbits.com/img/a0103099973_7.jpg",
+    "details": {
+      "albumId": "1285748789",
+      "tags": [
+        "electronic",
+        "under",
+        "darkpsy",
+        "forestpsy",
+        "freaks",
+        "morning",
+        "moss",
+        "psychedelic",
+        "psytrance",
+        "the",
+        "Lithuania"
+      ]
+    }
+  },
+  {
     "utc_date": 1662166185.55675,
     "artist_name": "UNDER THE PIER",
     "item_type": "a",
@@ -10243,6 +10690,37 @@
         "relaxing",
         "stoner rock",
         "France"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662318369.463408,
+    "artist_name": "Proper Motions",
+    "item_type": "a",
+    "item_description": "Under This Archangel",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United States",
+    "art_id": 2095132976,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://proper-motions.bandcamp.com/album/under-this-archangel",
+    "country_code": "us",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a2095132976_7.jpg",
+    "details": {
+      "albumId": "1369059609",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "cinematic soundscape",
+        "experimental electronic",
+        "Denmark"
       ]
     }
   },
@@ -12681,6 +13159,38 @@
     }
   },
   {
+    "utc_date": 1662563598.6721182,
+    "artist_name": "κατάσκοπος",
+    "item_type": "a",
+    "item_description": "Undine's Farewell",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 821959974,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://kataskopos.bandcamp.com/album/undines-farewell",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0821959974_7.jpg",
+    "details": {
+      "albumId": "3885718289",
+      "tags": [
+        "electronic",
+        "barber beats",
+        "downtempo",
+        "experimental",
+        "lounge",
+        "vaporwave"
+      ]
+    }
+  },
+  {
     "amount_paid_fmt": "$1",
     "item_price": 0,
     "country": "United States",
@@ -14333,6 +14843,36 @@
     }
   },
   {
+    "utc_date": 1662573460.5579884,
+    "artist_name": "Big Monti Amundson",
+    "item_type": "a",
+    "item_description": "Unglued",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2202304042,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://bigmonti.bandcamp.com/album/unglued",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2202304042_7.jpg",
+    "details": {
+      "albumId": "2030914816",
+      "tags": [
+        "americana",
+        "blues",
+        "rock and roll",
+        "Portland"
+      ]
+    }
+  },
+  {
     "utc_date": 1659147492.2372155,
     "artist_name": "Suicide Cages",
     "item_type": "a",
@@ -14529,6 +15069,47 @@
         "electronic",
         "chiptune",
         "Iceland"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662607351.2679594,
+    "artist_name": "Crypticus",
+    "item_type": "a",
+    "item_description": "Unholy Secrecies (Demo 2002)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "Canada",
+    "art_id": 4202354027,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://crypticus.bandcamp.com/album/unholy-secrecies-demo-2002",
+    "country_code": "ca",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a4202354027_7.jpg",
+    "details": {
+      "albumId": "2238912685",
+      "tags": [
+        "brutal death metal",
+        "death metal",
+        "goregrind",
+        "metal",
+        "brynjar helgetun",
+        "colorado",
+        "crypticus",
+        "death metal",
+        "horror",
+        "liklukt",
+        "lovecraft",
+        "patrick bruss",
+        "razorback records",
+        "Denver"
       ]
     }
   },
@@ -15080,6 +15661,37 @@
     }
   },
   {
+    "utc_date": 1662485420.443417,
+    "artist_name": "Clipper",
+    "item_type": "a",
+    "item_description": "Unintended Poetry",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 6.66,
+    "item_price": 0,
+    "amount_paid_usd": 6.6,
+    "country": "Germany",
+    "art_id": 3734680959,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://clipper2.bandcamp.com/album/unintended-poetry",
+    "country_code": "de",
+    "amount_paid_fmt": "€6.66",
+    "amount_over_fmt": "€6.66",
+    "art_url": "https://f4.bcbits.com/img/a3734680959_7.jpg",
+    "details": {
+      "albumId": "4178107652",
+      "tags": [
+        "germany",
+        "rock",
+        "indie rock pop",
+        "Germany"
+      ]
+    }
+  },
+  {
     "utc_date": 1661389213.3933425,
     "artist_name": "Gatecrasherz",
     "item_type": "a",
@@ -15396,6 +16008,40 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1662388382.576506,
+    "artist_name": "YPI Songwriting Class 2022",
+    "item_type": "a",
+    "item_description": "Unique Be Daring (Week 1)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 20,
+    "item_price": 0,
+    "amount_paid_usd": 20,
+    "country": "United States",
+    "art_id": 2067667158,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ypimusic.bandcamp.com/album/unique-be-daring-week-1",
+    "country_code": "us",
+    "amount_paid_fmt": "$20",
+    "amount_over_fmt": "$20",
+    "art_url": "https://f4.bcbits.com/img/a2067667158_7.jpg",
+    "details": {
+      "albumId": "3812988370",
+      "tags": [
+        "rock",
+        "amateur",
+        "pop",
+        "singer-songwriter",
+        "summer camp",
+        "teenager",
+        "Connecticut"
       ]
     }
   },
@@ -16280,6 +16926,36 @@
     }
   },
   {
+    "utc_date": 1662619136.0882888,
+    "artist_name": "Ghost Trees",
+    "item_type": "a",
+    "item_description": "Universal Topics",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "Ukraine",
+    "art_id": 83065966,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://ghost-trees.bandcamp.com/album/universal-topics",
+    "country_code": "ua",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0083065966_7.jpg",
+    "details": {
+      "albumId": "433236987",
+      "tags": [
+        "jazz",
+        "free jazz",
+        "post-bop",
+        "North Carolina"
+      ]
+    }
+  },
+  {
     "country_code": "au",
     "utc_date": 1655890322.50216,
     "releases": null,
@@ -17118,6 +17794,39 @@
         "punk rock",
         "rock and roll",
         "New York"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662468850.9114273,
+    "artist_name": "mxjp",
+    "item_type": "a",
+    "item_description": "Unknown Transmission",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.65,
+    "item_price": 0,
+    "amount_paid_usd": 0.65,
+    "country": "United States",
+    "art_id": 497575620,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://mxjp.bandcamp.com/album/unknown-transmission",
+    "country_code": "us",
+    "amount_paid_fmt": "€0.65",
+    "art_url": "https://f4.bcbits.com/img/a0497575620_7.jpg",
+    "details": {
+      "albumId": "648545244",
+      "tags": [
+        "80s",
+        "electronic",
+        "electro",
+        "space",
+        "space music",
+        "synthwave",
+        "Germany"
       ]
     }
   },
@@ -19280,6 +19989,39 @@
         "rap alternative",
         "underground",
         "Portland"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662598191.4511511,
+    "artist_name": "Kettel",
+    "item_type": "a",
+    "item_description": "Unreleased 2002-2012",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3,
+    "country": "Australia",
+    "art_id": 18337360,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://kettel.bandcamp.com/album/unreleased-2002-2012",
+    "country_code": "au",
+    "amount_paid_fmt": "$3",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a0018337360_7.jpg",
+    "details": {
+      "albumId": "3660223156",
+      "tags": [
+        "ambient",
+        "electronic",
+        "electronica",
+        "idm",
+        "neo-classical",
+        "Netherlands"
       ]
     }
   },
@@ -21808,6 +22550,39 @@
     }
   },
   {
+    "utc_date": 1662481400.5396116,
+    "artist_name": "Cel Damage",
+    "item_type": "a",
+    "item_description": "Until You Reach The Shallow Part (feat. Robbie Smith of Heavy Heavy Low Low)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 2188849282,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://celdamage.bandcamp.com/album/until-you-reach-the-shallow-part-feat-robbie-smith-of-heavy-heavy-low-low",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a2188849282_7.jpg",
+    "details": {
+      "albumId": "2424759345",
+      "tags": [
+        "feedback",
+        "hardcore",
+        "melodic",
+        "noise",
+        "punk",
+        "Apple Valley"
+      ]
+    }
+  },
+  {
     "utc_date": 1657751431.0440004,
     "artist_name": "The Cutes",
     "item_type": "a",
@@ -21838,6 +22613,44 @@
         "merseybeat",
         "rock'n'roll",
         "Odesa"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662309498.3125248,
+    "artist_name": "STAIRS",
+    "item_type": "a",
+    "item_description": "Until the Dreams Come Through",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 7.62,
+    "country": "Canada",
+    "art_id": 4230068771,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://stairsmtl.bandcamp.com/album/until-the-dreams-come-through",
+    "country_code": "ca",
+    "amount_paid_fmt": "$10 CAD",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a4230068771_7.jpg",
+    "details": {
+      "albumId": "2763727781",
+      "tags": [
+        "alternative",
+        "diy",
+        "experimental",
+        "independent release",
+        "montréal",
+        "avant-funk",
+        "funk",
+        "musique bleue",
+        "psychedelic soul",
+        "slow funk",
+        "Montreal"
       ]
     }
   },
@@ -22868,6 +23681,41 @@
         "experiemental",
         "noise",
         "Brussels"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662437973.0151234,
+    "artist_name": "Svarte Greiner",
+    "item_type": "a",
+    "item_description": "Untitled Tour Cdr",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 3935467384,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://svartegreiner.bandcamp.com/album/untitled-tour-cdr",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a3935467384_7.jpg",
+    "details": {
+      "albumId": "4180949523",
+      "tags": [
+        "experimental",
+        "acoustic doom",
+        "blues",
+        "drone",
+        "folk",
+        "neoclassical",
+        "soundtrack",
+        "surrealism",
+        "Berlin"
       ]
     }
   },
@@ -24114,6 +24962,37 @@
     }
   },
   {
+    "utc_date": 1662343145.5877397,
+    "artist_name": "The Heavy Beat",
+    "item_type": "a",
+    "item_description": "Up from the Echo Cellar",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 201163801,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://theheavybeat.bandcamp.com/album/up-from-the-echo-cellar",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0201163801_7.jpg",
+    "details": {
+      "albumId": "1748475377",
+      "tags": [
+        "reggae",
+        "rocksteady",
+        "ska",
+        "soul",
+        "United States"
+      ]
+    }
+  },
+  {
     "utc_date": 1658249175.6263494,
     "artist_name": "EriS",
     "item_type": "a",
@@ -24838,6 +25717,43 @@
         "sheet music",
         "soft piano music",
         "Frankfurt"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662488298.7038522,
+    "artist_name": "Massilia Hi-Fi feat Arcuate",
+    "item_type": "a",
+    "item_description": "Uprising EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "France",
+    "art_id": 4284444441,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://massiliahi-fi.bandcamp.com/album/uprising-ep",
+    "country_code": "fr",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a4284444441_7.jpg",
+    "details": {
+      "albumId": "2590070642",
+      "tags": [
+        "2019",
+        "reggae",
+        "bass music",
+        "dub",
+        "homemade",
+        "new ep",
+        "reaggae",
+        "reggae",
+        "skanks",
+        "soundsystem",
+        "Marseille"
       ]
     }
   },
@@ -25762,6 +26678,39 @@
     }
   },
   {
+    "utc_date": 1662388767.506256,
+    "artist_name": "Layup",
+    "item_type": "a",
+    "item_description": "Urban Traveller",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "Czech Republic",
+    "art_id": 8863854,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://fresky.bandcamp.com/album/urban-traveller",
+    "country_code": "cz",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a0008863854_7.jpg",
+    "details": {
+      "albumId": "3913647747",
+      "tags": [
+        "303",
+        "electronic",
+        "prague",
+        "acid",
+        "house",
+        "techno",
+        "Liberec"
+      ]
+    }
+  },
+  {
     "country_code": "de",
     "utc_date": 1655742144.25223,
     "releases": null,
@@ -26542,6 +27491,37 @@
         "drone",
         "grunge",
         "Oakland"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662407978.7604575,
+    "artist_name": "Brock Tyler",
+    "item_type": "a",
+    "item_description": "Us",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 4,
+    "item_price": 0,
+    "amount_paid_usd": 3.04,
+    "country": "United States",
+    "art_id": 3706654803,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://brocktyler.bandcamp.com/album/us",
+    "country_code": "us",
+    "amount_paid_fmt": "$4 CAD",
+    "amount_over_fmt": "$4",
+    "art_url": "https://f4.bcbits.com/img/a3706654803_7.jpg",
+    "details": {
+      "albumId": "991576727",
+      "tags": [
+        "folk",
+        "indie",
+        "singer-songwriter",
+        "Canada"
       ]
     }
   },
@@ -28573,6 +29553,34 @@
     }
   },
   {
+    "utc_date": 1662550239.5835376,
+    "artist_name": "queenjazz",
+    "item_type": "a",
+    "item_description": "ultramegacorp",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1.15,
+    "country": "Germany",
+    "art_id": 2839960575,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://queenjazz.bandcamp.com/album/ultramegacorp",
+    "country_code": "de",
+    "amount_paid_fmt": "£1",
+    "art_url": "https://f4.bcbits.com/img/a2839960575_7.jpg",
+    "details": {
+      "albumId": "1936123952",
+      "tags": [
+        "electronic",
+        "Berlin"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "item_description": "ultramodern stock exchange album",
     "releases": null,
@@ -29215,6 +30223,37 @@
         "shoegaze",
         "slowcore",
         "Berkeley"
+      ]
+    }
+  },
+  {
+    "utc_date": 1662403584.582896,
+    "artist_name": "monzoul",
+    "item_type": "a",
+    "item_description": "under vulcano",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "MXN",
+    "amount_paid": 1000,
+    "item_price": 0,
+    "amount_paid_usd": 50.03,
+    "country": "United States",
+    "art_id": 1369180684,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://monzoul.bandcamp.com/album/under-vulcano",
+    "country_code": "us",
+    "amount_paid_fmt": "$1,000 MXN",
+    "amount_over_fmt": "$1,000",
+    "art_url": "https://f4.bcbits.com/img/a1369180684_7.jpg",
+    "details": {
+      "albumId": "3768612136",
+      "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "Mexico"
       ]
     }
   },
@@ -30766,6 +31805,39 @@
     }
   },
   {
+    "utc_date": 1662436581.9468691,
+    "artist_name": "HOMELESS SEXUALS",
+    "item_type": "a",
+    "item_description": "upcoming new album not yet titled  rough draft",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 157455870,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://homelesssexuals.bandcamp.com/album/upcoming-new-album-not-yet-titled-rough-draft",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0157455870_7.jpg",
+    "details": {
+      "albumId": "3145017901",
+      "tags": [
+        "rock",
+        "full contact rock -n- roll",
+        "noise rock",
+        "post punk",
+        "psychedelic punk",
+        "punk",
+        "San Diego"
+      ]
+    }
+  },
+  {
     "country": "United States",
     "artist_name": "OOPARTs",
     "currency": "USD",
@@ -30793,6 +31865,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1662586426.2051647,
+    "artist_name": "SRVTR",
+    "item_type": "a",
+    "item_description": "urbex",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "France",
+    "art_id": 3607990621,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://emerge.bandcamp.com/album/urbex",
+    "country_code": "fr",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a3607990621_7.jpg",
+    "details": {
+      "albumId": "2021599235",
+      "tags": [
+        "experimental",
+        "abstract techno",
+        "ambient",
+        "drone",
+        "noise",
+        "rhythm & noise",
+        "Augsburg"
       ]
     }
   },
