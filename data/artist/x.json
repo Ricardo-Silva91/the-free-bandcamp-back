@@ -206,6 +206,37 @@
     }
   },
   {
+    "utc_date": 1665333004.2296047,
+    "artist_name": "X-ACTO",
+    "item_type": "a",
+    "item_description": "X-ACTO~DEMO",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 1999973593,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://whitegloverecords.bandcamp.com/album/x-acto-demo",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a1999973593_7.jpg",
+    "details": {
+      "albumId": "1629077416",
+      "tags": [
+        "punk",
+        "aliso viejo",
+        "fuckwave",
+        "orange county",
+        "California"
+      ]
+    }
+  },
+  {
     "country_code": "us",
     "utc_date": 1655941578.23273,
     "releases": null,
@@ -332,6 +363,73 @@
         "psychedelic",
         "psytrance",
         "Mexico City"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664868794.463159,
+    "artist_name": "X-Sister Z",
+    "item_type": "a",
+    "item_description": "Say 10",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10,
+    "country": "United States",
+    "art_id": 2925007537,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xsisterz.bandcamp.com/album/say-10",
+    "country_code": "us",
+    "amount_paid_fmt": "$10",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a2925007537_7.jpg",
+    "details": {
+      "albumId": "810433660",
+      "tags": [
+        "hard rock",
+        "industrial metal",
+        "metal",
+        "rock",
+        "industrial",
+        "Jacksonville"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664565626.8526492,
+    "artist_name": "X.KERNEL",
+    "item_type": "a",
+    "item_description": "Kingdom of Pain (EP)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2.5,
+    "item_price": 0,
+    "amount_paid_usd": 2.5,
+    "country": "United States",
+    "art_id": 829139900,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xkernel.bandcamp.com/album/kingdom-of-pain-ep",
+    "country_code": "us",
+    "amount_paid_fmt": "$2.50",
+    "amount_over_fmt": "$2.50",
+    "art_url": "https://f4.bcbits.com/img/a0829139900_7.jpg",
+    "details": {
+      "albumId": "2021881311",
+      "tags": [
+        "metal",
+        "death-metal",
+        "melodic-death-metal",
+        "metalcore",
+        "modern-metal",
+        "progressive-metal",
+        "Kiev"
       ]
     }
   },
@@ -615,6 +713,39 @@
     }
   },
   {
+    "utc_date": 1665158382.622919,
+    "artist_name": "XC3N",
+    "item_type": "a",
+    "item_description": "[NightJams]",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 3.65,
+    "country": "Canada",
+    "art_id": 1882328687,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https:https://xc3n.net/album/nightjams",
+    "country_code": "ca",
+    "amount_paid_fmt": "$5 CAD",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a1882328687_7.jpg",
+    "details": {
+      "albumId": "3913652910",
+      "tags": [
+        "electronic",
+        "griffintown",
+        "québec",
+        "chipmusic",
+        "creepcore",
+        "montreal"
+      ]
+    }
+  },
+  {
     "country_code": "ca",
     "utc_date": 1655919807.1113,
     "releases": null,
@@ -673,6 +804,40 @@
       "tags": [
         "punk",
         "Gainesville"
+      ]
+    }
+  },
+  {
+    "utc_date": 1665353211.8434842,
+    "artist_name": "XColdKore",
+    "item_type": "a",
+    "item_description": "City Pop Citizens",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 4.87,
+    "country": "Switzerland",
+    "art_id": 202536590,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xcoldkore.bandcamp.com/album/city-pop-citizens",
+    "country_code": "ch",
+    "amount_paid_fmt": "€5",
+    "amount_over_fmt": "€5",
+    "art_url": "https://f4.bcbits.com/img/a0202536590_7.jpg",
+    "details": {
+      "albumId": "3230941990",
+      "tags": [
+        "electronic",
+        "city pop",
+        "future funk",
+        "japanese",
+        "japanese pop",
+        "vaporwave",
+        "Seville"
       ]
     }
   },
@@ -2159,6 +2324,36 @@
     }
   },
   {
+    "utc_date": 1665208886.414539,
+    "artist_name": "X State Ride - Waiting For Better Days",
+    "item_type": "a",
+    "item_description": "Split CD",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.49,
+    "country": "France",
+    "art_id": 3363298453,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://indeliriumrecords.bandcamp.com/album/split-cd",
+    "country_code": "fr",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a3363298453_7.jpg",
+    "details": {
+      "albumId": "200942867",
+      "tags": [
+        "punk",
+        "hardcore punk",
+        "punk hardcore rock",
+        "Italy"
+      ]
+    }
+  },
+  {
     "item_type": "a",
     "country_code": "nl",
     "utc_date": 1654444771.6903,
@@ -2982,6 +3177,38 @@
     }
   },
   {
+    "utc_date": 1665148169.7499897,
+    "artist_name": "Xander Harris",
+    "item_type": "a",
+    "item_description": "Snow Crash",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2,
+    "country": "United Kingdom",
+    "art_id": 3791195115,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xanderharris.bandcamp.com/album/snow-crash",
+    "country_code": "gb",
+    "amount_paid_fmt": "$2",
+    "art_url": "https://f4.bcbits.com/img/a3791195115_7.jpg",
+    "details": {
+      "albumId": "2526903335",
+      "tags": [
+        "80s",
+        "electronic",
+        "ebm",
+        "industrial",
+        "synthwave",
+        "Denton"
+      ]
+    }
+  },
+  {
     "utc_date": 1661122242.799143,
     "artist_name": "Xander Harris",
     "item_type": "a",
@@ -3431,6 +3658,40 @@
         "dark ambient",
         "noise",
         "Texas"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664536271.7307792,
+    "artist_name": "Xaõ Seffcheque",
+    "item_type": "a",
+    "item_description": "KESS02LP 'Ja, Nein, Vielleicht Kommt Sehr Gut' (vinyl exclusive)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 2.94,
+    "country": "France",
+    "art_id": 2103110811,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xaoseffcheque.bandcamp.com/album/kess02lp-ja-nein-vielleicht-kommt-sehr-gut-vinyl-exclusive",
+    "country_code": "fr",
+    "amount_paid_fmt": "€3",
+    "amount_over_fmt": "€3",
+    "art_url": "https://f4.bcbits.com/img/a2103110811_7.jpg",
+    "details": {
+      "albumId": "508666475",
+      "tags": [
+        "electronic",
+        "body",
+        "neue deutsche welle",
+        "new wave",
+        "post-punk",
+        "synth",
+        "Düsseldorf"
       ]
     }
   },
@@ -4125,6 +4386,43 @@
     }
   },
   {
+    "utc_date": 1665027067.3017578,
+    "artist_name": "Xenon Odyssey",
+    "item_type": "a",
+    "item_description": "Fountainhead",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 10,
+    "country": "United States",
+    "art_id": 2950008020,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xenonodyssey.bandcamp.com/album/fountainhead",
+    "country_code": "us",
+    "amount_paid_fmt": "$10",
+    "amount_over_fmt": "$10",
+    "art_url": "https://f4.bcbits.com/img/a2950008020_7.jpg",
+    "details": {
+      "albumId": "4127312323",
+      "tags": [
+        "8-bit",
+        "electronic",
+        "chiptune",
+        "game music",
+        "lo-fi",
+        "retro",
+        "soundtrack",
+        "tracker",
+        "vgm",
+        "Forest Hill"
+      ]
+    }
+  },
+  {
     "utc_date": 1662108984.0890398,
     "artist_name": "Xenophobia",
     "item_type": "a",
@@ -4813,6 +5111,38 @@
     }
   },
   {
+    "utc_date": 1665410021.401158,
+    "artist_name": "Xh-Plasam",
+    "item_type": "a",
+    "item_description": "No-Clip / Meat Rubbin'",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 2.21,
+    "country": "United Kingdom",
+    "art_id": 3723707919,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://kartton.bandcamp.com/album/no-clip-meat-rubbin",
+    "country_code": "gb",
+    "amount_paid_fmt": "£2",
+    "amount_over_fmt": "£2",
+    "art_url": "https://f4.bcbits.com/img/a3723707919_7.jpg",
+    "details": {
+      "albumId": "1156549584",
+      "tags": [
+        "dance",
+        "electronic",
+        "dubstep",
+        "trance",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
     "utc_date": 1659596239.2178369,
     "artist_name": "XharoldshitmanX",
     "item_type": "a",
@@ -4966,6 +5296,44 @@
     }
   },
   {
+    "utc_date": 1664468190.0375059,
+    "artist_name": "XianZai",
+    "item_type": "a",
+    "item_description": "Poezi Quiellor",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.49,
+    "country": "Israel",
+    "art_id": 1215331841,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://divinorumusicorum.bandcamp.com/album/poezi-quiellor",
+    "country_code": "il",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a1215331841_7.jpg",
+    "details": {
+      "albumId": "3480169988",
+      "tags": [
+        "electronic",
+        "experimental",
+        "progressive trance",
+        "ambient",
+        "divine",
+        "poetry",
+        "progressive",
+        "psychedelic",
+        "psytrance",
+        "sky",
+        "techno",
+        "Lebanon"
+      ]
+    }
+  },
+  {
     "utc_date": 1658513668.2448065,
     "artist_name": "XianZai",
     "item_type": "a",
@@ -5062,6 +5430,36 @@
     }
   },
   {
+    "utc_date": 1664727488.2698128,
+    "artist_name": "Xibalba",
+    "item_type": "a",
+    "item_description": "Demo 12.2012",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "France",
+    "art_id": 649562371,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://thisisienotla.bandcamp.com/album/demo-122012",
+    "country_code": "fr",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0649562371_7.jpg",
+    "details": {
+      "albumId": "3094319744",
+      "tags": [
+        "punk",
+        "hardcore",
+        "hardcore punk",
+        "California"
+      ]
+    }
+  },
+  {
     "country_code": "mx",
     "utc_date": 1655483572.70994,
     "releases": null,
@@ -5118,6 +5516,43 @@
         "techno",
         "tekk",
         "Glasgow"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664468171.7182817,
+    "artist_name": "XilenZium",
+    "item_type": "a",
+    "item_description": "Iter Caelum",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 0.5,
+    "item_price": 0,
+    "amount_paid_usd": 0.49,
+    "country": "Israel",
+    "art_id": 2746335098,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://divinorumusicorum.bandcamp.com/album/iter-caelum",
+    "country_code": "il",
+    "amount_paid_fmt": "€0.50",
+    "art_url": "https://f4.bcbits.com/img/a2746335098_7.jpg",
+    "details": {
+      "albumId": "1678144545",
+      "tags": [
+        "electronic",
+        "experimental",
+        "abstract",
+        "ambient",
+        "darkpsy",
+        "divine",
+        "forest",
+        "modular",
+        "piano",
+        "psychedelic",
+        "Lebanon"
       ]
     }
   },
@@ -5441,6 +5876,39 @@
     }
   },
   {
+    "utc_date": 1664540542.3883076,
+    "artist_name": "Xivilai Sorcerer",
+    "item_type": "a",
+    "item_description": "He-Who-Destroys She-Who-Erases",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 9.76,
+    "country": "Denmark",
+    "art_id": 2562983035,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xivilaisorcerer.bandcamp.com/album/he-who-destroys-she-who-erases",
+    "country_code": "dk",
+    "amount_paid_fmt": "€10",
+    "amount_over_fmt": "€10",
+    "art_url": "https://f4.bcbits.com/img/a2562983035_7.jpg",
+    "details": {
+      "albumId": "3926779338",
+      "tags": [
+        "ambient",
+        "morrowind",
+        "the elder scrolls",
+        "dark ambient",
+        "dungeon synth",
+        "Germany"
+      ]
+    }
+  },
+  {
     "utc_date": 1663953674.9809077,
     "artist_name": "Xkernel",
     "item_type": "a",
@@ -5637,6 +6105,35 @@
       "tags": [
         "country",
         "United States"
+      ]
+    }
+  },
+  {
+    "utc_date": 1665135183.6403062,
+    "artist_name": "Xmas",
+    "item_type": "a",
+    "item_description": "Xmas 2 EP",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "GBP",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5.58,
+    "country": "United Kingdom",
+    "art_id": 2782101159,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xmas.bandcamp.com/album/xmas-2-ep",
+    "country_code": "gb",
+    "amount_paid_fmt": "£5",
+    "amount_over_fmt": "£5",
+    "art_url": "https://f4.bcbits.com/img/a2782101159_7.jpg",
+    "details": {
+      "albumId": "1045060685",
+      "tags": [
+        "alternative",
+        "London"
       ]
     }
   },
@@ -6137,6 +6634,41 @@
     }
   },
   {
+    "utc_date": 1664974312.5473092,
+    "artist_name": "Xotla (Declan Clark)",
+    "item_type": "a",
+    "item_description": "Xotla's Microtonal Funk & Blues Vol. 1",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "AUD",
+    "amount_paid": 25,
+    "item_price": 0,
+    "amount_paid_usd": 16.1,
+    "country": "United States",
+    "art_id": 3090773694,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xotla.bandcamp.com/album/xotlas-microtonal-funk-blues-vol-1",
+    "country_code": "us",
+    "amount_paid_fmt": "$25 AUD",
+    "amount_over_fmt": "$25",
+    "art_url": "https://f4.bcbits.com/img/a3090773694_7.jpg",
+    "details": {
+      "albumId": "3790562381",
+      "tags": [
+        "funk",
+        "blues",
+        "electronic",
+        "experimental",
+        "guitar",
+        "microtonal",
+        "xenharmonic",
+        "Melbourne"
+      ]
+    }
+  },
+  {
     "utc_date": 1662824446.1946714,
     "artist_name": "Xotla (Declan Clark)",
     "item_type": "a",
@@ -6517,6 +7049,39 @@
     }
   },
   {
+    "utc_date": 1665177954.6321173,
+    "artist_name": "XpresidentX",
+    "item_type": "a",
+    "item_description": "Héroes de la Transición",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 8,
+    "item_price": 0,
+    "amount_paid_usd": 7.79,
+    "country": "Spain",
+    "art_id": 1772998770,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xpresidentx.bandcamp.com/album/h-roes-de-la-transici-n",
+    "country_code": "es",
+    "amount_paid_fmt": "€8",
+    "amount_over_fmt": "€8",
+    "art_url": "https://f4.bcbits.com/img/a1772998770_7.jpg",
+    "details": {
+      "albumId": "1704268460",
+      "tags": [
+        "hip-hop",
+        "metal",
+        "punk",
+        "rap",
+        "rapcore",
+        "Spain"
+      ]
+    }
+  },
+  {
     "country_code": "gb",
     "utc_date": 1655409278.66745,
     "releases": null,
@@ -6687,6 +7252,42 @@
         "vapor",
         "vaporwave",
         "Los Angeles"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664685189.493455,
+    "artist_name": "Xucar Warriors ft. Akimitto",
+    "item_type": "a",
+    "item_description": "Kawasemi",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 2,
+    "item_price": 0,
+    "amount_paid_usd": 1.96,
+    "country": "United States",
+    "art_id": 1168608170,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xucarwarriors.bandcamp.com/album/kawasemi-2",
+    "country_code": "us",
+    "amount_paid_fmt": "€2",
+    "amount_over_fmt": "€2",
+    "art_url": "https://f4.bcbits.com/img/a1168608170_7.jpg",
+    "details": {
+      "albumId": "1214293666",
+      "tags": [
+        "reggae",
+        "dub",
+        "lovers",
+        "rockers",
+        "roots",
+        "sound system",
+        "steppa",
+        "warrior",
+        "Cuenca"
       ]
     }
   },
@@ -7095,6 +7696,40 @@
     }
   },
   {
+    "utc_date": 1664891660.1983457,
+    "artist_name": "Xyloid",
+    "item_type": "a",
+    "item_description": "Hypercolor Jazzercise",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3,
+    "country": "United States",
+    "art_id": 888946272,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://vaporbabes.bandcamp.com/album/hypercolor-jazzercise",
+    "country_code": "us",
+    "amount_paid_fmt": "$3",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a0888946272_7.jpg",
+    "details": {
+      "albumId": "3401608256",
+      "tags": [
+        "electronic",
+        "chillwave",
+        "pirateviolence",
+        "seapunk",
+        "vaporwave",
+        "witch house",
+        "San Francisco"
+      ]
+    }
+  },
+  {
     "utc_date": 1658121920.4498358,
     "artist_name": "Xymox ‎",
     "item_type": "a",
@@ -7165,6 +7800,39 @@
         "braindance",
         "drill",
         "Germany"
+      ]
+    }
+  },
+  {
+    "utc_date": 1664891536.068142,
+    "artist_name": "Xyris",
+    "item_type": "a",
+    "item_description": "AZURiTE",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 3,
+    "country": "United Kingdom",
+    "art_id": 1281133155,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xyris.bandcamp.com/album/azurite",
+    "country_code": "gb",
+    "amount_paid_fmt": "$3",
+    "amount_over_fmt": "$3",
+    "art_url": "https://f4.bcbits.com/img/a1281133155_7.jpg",
+    "details": {
+      "albumId": "1058470639",
+      "tags": [
+        "electronic",
+        "dnb",
+        "dubstep",
+        "hardcore",
+        "trance",
+        "Los Angeles"
       ]
     }
   },
@@ -7845,6 +8513,42 @@
     }
   },
   {
+    "utc_date": 1664449647.4580283,
+    "artist_name": "xBurnedx",
+    "item_type": "a",
+    "item_description": "Bien cuit",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 0.97,
+    "country": "Belgium",
+    "art_id": 2729216435,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xburnedx.bandcamp.com/album/bien-cuit",
+    "country_code": "be",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2729216435_7.jpg",
+    "details": {
+      "albumId": "3876479198",
+      "tags": [
+        "belgian straight edge",
+        "crust",
+        "death metal",
+        "hardcore punk",
+        "hardcore straight edge",
+        "limburg straight edge",
+        "metal",
+        "straight edge",
+        "violence",
+        "Belgium"
+      ]
+    }
+  },
+  {
     "utc_date": 1659415782.027473,
     "artist_name": "xDEVOTIONx",
     "item_type": "a",
@@ -8459,6 +9163,37 @@
       "tags": [
         "punk",
         "United States"
+      ]
+    }
+  },
+  {
+    "utc_date": 1665147723.0689802,
+    "artist_name": "xeaoxa",
+    "item_type": "a",
+    "item_description": "Kei",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 0.73,
+    "country": "United States",
+    "art_id": 2299209773,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xeaoxa.bandcamp.com/album/kei",
+    "country_code": "us",
+    "amount_paid_fmt": "$1 CAD",
+    "art_url": "https://f4.bcbits.com/img/a2299209773_7.jpg",
+    "details": {
+      "albumId": "2169583539",
+      "tags": [
+        "rock",
+        "experimental rock",
+        "instrumental rock",
+        "prog rock",
+        "Winnipeg"
       ]
     }
   },
@@ -9130,6 +9865,47 @@
         "symphonic vapor",
         "vaporwave",
         "Pennsylvania"
+      ]
+    }
+  },
+  {
+    "utc_date": 1665383374.7843015,
+    "artist_name": "xxhardbit3s",
+    "item_type": "a",
+    "item_description": "JUNGL3 2 J3RZ (90S JUNGLE JERSEY CLUB EDITZ)",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2889135556,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xxhardbit3s.bandcamp.com/album/jungl3-2-j3rz-90s-jungle-jersey-club-editz",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a2889135556_7.jpg",
+    "details": {
+      "albumId": "4033553319",
+      "tags": [
+        "drum & bass",
+        "electronic",
+        "hard dance",
+        "jersey club",
+        "bootleg",
+        "breakbeat",
+        "dub",
+        "edit",
+        "footwork",
+        "hardcore",
+        "juke",
+        "jungle",
+        "remix",
+        "trance",
+        "New Jersey"
       ]
     }
   },
