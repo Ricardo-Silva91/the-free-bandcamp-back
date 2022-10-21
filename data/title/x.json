@@ -3349,6 +3349,37 @@
     }
   },
   {
+    "utc_date": 1665759195.5947218,
+    "artist_name": "violethead",
+    "item_type": "a",
+    "item_description": "XYXYX",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 1411356121,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://violethead.bandcamp.com/album/xyxyx",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a1411356121_7.jpg",
+    "details": {
+      "albumId": "2532370626",
+      "tags": [
+        "electronic",
+        "bedroom",
+        "synthpop",
+        "Milwaukee"
+      ]
+    }
+  },
+  {
     "amount_paid": 1,
     "country_code": "us",
     "art_url": "https://f4.bcbits.com/img/a1338279310_7.jpg",
@@ -3630,6 +3661,39 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1665746558.696231,
+    "artist_name": "Xatiro",
+    "item_type": "a",
+    "item_description": "Xatirokeriak",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 7,
+    "item_price": 0,
+    "amount_paid_usd": 6.81,
+    "country": "Spain",
+    "art_id": 2661680307,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xatiro.bandcamp.com/album/xatirokeriak",
+    "country_code": "es",
+    "amount_paid_fmt": "€7",
+    "amount_over_fmt": "€7",
+    "art_url": "https://f4.bcbits.com/img/a2661680307_7.jpg",
+    "details": {
+      "albumId": "1437805422",
+      "tags": [
+        "basque",
+        "hip-hop",
+        "hip-hop/rap",
+        "rap",
+        "punk rock bilbao",
+        "Spain"
       ]
     }
   },
