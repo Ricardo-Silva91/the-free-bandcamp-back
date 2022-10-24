@@ -6127,6 +6127,39 @@
     }
   },
   {
+    "utc_date": 1666568074.7466695,
+    "artist_name": "Quit It!",
+    "item_type": "a",
+    "item_description": "Quit It!",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "CAD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 3.67,
+    "country": "Canada",
+    "art_id": 3688723899,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://quitit.bandcamp.com/album/quit-it",
+    "country_code": "ca",
+    "amount_paid_fmt": "$5 CAD",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a3688723899_7.jpg",
+    "details": {
+      "albumId": "4194463790",
+      "tags": [
+        "calgary music",
+        "punk",
+        "rain city recorders",
+        "vancouver",
+        "punk rock",
+        "Calgary"
+      ]
+    }
+  },
+  {
     "utc_date": 1664528298.5495162,
     "artist_name": "Quit Life",
     "item_type": "a",
@@ -7561,6 +7594,38 @@
         "lo-fi",
         "lo-fi hiphop",
         "Italy"
+      ]
+    }
+  },
+  {
+    "utc_date": 1666593384.0497608,
+    "artist_name": "qune",
+    "item_type": "a",
+    "item_description": "αrchives",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 35,
+    "item_price": 0,
+    "amount_paid_usd": 34.47,
+    "country": "United States",
+    "art_id": 2417239131,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://qune.bandcamp.com/album/rchives",
+    "country_code": "us",
+    "amount_paid_fmt": "€35",
+    "amount_over_fmt": "€35",
+    "art_url": "https://f4.bcbits.com/img/a2417239131_7.jpg",
+    "details": {
+      "albumId": "672288536",
+      "tags": [
+        "electronic",
+        "ambient",
+        "electronica",
+        "idm",
+        "France"
       ]
     }
   }

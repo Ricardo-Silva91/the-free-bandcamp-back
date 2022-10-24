@@ -4372,6 +4372,39 @@
     }
   },
   {
+    "utc_date": 1666550314.4771333,
+    "artist_name": "Music Saved My Life",
+    "item_type": "a",
+    "item_description": "Xixón (not) Sound",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 3,
+    "item_price": 0,
+    "amount_paid_usd": 2.96,
+    "country": "Spain",
+    "art_id": 743557860,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://musicsavedmylife.bandcamp.com/album/xix-n-not-sound",
+    "country_code": "es",
+    "amount_paid_fmt": "€3",
+    "amount_over_fmt": "€3",
+    "art_url": "https://f4.bcbits.com/img/a0743557860_7.jpg",
+    "details": {
+      "albumId": "911246248",
+      "tags": [
+        "garage",
+        "music saved my life",
+        "punk",
+        "soul",
+        "xixón",
+        "Spain"
+      ]
+    }
+  },
+  {
     "utc_date": 1665135183.6403062,
     "artist_name": "Xmas",
     "item_type": "a",
@@ -5360,6 +5393,39 @@
         "industrial",
         "power electronics",
         "Austin"
+      ]
+    }
+  },
+  {
+    "utc_date": 1666592510.1444976,
+    "artist_name": "xMxHxTxTx",
+    "item_type": "a",
+    "item_description": "xMxHxTxTx",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 986488068,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xmxhxtxtx.bandcamp.com/album/xmxhxtxtx",
+    "country_code": "us",
+    "amount_paid_fmt": "$1",
+    "art_url": "https://f4.bcbits.com/img/a0986488068_7.jpg",
+    "details": {
+      "albumId": "506042903",
+      "tags": [
+        "rock",
+        "goregrind",
+        "grind",
+        "grindcore",
+        "hardcore",
+        "noise",
+        "Lancaster"
       ]
     }
   },
