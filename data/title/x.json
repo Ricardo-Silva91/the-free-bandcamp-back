@@ -199,6 +199,40 @@
     }
   },
   {
+    "utc_date": 1666819932.837406,
+    "artist_name": "BOYZTEETH",
+    "item_type": "a",
+    "item_description": "X-Ray Angel",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 1249226748,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://boyzteeth.bandcamp.com/album/x-ray-angel",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a1249226748_7.jpg",
+    "details": {
+      "albumId": "1195327077",
+      "tags": [
+        "electronic",
+        "breakcore",
+        "experimental",
+        "noise pop",
+        "psycho pop",
+        "radioactive",
+        "Winnipeg"
+      ]
+    }
+  },
+  {
     "utc_date": 1661217402.0538325,
     "artist_name": "Jesse X-Ro Pinkney",
     "item_type": "a",
@@ -3376,6 +3410,39 @@
         "bedroom",
         "synthpop",
         "Milwaukee"
+      ]
+    }
+  },
+  {
+    "utc_date": 1666720822.3766503,
+    "artist_name": "XYZ project",
+    "item_type": "a",
+    "item_description": "XYZ001",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "EUR",
+    "amount_paid": 1,
+    "item_price": 0,
+    "amount_paid_usd": 1,
+    "country": "United States",
+    "art_id": 2054165661,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://xyzproject.bandcamp.com/album/xyz001",
+    "country_code": "us",
+    "amount_paid_fmt": "€1",
+    "art_url": "https://f4.bcbits.com/img/a2054165661_7.jpg",
+    "details": {
+      "albumId": "3713535204",
+      "tags": [
+        "alternative",
+        "alternative",
+        "ambient",
+        "electronic",
+        "experimental",
+        "shoegaze",
+        "Prague"
       ]
     }
   },
