@@ -2591,6 +2591,36 @@
     }
   },
   {
+    "utc_date": 1667257217.406322,
+    "artist_name": "FREA",
+    "item_type": "a",
+    "item_description": "XX13",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "MXN",
+    "amount_paid": 10,
+    "item_price": 0,
+    "amount_paid_usd": 0.5,
+    "country": "Germany",
+    "art_id": 1436974210,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://frea.bandcamp.com/album/xx13",
+    "country_code": "de",
+    "amount_paid_fmt": "$10 MXN",
+    "art_url": "https://f4.bcbits.com/img/a1436974210_7.jpg",
+    "details": {
+      "albumId": "2698220999",
+      "tags": [
+        "electronic",
+        "tech house",
+        "techno",
+        "Mexico City"
+      ]
+    }
+  },
+  {
     "amount_paid": 10,
     "country_code": "nl",
     "art_url": "https://f4.bcbits.com/img/a0976795864_7.jpg",
@@ -2618,6 +2648,44 @@
         "",
         "",
         ""
+      ]
+    }
+  },
+  {
+    "utc_date": 1667267053.5504766,
+    "artist_name": "Cryptophaser",
+    "item_type": "a",
+    "item_description": "XXII",
+    "album_title": null,
+    "slug_type": "a",
+    "track_album_slug_text": null,
+    "currency": "USD",
+    "amount_paid": 5,
+    "item_price": 0,
+    "amount_paid_usd": 5,
+    "country": "United States",
+    "art_id": 3799744568,
+    "releases": null,
+    "package_image_id": null,
+    "url": "https://cryptophaser.bandcamp.com/album/xxii",
+    "country_code": "us",
+    "amount_paid_fmt": "$5",
+    "amount_over_fmt": "$5",
+    "art_url": "https://f4.bcbits.com/img/a3799744568_7.jpg",
+    "details": {
+      "albumId": "4162935078",
+      "tags": [
+        "boston",
+        "punk",
+        "doom",
+        "dungeon fuzz",
+        "fuzz",
+        "hardcore",
+        "instrumental",
+        "metal",
+        "psych",
+        "stoner rock",
+        "Hudson"
       ]
     }
   },
