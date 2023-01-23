@@ -1,38 +1,27 @@
 /* eslint-disable global-require */
 /* eslint-disable import/no-dynamic-require */
+
+const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { getRows } = require('../utils/google.utils');
+
+require('dotenv').config();
+
+const cred = {
+  client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+  private_key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
+};
+
 exports.handler = async () => {
-  const macros = require('../../data/macros.json');
+  const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID);
+  await doc.useServiceAccountAuth(cred);
+  await doc.loadInfo();
 
-  if (!macros || !macros.latestDate) {
-    return {
-      statusCode: 404,
-      body: 'Nothing found',
-    };
-  }
+  const {
+    rows,
+  } = await getRows(doc, 200);
 
-  try {
-    const { latestDate, dayBefore } = macros;
-
-    let result = require(`../../data/sale-date/${latestDate}.json`);
-    const dayBeforeResult = require(`../../data/sale-date/${dayBefore}.json`);
-
-    if (result.length < 100) {
-      const placesLeft = 100 - result.length;
-      const filteredDayBefore = dayBeforeResult.length > placesLeft
-        ? dayBeforeResult.slice(dayBeforeResult.length - placesLeft) : dayBeforeResult;
-
-      result = [...result, ...filteredDayBefore];
-    }
-
-    return {
-      statusCode: 200,
-      body: JSON.stringify(result),
-    };
-  } catch (error) {
-    console.log('error fetching', { error });
-    return {
-      statusCode: 500,
-      body: 'error fetching',
-    };
-  }
+  return {
+    statusCode: 200,
+    body: JSON.stringify(rows),
+  };
 };

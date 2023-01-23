@@ -1,47 +1,112 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { isTitleInDb, addAlbumsToDatabase, isTitleInTodaysSales } = require('./data.utils');
-// const { readFile, writeFile } = require('./fs.utils.js');
-// const { cleanUrl } = require('./js.utils.js');
-
-const albumIdLabelIdentifier = '<!-- album id ';
+const banish = require('to-zalgo/banish');
 
 const getDetailsForAlbum = (album) => new Promise(
   (resolve) => {
-    const albumLink = album.url.startsWith('https:') || album.url.startsWith('http:') ? album.url : `https:${album.url}`;
+    const albumLink = album.url.startsWith('https:')
+    || album.url.startsWith('http:') ? album.url : `https:${album.url}`;
 
     axios(albumLink)
       .then((response) => {
         const html = response.data;
-        const albumIdLabelIndex = html.indexOf(albumIdLabelIdentifier);
-        const indexOfCommentEnd = html.indexOf(' -->', albumIdLabelIndex + albumIdLabelIdentifier.length);
-        let albumId;
-
-        if (albumIdLabelIdentifier !== -1 && indexOfCommentEnd !== -1) {
-          albumId = html.slice(
-            albumIdLabelIndex + albumIdLabelIdentifier.length,
-            indexOfCommentEnd,
-          );
-        }
-
         const $ = cheerio.load(html);
-        const tagsElems = $('.tralbum-tags .tag');
-        const tags = [];
 
-        tagsElems.each((_, tag) => {
-          const title = $(tag).text();
-          tags.push(title);
+        const artistElement = $('#name-section a');
+        const artist = artistElement.text();
+        const artistLink = artistElement.attr('href');
+
+        const titleElement = $('#name-section .trackTitle');
+        const title = titleElement.text().trim();
+
+        const nyp = $('.buyItem.digital .buyItemNyp');
+        const free = nyp.text() === 'name your price';
+
+        const descriptionElement = $('.tralbumData.tralbum-about');
+        const description = banish(descriptionElement.text()).trim().slice(0, 5000);
+
+        const coverElement = $('.popupImage');
+        const cover = coverElement.attr('href');
+
+        const tracksElements = $('.title-col .track-title');
+        const tracklist = [];
+
+        tracksElements.each((track) => {
+          const trackTitleElement = tracksElements.get(track);
+          const trackTitle = $(trackTitleElement).text();
+
+          tracklist.push(trackTitle);
         });
 
+        const tagsElements = $('.tralbum-tags .tag');
+        const tags = [];
+
+        tagsElements.each((_, tag) => {
+          const tagText = $(tag).text();
+          tags.push(tagText);
+        });
+
+        const availableFormatsBlockElements = $('.buyItem ');
+        let availableInVinyl = false;
+
+        availableFormatsBlockElements.each((_, format) => {
+          const formatBlockText = $(format).text();
+
+          if (formatBlockText.includes('Buy Record/Vinyl')) {
+            availableInVinyl = true;
+          }
+        });
+
+        let releaseDate = '';
+
+        try {
+          const releaseDateElement = $('.tralbumData.tralbum-credits');
+          const releaseDateInnerText = releaseDateElement.text();
+          const releaseDateMatch = releaseDateInnerText.match(/release[d|s] [a-zA-Z]+ [0-9]{1,2}, [0-9]{4}/)[0];
+          const releaseDateDate = new Date(releaseDateMatch.replace('released', ''));
+          releaseDate = releaseDateDate.toISOString().split('T')[0].replace(/-/g, '/');
+        } catch (dateError) {
+          console.log({ dateError });
+        }
+
         resolve({
-          albumId,
-          tags,
+          link: albumLink,
+          title,
+          artist,
+          artistLink,
+          free,
+          description,
+          cover,
+          tracklist: JSON.stringify(tracklist),
+          tags: JSON.stringify(tags),
+          availableInVinyl,
+          releaseDate,
+          item_type: album.item_type,
+          country_code: album.country_code,
         });
       })
       .catch((error) => {
-        console.log('axios error', { error });
+        const html = error?.response?.data;
 
-        resolve(undefined);
+        if (html) {
+          const $ = cheerio.load(html);
+
+          const albumIsGoneElem = $('.content h2');
+          const albumIsGone = albumIsGoneElem.text() === 'Sorry, that something isn’t here.';
+
+          if (albumIsGone) {
+            // console.log('album is gone', { albumLink });
+
+            resolve({ error: true, code: 'album is gone', url: albumLink });
+            return;
+          }
+        }
+
+        // console.log('axios error', { code: error.code, albumLink });
+
+        resolve({
+          error: true, code: error.code, ...album, url: albumLink,
+        });
       });
   },
 );

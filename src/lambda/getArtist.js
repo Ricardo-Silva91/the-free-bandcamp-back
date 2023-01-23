@@ -1,5 +1,16 @@
 /* eslint-disable global-require */
 /* eslint-disable import/no-dynamic-require */
+
+const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { getRows } = require('../utils/google.utils');
+
+require('dotenv').config();
+
+const cred = {
+  client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+  private_key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
+};
+
 exports.handler = async (event) => {
   const { artist } = event.queryStringParameters;
 
@@ -10,26 +21,18 @@ exports.handler = async (event) => {
     };
   }
 
-  try {
-    let firstLetter = artist[0].toLocaleLowerCase();
-    const alphabet = '#abcdefghijklmnopqrstuvwxyz';
+  const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID);
+  await doc.useServiceAccountAuth(cred);
+  await doc.loadInfo();
 
-    firstLetter = alphabet.includes(firstLetter) ? firstLetter : '#';
+  const {
+    rows,
+  } = await getRows(doc);
 
-    const result = require(`../../data/artist/${firstLetter}.json`);
-    const filtered = result.filter(
-      (album) => album.artist_name.toLocaleLowerCase() === artist.toLocaleLowerCase(),
-    );
-
-    return {
-      statusCode: 200,
-      body: JSON.stringify(filtered),
-    };
-  } catch (error) {
-    console.log('document doesn\'t exist!!', { error });
-    return {
-      statusCode: 400,
-      body: 'No artist provided',
-    };
-  }
+  return {
+    statusCode: 200,
+    body: JSON.stringify(
+      rows.filter((row) => row.artist.toLocaleLowerCase() === artist.toLocaleLowerCase()),
+    ),
+  };
 };
