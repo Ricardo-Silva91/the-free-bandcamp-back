@@ -12,7 +12,7 @@ const cred = {
 };
 
 const dataPath = path.join(__dirname, '../../data/sale-date');
-const filesToRun = 55;
+const filesToRun = 3;
 
 const getDetailsForAllAlbums = async (albumList, rows, tries = 20) => {
   let promises = [];

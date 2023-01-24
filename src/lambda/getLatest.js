@@ -11,14 +11,15 @@ const cred = {
   private_key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
 };
 
-exports.handler = async () => {
+exports.handler = async (event) => {
+  const slice = event.queryStringParameters.slice || 200;
   const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID);
   await doc.useServiceAccountAuth(cred);
   await doc.loadInfo();
 
   const {
     rows,
-  } = await getRows(doc, 200);
+  } = await getRows(doc, slice);
 
   return {
     statusCode: 200,
