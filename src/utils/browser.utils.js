@@ -1,6 +1,11 @@
+const fs = require('fs');
+const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const banish = require('to-zalgo/banish');
+const { writeFile } = require('./fs.utils');
+
+const dataPath = path.join(__dirname, '../../data');
 
 const getDetailsForAlbum = (album) => new Promise(
   (resolve) => {
@@ -111,52 +116,85 @@ const getDetailsForAlbum = (album) => new Promise(
   },
 );
 
+const getDetailsForAllAlbums = async (albumList, rows, tries = 20) => {
+  let promises = [];
+  let allDone = false;
+  let currentTries = 0;
+  let finalResult = [];
+  let currentAlbums = albumList;
+
+  while (!allDone && currentTries < tries) {
+    for (let i = 0; i < currentAlbums.length; i += 1) {
+      const album = currentAlbums[i];
+      const url = album.url.replace('https:https:', 'https:').replace('http:http:', 'http:');
+
+      const albumIndex = rows.findIndex((row) => row.link === url);
+
+      if (albumIndex === -1) {
+        promises.push(getDetailsForAlbum({
+          url,
+          item_type: album.item_type,
+          country_code: album.country_code,
+        }));
+      }
+    }
+
+    const currentResult = await Promise.all(promises);
+
+    const good = currentResult.filter((row) => !row.error);
+    const errors = currentResult.filter((row) => row.error && row.code !== 'album is gone');
+    const goneAlbums = currentResult.filter((row) => row.error && row.code === 'album is gone');
+
+    console.log({
+      gl: good.length,
+      el: errors.length,
+      gaL: goneAlbums.length,
+      currentTries,
+      tries,
+      fal: finalResult.length,
+    });
+
+    allDone = errors.length === 0;
+
+    if (!allDone) {
+      promises = [];
+      currentTries += 1;
+
+      currentAlbums = errors;
+    }
+
+    finalResult = [...finalResult, ...good];
+  }
+
+  return finalResult;
+};
+
 const scrapeBandcamp = async () => {
   axios('https://bandcamp.com/api/salesfeed/1/get_initial')
     .then(async (response) => {
       const html = response.data;
 
       const items = html.feed_data.events.filter((event) => event.items[0].item_price === 0);
-      const freeItems = items.map((item) => item.items[0]);
+      const freeItems = items.map((item) => ({ ...item.items[0], link: `https:${item.items[0].url}` }));
 
-      console.log({ freeItems: freeItems.length });
+      console.log({ fil: freeItems.length });
 
-      const filteredFreeItems = freeItems.filter(
-        (item) => {
-          const typeIsRight = item.slug_type === 'a';
-          const notInDb = !isTitleInDb(item.item_description);
-          const notInTodaysSales = !isTitleInTodaysSales(item.item_description);
+      const files = fs.readdirSync(dataPath);
+      let currentAlbums = [];
 
-          // console.log({
-          //   t: item.item_description, typeIsRight, notInDb, notInTodaysSales,
-          // });
-
-          return (
-            typeIsRight && notInDb && notInTodaysSales
-          );
-        },
-      );
-
-      console.log({ filtered: filteredFreeItems.length });
-
-      for (let i = 0; i < filteredFreeItems.length; i += 1) {
-        const element = filteredFreeItems[i];
-        const details = await getDetailsForAlbum(element);
-
-        if (details) {
-          filteredFreeItems[i] = {
-            ...element,
-            url: `https:${element.url}`,
-            details,
-          };
-        }
+      if (files.length && files.includes('triage.json')) {
+        currentAlbums = JSON.parse(fs.readFileSync(path.join(dataPath, 'triage.json')));
       }
 
-      console.log('got details');
+      const newAlbums = freeItems.filter(
+        (item) => currentAlbums.findIndex((album) => album.link === item.link) === -1,
+      );
 
-      addAlbumsToDatabase(filteredFreeItems);
+      console.log({ nal: newAlbums.length });
 
-      console.log('albums logged to db');
+      if (newAlbums.length) {
+        writeFile([...currentAlbums, ...newAlbums], path.join(dataPath, 'triage.json'));
+      }
     })
     .catch(console.error);
 };
@@ -164,4 +202,5 @@ const scrapeBandcamp = async () => {
 module.exports = {
   scrapeBandcamp,
   getDetailsForAlbum,
+  getDetailsForAllAlbums,
 };
