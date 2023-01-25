@@ -15,11 +15,31 @@ const getDoc = async () => {
   return doc;
 };
 
-const getRows = async (doc, slice = 0) => {
+const getRowCount = async (doc) => {
   const sheet = doc.sheetsByIndex[0];
   const { rowCount } = sheet;
-  const sliceOffset = slice ? rowCount - slice : 0;
-  const rowsRaw = await sheet.getRows({ offset: sliceOffset });
+
+  return rowCount;
+};
+
+const getRows = async (doc, offset = 0, limit = 30) => {
+  const sheet = doc.sheetsByIndex[0];
+  const { rowCount } = sheet;
+
+  console.log({ rowCount });
+
+  const sliceOffset = offset ? rowCount - offset : 0;
+
+  console.log({
+    rowCount,
+    sliceOffset,
+    limit,
+  });
+
+  const rowsRaw = await sheet.getRows({ offset: sliceOffset, limit });
+
+  console.log({ rr: rowsRaw.length });
+
   const rowKeys = rowsRaw.length ? Object.keys(rowsRaw[0]).filter((key) => !key.includes('_')) : [];
 
   const rows = rowsRaw.map((row) => rowKeys.reduce(
@@ -47,6 +67,7 @@ const getAlbumsNotInDb = async (albums, doc) => {
 
 module.exports = {
   getDoc,
+  getRowCount,
   getRows,
   getAlbumsNotInDb,
 };
