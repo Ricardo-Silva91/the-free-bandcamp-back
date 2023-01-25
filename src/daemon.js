@@ -1,7 +1,7 @@
 const nodeCron = require('node-cron');
+const { sendAlbumsToDatabase } = require('./scripts/sendToDatabase');
 
 const { scrapeBandcamp } = require('./utils/browser.utils');
-const { updateDataBase } = require('./utils/data.utils');
 
 console.log('setting up cron jobs');
 
@@ -11,8 +11,8 @@ nodeCron.schedule('0,30 * * * * *', () => {
   scrapeBandcamp();
 });
 
-nodeCron.schedule('0 0 11 * * *', async () => {
-  console.log('refreshing local db');
+nodeCron.schedule('1 * * * * *', async () => {
+  console.log('sending items to db');
 
-  await updateDataBase();
+  await sendAlbumsToDatabase();
 });

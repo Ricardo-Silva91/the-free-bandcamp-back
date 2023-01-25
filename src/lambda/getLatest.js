@@ -1,38 +1,29 @@
 /* eslint-disable global-require */
 /* eslint-disable import/no-dynamic-require */
-exports.handler = async () => {
-  const macros = require('../../data/macros.json');
 
-  if (!macros || !macros.latestDate) {
-    return {
-      statusCode: 404,
-      body: 'Nothing found',
-    };
-  }
+const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { getRows } = require('../utils/google.utils');
 
-  try {
-    const { latestDate, dayBefore } = macros;
+require('dotenv').config();
 
-    let result = require(`../../data/sale-date/${latestDate}.json`);
-    const dayBeforeResult = require(`../../data/sale-date/${dayBefore}.json`);
+const cred = {
+  client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+  private_key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
+};
 
-    if (result.length < 100) {
-      const placesLeft = 100 - result.length;
-      const filteredDayBefore = dayBeforeResult.length > placesLeft
-        ? dayBeforeResult.slice(dayBeforeResult.length - placesLeft) : dayBeforeResult;
+exports.handler = async (event) => {
+  const offset = parseInt(event.queryStringParameters.offset || 30, 10);
+  const limit = parseInt(event.queryStringParameters.limit || 30, 10);
+  const doc = new GoogleSpreadsheet(process.env.GOOGLE_SHEET_ID);
+  await doc.useServiceAccountAuth(cred);
+  await doc.loadInfo();
 
-      result = [...result, ...filteredDayBefore];
-    }
+  const {
+    rows,
+  } = await getRows(doc, offset, limit);
 
-    return {
-      statusCode: 200,
-      body: JSON.stringify(result),
-    };
-  } catch (error) {
-    console.log('error fetching', { error });
-    return {
-      statusCode: 500,
-      body: 'error fetching',
-    };
-  }
+  return {
+    statusCode: 200,
+    body: JSON.stringify(rows),
+  };
 };

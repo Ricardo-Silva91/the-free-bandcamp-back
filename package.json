@@ -18,6 +18,7 @@
     "lint": "eslint src",
     "lint:fix": "npm run lint -- --fix",
     "daemon": "node ./src/daemon.js",
+    "sendToDatabase": "node ./src/scripts/sendToDatabase.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -41,7 +42,10 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.11",
+    "dotenv": "^16.0.3",
+    "google-spreadsheet": "^3.3.0",
     "node-cron": "^3.0.1",
+    "to-zalgo": "^1.0.1",
     "uuid": "^8.3.2"
   }
 }
