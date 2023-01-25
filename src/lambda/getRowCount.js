@@ -4,7 +4,7 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 const { getRowCount } = require('../utils/google.utils');
 
-require('dotenv').config();
+// require('dotenv').config();
 
 const cred = {
   client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
