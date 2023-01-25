@@ -21,7 +21,7 @@ const sendAlbumsToDatabase = async () => {
     const {
       sheet,
       rowsRaw,
-    } = await getRows(doc);
+    } = await getRows(doc, 0, 0);
     const lastDate = files.pop();
 
     const albumList = JSON.parse(fs.readFileSync(path.join(dataPath, lastDate)));
