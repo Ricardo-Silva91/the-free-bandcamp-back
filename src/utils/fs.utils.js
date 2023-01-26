@@ -1,8 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const writeFile = (data, pathToFile) => {
-  fs.writeFileSync(path.join(pathToFile), JSON.stringify(data, null, 2));
+const writeFile = (data, pathToFile, mini = false) => {
+  fs.writeFileSync(
+    path.join(pathToFile),
+    mini ? JSON.stringify(data) : JSON.stringify(data, null, 2),
+  );
 };
 
 const readFile = (pathToFile) => {

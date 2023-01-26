@@ -1,4 +1,5 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { writeFile } = require('./fs.utils');
 
 require('dotenv').config();
 
@@ -81,10 +82,34 @@ const getAlbumsNotInDb = async (albums, doc) => {
   return filteredAlbums;
 };
 
+const replicateDB = async () => {
+  const doc = await getDoc();
+  const rowCount = await getRowCount(doc);
+  const { rows } = await getRows(doc, 0, 0);
+
+  const piece = 10000;
+  const slices = Math.floor(rowCount / piece);
+  const remainder = rowCount % piece;
+
+  console.log({ slices, remainder, rowCount });
+
+  for (let i = 0; i < slices; i += 1) {
+    writeFile(rows.slice(i * piece, i * piece + piece), `./files/db${i}.json`, true);
+  }
+
+  writeFile(rows.slice(slices * piece, slices * piece + remainder), `./files/db${slices}.json`, true);
+  writeFile({
+    piece,
+    slices,
+    remainder,
+  }, './files/macros.json', true);
+};
+
 module.exports = {
   getDoc,
   getRowCount,
   getRows,
   getVinylRows,
   getAlbumsNotInDb,
+  replicateDB,
 };
