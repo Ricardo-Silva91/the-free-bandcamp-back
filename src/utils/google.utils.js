@@ -50,6 +50,22 @@ const getRows = async (doc, offset = 0, limit = 30) => {
   return { rows, rowsRaw, sheet };
 };
 
+const getVinylRows = async (doc, offset = 0, limit = 0) => {
+  const sheet = doc.sheetsByIndex[2];
+  const rowsRaw = await sheet.getRows({ offset, limit });
+
+  console.log({ vrr: rowsRaw.length });
+
+  const rowKeys = rowsRaw.length ? Object.keys(rowsRaw[0]).filter((key) => !key.includes('_')) : [];
+
+  const rows = rowsRaw.map((row) => rowKeys.reduce(
+    (acc, key) => ({ ...acc, [key]: row[key] }),
+    {},
+  ));
+
+  return { rows, rowsRaw, sheet };
+};
+
 const getAlbumsNotInDb = async (albums, doc) => {
   const { rows } = await getRows(doc);
   const filteredAlbums = albums.filter(
@@ -69,5 +85,6 @@ module.exports = {
   getDoc,
   getRowCount,
   getRows,
+  getVinylRows,
   getAlbumsNotInDb,
 };
