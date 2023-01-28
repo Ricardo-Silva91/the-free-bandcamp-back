@@ -122,7 +122,7 @@ const getDetailsForAllAlbums = async (albumList, rows, tries = 20) => {
   let currentTries = 0;
   let finalResult = [];
   let currentAlbums = albumList.filter(
-    (album, index) => this.albumList.findIndex(
+    (album, index) => albumList.findIndex(
       (cAlbum) => cAlbum.link === album.link,
     ) === index,
   );
