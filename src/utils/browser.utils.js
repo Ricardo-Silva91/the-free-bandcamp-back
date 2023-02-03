@@ -124,7 +124,7 @@ const getDetailsForAllAlbums = async (albumList, rows, tries = 20) => {
   let currentAlbums = albumList.filter(
     (album, index) => albumList.findIndex(
       (cAlbum) => cAlbum.link === album.link,
-    ) === index,
+    ) === index && album.item_type === 'a',
   );
 
   console.log('getDetailsForAllAlbums', { b: albumList.length, a: currentAlbums.length, r: rows.length });
