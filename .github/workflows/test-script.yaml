@@ -7,6 +7,10 @@ on:
         description: 'Test scenario tags'
         required: false
         type: boolean
+      albumList:
+        description: 'AlbumList'
+        required: true
+        type: array
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -24,7 +28,8 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Test input
         run: |
-          echo "Log level: $LEVEL"
+          echo "Log level: $ALBUM_LIST"
           echo "Tags: $TAGS"
         env:
           TAGS: ${{ inputs.tags }}
+          ALBUM_LIST: ${{ inputs.albumList }}
