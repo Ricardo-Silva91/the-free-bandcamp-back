@@ -1,13 +1,12 @@
 const assert = require('node:assert');
 const { chromium } = require('playwright');
-const net = require('net');
+const { execSync } = require('child_process');
 
 (async () => {
-  const client = net.connect({ port: 80, host: 'google.com' }, () => {
-    console.log(`MyIP=${client.localAddress}`);
-    console.log(`MyPORT=${client.localPort}`);
-    client.destroy();
-  });
+  const cmd = 'curl -s http://checkip.amazonaws.com || printf "0.0.0.0"';
+  const pubIp = execSync(cmd).toString().trim();
+
+  console.log(`My public IP address is: ${pubIp}`);
 
   // Setup
   const browser = await chromium.launch();
