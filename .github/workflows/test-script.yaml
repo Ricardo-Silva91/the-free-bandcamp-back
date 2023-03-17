@@ -33,3 +33,7 @@ jobs:
         env:
           TAGS: ${{ inputs.tags }}
           ALBUM_LIST: ${{ inputs.albumList }}
+      - name: install
+        run: npm i
+      - name: Test script
+        run: npm run playwright

@@ -19,8 +19,8 @@
     "lint:fix": "npm run lint -- --fix",
     "replicate-db": "node ./src/replicateDB.js",
     "daemon": "node ./src/daemon.js",
-    "sendToDatabase": "node ./src/scripts/sendToDatabase.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "playwright": "node ./src/playwright.js",
+    "sendToDatabase": "node ./src/scripts/sendToDatabase.js"
   },
   "repository": {
     "type": "git",
@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/Ricardo-Silva91/the-free-bandcamp-back#readme",
   "devDependencies": {
+    "@playwright/test": "^1.31.2",
     "eslint": "^8.17.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
@@ -47,6 +48,7 @@
     "encoding": "^0.1.13",
     "google-spreadsheet": "^3.3.0",
     "node-cron": "^3.0.1",
+    "playwright": "^1.31.2",
     "to-zalgo": "^1.0.1",
     "uuid": "^8.3.2"
   }
