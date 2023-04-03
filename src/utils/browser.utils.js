@@ -28,7 +28,7 @@ const getDetailsForAlbum = (album) => new Promise(
         const free = nyp.text() === 'name your price';
 
         const descriptionElement = $('.tralbumData.tralbum-about');
-        const description = banish(descriptionElement.text()).trim().slice(0, 5000);
+        const description = banish(descriptionElement.text()).trim().slice(0, 100);
 
         const coverElement = $('.popupImage');
         const cover = coverElement.attr('href');
