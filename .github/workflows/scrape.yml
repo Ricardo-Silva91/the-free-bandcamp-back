@@ -27,3 +27,6 @@ jobs:
 
       - name: scrape
         run: npm run scrape
+
+      - name: sendToDatabase
+        run: npm run sendToDatabase
