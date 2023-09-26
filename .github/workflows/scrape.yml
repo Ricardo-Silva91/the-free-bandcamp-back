@@ -1,5 +1,5 @@
 name: Scrape Bandcamp Albums
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} asked for a bandcamp scrape 🚀
 on:
   workflow_dispatch:
     # inputs:
@@ -18,7 +18,12 @@ jobs:
 
       - name: Checkout code
         uses: actions/checkout@v2
+
       - name: install
         run: npm i
+        
+      - name: make data dir
+        run: mkdir data
+
       - name: scrape
         run: npm run scrape
