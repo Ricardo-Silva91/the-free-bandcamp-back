@@ -21,7 +21,8 @@
     "daemon": "node ./src/daemon.js",
     "playwright": "node ./src/playwright.js",
     "sendToDatabase": "node ./src/scripts/sendToDatabase.js",
-    "clean-database": "node ./src/scripts/cleanDatabase.js"
+    "clean-database": "node ./src/scripts/cleanDatabase.js",
+    "save-album": "node ./src/scripts/saveAlbum.js"
   },
   "repository": {
     "type": "git",
