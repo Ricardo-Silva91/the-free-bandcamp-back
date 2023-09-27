@@ -29,7 +29,8 @@ const getRows = async (doc, offset = 0, limit = 30) => {
 
   console.log({ rowCount });
 
-  const sliceOffset = offset ? rowCount - offset : 0;
+  const offsetToUse = offset > rowCount ? rowCount : offset;
+  const sliceOffset = offsetToUse ? rowCount - offsetToUse : 0;
 
   console.log({
     rowCount,
