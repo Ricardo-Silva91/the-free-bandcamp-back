@@ -52,6 +52,12 @@ const getRows = async (doc, offset = 0, limit = 30) => {
   return { rows, rowsRaw, sheet };
 };
 
+const getRowsToSave = async (doc) => {
+  const { rows, rowsRaw } = await getRows(docs);
+
+  const result = rows.reduce((acc, row, index) => ({ rows: [...acc.rows, row], rowsRaw: [...acc.rowsRaw, rowsRaw[index]] }), { rows: [], rowsRaw: [] });
+}
+
 const getVinylRows = async (doc, offset = 0, limit = 0) => {
   const sheet = doc.sheetsByIndex[2];
   const rowsRaw = await sheet.getRows({ offset, limit });
