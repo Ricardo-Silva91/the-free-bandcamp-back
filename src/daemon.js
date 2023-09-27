@@ -11,7 +11,7 @@ nodeCron.schedule('0,30 * * * * *', () => {
   scrapeBandcamp();
 });
 
-nodeCron.schedule('0 0 * * * *', async () => {
+nodeCron.schedule('0 30 * * * *', async () => {
   console.log('sending items to db');
 
   await sendAlbumsToDatabase();

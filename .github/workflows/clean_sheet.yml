@@ -2,15 +2,9 @@ name: Clean Google Sheets
 run-name: ${{ github.actor }} asked for a clean 🚀
 on:
   workflow_dispatch:
-    # inputs:
-      # tags:
-      #   description: 'Test scenario tags'
-      #   required: false
-      #   type: boolean
-      # albumList:
-      #   description: 'AlbumList'
-      #   required: true
-      #   type: array
+  schedule:
+    - cron: '0 0 * * *'
+
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
