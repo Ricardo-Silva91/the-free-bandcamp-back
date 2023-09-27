@@ -16,15 +16,15 @@ const getDoc = async () => {
   return doc;
 };
 
-const getRowCount = async (doc) => {
-  const sheet = doc.sheetsByIndex[0];
+const getRowCount = async (doc, sheetId = 0) => {
+  const sheet = doc.sheetsById[sheetId];
   const { rowCount } = sheet;
 
   return rowCount;
 };
 
-const getRows = async (doc, offset = 0, limit = 30) => {
-  const sheet = doc.sheetsByIndex[0];
+const getRows = async (doc, offset = 0, limit = 1000, options = { sheetId: 0 }) => {
+  const sheet = doc.sheetsByIndex[options.sheetId];
   const { rowCount } = sheet;
 
   console.log({ rowCount });
@@ -53,9 +53,27 @@ const getRows = async (doc, offset = 0, limit = 30) => {
 };
 
 const getRowsToSave = async (doc) => {
-  const { rows, rowsRaw } = await getRows(docs);
+  const { rows, rowsRaw } = await getRows(doc);
 
-  const result = rows.reduce((acc, row, index) => ({ rows: [...acc.rows, row], rowsRaw: [...acc.rowsRaw, rowsRaw[index]] }), { rows: [], rowsRaw: [] });
+  const result = rows.reduce((acc, row, index) => row.shouldSave === 'TRUE' ? ({ rows: [...acc.rows, row], rowsRaw: [...acc.rowsRaw, rowsRaw[index]] }) : acc, { rows: [], rowsRaw: [] });
+
+  return result;
+}
+
+const saveRows = async (doc, rowsRaw = []) => {
+  const saveSheetId = 183508155;
+  const saveSheet = doc.sheetsById[saveSheetId];
+  const saveRowsCount = await getRowCount(doc, saveSheetId);
+
+  await saveSheet.addRows(rowsRaw);
+
+  console.log(saveRowsCount);
+}
+
+const clearDaySheet = async (doc) => {
+  const daySheet = doc.sheetsById[0];
+
+  await daySheet.clearRows();
 }
 
 const getVinylRows = async (doc, offset = 0, limit = 0) => {
@@ -116,7 +134,10 @@ module.exports = {
   getDoc,
   getRowCount,
   getRows,
+  getRowsToSave,
   getVinylRows,
   getAlbumsNotInDb,
   replicateDB,
+  saveRows,
+  clearDaySheet,
 };
