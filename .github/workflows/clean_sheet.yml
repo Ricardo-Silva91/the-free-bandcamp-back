@@ -1,0 +1,30 @@
+name: Clean Google Sheets
+run-name: ${{ github.actor }} asked for a clean 🚀
+on:
+  workflow_dispatch:
+    # inputs:
+      # tags:
+      #   description: 'Test scenario tags'
+      #   required: false
+      #   type: boolean
+      # albumList:
+      #   description: 'AlbumList'
+      #   required: true
+      #   type: array
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: install
+        run: npm i
+
+      - name: Clean Database
+        run: npm run clean-database
+        env:
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}

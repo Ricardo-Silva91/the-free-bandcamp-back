@@ -20,7 +20,8 @@
     "replicate-db": "node ./src/replicateDB.js",
     "daemon": "node ./src/daemon.js",
     "playwright": "node ./src/playwright.js",
-    "sendToDatabase": "node ./src/scripts/sendToDatabase.js"
+    "sendToDatabase": "node ./src/scripts/sendToDatabase.js",
+    "clean-database": "node ./src/scripts/cleanDatabase.js"
   },
   "repository": {
     "type": "git",
