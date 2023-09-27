@@ -1,0 +1,26 @@
+name: Scrape Bandcamp Albums
+run-name: ${{ github.actor }} asked for a bandcamp album to be saved 🚀
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Url for album to save'
+        required: true
+        type: string
+jobs:
+  Save-Album:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: install
+        run: npm i
+
+      - name: save Album
+        run: npm run saveAlbum ${{ inputs.url }}
+        env:
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
