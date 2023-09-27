@@ -1,4 +1,4 @@
-name: Scrape Bandcamp Albums
+name: Save Bandcamp Album
 run-name: ${{ github.actor }} asked for a bandcamp album to be saved 🚀
 on:
   workflow_dispatch:
