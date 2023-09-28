@@ -10,6 +10,8 @@ const saveAlbum = async (url) => {
 
   const albumRow = rowsRaw.find((row) => row.link === url);
 
+  console.log({ albumRow });
+
   if (albumRow) {
     albumRow.shouldSave = 'TRUE';
     await albumRow.save();
