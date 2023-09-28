@@ -5,7 +5,8 @@ const { getDetailsForAllAlbums } = require('../utils/browser.utils');
 
 const saveAlbum = async (url) => {
   const doc = await getDoc();
-  const { rows, rowsRaw } = await getRows(doc);
+  const rowCount = await getRowCount(doc);
+  const { rows, rowsRaw } = await getRows(doc, 0, rowCount);
 
   const albumRow = rowsRaw.find((row) => row.link === url);
 
