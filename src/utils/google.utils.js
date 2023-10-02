@@ -53,7 +53,8 @@ const getRows = async (doc, offset = 0, limit = 1000, options = { sheetId: 0 }) 
 };
 
 const getRowsToSave = async (doc) => {
-  const { rows, rowsRaw } = await getRows(doc);
+  const rowCount = await getRowCount(doc);
+  const { rows, rowsRaw } = await getRows(doc, 0, rowCount);
 
   const result = rows.reduce((acc, row, index) => row.shouldSave === 'TRUE' ? ({ rows: [...acc.rows, row], rowsRaw: [...acc.rowsRaw, rowsRaw[index]] }) : acc, { rows: [], rowsRaw: [] });
 
